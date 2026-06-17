@@ -1,0 +1,2 @@
+date,days_out,n_polls,gcb_naive_margin,gcb_quality_margin,gcb_correction,approve,disapprove,net_approval,approval_pred_margin,econ_pred_margin,fundamentals_blend,time_weight,gcb_margin
+2026-03-01,247,367,4.29,4.36,0.07,41.05,55.91,-14.85,5.79,0.37,2.69,0.429,3.41

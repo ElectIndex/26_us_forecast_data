@@ -109,10 +109,22 @@ filings: `race_code`, `party`, `name`, `fec_id`.
 
 ## Output
 
-Generated forecast output lives in [`output/`](output/):
+Generated forecast output lives in [`output/`](output/). Each run updates the
+per-race timelines and the latest-run aggregates, and archives a dated snapshot
+under `output/historical/`.
 
-- `output/races/<RACE_CODE>.csv` — one CSV per race: topline, demographic
-  breakdown, county section, and (for RCV races) round-by-round elimination.
+### Per-race timelines
+
+- `output/races/<RACE_CODE>.csv` — **one row per run date**, tracking the race's
+  evolution over time: `margin`, `dem_prob`/`rep_prob`, `rating`, `lean`, `gcb`,
+  `fundamentals`, `pres_2024`, `swing_24_26`, vote shares, RCV / three-way /
+  same-party flags, independent + third-party fields, localized Trump approval
+  (`environment`, `trump_approve`, `trump_net`), and the Dem two-party share for
+  every demographic group (`dem_vap_white`, `dem_age_20_29`, `dem_educ_bachelor`,
+  `dem_inc_200k_plus`, …).
+
+### Latest-run aggregates (overwritten each run)
+
 - `output/races_summary.csv` — one row per race.
 - `output/chambers.csv` — per-chamber simulated seat distribution and control
   probabilities.
@@ -120,10 +132,19 @@ Generated forecast output lives in [`output/`](output/):
   approval, fundamentals.
 - `output/area_indicators.csv` — per House district and state: lean, GCB,
   environment, and localized Trump approval.
-- `output/county_projections.csv` — county-level D/R/IND/OTH vote projection.
-- `output/county_approval.csv` — Trump approval per county.
+- `output/county_projections.csv` — county-level D/R/IND/OTH vote projection
+  (latest run only).
+- `output/county_approval.csv` — Trump approval per county (latest run only).
 - `output/rcv_rounds.csv` — round-by-round elimination for the six RCV races.
-- `output/timeline.csv` — daily backtest of national + chamber numbers.
+
+### Timelines & history
+
+- `output/timeline.csv` — daily national + chamber numbers across the cycle.
+- `output/historical/<YYYY-MM-DD>/` — per-date archive of that run's run-level
+  aggregates: `races_summary.csv`, `chambers.csv`, `national_indicators.csv`,
+  `area_indicators.csv`, `rcv_rounds.csv`. County-level files are not archived
+  per date; per-race history lives in the `races/` timelines.
 
 Produced by the ElectIndex 2026 U.S. forecast pipeline. Inputs are curated from
-public sources; output is regenerated each run.
+public sources; the per-race timelines and `historical/` snapshots accumulate
+over time, while the top-level aggregates reflect the most recent run.
