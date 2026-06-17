@@ -1,0 +1,1013 @@
+cand_id,name,first,last,party,state,incumbent,fec_id,strength
+C-0001,Mary Peltola,Mary,Peltola,DEM,AK,0,,10.77
+C-0002,Dan Sullivan,Dan,Sullivan,REP,AK,1,,-2.1
+C-0003,Dakarai Larriett,Dakarai,Larriett,DEM,AL,0,,0.0
+C-0004,Barry Moore,Barry,Moore,REP,AL,0,,1.39
+C-0005,Hallie Shoffner,Hallie,Shoffner,DEM,AR,0,,0.0
+C-0006,Tom Cotton,Tom,Cotton,REP,AR,1,,0.0
+C-0007,John Hickenlooper,John,Hickenlooper,DEM,CO,1,,2.83
+C-0008,Mark Baisley,Mark,Baisley,REP,CO,0,,0.0
+C-0009,Chris Coons,Chris,Coons,DEM,DE,1,,0.0
+C-0010,Michael Katz,Michael,Katz,REP,DE,0,,0.0
+C-0011,Alexander Vindman,Alexander,Vindman,DEM,FL,0,,0.0
+C-0012,Ashley Moody,Ashley,Moody,REP,FL,1,,0.0
+C-0013,Jon Ossoff,Jon,Ossoff,DEM,GA,1,,7.59
+C-0014,Mike Collins,Mike,Collins,REP,GA,0,,0.0
+C-0015,Josh Turek,Josh,Turek,DEM,IA,0,,0.0
+C-0016,Ashley Hinson,Ashley,Hinson,REP,IA,0,,-1.4
+C-0017,David Roth,David,Roth,DEM,ID,0,,-1.96
+C-0018,Jim Risch,Jim,Risch,REP,ID,1,,0.0
+C-0019,Juliana Stratton,Juliana,Stratton,DEM,IL,0,,0.0
+C-0020,Don Tracy,Don,Tracy,REP,IL,0,,0.0
+C-0021,Kansas Democrat,Kansas,Democrat,DEM,KS,0,,0.0
+C-0022,Roger Marshall,Roger,Marshall,REP,KS,1,,0.87
+C-0023,Charles Booker,Charles,Booker,DEM,KY,0,,0.0
+C-0024,Andy Barr,Andy,Barr,REP,KY,0,,-7.29
+C-0025,Gary Crockett,Gary,Crockett,DEM,LA,0,,0.0
+C-0026,Julia Letlow,Julia,Letlow,REP,LA,0,,-10.65
+C-0027,Ed Markey,Ed,Markey,DEM,MA,1,,0.0
+C-0028,John Deaton,John,Deaton,REP,MA,0,,0.0
+C-0029,Graham Platner,Graham,Platner,DEM,ME,0,,0.0
+C-0030,Susan Collins,Susan,Collins,REP,ME,1,,-17.83
+C-0031,Abdul El-Sayed,Abdul,El-Sayed,DEM,MI,0,,0.0
+C-0032,Mike Rogers,Mike,Rogers,REP,MI,0,,0.66
+C-0033,Angie Craig,Angie,Craig,DEM,MN,0,,0.0
+C-0034,Minnesota Republican,Minnesota,Republican,REP,MN,0,,0.0
+C-0035,Scott Colom,Scott,Colom,DEM,MS,0,,0.0
+C-0036,Cindy Hyde-Smith,Cindy,Hyde-Smith,REP,MS,1,,6.43
+C-0037,Alani Bankhead,Alani,Bankhead,DEM,MT,0,,0.0
+C-0038,Kurt Alme,Kurt,Alme,REP,MT,0,,0.0
+C-0039,Seth Bodnar,Seth,Bodnar,IND,MT,0,,0.0
+C-0040,Roy Cooper,Roy,Cooper,DEM,NC,0,,2.85
+C-0041,Michael Whatley,Michael,Whatley,REP,NC,0,,0.0
+C-0042,Cindy Burbank,Cindy,Burbank,DEM,NE,0,,0.0
+C-0043,Pete Ricketts,Pete,Ricketts,REP,NE,1,,0.07
+C-0044,Dan Osborn,Dan,Osborn,IND,NE,0,,15.38
+C-0045,Chris Pappas,Chris,Pappas,DEM,NH,0,,6.3
+C-0046,Scott Brown,Scott,Brown,REP,NH,0,,0.0
+C-0047,Cory Booker,Cory,Booker,DEM,NJ,1,,0.32
+C-0048,Justin Murphy,Justin,Murphy,REP,NJ,0,,0.0
+C-0049,Ben Ray Lujan,Ben,Ray Lujan,DEM,NM,1,,0.0
+C-0050,Larry Marker,Larry,Marker,REP,NM,0,,0.0
+C-0051,Sherrod Brown,Sherrod,Brown,DEM,OH,0,,4.59
+C-0052,Jon Husted,Jon,Husted,REP,OH,1,,0.0
+C-0053,Oklahoma Democrat,Oklahoma,Democrat,DEM,OK,0,,0.0
+C-0054,Markwayne Mullin,Markwayne,Mullin,REP,OK,1,,10.71
+C-0055,Jeff Merkley,Jeff,Merkley,DEM,OR,1,,0.0
+C-0056,David Brock Smith,David,Brock Smith,REP,OR,0,,0.0
+C-0057,Jack Reed,Jack,Reed,DEM,RI,1,,0.0
+C-0058,Raymond McKay,Raymond,McKay,REP,RI,0,,0.0
+C-0059,Annie Andrews,Annie,Andrews,DEM,SC,0,,4.88
+C-0060,Lindsey Graham,Lindsey,Graham,REP,SC,1,,1.57
+C-0061,Julian Beaudion,Julian,Beaudion,DEM,SD,0,,0.0
+C-0062,Mike Rounds,Mike,Rounds,REP,SD,1,,-4.09
+C-0063,Marquita Bradshaw,Marquita,Bradshaw,DEM,TN,0,,0.0
+C-0064,Bill Hagerty,Bill,Hagerty,REP,TN,1,,-6.88
+C-0065,James Talarico,James,Talarico,DEM,TX,0,,0.0
+C-0066,Ken Paxton,Ken,Paxton,REP,TX,0,,3.07
+C-0067,Mark Warner,Mark,Warner,DEM,VA,1,,2.22
+C-0068,Virginia Republican,Virginia,Republican,REP,VA,0,,0.0
+C-0069,Rachel Anderson,Rachel,Anderson,DEM,WV,0,,0.0
+C-0070,Shelley Moore Capito,Shelley,Moore Capito,REP,WV,1,,0.0
+C-0071,James Byrd,James,Byrd,DEM,WY,0,,0.0
+C-0072,Harriet Hageman,Harriet,Hageman,REP,WY,0,,0.0
+C-0073,Tom Begich,Tom,Begich,DEM,AK,0,,0.0
+C-0074,Click Bishop,Click,Bishop,REP,AK,0,,0.0
+C-0075,Doug Jones,Doug,Jones,DEM,AL,0,,2.53
+C-0076,Tommy Tuberville,Tommy,Tuberville,REP,AL,0,,2.53
+C-0077,Fredrick Love,Fredrick,Love,DEM,AR,0,,0.0
+C-0078,Sarah Huckabee Sanders,Sarah,Huckabee Sanders,REP,AR,1,,2.31
+C-0079,Katie Hobbs,Katie,Hobbs,DEM,AZ,1,,3.35
+C-0080,Andy Biggs,Andy,Biggs,REP,AZ,0,,3.16
+C-0081,Xavier Becerra,Xavier,Becerra,DEM,CA,0,,0.0
+C-0082,Steve Hilton,Steve,Hilton,REP,CA,0,,0.0
+C-0083,Michael Bennet,Michael,Bennet,DEM,CO,0,,5.35
+C-0084,Barbara Kirkmeyer,Barbara,Kirkmeyer,REP,CO,0,,3.2
+C-0085,Ned Lamont,Ned,Lamont,DEM,CT,1,,-4.04
+C-0086,Ryan Fazio,Ryan,Fazio,REP,CT,0,,0.0
+C-0087,David Jolly,David,Jolly,DEM,FL,0,,0.0
+C-0088,Byron Donalds,Byron,Donalds,REP,FL,0,,-0.7
+C-0089,Keisha Lance Bottoms,Keisha,Lance Bottoms,DEM,GA,0,,0.0
+C-0090,Burt Jones,Burt,Jones,REP,GA,0,,-8.78
+C-0091,Josh Green,Josh,Green,DEM,HI,1,,0.0
+C-0092,Gary Cordery,Gary,Cordery,REP,HI,0,,0.0
+C-0093,Rob Sand,Rob,Sand,DEM,IA,0,,16.29
+C-0094,Zach Lahn,Zach,Lahn,REP,IA,0,,0.0
+C-0095,Terri Pickens,Terri,Pickens,DEM,ID,0,,0.0
+C-0096,Brad Little,Brad,Little,REP,ID,1,,-16.05
+C-0097,JB Pritzker,JB,Pritzker,DEM,IL,1,,0.0
+C-0098,Darren Bailey,Darren,Bailey,REP,IL,0,,-2.53
+C-0099,Ethan Corson,Ethan,Corson,DEM,KS,0,,0.0
+C-0100,Vicki Schmidt,Vicki,Schmidt,REP,KS,0,,-2.77
+C-0101,Maura Healey,Maura,Healey,DEM,MA,1,,-0.81
+C-0102,Mike Minogue,Mike,Minogue,REP,MA,0,,0.0
+C-0103,Wes Moore,Wes,Moore,DEM,MD,1,,3.31
+C-0104,Dan Cox,Dan,Cox,REP,MD,0,,-0.67
+C-0105,Shenna Bellows,Shenna,Bellows,DEM,ME,0,,0.0
+C-0106,Jonathan Bush,Jonathan,Bush,REP,ME,0,,0.0
+C-0107,Jocelyn Benson,Jocelyn,Benson,DEM,MI,0,,18.91
+C-0108,John James,John,James,REP,MI,0,,-3.95
+C-0109,Amy Klobuchar,Amy,Klobuchar,DEM,MN,0,,-0.18
+C-0110,Lisa Demuth,Lisa,Demuth,REP,MN,0,,0.0
+C-0111,Lynne Walz,Lynne,Walz,DEM,NE,0,,0.0
+C-0112,Jim Pillen,Jim,Pillen,REP,NE,1,,-2.37
+C-0113,Cinde Warmington,Cinde,Warmington,DEM,NH,0,,-14.83
+C-0114,Kelly Ayotte,Kelly,Ayotte,REP,NH,1,,-12.36
+C-0115,Deb Haaland,Deb,Haaland,DEM,NM,0,,-9.58
+C-0116,Gregg Hull,Gregg,Hull,REP,NM,0,,0.0
+C-0117,Aaron Ford,Aaron,Ford,DEM,NV,0,,4.75
+C-0118,Joe Lombardo,Joe,Lombardo,REP,NV,1,,-0.98
+C-0119,Kathy Hochul,Kathy,Hochul,DEM,NY,1,,-13.75
+C-0120,Bruce Blakeman,Bruce,Blakeman,REP,NY,0,,0.0
+C-0121,Amy Acton,Amy,Acton,DEM,OH,0,,0.0
+C-0122,Vivek Ramaswamy,Vivek,Ramaswamy,REP,OH,0,,0.0
+C-0123,Cyndi Munson,Cyndi,Munson,DEM,OK,0,,0.0
+C-0124,Gentner Drummond,Gentner,Drummond,REP,OK,0,,-1.05
+C-0125,Tina Kotek,Tina,Kotek,DEM,OR,1,,-9.33
+C-0126,Christine Drazan,Christine,Drazan,REP,OR,0,,-13.1
+C-0127,Josh Shapiro,Josh,Shapiro,DEM,PA,1,,16.86
+C-0128,Stacy Garrity,Stacy,Garrity,REP,PA,0,,-1.94
+C-0129,Dan McKee,Dan,McKee,DEM,RI,1,,0.0
+C-0130,Aaron Guckian,Aaron,Guckian,REP,RI,0,,0.0
+C-0131,Jermaine Johnson,Jermaine,Johnson,DEM,SC,0,,0.0
+C-0132,Pamela Evette,Pamela,Evette,REP,SC,0,,0.11
+C-0133,Dan Ahlers,Dan,Ahlers,DEM,SD,0,,0.0
+C-0134,Larry Rhoden,Larry,Rhoden,REP,SD,1,,1.54
+C-0135,Carnita Atwater,Carnita,Atwater,DEM,TN,0,,0.0
+C-0136,Marsha Blackburn,Marsha,Blackburn,REP,TN,0,,5.6
+C-0137,Gina Hinojosa,Gina,Hinojosa,DEM,TX,0,,0.0
+C-0138,Greg Abbott,Greg,Abbott,REP,TX,1,,-2.5
+C-0139,Amanda Janoo,Amanda,Janoo,DEM,VT,0,,0.0
+C-0140,Phil Scott,Phil,Scott,REP,VT,1,,-91.37
+C-0141,Mandela Barnes,Mandela,Barnes,DEM,WI,0,,8.53
+C-0142,Tom Tiffany,Tom,Tiffany,REP,WI,0,,0.42
+C-0143,Gabriel Green,Gabriel,Green,DEM,WY,0,,0.0
+C-0144,Megan Degenfelder,Megan,Degenfelder,REP,WY,0,,3.76
+C-0145,Nick Begich III,Nick,Begich III,REP,AK,1,,0.0
+C-0146,Democratic candidate (AL-01),Democratic,candidate (AL-01),DEM,AL,0,,0.0
+C-0147,Republican candidate (AL-01),Republican,candidate (AL-01),REP,AL,1,,0.0
+C-0148,Democratic candidate (AL-02),Democratic,candidate (AL-02),DEM,AL,0,,0.0
+C-0149,Republican candidate (AL-02),Republican,candidate (AL-02),REP,AL,1,,0.0
+C-0150,Democratic candidate (AL-03),Democratic,candidate (AL-03),DEM,AL,0,,0.0
+C-0151,Republican candidate (AL-03),Republican,candidate (AL-03),REP,AL,1,,0.0
+C-0152,Democratic candidate (AL-04),Democratic,candidate (AL-04),DEM,AL,0,,0.0
+C-0153,Republican candidate (AL-04),Republican,candidate (AL-04),REP,AL,1,,0.0
+C-0154,Democratic candidate (AL-05),Democratic,candidate (AL-05),DEM,AL,0,,0.0
+C-0155,Republican candidate (AL-05),Republican,candidate (AL-05),REP,AL,1,,0.0
+C-0156,Democratic candidate (AL-06),Democratic,candidate (AL-06),DEM,AL,0,,0.0
+C-0157,Republican candidate (AL-06),Republican,candidate (AL-06),REP,AL,1,,0.0
+C-0158,Democratic candidate (AL-07),Democratic,candidate (AL-07),DEM,AL,1,,0.0
+C-0159,Republican candidate (AL-07),Republican,candidate (AL-07),REP,AL,0,,0.0
+C-0160,Democratic candidate (AR-01),Democratic,candidate (AR-01),DEM,AR,0,,0.0
+C-0161,Republican candidate (AR-01),Republican,candidate (AR-01),REP,AR,1,,0.0
+C-0162,Democratic candidate (AR-02),Democratic,candidate (AR-02),DEM,AR,0,,0.0
+C-0163,Republican candidate (AR-02),Republican,candidate (AR-02),REP,AR,1,,0.0
+C-0164,Democratic candidate (AR-03),Democratic,candidate (AR-03),DEM,AR,0,,0.0
+C-0165,Republican candidate (AR-03),Republican,candidate (AR-03),REP,AR,1,,0.0
+C-0166,Democratic candidate (AR-04),Democratic,candidate (AR-04),DEM,AR,0,,0.0
+C-0167,Republican candidate (AR-04),Republican,candidate (AR-04),REP,AR,1,,0.0
+C-0168,Democratic candidate (AZ-01),Democratic,candidate (AZ-01),DEM,AZ,0,,0.0
+C-0169,Republican candidate (AZ-01),Republican,candidate (AZ-01),REP,AZ,1,,0.0
+C-0170,Democratic candidate (AZ-02),Democratic,candidate (AZ-02),DEM,AZ,0,,0.0
+C-0171,Republican candidate (AZ-02),Republican,candidate (AZ-02),REP,AZ,1,,0.0
+C-0172,Democratic candidate (AZ-03),Democratic,candidate (AZ-03),DEM,AZ,1,,0.0
+C-0173,Republican candidate (AZ-03),Republican,candidate (AZ-03),REP,AZ,0,,0.0
+C-0174,Democratic candidate (AZ-04),Democratic,candidate (AZ-04),DEM,AZ,1,,0.0
+C-0175,Republican candidate (AZ-04),Republican,candidate (AZ-04),REP,AZ,0,,0.0
+C-0176,Democratic candidate (AZ-05),Democratic,candidate (AZ-05),DEM,AZ,0,,0.0
+C-0177,Republican candidate (AZ-05),Republican,candidate (AZ-05),REP,AZ,1,,0.0
+C-0178,Kirsten Engel,Kirsten,Engel,DEM,AZ,0,,2.64
+C-0179,Juan Ciscomani,Juan,Ciscomani,REP,AZ,1,,-0.36
+C-0180,Democratic candidate (AZ-07),Democratic,candidate (AZ-07),DEM,AZ,1,,0.0
+C-0181,Republican candidate (AZ-07),Republican,candidate (AZ-07),REP,AZ,0,,0.0
+C-0182,Democratic candidate (AZ-08),Democratic,candidate (AZ-08),DEM,AZ,0,,0.0
+C-0183,Republican candidate (AZ-08),Republican,candidate (AZ-08),REP,AZ,1,,0.0
+C-0184,Democratic candidate (AZ-09),Democratic,candidate (AZ-09),DEM,AZ,0,,0.0
+C-0185,Republican candidate (AZ-09),Republican,candidate (AZ-09),REP,AZ,1,,0.0
+C-0186,Democratic candidate (CA-01),Democratic,candidate (CA-01),DEM,CA,1,,0.0
+C-0187,Republican candidate (CA-01),Republican,candidate (CA-01),REP,CA,0,,0.0
+C-0188,Democratic candidate (CA-02),Democratic,candidate (CA-02),DEM,CA,1,,0.0
+C-0189,Republican candidate (CA-02),Republican,candidate (CA-02),REP,CA,0,,0.0
+C-0190,Democratic candidate (CA-03),Democratic,candidate (CA-03),DEM,CA,1,,0.0
+C-0191,Republican candidate (CA-03),Republican,candidate (CA-03),REP,CA,0,,0.0
+C-0192,Democratic candidate (CA-04),Democratic,candidate (CA-04),DEM,CA,1,,0.0
+C-0193,Republican candidate (CA-04),Republican,candidate (CA-04),REP,CA,0,,0.0
+C-0194,Democratic candidate (CA-05),Democratic,candidate (CA-05),DEM,CA,0,,0.0
+C-0195,Republican candidate (CA-05),Republican,candidate (CA-05),REP,CA,1,,0.0
+C-0196,Democratic candidate (CA-06),Democratic,candidate (CA-06),DEM,CA,1,,0.0
+C-0197,Republican candidate (CA-06),Republican,candidate (CA-06),REP,CA,0,,0.0
+C-0198,Democratic candidate (CA-07),Democratic,candidate (CA-07),DEM,CA,1,,0.0
+C-0199,Republican candidate (CA-07),Republican,candidate (CA-07),REP,CA,0,,0.0
+C-0200,Democratic candidate (CA-08),Democratic,candidate (CA-08),DEM,CA,1,,0.0
+C-0201,Republican candidate (CA-08),Republican,candidate (CA-08),REP,CA,0,,0.0
+C-0202,Democratic candidate (CA-09),Democratic,candidate (CA-09),DEM,CA,1,,0.0
+C-0203,Republican candidate (CA-09),Republican,candidate (CA-09),REP,CA,0,,0.0
+C-0204,Democratic candidate (CA-10),Democratic,candidate (CA-10),DEM,CA,1,,0.0
+C-0205,Republican candidate (CA-10),Republican,candidate (CA-10),REP,CA,0,,0.0
+C-0206,Democratic candidate (CA-11),Democratic,candidate (CA-11),DEM,CA,1,,0.0
+C-0207,Republican candidate (CA-11),Republican,candidate (CA-11),REP,CA,0,,0.0
+C-0208,Lateefah Simon,Lateefah,Simon,DEM,CA,1,,0.0
+C-0209,(no Republican — top-two),(no,Republican — top-two),REP,CA,0,,0.0
+C-0210,Adam Gray,Adam,Gray,DEM,CA,1,,8.06
+C-0211,John Duarte,John,Duarte,REP,CA,0,,0.0
+C-0212,Democratic candidate (CA-14),Democratic,candidate (CA-14),DEM,CA,1,,0.0
+C-0213,Republican candidate (CA-14),Republican,candidate (CA-14),REP,CA,0,,0.0
+C-0214,Democratic candidate (CA-15),Democratic,candidate (CA-15),DEM,CA,1,,0.0
+C-0215,Republican candidate (CA-15),Republican,candidate (CA-15),REP,CA,0,,0.0
+C-0216,Democratic candidate (CA-16),Democratic,candidate (CA-16),DEM,CA,1,,0.0
+C-0217,Republican candidate (CA-16),Republican,candidate (CA-16),REP,CA,0,,0.0
+C-0218,Democratic candidate (CA-17),Democratic,candidate (CA-17),DEM,CA,1,,0.0
+C-0219,Republican candidate (CA-17),Republican,candidate (CA-17),REP,CA,0,,0.0
+C-0220,Democratic candidate (CA-18),Democratic,candidate (CA-18),DEM,CA,1,,0.0
+C-0221,Republican candidate (CA-18),Republican,candidate (CA-18),REP,CA,0,,0.0
+C-0222,Democratic candidate (CA-19),Democratic,candidate (CA-19),DEM,CA,1,,0.0
+C-0223,Republican candidate (CA-19),Republican,candidate (CA-19),REP,CA,0,,0.0
+C-0224,(no Democrat — top-two),(no,Democrat — top-two),DEM,CA,0,,0.0
+C-0225,Vince Fong,Vince,Fong,REP,CA,1,,0.0
+C-0226,Democratic candidate (CA-21),Democratic,candidate (CA-21),DEM,CA,1,,0.0
+C-0227,Republican candidate (CA-21),Republican,candidate (CA-21),REP,CA,0,,0.0
+C-0228,Rudy Salas,Rudy,Salas,DEM,CA,0,,-1.18
+C-0229,David Valadao,David,Valadao,REP,CA,1,,-5.39
+C-0230,Democratic candidate (CA-23),Democratic,candidate (CA-23),DEM,CA,0,,0.0
+C-0231,Republican candidate (CA-23),Republican,candidate (CA-23),REP,CA,1,,0.0
+C-0232,Democratic candidate (CA-24),Democratic,candidate (CA-24),DEM,CA,1,,0.0
+C-0233,Republican candidate (CA-24),Republican,candidate (CA-24),REP,CA,0,,0.0
+C-0234,Democratic candidate (CA-25),Democratic,candidate (CA-25),DEM,CA,1,,0.0
+C-0235,Republican candidate (CA-25),Republican,candidate (CA-25),REP,CA,0,,0.0
+C-0236,Democratic candidate (CA-26),Democratic,candidate (CA-26),DEM,CA,1,,0.0
+C-0237,Republican candidate (CA-26),Republican,candidate (CA-26),REP,CA,0,,0.0
+C-0238,Democratic candidate (CA-27),Democratic,candidate (CA-27),DEM,CA,0,,0.0
+C-0239,Republican candidate (CA-27),Republican,candidate (CA-27),REP,CA,1,,0.0
+C-0240,Democratic candidate (CA-28),Democratic,candidate (CA-28),DEM,CA,1,,0.0
+C-0241,Republican candidate (CA-28),Republican,candidate (CA-28),REP,CA,0,,0.0
+C-0242,Democratic candidate (CA-29),Democratic,candidate (CA-29),DEM,CA,1,,0.0
+C-0243,Republican candidate (CA-29),Republican,candidate (CA-29),REP,CA,0,,0.0
+C-0244,Democratic candidate (CA-30),Democratic,candidate (CA-30),DEM,CA,1,,0.0
+C-0245,Republican candidate (CA-30),Republican,candidate (CA-30),REP,CA,0,,0.0
+C-0246,Democratic candidate (CA-31),Democratic,candidate (CA-31),DEM,CA,1,,0.0
+C-0247,Republican candidate (CA-31),Republican,candidate (CA-31),REP,CA,0,,0.0
+C-0248,Democratic candidate (CA-32),Democratic,candidate (CA-32),DEM,CA,1,,0.0
+C-0249,Republican candidate (CA-32),Republican,candidate (CA-32),REP,CA,0,,0.0
+C-0250,Democratic candidate (CA-33),Democratic,candidate (CA-33),DEM,CA,1,,0.0
+C-0251,Republican candidate (CA-33),Republican,candidate (CA-33),REP,CA,0,,0.0
+C-0252,Jimmy Gomez,Jimmy,Gomez,DEM,CA,1,,0.0
+C-0253,Democratic candidate (CA-35),Democratic,candidate (CA-35),DEM,CA,1,,0.0
+C-0254,Republican candidate (CA-35),Republican,candidate (CA-35),REP,CA,0,,0.0
+C-0255,Democratic candidate (CA-36),Democratic,candidate (CA-36),DEM,CA,1,,0.0
+C-0256,Republican candidate (CA-36),Republican,candidate (CA-36),REP,CA,0,,0.0
+C-0257,Democratic candidate (CA-37),Democratic,candidate (CA-37),DEM,CA,1,,0.0
+C-0258,Republican candidate (CA-37),Republican,candidate (CA-37),REP,CA,0,,0.0
+C-0259,Democratic candidate (CA-38),Democratic,candidate (CA-38),DEM,CA,1,,0.0
+C-0260,Republican candidate (CA-38),Republican,candidate (CA-38),REP,CA,0,,0.0
+C-0261,Democratic candidate (CA-39),Democratic,candidate (CA-39),DEM,CA,1,,0.0
+C-0262,Republican candidate (CA-39),Republican,candidate (CA-39),REP,CA,0,,0.0
+C-0263,Democratic candidate (CA-40),Democratic,candidate (CA-40),DEM,CA,0,,0.0
+C-0264,Republican candidate (CA-40),Republican,candidate (CA-40),REP,CA,1,,0.0
+C-0265,Democratic candidate (CA-41),Democratic,candidate (CA-41),DEM,CA,0,,0.0
+C-0266,Republican candidate (CA-41),Republican,candidate (CA-41),REP,CA,1,,0.0
+C-0267,Democratic candidate (CA-42),Democratic,candidate (CA-42),DEM,CA,1,,0.0
+C-0268,Republican candidate (CA-42),Republican,candidate (CA-42),REP,CA,0,,0.0
+C-0269,Democratic candidate (CA-43),Democratic,candidate (CA-43),DEM,CA,1,,0.0
+C-0270,Republican candidate (CA-43),Republican,candidate (CA-43),REP,CA,0,,0.0
+C-0271,Democratic candidate (CA-44),Democratic,candidate (CA-44),DEM,CA,1,,0.0
+C-0272,Republican candidate (CA-44),Republican,candidate (CA-44),REP,CA,0,,0.0
+C-0273,Democratic candidate (CA-45),Democratic,candidate (CA-45),DEM,CA,1,,0.0
+C-0274,Republican candidate (CA-45),Republican,candidate (CA-45),REP,CA,0,,0.0
+C-0275,Democratic candidate (CA-46),Democratic,candidate (CA-46),DEM,CA,1,,0.0
+C-0276,Republican candidate (CA-46),Republican,candidate (CA-46),REP,CA,0,,0.0
+C-0277,Democratic candidate (CA-47),Democratic,candidate (CA-47),DEM,CA,1,,0.0
+C-0278,Republican candidate (CA-47),Republican,candidate (CA-47),REP,CA,0,,0.0
+C-0279,Democratic candidate (CA-48),Democratic,candidate (CA-48),DEM,CA,1,,0.0
+C-0280,Republican candidate (CA-48),Republican,candidate (CA-48),REP,CA,0,,0.0
+C-0281,Democratic candidate (CA-49),Democratic,candidate (CA-49),DEM,CA,1,,0.0
+C-0282,Republican candidate (CA-49),Republican,candidate (CA-49),REP,CA,0,,0.0
+C-0283,Democratic candidate (CA-50),Democratic,candidate (CA-50),DEM,CA,1,,0.0
+C-0284,Republican candidate (CA-50),Republican,candidate (CA-50),REP,CA,0,,0.0
+C-0285,Democratic candidate (CA-51),Democratic,candidate (CA-51),DEM,CA,1,,0.0
+C-0286,Republican candidate (CA-51),Republican,candidate (CA-51),REP,CA,0,,0.0
+C-0287,Democratic candidate (CA-52),Democratic,candidate (CA-52),DEM,CA,1,,0.0
+C-0288,Republican candidate (CA-52),Republican,candidate (CA-52),REP,CA,0,,0.0
+C-0289,Democratic candidate (CO-01),Democratic,candidate (CO-01),DEM,CO,1,,0.0
+C-0290,Republican candidate (CO-01),Republican,candidate (CO-01),REP,CO,0,,0.0
+C-0291,Democratic candidate (CO-02),Democratic,candidate (CO-02),DEM,CO,1,,0.0
+C-0292,Republican candidate (CO-02),Republican,candidate (CO-02),REP,CO,0,,0.0
+C-0293,Democratic candidate (CO-03),Democratic,candidate (CO-03),DEM,CO,0,,0.0
+C-0294,Republican candidate (CO-03),Republican,candidate (CO-03),REP,CO,1,,0.0
+C-0295,Democratic candidate (CO-04),Democratic,candidate (CO-04),DEM,CO,0,,0.0
+C-0296,Republican candidate (CO-04),Republican,candidate (CO-04),REP,CO,1,,0.0
+C-0297,Democratic candidate (CO-05),Democratic,candidate (CO-05),DEM,CO,0,,0.0
+C-0298,Republican candidate (CO-05),Republican,candidate (CO-05),REP,CO,1,,0.0
+C-0299,Democratic candidate (CO-06),Democratic,candidate (CO-06),DEM,CO,1,,0.0
+C-0300,Republican candidate (CO-06),Republican,candidate (CO-06),REP,CO,0,,0.0
+C-0301,Democratic candidate (CO-07),Democratic,candidate (CO-07),DEM,CO,1,,0.0
+C-0302,Republican candidate (CO-07),Republican,candidate (CO-07),REP,CO,0,,0.0
+C-0303,Yadira Caraveo,Yadira,Caraveo,DEM,CO,0,,0.0
+C-0304,Gabe Evans,Gabe,Evans,REP,CO,1,,0.0
+C-0305,Democratic candidate (CT-01),Democratic,candidate (CT-01),DEM,CT,1,,0.0
+C-0306,Republican candidate (CT-01),Republican,candidate (CT-01),REP,CT,0,,0.0
+C-0307,Democratic candidate (CT-02),Democratic,candidate (CT-02),DEM,CT,1,,0.0
+C-0308,Republican candidate (CT-02),Republican,candidate (CT-02),REP,CT,0,,0.0
+C-0309,Democratic candidate (CT-03),Democratic,candidate (CT-03),DEM,CT,1,,0.0
+C-0310,Republican candidate (CT-03),Republican,candidate (CT-03),REP,CT,0,,0.0
+C-0311,Democratic candidate (CT-04),Democratic,candidate (CT-04),DEM,CT,1,,0.0
+C-0312,Republican candidate (CT-04),Republican,candidate (CT-04),REP,CT,0,,0.0
+C-0313,Democratic candidate (CT-05),Democratic,candidate (CT-05),DEM,CT,1,,0.0
+C-0314,Republican candidate (CT-05),Republican,candidate (CT-05),REP,CT,0,,0.0
+C-0315,Democratic candidate (DE-01),Democratic,candidate (DE-01),DEM,DE,1,,0.0
+C-0316,Republican candidate (DE-01),Republican,candidate (DE-01),REP,DE,0,,0.0
+C-0317,Democratic candidate (FL-01),Democratic,candidate (FL-01),DEM,FL,0,,0.0
+C-0318,Republican candidate (FL-01),Republican,candidate (FL-01),REP,FL,1,,0.0
+C-0319,Democratic candidate (FL-02),Democratic,candidate (FL-02),DEM,FL,0,,0.0
+C-0320,Republican candidate (FL-02),Republican,candidate (FL-02),REP,FL,1,,0.0
+C-0321,Democratic candidate (FL-03),Democratic,candidate (FL-03),DEM,FL,0,,0.0
+C-0322,Republican candidate (FL-03),Republican,candidate (FL-03),REP,FL,1,,0.0
+C-0323,Democratic candidate (FL-04),Democratic,candidate (FL-04),DEM,FL,0,,0.0
+C-0324,Republican candidate (FL-04),Republican,candidate (FL-04),REP,FL,1,,0.0
+C-0325,Democratic candidate (FL-05),Democratic,candidate (FL-05),DEM,FL,0,,0.0
+C-0326,Republican candidate (FL-05),Republican,candidate (FL-05),REP,FL,1,,0.0
+C-0327,Democratic candidate (FL-06),Democratic,candidate (FL-06),DEM,FL,0,,0.0
+C-0328,Republican candidate (FL-06),Republican,candidate (FL-06),REP,FL,1,,0.0
+C-0329,Democratic candidate (FL-07),Democratic,candidate (FL-07),DEM,FL,0,,0.0
+C-0330,Republican candidate (FL-07),Republican,candidate (FL-07),REP,FL,1,,0.0
+C-0331,Democratic candidate (FL-08),Democratic,candidate (FL-08),DEM,FL,0,,0.0
+C-0332,Republican candidate (FL-08),Republican,candidate (FL-08),REP,FL,1,,0.0
+C-0333,Democratic candidate (FL-09),Democratic,candidate (FL-09),DEM,FL,0,,0.0
+C-0334,Republican candidate (FL-09),Republican,candidate (FL-09),REP,FL,1,,0.0
+C-0335,Democratic candidate (FL-10),Democratic,candidate (FL-10),DEM,FL,1,,0.0
+C-0336,Republican candidate (FL-10),Republican,candidate (FL-10),REP,FL,0,,0.0
+C-0337,Democratic candidate (FL-11),Democratic,candidate (FL-11),DEM,FL,0,,0.0
+C-0338,Republican candidate (FL-11),Republican,candidate (FL-11),REP,FL,1,,0.0
+C-0339,Democratic candidate (FL-12),Democratic,candidate (FL-12),DEM,FL,0,,0.0
+C-0340,Republican candidate (FL-12),Republican,candidate (FL-12),REP,FL,1,,0.0
+C-0341,Democratic candidate (FL-13),Democratic,candidate (FL-13),DEM,FL,0,,0.0
+C-0342,Republican candidate (FL-13),Republican,candidate (FL-13),REP,FL,1,,0.0
+C-0343,Democratic candidate (FL-14),Democratic,candidate (FL-14),DEM,FL,0,,0.0
+C-0344,Republican candidate (FL-14),Republican,candidate (FL-14),REP,FL,1,,0.0
+C-0345,Democratic candidate (FL-15),Democratic,candidate (FL-15),DEM,FL,0,,0.0
+C-0346,Republican candidate (FL-15),Republican,candidate (FL-15),REP,FL,1,,0.0
+C-0347,Democratic candidate (FL-16),Democratic,candidate (FL-16),DEM,FL,0,,0.0
+C-0348,Republican candidate (FL-16),Republican,candidate (FL-16),REP,FL,1,,0.0
+C-0349,Democratic candidate (FL-17),Democratic,candidate (FL-17),DEM,FL,0,,0.0
+C-0350,Republican candidate (FL-17),Republican,candidate (FL-17),REP,FL,1,,0.0
+C-0351,Democratic candidate (FL-18),Democratic,candidate (FL-18),DEM,FL,0,,0.0
+C-0352,Republican candidate (FL-18),Republican,candidate (FL-18),REP,FL,1,,0.0
+C-0353,Democratic candidate (FL-19),Democratic,candidate (FL-19),DEM,FL,0,,0.0
+C-0354,Republican candidate (FL-19),Republican,candidate (FL-19),REP,FL,1,,0.0
+C-0355,Democratic candidate (FL-20),Democratic,candidate (FL-20),DEM,FL,1,,0.0
+C-0356,Republican candidate (FL-20),Republican,candidate (FL-20),REP,FL,0,,0.0
+C-0357,Democratic candidate (FL-21),Democratic,candidate (FL-21),DEM,FL,0,,0.0
+C-0358,Republican candidate (FL-21),Republican,candidate (FL-21),REP,FL,1,,0.0
+C-0359,Democratic candidate (FL-22),Democratic,candidate (FL-22),DEM,FL,0,,0.0
+C-0360,Republican candidate (FL-22),Republican,candidate (FL-22),REP,FL,1,,0.0
+C-0361,Democratic candidate (FL-23),Democratic,candidate (FL-23),DEM,FL,1,,0.0
+C-0362,Republican candidate (FL-23),Republican,candidate (FL-23),REP,FL,0,,0.0
+C-0363,Democratic candidate (FL-24),Democratic,candidate (FL-24),DEM,FL,1,,0.0
+C-0364,Republican candidate (FL-24),Republican,candidate (FL-24),REP,FL,0,,0.0
+C-0365,Democratic candidate (FL-25),Democratic,candidate (FL-25),DEM,FL,0,,0.0
+C-0366,Republican candidate (FL-25),Republican,candidate (FL-25),REP,FL,1,,0.0
+C-0367,Democratic candidate (FL-26),Democratic,candidate (FL-26),DEM,FL,0,,0.0
+C-0368,Republican candidate (FL-26),Republican,candidate (FL-26),REP,FL,1,,0.0
+C-0369,Democratic candidate (FL-27),Democratic,candidate (FL-27),DEM,FL,0,,0.0
+C-0370,Republican candidate (FL-27),Republican,candidate (FL-27),REP,FL,1,,0.0
+C-0371,Democratic candidate (FL-28),Democratic,candidate (FL-28),DEM,FL,0,,0.0
+C-0372,Republican candidate (FL-28),Republican,candidate (FL-28),REP,FL,1,,0.0
+C-0373,Democratic candidate (GA-01),Democratic,candidate (GA-01),DEM,GA,0,,0.0
+C-0374,Republican candidate (GA-01),Republican,candidate (GA-01),REP,GA,1,,0.0
+C-0375,Democratic candidate (GA-02),Democratic,candidate (GA-02),DEM,GA,1,,0.0
+C-0376,Republican candidate (GA-02),Republican,candidate (GA-02),REP,GA,0,,0.0
+C-0377,Democratic candidate (GA-03),Democratic,candidate (GA-03),DEM,GA,0,,0.0
+C-0378,Republican candidate (GA-03),Republican,candidate (GA-03),REP,GA,1,,0.0
+C-0379,Democratic candidate (GA-04),Democratic,candidate (GA-04),DEM,GA,1,,0.0
+C-0380,Republican candidate (GA-04),Republican,candidate (GA-04),REP,GA,0,,0.0
+C-0381,Democratic candidate (GA-05),Democratic,candidate (GA-05),DEM,GA,1,,0.0
+C-0382,Republican candidate (GA-05),Republican,candidate (GA-05),REP,GA,0,,0.0
+C-0383,Democratic candidate (GA-06),Democratic,candidate (GA-06),DEM,GA,1,,0.0
+C-0384,Republican candidate (GA-06),Republican,candidate (GA-06),REP,GA,0,,0.0
+C-0385,Democratic candidate (GA-07),Democratic,candidate (GA-07),DEM,GA,0,,0.0
+C-0386,Republican candidate (GA-07),Republican,candidate (GA-07),REP,GA,1,,0.0
+C-0387,Democratic candidate (GA-08),Democratic,candidate (GA-08),DEM,GA,0,,0.0
+C-0388,Republican candidate (GA-08),Republican,candidate (GA-08),REP,GA,1,,0.0
+C-0389,Democratic candidate (GA-09),Democratic,candidate (GA-09),DEM,GA,0,,0.0
+C-0390,Republican candidate (GA-09),Republican,candidate (GA-09),REP,GA,1,,0.0
+C-0391,Democratic candidate (GA-10),Democratic,candidate (GA-10),DEM,GA,0,,0.0
+C-0392,Republican candidate (GA-10),Republican,candidate (GA-10),REP,GA,1,,0.0
+C-0393,Democratic candidate (GA-11),Democratic,candidate (GA-11),DEM,GA,0,,0.0
+C-0394,Republican candidate (GA-11),Republican,candidate (GA-11),REP,GA,1,,0.0
+C-0395,Democratic candidate (GA-12),Democratic,candidate (GA-12),DEM,GA,0,,0.0
+C-0396,Republican candidate (GA-12),Republican,candidate (GA-12),REP,GA,1,,0.0
+C-0397,Democratic candidate (GA-13),Democratic,candidate (GA-13),DEM,GA,1,,0.0
+C-0398,Republican candidate (GA-13),Republican,candidate (GA-13),REP,GA,0,,0.0
+C-0399,Democratic candidate (GA-14),Democratic,candidate (GA-14),DEM,GA,0,,0.0
+C-0400,Republican candidate (GA-14),Republican,candidate (GA-14),REP,GA,1,,0.0
+C-0401,Democratic candidate (HI-01),Democratic,candidate (HI-01),DEM,HI,1,,0.0
+C-0402,Republican candidate (HI-01),Republican,candidate (HI-01),REP,HI,0,,0.0
+C-0403,Democratic candidate (HI-02),Democratic,candidate (HI-02),DEM,HI,1,,0.0
+C-0404,Republican candidate (HI-02),Republican,candidate (HI-02),REP,HI,0,,0.0
+C-0405,Christina Bohannan,Christina,Bohannan,DEM,IA,0,,10.72
+C-0406,Mariannette Miller-Meeks,Mariannette,Miller-Meeks,REP,IA,1,,6.93
+C-0407,Democratic candidate (IA-02),Democratic,candidate (IA-02),DEM,IA,0,,0.0
+C-0408,Republican candidate (IA-02),Republican,candidate (IA-02),REP,IA,1,,0.0
+C-0409,Democratic candidate (IA-03),Democratic,candidate (IA-03),DEM,IA,0,,0.0
+C-0410,Republican candidate (IA-03),Republican,candidate (IA-03),REP,IA,1,,0.0
+C-0411,Democratic candidate (IA-04),Democratic,candidate (IA-04),DEM,IA,0,,0.0
+C-0412,Republican candidate (IA-04),Republican,candidate (IA-04),REP,IA,1,,0.0
+C-0413,Democratic candidate (ID-01),Democratic,candidate (ID-01),DEM,ID,0,,0.0
+C-0414,Republican candidate (ID-01),Republican,candidate (ID-01),REP,ID,1,,0.0
+C-0415,Democratic candidate (ID-02),Democratic,candidate (ID-02),DEM,ID,0,,0.0
+C-0416,Republican candidate (ID-02),Republican,candidate (ID-02),REP,ID,1,,0.0
+C-0417,Democratic candidate (IL-01),Democratic,candidate (IL-01),DEM,IL,1,,0.0
+C-0418,Republican candidate (IL-01),Republican,candidate (IL-01),REP,IL,0,,0.0
+C-0419,Democratic candidate (IL-02),Democratic,candidate (IL-02),DEM,IL,1,,0.0
+C-0420,Republican candidate (IL-02),Republican,candidate (IL-02),REP,IL,0,,0.0
+C-0421,Democratic candidate (IL-03),Democratic,candidate (IL-03),DEM,IL,1,,0.0
+C-0422,Republican candidate (IL-03),Republican,candidate (IL-03),REP,IL,0,,0.0
+C-0423,Democratic candidate (IL-04),Democratic,candidate (IL-04),DEM,IL,1,,0.0
+C-0424,Republican candidate (IL-04),Republican,candidate (IL-04),REP,IL,0,,0.0
+C-0425,Democratic candidate (IL-05),Democratic,candidate (IL-05),DEM,IL,1,,0.0
+C-0426,Republican candidate (IL-05),Republican,candidate (IL-05),REP,IL,0,,0.0
+C-0427,Democratic candidate (IL-06),Democratic,candidate (IL-06),DEM,IL,1,,0.0
+C-0428,Republican candidate (IL-06),Republican,candidate (IL-06),REP,IL,0,,0.0
+C-0429,Democratic candidate (IL-07),Democratic,candidate (IL-07),DEM,IL,1,,0.0
+C-0430,Republican candidate (IL-07),Republican,candidate (IL-07),REP,IL,0,,0.0
+C-0431,Democratic candidate (IL-08),Democratic,candidate (IL-08),DEM,IL,1,,0.0
+C-0432,Republican candidate (IL-08),Republican,candidate (IL-08),REP,IL,0,,0.0
+C-0433,Democratic candidate (IL-09),Democratic,candidate (IL-09),DEM,IL,1,,0.0
+C-0434,Republican candidate (IL-09),Republican,candidate (IL-09),REP,IL,0,,0.0
+C-0435,Democratic candidate (IL-10),Democratic,candidate (IL-10),DEM,IL,1,,0.0
+C-0436,Republican candidate (IL-10),Republican,candidate (IL-10),REP,IL,0,,0.0
+C-0437,Democratic candidate (IL-11),Democratic,candidate (IL-11),DEM,IL,1,,0.0
+C-0438,Republican candidate (IL-11),Republican,candidate (IL-11),REP,IL,0,,0.0
+C-0439,Democratic candidate (IL-12),Democratic,candidate (IL-12),DEM,IL,0,,0.0
+C-0440,Republican candidate (IL-12),Republican,candidate (IL-12),REP,IL,1,,0.0
+C-0441,Democratic candidate (IL-13),Democratic,candidate (IL-13),DEM,IL,1,,0.0
+C-0442,Republican candidate (IL-13),Republican,candidate (IL-13),REP,IL,0,,0.0
+C-0443,Democratic candidate (IL-14),Democratic,candidate (IL-14),DEM,IL,1,,0.0
+C-0444,Republican candidate (IL-14),Republican,candidate (IL-14),REP,IL,0,,0.0
+C-0445,Democratic candidate (IL-15),Democratic,candidate (IL-15),DEM,IL,0,,0.0
+C-0446,Republican candidate (IL-15),Republican,candidate (IL-15),REP,IL,1,,0.0
+C-0447,Democratic candidate (IL-16),Democratic,candidate (IL-16),DEM,IL,0,,0.0
+C-0448,Republican candidate (IL-16),Republican,candidate (IL-16),REP,IL,1,,0.0
+C-0449,Democratic candidate (IL-17),Democratic,candidate (IL-17),DEM,IL,1,,0.0
+C-0450,Republican candidate (IL-17),Republican,candidate (IL-17),REP,IL,0,,0.0
+C-0451,Democratic candidate (IN-01),Democratic,candidate (IN-01),DEM,IN,1,,0.0
+C-0452,Republican candidate (IN-01),Republican,candidate (IN-01),REP,IN,0,,0.0
+C-0453,Democratic candidate (IN-02),Democratic,candidate (IN-02),DEM,IN,0,,0.0
+C-0454,Republican candidate (IN-02),Republican,candidate (IN-02),REP,IN,1,,0.0
+C-0455,Democratic candidate (IN-03),Democratic,candidate (IN-03),DEM,IN,0,,0.0
+C-0456,Republican candidate (IN-03),Republican,candidate (IN-03),REP,IN,1,,0.0
+C-0457,Democratic candidate (IN-04),Democratic,candidate (IN-04),DEM,IN,0,,0.0
+C-0458,Republican candidate (IN-04),Republican,candidate (IN-04),REP,IN,1,,0.0
+C-0459,Democratic candidate (IN-05),Democratic,candidate (IN-05),DEM,IN,0,,0.0
+C-0460,Republican candidate (IN-05),Republican,candidate (IN-05),REP,IN,1,,0.0
+C-0461,Democratic candidate (IN-06),Democratic,candidate (IN-06),DEM,IN,0,,0.0
+C-0462,Republican candidate (IN-06),Republican,candidate (IN-06),REP,IN,1,,0.0
+C-0463,Democratic candidate (IN-07),Democratic,candidate (IN-07),DEM,IN,1,,0.0
+C-0464,Republican candidate (IN-07),Republican,candidate (IN-07),REP,IN,0,,0.0
+C-0465,Democratic candidate (IN-08),Democratic,candidate (IN-08),DEM,IN,0,,0.0
+C-0466,Republican candidate (IN-08),Republican,candidate (IN-08),REP,IN,1,,0.0
+C-0467,Democratic candidate (IN-09),Democratic,candidate (IN-09),DEM,IN,0,,0.0
+C-0468,Republican candidate (IN-09),Republican,candidate (IN-09),REP,IN,1,,0.0
+C-0469,Democratic candidate (KS-01),Democratic,candidate (KS-01),DEM,KS,0,,0.0
+C-0470,Republican candidate (KS-01),Republican,candidate (KS-01),REP,KS,1,,0.0
+C-0471,Democratic candidate (KS-02),Democratic,candidate (KS-02),DEM,KS,0,,0.0
+C-0472,Republican candidate (KS-02),Republican,candidate (KS-02),REP,KS,1,,0.0
+C-0473,Democratic candidate (KS-03),Democratic,candidate (KS-03),DEM,KS,1,,0.0
+C-0474,Republican candidate (KS-03),Republican,candidate (KS-03),REP,KS,0,,0.0
+C-0475,Democratic candidate (KS-04),Democratic,candidate (KS-04),DEM,KS,0,,0.0
+C-0476,Republican candidate (KS-04),Republican,candidate (KS-04),REP,KS,1,,0.0
+C-0477,Democratic candidate (KY-01),Democratic,candidate (KY-01),DEM,KY,0,,0.0
+C-0478,Republican candidate (KY-01),Republican,candidate (KY-01),REP,KY,1,,0.0
+C-0479,Democratic candidate (KY-02),Democratic,candidate (KY-02),DEM,KY,0,,0.0
+C-0480,Republican candidate (KY-02),Republican,candidate (KY-02),REP,KY,1,,0.0
+C-0481,Democratic candidate (KY-03),Democratic,candidate (KY-03),DEM,KY,1,,0.0
+C-0482,Republican candidate (KY-03),Republican,candidate (KY-03),REP,KY,0,,0.0
+C-0483,Democratic candidate (KY-04),Democratic,candidate (KY-04),DEM,KY,0,,0.0
+C-0484,Republican candidate (KY-04),Republican,candidate (KY-04),REP,KY,1,,0.0
+C-0485,Democratic candidate (KY-05),Democratic,candidate (KY-05),DEM,KY,0,,0.0
+C-0486,Republican candidate (KY-05),Republican,candidate (KY-05),REP,KY,1,,0.0
+C-0487,Democratic candidate (KY-06),Democratic,candidate (KY-06),DEM,KY,0,,0.0
+C-0488,Republican candidate (KY-06),Republican,candidate (KY-06),REP,KY,1,,0.0
+C-0489,Democratic candidate (LA-01),Democratic,candidate (LA-01),DEM,LA,0,,0.0
+C-0490,Republican candidate (LA-01),Republican,candidate (LA-01),REP,LA,1,,0.0
+C-0491,Democratic candidate (LA-02),Democratic,candidate (LA-02),DEM,LA,1,,0.0
+C-0492,Republican candidate (LA-02),Republican,candidate (LA-02),REP,LA,0,,0.0
+C-0493,Democratic candidate (LA-03),Democratic,candidate (LA-03),DEM,LA,0,,0.0
+C-0494,Republican candidate (LA-03),Republican,candidate (LA-03),REP,LA,1,,0.0
+C-0495,Democratic candidate (LA-04),Democratic,candidate (LA-04),DEM,LA,0,,0.0
+C-0496,Republican candidate (LA-04),Republican,candidate (LA-04),REP,LA,1,,0.0
+C-0497,Democratic candidate (LA-05),Democratic,candidate (LA-05),DEM,LA,0,,0.0
+C-0498,Republican candidate (LA-05),Republican,candidate (LA-05),REP,LA,1,,0.0
+C-0499,Democratic candidate (LA-06),Democratic,candidate (LA-06),DEM,LA,0,,0.0
+C-0500,Republican candidate (LA-06),Republican,candidate (LA-06),REP,LA,1,,0.0
+C-0501,Democratic candidate (MA-01),Democratic,candidate (MA-01),DEM,MA,1,,0.0
+C-0502,Republican candidate (MA-01),Republican,candidate (MA-01),REP,MA,0,,0.0
+C-0503,Democratic candidate (MA-02),Democratic,candidate (MA-02),DEM,MA,1,,0.0
+C-0504,Republican candidate (MA-02),Republican,candidate (MA-02),REP,MA,0,,0.0
+C-0505,Democratic candidate (MA-03),Democratic,candidate (MA-03),DEM,MA,1,,0.0
+C-0506,Republican candidate (MA-03),Republican,candidate (MA-03),REP,MA,0,,0.0
+C-0507,Democratic candidate (MA-04),Democratic,candidate (MA-04),DEM,MA,1,,0.0
+C-0508,Republican candidate (MA-04),Republican,candidate (MA-04),REP,MA,0,,0.0
+C-0509,Democratic candidate (MA-05),Democratic,candidate (MA-05),DEM,MA,1,,0.0
+C-0510,Republican candidate (MA-05),Republican,candidate (MA-05),REP,MA,0,,0.0
+C-0511,Democratic candidate (MA-06),Democratic,candidate (MA-06),DEM,MA,1,,0.0
+C-0512,Republican candidate (MA-06),Republican,candidate (MA-06),REP,MA,0,,0.0
+C-0513,Democratic candidate (MA-07),Democratic,candidate (MA-07),DEM,MA,1,,0.0
+C-0514,Republican candidate (MA-07),Republican,candidate (MA-07),REP,MA,0,,0.0
+C-0515,Democratic candidate (MA-08),Democratic,candidate (MA-08),DEM,MA,1,,0.0
+C-0516,Republican candidate (MA-08),Republican,candidate (MA-08),REP,MA,0,,0.0
+C-0517,Democratic candidate (MA-09),Democratic,candidate (MA-09),DEM,MA,1,,0.0
+C-0518,Republican candidate (MA-09),Republican,candidate (MA-09),REP,MA,0,,0.0
+C-0519,Democratic candidate (MD-01),Democratic,candidate (MD-01),DEM,MD,0,,0.0
+C-0520,Republican candidate (MD-01),Republican,candidate (MD-01),REP,MD,1,,0.0
+C-0521,Democratic candidate (MD-02),Democratic,candidate (MD-02),DEM,MD,1,,0.0
+C-0522,Republican candidate (MD-02),Republican,candidate (MD-02),REP,MD,0,,0.0
+C-0523,Democratic candidate (MD-03),Democratic,candidate (MD-03),DEM,MD,1,,0.0
+C-0524,Republican candidate (MD-03),Republican,candidate (MD-03),REP,MD,0,,0.0
+C-0525,Democratic candidate (MD-04),Democratic,candidate (MD-04),DEM,MD,1,,0.0
+C-0526,Republican candidate (MD-04),Republican,candidate (MD-04),REP,MD,0,,0.0
+C-0527,Democratic candidate (MD-05),Democratic,candidate (MD-05),DEM,MD,1,,0.0
+C-0528,Republican candidate (MD-05),Republican,candidate (MD-05),REP,MD,0,,0.0
+C-0529,Democratic candidate (MD-06),Democratic,candidate (MD-06),DEM,MD,1,,0.0
+C-0530,Republican candidate (MD-06),Republican,candidate (MD-06),REP,MD,0,,0.0
+C-0531,Democratic candidate (MD-07),Democratic,candidate (MD-07),DEM,MD,1,,0.0
+C-0532,Republican candidate (MD-07),Republican,candidate (MD-07),REP,MD,0,,0.0
+C-0533,Democratic candidate (MD-08),Democratic,candidate (MD-08),DEM,MD,1,,0.0
+C-0534,Republican candidate (MD-08),Republican,candidate (MD-08),REP,MD,0,,0.0
+C-0535,Chellie Pingree,Chellie,Pingree,DEM,ME,1,,3.16
+C-0536,Republican,Republican,,REP,ME,0,,0.0
+C-0537,Jared Golden,Jared,Golden,DEM,ME,1,,8.96
+C-0538,Austin Theriault,Austin,Theriault,REP,ME,0,,7.49
+C-0539,Democratic candidate (MI-01),Democratic,candidate (MI-01),DEM,MI,0,,0.0
+C-0540,Republican candidate (MI-01),Republican,candidate (MI-01),REP,MI,1,,0.0
+C-0541,Democratic candidate (MI-02),Democratic,candidate (MI-02),DEM,MI,0,,0.0
+C-0542,Republican candidate (MI-02),Republican,candidate (MI-02),REP,MI,1,,0.0
+C-0543,Democratic candidate (MI-03),Democratic,candidate (MI-03),DEM,MI,1,,0.0
+C-0544,Republican candidate (MI-03),Republican,candidate (MI-03),REP,MI,0,,0.0
+C-0545,Democratic candidate (MI-04),Democratic,candidate (MI-04),DEM,MI,0,,0.0
+C-0546,Republican candidate (MI-04),Republican,candidate (MI-04),REP,MI,1,,0.0
+C-0547,Democratic candidate (MI-05),Democratic,candidate (MI-05),DEM,MI,0,,0.0
+C-0548,Republican candidate (MI-05),Republican,candidate (MI-05),REP,MI,1,,0.0
+C-0549,Democratic candidate (MI-06),Democratic,candidate (MI-06),DEM,MI,1,,0.0
+C-0550,Republican candidate (MI-06),Republican,candidate (MI-06),REP,MI,0,,0.0
+C-0551,Democratic candidate (MI-07),Democratic,candidate (MI-07),DEM,MI,0,,0.0
+C-0552,Republican candidate (MI-07),Republican,candidate (MI-07),REP,MI,1,,0.0
+C-0553,Kristen McDonald Rivet,Kristen,McDonald Rivet,DEM,MI,1,,12.29
+C-0554,Paul Junge,Paul,Junge,REP,MI,0,,9.2
+C-0555,Democratic candidate (MI-09),Democratic,candidate (MI-09),DEM,MI,0,,0.0
+C-0556,Republican candidate (MI-09),Republican,candidate (MI-09),REP,MI,1,,0.0
+C-0557,Democratic candidate (MI-10),Democratic,candidate (MI-10),DEM,MI,0,,0.0
+C-0558,Republican candidate (MI-10),Republican,candidate (MI-10),REP,MI,1,,0.0
+C-0559,Democratic candidate (MI-11),Democratic,candidate (MI-11),DEM,MI,1,,0.0
+C-0560,Republican candidate (MI-11),Republican,candidate (MI-11),REP,MI,0,,0.0
+C-0561,Democratic candidate (MI-12),Democratic,candidate (MI-12),DEM,MI,1,,0.0
+C-0562,Republican candidate (MI-12),Republican,candidate (MI-12),REP,MI,0,,0.0
+C-0563,Democratic candidate (MI-13),Democratic,candidate (MI-13),DEM,MI,1,,0.0
+C-0564,Republican candidate (MI-13),Republican,candidate (MI-13),REP,MI,0,,0.0
+C-0565,Democratic candidate (MN-01),Democratic,candidate (MN-01),DEM,MN,0,,0.0
+C-0566,Republican candidate (MN-01),Republican,candidate (MN-01),REP,MN,1,,0.0
+C-0567,Democratic candidate (MN-02),Democratic,candidate (MN-02),DEM,MN,1,,0.0
+C-0568,Republican candidate (MN-02),Republican,candidate (MN-02),REP,MN,0,,0.0
+C-0569,Democratic candidate (MN-03),Democratic,candidate (MN-03),DEM,MN,1,,0.0
+C-0570,Republican candidate (MN-03),Republican,candidate (MN-03),REP,MN,0,,0.0
+C-0571,Democratic candidate (MN-04),Democratic,candidate (MN-04),DEM,MN,1,,0.0
+C-0572,Republican candidate (MN-04),Republican,candidate (MN-04),REP,MN,0,,0.0
+C-0573,Democratic candidate (MN-05),Democratic,candidate (MN-05),DEM,MN,1,,0.0
+C-0574,Republican candidate (MN-05),Republican,candidate (MN-05),REP,MN,0,,0.0
+C-0575,Democratic candidate (MN-06),Democratic,candidate (MN-06),DEM,MN,0,,0.0
+C-0576,Republican candidate (MN-06),Republican,candidate (MN-06),REP,MN,1,,0.0
+C-0577,Democratic candidate (MN-07),Democratic,candidate (MN-07),DEM,MN,0,,0.0
+C-0578,Republican candidate (MN-07),Republican,candidate (MN-07),REP,MN,1,,0.0
+C-0579,Democratic candidate (MN-08),Democratic,candidate (MN-08),DEM,MN,0,,0.0
+C-0580,Republican candidate (MN-08),Republican,candidate (MN-08),REP,MN,1,,0.0
+C-0581,Democratic candidate (MO-01),Democratic,candidate (MO-01),DEM,MO,1,,0.0
+C-0582,Republican candidate (MO-01),Republican,candidate (MO-01),REP,MO,0,,0.0
+C-0583,Democratic candidate (MO-02),Democratic,candidate (MO-02),DEM,MO,0,,0.0
+C-0584,Republican candidate (MO-02),Republican,candidate (MO-02),REP,MO,1,,0.0
+C-0585,Democratic candidate (MO-03),Democratic,candidate (MO-03),DEM,MO,0,,0.0
+C-0586,Republican candidate (MO-03),Republican,candidate (MO-03),REP,MO,1,,0.0
+C-0587,Democratic candidate (MO-04),Democratic,candidate (MO-04),DEM,MO,0,,0.0
+C-0588,Republican candidate (MO-04),Republican,candidate (MO-04),REP,MO,1,,0.0
+C-0589,Democratic candidate (MO-05),Democratic,candidate (MO-05),DEM,MO,0,,0.0
+C-0590,Republican candidate (MO-05),Republican,candidate (MO-05),REP,MO,1,,0.0
+C-0591,Democratic candidate (MO-06),Democratic,candidate (MO-06),DEM,MO,0,,0.0
+C-0592,Republican candidate (MO-06),Republican,candidate (MO-06),REP,MO,1,,0.0
+C-0593,Democratic candidate (MO-07),Democratic,candidate (MO-07),DEM,MO,0,,0.0
+C-0594,Republican candidate (MO-07),Republican,candidate (MO-07),REP,MO,1,,0.0
+C-0595,Democratic candidate (MO-08),Democratic,candidate (MO-08),DEM,MO,0,,0.0
+C-0596,Republican candidate (MO-08),Republican,candidate (MO-08),REP,MO,1,,0.0
+C-0597,Democratic candidate (MS-01),Democratic,candidate (MS-01),DEM,MS,0,,0.0
+C-0598,Republican candidate (MS-01),Republican,candidate (MS-01),REP,MS,1,,0.0
+C-0599,Democratic candidate (MS-02),Democratic,candidate (MS-02),DEM,MS,1,,0.0
+C-0600,Republican candidate (MS-02),Republican,candidate (MS-02),REP,MS,0,,0.0
+C-0601,Democratic candidate (MS-03),Democratic,candidate (MS-03),DEM,MS,0,,0.0
+C-0602,Republican candidate (MS-03),Republican,candidate (MS-03),REP,MS,1,,0.0
+C-0603,Democratic candidate (MS-04),Democratic,candidate (MS-04),DEM,MS,0,,0.0
+C-0604,Republican candidate (MS-04),Republican,candidate (MS-04),REP,MS,1,,0.0
+C-0605,Democratic candidate (MT-01),Democratic,candidate (MT-01),DEM,MT,0,,0.0
+C-0606,Republican candidate (MT-01),Republican,candidate (MT-01),REP,MT,1,,0.0
+C-0607,Democratic candidate (MT-02),Democratic,candidate (MT-02),DEM,MT,0,,0.0
+C-0608,Republican candidate (MT-02),Republican,candidate (MT-02),REP,MT,1,,0.0
+C-0609,Democratic candidate (NC-01),Democratic,candidate (NC-01),DEM,NC,1,,0.0
+C-0610,Republican candidate (NC-01),Republican,candidate (NC-01),REP,NC,0,,0.0
+C-0611,Democratic candidate (NC-02),Democratic,candidate (NC-02),DEM,NC,1,,0.0
+C-0612,Republican candidate (NC-02),Republican,candidate (NC-02),REP,NC,0,,0.0
+C-0613,Democratic candidate (NC-03),Democratic,candidate (NC-03),DEM,NC,0,,0.0
+C-0614,Republican candidate (NC-03),Republican,candidate (NC-03),REP,NC,1,,0.0
+C-0615,Democratic candidate (NC-04),Democratic,candidate (NC-04),DEM,NC,1,,0.0
+C-0616,Republican candidate (NC-04),Republican,candidate (NC-04),REP,NC,0,,0.0
+C-0617,Democratic candidate (NC-05),Democratic,candidate (NC-05),DEM,NC,0,,0.0
+C-0618,Republican candidate (NC-05),Republican,candidate (NC-05),REP,NC,1,,0.0
+C-0619,Democratic candidate (NC-06),Democratic,candidate (NC-06),DEM,NC,0,,0.0
+C-0620,Republican candidate (NC-06),Republican,candidate (NC-06),REP,NC,1,,0.0
+C-0621,Democratic candidate (NC-07),Democratic,candidate (NC-07),DEM,NC,0,,0.0
+C-0622,Republican candidate (NC-07),Republican,candidate (NC-07),REP,NC,1,,0.0
+C-0623,Democratic candidate (NC-08),Democratic,candidate (NC-08),DEM,NC,0,,0.0
+C-0624,Republican candidate (NC-08),Republican,candidate (NC-08),REP,NC,1,,0.0
+C-0625,Democratic candidate (NC-09),Democratic,candidate (NC-09),DEM,NC,0,,0.0
+C-0626,Republican candidate (NC-09),Republican,candidate (NC-09),REP,NC,1,,0.0
+C-0627,Democratic candidate (NC-10),Democratic,candidate (NC-10),DEM,NC,0,,0.0
+C-0628,Republican candidate (NC-10),Republican,candidate (NC-10),REP,NC,1,,0.0
+C-0629,Democratic candidate (NC-11),Democratic,candidate (NC-11),DEM,NC,0,,0.0
+C-0630,Republican candidate (NC-11),Republican,candidate (NC-11),REP,NC,1,,0.0
+C-0631,Democratic candidate (NC-12),Democratic,candidate (NC-12),DEM,NC,1,,0.0
+C-0632,Republican candidate (NC-12),Republican,candidate (NC-12),REP,NC,0,,0.0
+C-0633,Democratic candidate (NC-13),Democratic,candidate (NC-13),DEM,NC,0,,0.0
+C-0634,Republican candidate (NC-13),Republican,candidate (NC-13),REP,NC,1,,0.0
+C-0635,Democratic candidate (NC-14),Democratic,candidate (NC-14),DEM,NC,0,,0.0
+C-0636,Republican candidate (NC-14),Republican,candidate (NC-14),REP,NC,1,,0.0
+C-0637,Democratic candidate (ND-01),Democratic,candidate (ND-01),DEM,ND,0,,0.0
+C-0638,Republican candidate (ND-01),Republican,candidate (ND-01),REP,ND,1,,0.0
+C-0639,Democratic candidate (NE-01),Democratic,candidate (NE-01),DEM,NE,0,,0.0
+C-0640,Republican candidate (NE-01),Republican,candidate (NE-01),REP,NE,1,,0.0
+C-0641,John Cavanaugh,John,Cavanaugh,DEM,NE,0,,0.0
+C-0642,Don Bacon,Don,Bacon,REP,NE,1,,0.0
+C-0643,Democratic candidate (NE-03),Democratic,candidate (NE-03),DEM,NE,0,,0.0
+C-0644,Republican candidate (NE-03),Republican,candidate (NE-03),REP,NE,1,,0.0
+C-0645,Democratic candidate (NH-01),Democratic,candidate (NH-01),DEM,NH,1,,0.0
+C-0646,Republican candidate (NH-01),Republican,candidate (NH-01),REP,NH,0,,0.0
+C-0647,Democratic candidate (NH-02),Democratic,candidate (NH-02),DEM,NH,1,,0.0
+C-0648,Republican candidate (NH-02),Republican,candidate (NH-02),REP,NH,0,,0.0
+C-0649,Democratic candidate (NJ-01),Democratic,candidate (NJ-01),DEM,NJ,1,,0.0
+C-0650,Republican candidate (NJ-01),Republican,candidate (NJ-01),REP,NJ,0,,0.0
+C-0651,Democratic candidate (NJ-02),Democratic,candidate (NJ-02),DEM,NJ,0,,0.0
+C-0652,Republican candidate (NJ-02),Republican,candidate (NJ-02),REP,NJ,1,,0.0
+C-0653,Democratic candidate (NJ-03),Democratic,candidate (NJ-03),DEM,NJ,1,,0.0
+C-0654,Republican candidate (NJ-03),Republican,candidate (NJ-03),REP,NJ,0,,0.0
+C-0655,Democratic candidate (NJ-04),Democratic,candidate (NJ-04),DEM,NJ,0,,0.0
+C-0656,Republican candidate (NJ-04),Republican,candidate (NJ-04),REP,NJ,1,,0.0
+C-0657,Democratic candidate (NJ-05),Democratic,candidate (NJ-05),DEM,NJ,1,,0.0
+C-0658,Republican candidate (NJ-05),Republican,candidate (NJ-05),REP,NJ,0,,0.0
+C-0659,Democratic candidate (NJ-06),Democratic,candidate (NJ-06),DEM,NJ,1,,0.0
+C-0660,Republican candidate (NJ-06),Republican,candidate (NJ-06),REP,NJ,0,,0.0
+C-0661,Sue Altman,Sue,Altman,DEM,NJ,0,,0.0
+C-0662,Tom Kean Jr.,Tom,Kean Jr.,REP,NJ,1,,0.0
+C-0663,Democratic candidate (NJ-08),Democratic,candidate (NJ-08),DEM,NJ,1,,0.0
+C-0664,Republican candidate (NJ-08),Republican,candidate (NJ-08),REP,NJ,0,,0.0
+C-0665,Democratic candidate (NJ-09),Democratic,candidate (NJ-09),DEM,NJ,0,,0.0
+C-0666,Republican candidate (NJ-09),Republican,candidate (NJ-09),REP,NJ,1,,0.0
+C-0667,Democratic candidate (NJ-10),Democratic,candidate (NJ-10),DEM,NJ,1,,0.0
+C-0668,Republican candidate (NJ-10),Republican,candidate (NJ-10),REP,NJ,0,,0.0
+C-0669,Democratic candidate (NJ-11),Democratic,candidate (NJ-11),DEM,NJ,1,,0.0
+C-0670,Republican candidate (NJ-11),Republican,candidate (NJ-11),REP,NJ,0,,0.0
+C-0671,Democratic candidate (NJ-12),Democratic,candidate (NJ-12),DEM,NJ,1,,0.0
+C-0672,Republican candidate (NJ-12),Republican,candidate (NJ-12),REP,NJ,0,,0.0
+C-0673,Democratic candidate (NM-01),Democratic,candidate (NM-01),DEM,NM,1,,0.0
+C-0674,Republican candidate (NM-01),Republican,candidate (NM-01),REP,NM,0,,0.0
+C-0675,Democratic candidate (NM-02),Democratic,candidate (NM-02),DEM,NM,1,,0.0
+C-0676,Republican candidate (NM-02),Republican,candidate (NM-02),REP,NM,0,,0.0
+C-0677,Democratic candidate (NM-03),Democratic,candidate (NM-03),DEM,NM,1,,0.0
+C-0678,Republican candidate (NM-03),Republican,candidate (NM-03),REP,NM,0,,0.0
+C-0679,Democratic candidate (NV-01),Democratic,candidate (NV-01),DEM,NV,1,,0.0
+C-0680,Republican candidate (NV-01),Republican,candidate (NV-01),REP,NV,0,,0.0
+C-0681,Democratic candidate (NV-02),Democratic,candidate (NV-02),DEM,NV,0,,0.0
+C-0682,Republican candidate (NV-02),Republican,candidate (NV-02),REP,NV,1,,0.0
+C-0683,Democratic candidate (NV-03),Democratic,candidate (NV-03),DEM,NV,1,,0.0
+C-0684,Republican candidate (NV-03),Republican,candidate (NV-03),REP,NV,0,,0.0
+C-0685,Democratic candidate (NV-04),Democratic,candidate (NV-04),DEM,NV,1,,0.0
+C-0686,Republican candidate (NV-04),Republican,candidate (NV-04),REP,NV,0,,0.0
+C-0687,Democratic candidate (NY-01),Democratic,candidate (NY-01),DEM,NY,0,,0.0
+C-0688,Republican candidate (NY-01),Republican,candidate (NY-01),REP,NY,1,,0.0
+C-0689,Democratic candidate (NY-02),Democratic,candidate (NY-02),DEM,NY,0,,0.0
+C-0690,Republican candidate (NY-02),Republican,candidate (NY-02),REP,NY,1,,0.0
+C-0691,Democratic candidate (NY-03),Democratic,candidate (NY-03),DEM,NY,0,,0.0
+C-0692,Republican candidate (NY-03),Republican,candidate (NY-03),REP,NY,1,,0.0
+C-0693,Democratic candidate (NY-04),Democratic,candidate (NY-04),DEM,NY,0,,0.0
+C-0694,Republican candidate (NY-04),Republican,candidate (NY-04),REP,NY,1,,0.0
+C-0695,Democratic candidate (NY-05),Democratic,candidate (NY-05),DEM,NY,1,,0.0
+C-0696,Republican candidate (NY-05),Republican,candidate (NY-05),REP,NY,0,,0.0
+C-0697,Democratic candidate (NY-06),Democratic,candidate (NY-06),DEM,NY,1,,0.0
+C-0698,Republican candidate (NY-06),Republican,candidate (NY-06),REP,NY,0,,0.0
+C-0699,Democratic candidate (NY-07),Democratic,candidate (NY-07),DEM,NY,1,,0.0
+C-0700,Republican candidate (NY-07),Republican,candidate (NY-07),REP,NY,0,,0.0
+C-0701,Democratic candidate (NY-08),Democratic,candidate (NY-08),DEM,NY,1,,0.0
+C-0702,Republican candidate (NY-08),Republican,candidate (NY-08),REP,NY,0,,0.0
+C-0703,Democratic candidate (NY-09),Democratic,candidate (NY-09),DEM,NY,1,,0.0
+C-0704,Republican candidate (NY-09),Republican,candidate (NY-09),REP,NY,0,,0.0
+C-0705,Democratic candidate (NY-10),Democratic,candidate (NY-10),DEM,NY,1,,0.0
+C-0706,Republican candidate (NY-10),Republican,candidate (NY-10),REP,NY,0,,0.0
+C-0707,Democratic candidate (NY-11),Democratic,candidate (NY-11),DEM,NY,0,,0.0
+C-0708,Republican candidate (NY-11),Republican,candidate (NY-11),REP,NY,1,,0.0
+C-0709,Democratic candidate (NY-12),Democratic,candidate (NY-12),DEM,NY,1,,0.0
+C-0710,Republican candidate (NY-12),Republican,candidate (NY-12),REP,NY,0,,0.0
+C-0711,Democratic candidate (NY-13),Democratic,candidate (NY-13),DEM,NY,1,,0.0
+C-0712,Republican candidate (NY-13),Republican,candidate (NY-13),REP,NY,0,,0.0
+C-0713,Democratic candidate (NY-14),Democratic,candidate (NY-14),DEM,NY,1,,0.0
+C-0714,Republican candidate (NY-14),Republican,candidate (NY-14),REP,NY,0,,0.0
+C-0715,Democratic candidate (NY-15),Democratic,candidate (NY-15),DEM,NY,1,,0.0
+C-0716,Republican candidate (NY-15),Republican,candidate (NY-15),REP,NY,0,,0.0
+C-0717,Democratic candidate (NY-16),Democratic,candidate (NY-16),DEM,NY,1,,0.0
+C-0718,Republican candidate (NY-16),Republican,candidate (NY-16),REP,NY,0,,0.0
+C-0719,Mondaire Jones,Mondaire,Jones,DEM,NY,0,,0.0
+C-0720,Mike Lawler,Mike,Lawler,REP,NY,1,,-3.63
+C-0721,Democratic candidate (NY-18),Democratic,candidate (NY-18),DEM,NY,1,,0.0
+C-0722,Republican candidate (NY-18),Republican,candidate (NY-18),REP,NY,0,,0.0
+C-0723,Democratic candidate (NY-19),Democratic,candidate (NY-19),DEM,NY,1,,0.0
+C-0724,Republican candidate (NY-19),Republican,candidate (NY-19),REP,NY,0,,0.0
+C-0725,Democratic candidate (NY-20),Democratic,candidate (NY-20),DEM,NY,1,,0.0
+C-0726,Republican candidate (NY-20),Republican,candidate (NY-20),REP,NY,0,,0.0
+C-0727,Democratic candidate (NY-21),Democratic,candidate (NY-21),DEM,NY,0,,0.0
+C-0728,Republican candidate (NY-21),Republican,candidate (NY-21),REP,NY,1,,0.0
+C-0729,Democratic candidate (NY-22),Democratic,candidate (NY-22),DEM,NY,1,,0.0
+C-0730,Republican candidate (NY-22),Republican,candidate (NY-22),REP,NY,0,,0.0
+C-0731,Democratic candidate (NY-23),Democratic,candidate (NY-23),DEM,NY,0,,0.0
+C-0732,Republican candidate (NY-23),Republican,candidate (NY-23),REP,NY,1,,0.0
+C-0733,Democratic candidate (NY-24),Democratic,candidate (NY-24),DEM,NY,0,,0.0
+C-0734,Republican candidate (NY-24),Republican,candidate (NY-24),REP,NY,1,,0.0
+C-0735,Democratic candidate (NY-25),Democratic,candidate (NY-25),DEM,NY,1,,0.0
+C-0736,Republican candidate (NY-25),Republican,candidate (NY-25),REP,NY,0,,0.0
+C-0737,Democratic candidate (NY-26),Democratic,candidate (NY-26),DEM,NY,1,,0.0
+C-0738,Republican candidate (NY-26),Republican,candidate (NY-26),REP,NY,0,,0.0
+C-0739,Democratic candidate (OH-01),Democratic,candidate (OH-01),DEM,OH,0,,0.0
+C-0740,Republican candidate (OH-01),Republican,candidate (OH-01),REP,OH,1,,0.0
+C-0741,Democratic candidate (OH-02),Democratic,candidate (OH-02),DEM,OH,0,,0.0
+C-0742,Republican candidate (OH-02),Republican,candidate (OH-02),REP,OH,1,,0.0
+C-0743,Democratic candidate (OH-03),Democratic,candidate (OH-03),DEM,OH,1,,0.0
+C-0744,Republican candidate (OH-03),Republican,candidate (OH-03),REP,OH,0,,0.0
+C-0745,Democratic candidate (OH-04),Democratic,candidate (OH-04),DEM,OH,0,,0.0
+C-0746,Republican candidate (OH-04),Republican,candidate (OH-04),REP,OH,1,,0.0
+C-0747,Democratic candidate (OH-05),Democratic,candidate (OH-05),DEM,OH,0,,0.0
+C-0748,Republican candidate (OH-05),Republican,candidate (OH-05),REP,OH,1,,0.0
+C-0749,Democratic candidate (OH-06),Democratic,candidate (OH-06),DEM,OH,0,,0.0
+C-0750,Republican candidate (OH-06),Republican,candidate (OH-06),REP,OH,1,,0.0
+C-0751,Democratic candidate (OH-07),Democratic,candidate (OH-07),DEM,OH,0,,0.0
+C-0752,Republican candidate (OH-07),Republican,candidate (OH-07),REP,OH,1,,0.0
+C-0753,Democratic candidate (OH-08),Democratic,candidate (OH-08),DEM,OH,0,,0.0
+C-0754,Republican candidate (OH-08),Republican,candidate (OH-08),REP,OH,1,,0.0
+C-0755,Democratic candidate (OH-09),Democratic,candidate (OH-09),DEM,OH,1,,0.0
+C-0756,Republican candidate (OH-09),Republican,candidate (OH-09),REP,OH,0,,0.0
+C-0757,Democratic candidate (OH-10),Democratic,candidate (OH-10),DEM,OH,0,,0.0
+C-0758,Republican candidate (OH-10),Republican,candidate (OH-10),REP,OH,1,,0.0
+C-0759,Democratic candidate (OH-11),Democratic,candidate (OH-11),DEM,OH,1,,0.0
+C-0760,Republican candidate (OH-11),Republican,candidate (OH-11),REP,OH,0,,0.0
+C-0761,Democratic candidate (OH-12),Democratic,candidate (OH-12),DEM,OH,0,,0.0
+C-0762,Republican candidate (OH-12),Republican,candidate (OH-12),REP,OH,1,,0.0
+C-0763,Democratic candidate (OH-13),Democratic,candidate (OH-13),DEM,OH,1,,0.0
+C-0764,Republican candidate (OH-13),Republican,candidate (OH-13),REP,OH,0,,0.0
+C-0765,Democratic candidate (OH-14),Democratic,candidate (OH-14),DEM,OH,0,,0.0
+C-0766,Republican candidate (OH-14),Republican,candidate (OH-14),REP,OH,1,,0.0
+C-0767,Democratic candidate (OH-15),Democratic,candidate (OH-15),DEM,OH,0,,0.0
+C-0768,Republican candidate (OH-15),Republican,candidate (OH-15),REP,OH,1,,0.0
+C-0769,Democratic candidate (OK-01),Democratic,candidate (OK-01),DEM,OK,0,,0.0
+C-0770,Republican candidate (OK-01),Republican,candidate (OK-01),REP,OK,1,,0.0
+C-0771,Democratic candidate (OK-02),Democratic,candidate (OK-02),DEM,OK,0,,0.0
+C-0772,Republican candidate (OK-02),Republican,candidate (OK-02),REP,OK,1,,0.0
+C-0773,Democratic candidate (OK-03),Democratic,candidate (OK-03),DEM,OK,0,,0.0
+C-0774,Republican candidate (OK-03),Republican,candidate (OK-03),REP,OK,1,,0.0
+C-0775,Democratic candidate (OK-04),Democratic,candidate (OK-04),DEM,OK,0,,0.0
+C-0776,Republican candidate (OK-04),Republican,candidate (OK-04),REP,OK,1,,0.0
+C-0777,Democratic candidate (OK-05),Democratic,candidate (OK-05),DEM,OK,0,,0.0
+C-0778,Republican candidate (OK-05),Republican,candidate (OK-05),REP,OK,1,,0.0
+C-0779,Democratic candidate (OR-01),Democratic,candidate (OR-01),DEM,OR,1,,0.0
+C-0780,Republican candidate (OR-01),Republican,candidate (OR-01),REP,OR,0,,0.0
+C-0781,Democratic candidate (OR-02),Democratic,candidate (OR-02),DEM,OR,0,,0.0
+C-0782,Republican candidate (OR-02),Republican,candidate (OR-02),REP,OR,1,,0.0
+C-0783,Democratic candidate (OR-03),Democratic,candidate (OR-03),DEM,OR,1,,0.0
+C-0784,Republican candidate (OR-03),Republican,candidate (OR-03),REP,OR,0,,0.0
+C-0785,Democratic candidate (OR-04),Democratic,candidate (OR-04),DEM,OR,1,,0.0
+C-0786,Republican candidate (OR-04),Republican,candidate (OR-04),REP,OR,0,,0.0
+C-0787,Janelle Bynum,Janelle,Bynum,DEM,OR,1,,1.21
+C-0788,Republican,Republican,,REP,OR,0,,0.0
+C-0789,Democratic candidate (OR-06),Democratic,candidate (OR-06),DEM,OR,1,,0.0
+C-0790,Republican candidate (OR-06),Republican,candidate (OR-06),REP,OR,0,,0.0
+C-0791,Democratic candidate (PA-01),Democratic,candidate (PA-01),DEM,PA,0,,0.0
+C-0792,Republican candidate (PA-01),Republican,candidate (PA-01),REP,PA,1,,0.0
+C-0793,Democratic candidate (PA-02),Democratic,candidate (PA-02),DEM,PA,1,,0.0
+C-0794,Republican candidate (PA-02),Republican,candidate (PA-02),REP,PA,0,,0.0
+C-0795,Democratic candidate (PA-03),Democratic,candidate (PA-03),DEM,PA,1,,0.0
+C-0796,Republican candidate (PA-03),Republican,candidate (PA-03),REP,PA,0,,0.0
+C-0797,Democratic candidate (PA-04),Democratic,candidate (PA-04),DEM,PA,1,,0.0
+C-0798,Republican candidate (PA-04),Republican,candidate (PA-04),REP,PA,0,,0.0
+C-0799,Democratic candidate (PA-05),Democratic,candidate (PA-05),DEM,PA,1,,0.0
+C-0800,Republican candidate (PA-05),Republican,candidate (PA-05),REP,PA,0,,0.0
+C-0801,Democratic candidate (PA-06),Democratic,candidate (PA-06),DEM,PA,1,,0.0
+C-0802,Republican candidate (PA-06),Republican,candidate (PA-06),REP,PA,0,,0.0
+C-0803,Ryan Mackenzie,Ryan,Mackenzie,DEM,PA,0,,-3.38
+C-0804,Republican,Republican,,REP,PA,0,,0.0
+C-0805,Pennsylvania Democrat,Pennsylvania,Democrat,DEM,PA,0,,0.0
+C-0806,Rob Bresnahan,Rob,Bresnahan,REP,PA,1,,1.0
+C-0807,Democratic candidate (PA-09),Democratic,candidate (PA-09),DEM,PA,0,,0.0
+C-0808,Republican candidate (PA-09),Republican,candidate (PA-09),REP,PA,1,,0.0
+C-0809,Democratic candidate (PA-10),Democratic,candidate (PA-10),DEM,PA,0,,0.0
+C-0810,Republican candidate (PA-10),Republican,candidate (PA-10),REP,PA,1,,0.0
+C-0811,Democratic candidate (PA-11),Democratic,candidate (PA-11),DEM,PA,0,,0.0
+C-0812,Republican candidate (PA-11),Republican,candidate (PA-11),REP,PA,1,,0.0
+C-0813,Democratic candidate (PA-12),Democratic,candidate (PA-12),DEM,PA,1,,0.0
+C-0814,Republican candidate (PA-12),Republican,candidate (PA-12),REP,PA,0,,0.0
+C-0815,Democratic candidate (PA-13),Democratic,candidate (PA-13),DEM,PA,0,,0.0
+C-0816,Republican candidate (PA-13),Republican,candidate (PA-13),REP,PA,1,,0.0
+C-0817,Democratic candidate (PA-14),Democratic,candidate (PA-14),DEM,PA,0,,0.0
+C-0818,Republican candidate (PA-14),Republican,candidate (PA-14),REP,PA,1,,0.0
+C-0819,Democratic candidate (PA-15),Democratic,candidate (PA-15),DEM,PA,0,,0.0
+C-0820,Republican candidate (PA-15),Republican,candidate (PA-15),REP,PA,1,,0.0
+C-0821,Democratic candidate (PA-16),Democratic,candidate (PA-16),DEM,PA,0,,0.0
+C-0822,Republican candidate (PA-16),Republican,candidate (PA-16),REP,PA,1,,0.0
+C-0823,Democratic candidate (PA-17),Democratic,candidate (PA-17),DEM,PA,1,,0.0
+C-0824,Republican candidate (PA-17),Republican,candidate (PA-17),REP,PA,0,,0.0
+C-0825,Democratic candidate (RI-01),Democratic,candidate (RI-01),DEM,RI,1,,0.0
+C-0826,Republican candidate (RI-01),Republican,candidate (RI-01),REP,RI,0,,0.0
+C-0827,Democratic candidate (RI-02),Democratic,candidate (RI-02),DEM,RI,1,,0.0
+C-0828,Republican candidate (RI-02),Republican,candidate (RI-02),REP,RI,0,,0.0
+C-0829,Democratic candidate (SC-01),Democratic,candidate (SC-01),DEM,SC,0,,0.0
+C-0830,Republican candidate (SC-01),Republican,candidate (SC-01),REP,SC,1,,0.0
+C-0831,Democratic candidate (SC-02),Democratic,candidate (SC-02),DEM,SC,0,,0.0
+C-0832,Republican candidate (SC-02),Republican,candidate (SC-02),REP,SC,1,,0.0
+C-0833,Democratic candidate (SC-03),Democratic,candidate (SC-03),DEM,SC,0,,0.0
+C-0834,Republican candidate (SC-03),Republican,candidate (SC-03),REP,SC,1,,0.0
+C-0835,Democratic candidate (SC-04),Democratic,candidate (SC-04),DEM,SC,0,,0.0
+C-0836,Republican candidate (SC-04),Republican,candidate (SC-04),REP,SC,1,,0.0
+C-0837,Democratic candidate (SC-05),Democratic,candidate (SC-05),DEM,SC,0,,0.0
+C-0838,Republican candidate (SC-05),Republican,candidate (SC-05),REP,SC,1,,0.0
+C-0839,Democratic candidate (SC-06),Democratic,candidate (SC-06),DEM,SC,1,,0.0
+C-0840,Republican candidate (SC-06),Republican,candidate (SC-06),REP,SC,0,,0.0
+C-0841,Democratic candidate (SC-07),Democratic,candidate (SC-07),DEM,SC,0,,0.0
+C-0842,Republican candidate (SC-07),Republican,candidate (SC-07),REP,SC,1,,0.0
+C-0843,Democratic candidate (SD-01),Democratic,candidate (SD-01),DEM,SD,0,,0.0
+C-0844,Republican candidate (SD-01),Republican,candidate (SD-01),REP,SD,1,,0.0
+C-0845,Democratic candidate (TN-01),Democratic,candidate (TN-01),DEM,TN,0,,0.0
+C-0846,Republican candidate (TN-01),Republican,candidate (TN-01),REP,TN,1,,0.0
+C-0847,Democratic candidate (TN-02),Democratic,candidate (TN-02),DEM,TN,0,,0.0
+C-0848,Republican candidate (TN-02),Republican,candidate (TN-02),REP,TN,1,,0.0
+C-0849,Democratic candidate (TN-03),Democratic,candidate (TN-03),DEM,TN,0,,0.0
+C-0850,Republican candidate (TN-03),Republican,candidate (TN-03),REP,TN,1,,0.0
+C-0851,Democratic candidate (TN-04),Democratic,candidate (TN-04),DEM,TN,0,,0.0
+C-0852,Republican candidate (TN-04),Republican,candidate (TN-04),REP,TN,1,,0.0
+C-0853,Democratic candidate (TN-05),Democratic,candidate (TN-05),DEM,TN,0,,0.0
+C-0854,Republican candidate (TN-05),Republican,candidate (TN-05),REP,TN,1,,0.0
+C-0855,Democratic candidate (TN-06),Democratic,candidate (TN-06),DEM,TN,0,,0.0
+C-0856,Republican candidate (TN-06),Republican,candidate (TN-06),REP,TN,1,,0.0
+C-0857,Democratic candidate (TN-07),Democratic,candidate (TN-07),DEM,TN,0,,0.0
+C-0858,Republican candidate (TN-07),Republican,candidate (TN-07),REP,TN,1,,0.0
+C-0859,Democratic candidate (TN-08),Democratic,candidate (TN-08),DEM,TN,0,,0.0
+C-0860,Republican candidate (TN-08),Republican,candidate (TN-08),REP,TN,1,,0.0
+C-0861,Democratic candidate (TN-09),Democratic,candidate (TN-09),DEM,TN,0,,0.0
+C-0862,Republican candidate (TN-09),Republican,candidate (TN-09),REP,TN,1,,0.0
+C-0863,Democratic candidate (TX-01),Democratic,candidate (TX-01),DEM,TX,0,,0.0
+C-0864,Republican candidate (TX-01),Republican,candidate (TX-01),REP,TX,1,,0.0
+C-0865,Democratic candidate (TX-02),Democratic,candidate (TX-02),DEM,TX,0,,0.0
+C-0866,Republican candidate (TX-02),Republican,candidate (TX-02),REP,TX,1,,0.0
+C-0867,Democratic candidate (TX-03),Democratic,candidate (TX-03),DEM,TX,0,,0.0
+C-0868,Republican candidate (TX-03),Republican,candidate (TX-03),REP,TX,1,,0.0
+C-0869,Democratic candidate (TX-04),Democratic,candidate (TX-04),DEM,TX,0,,0.0
+C-0870,Republican candidate (TX-04),Republican,candidate (TX-04),REP,TX,1,,0.0
+C-0871,Democratic candidate (TX-05),Democratic,candidate (TX-05),DEM,TX,0,,0.0
+C-0872,Republican candidate (TX-05),Republican,candidate (TX-05),REP,TX,1,,0.0
+C-0873,Democratic candidate (TX-06),Democratic,candidate (TX-06),DEM,TX,0,,0.0
+C-0874,Republican candidate (TX-06),Republican,candidate (TX-06),REP,TX,1,,0.0
+C-0875,Democratic candidate (TX-07),Democratic,candidate (TX-07),DEM,TX,1,,0.0
+C-0876,Republican candidate (TX-07),Republican,candidate (TX-07),REP,TX,0,,0.0
+C-0877,Democratic candidate (TX-08),Democratic,candidate (TX-08),DEM,TX,0,,0.0
+C-0878,Republican candidate (TX-08),Republican,candidate (TX-08),REP,TX,1,,0.0
+C-0879,Democratic candidate (TX-09),Democratic,candidate (TX-09),DEM,TX,0,,0.0
+C-0880,Republican candidate (TX-09),Republican,candidate (TX-09),REP,TX,1,,0.0
+C-0881,Democratic candidate (TX-10),Democratic,candidate (TX-10),DEM,TX,0,,0.0
+C-0882,Republican candidate (TX-10),Republican,candidate (TX-10),REP,TX,1,,0.0
+C-0883,Democratic candidate (TX-11),Democratic,candidate (TX-11),DEM,TX,0,,0.0
+C-0884,Republican candidate (TX-11),Republican,candidate (TX-11),REP,TX,1,,0.0
+C-0885,Democratic candidate (TX-12),Democratic,candidate (TX-12),DEM,TX,0,,0.0
+C-0886,Republican candidate (TX-12),Republican,candidate (TX-12),REP,TX,1,,0.0
+C-0887,Democratic candidate (TX-13),Democratic,candidate (TX-13),DEM,TX,0,,0.0
+C-0888,Republican candidate (TX-13),Republican,candidate (TX-13),REP,TX,1,,0.0
+C-0889,Democratic candidate (TX-14),Democratic,candidate (TX-14),DEM,TX,0,,0.0
+C-0890,Republican candidate (TX-14),Republican,candidate (TX-14),REP,TX,1,,0.0
+C-0891,Democratic candidate (TX-15),Democratic,candidate (TX-15),DEM,TX,0,,0.0
+C-0892,Republican candidate (TX-15),Republican,candidate (TX-15),REP,TX,1,,0.0
+C-0893,Democratic candidate (TX-16),Democratic,candidate (TX-16),DEM,TX,1,,0.0
+C-0894,Republican candidate (TX-16),Republican,candidate (TX-16),REP,TX,0,,0.0
+C-0895,Democratic candidate (TX-17),Democratic,candidate (TX-17),DEM,TX,0,,0.0
+C-0896,Republican candidate (TX-17),Republican,candidate (TX-17),REP,TX,1,,0.0
+C-0897,Democratic candidate (TX-18),Democratic,candidate (TX-18),DEM,TX,1,,0.0
+C-0898,Republican candidate (TX-18),Republican,candidate (TX-18),REP,TX,0,,0.0
+C-0899,Democratic candidate (TX-19),Democratic,candidate (TX-19),DEM,TX,0,,0.0
+C-0900,Republican candidate (TX-19),Republican,candidate (TX-19),REP,TX,1,,0.0
+C-0901,Democratic candidate (TX-20),Democratic,candidate (TX-20),DEM,TX,1,,0.0
+C-0902,Republican candidate (TX-20),Republican,candidate (TX-20),REP,TX,0,,0.0
+C-0903,Democratic candidate (TX-21),Democratic,candidate (TX-21),DEM,TX,0,,0.0
+C-0904,Republican candidate (TX-21),Republican,candidate (TX-21),REP,TX,1,,0.0
+C-0905,Democratic candidate (TX-22),Democratic,candidate (TX-22),DEM,TX,0,,0.0
+C-0906,Republican candidate (TX-22),Republican,candidate (TX-22),REP,TX,1,,0.0
+C-0907,Democratic candidate (TX-23),Democratic,candidate (TX-23),DEM,TX,0,,0.0
+C-0908,Republican candidate (TX-23),Republican,candidate (TX-23),REP,TX,1,,0.0
+C-0909,Democratic candidate (TX-24),Democratic,candidate (TX-24),DEM,TX,0,,0.0
+C-0910,Republican candidate (TX-24),Republican,candidate (TX-24),REP,TX,1,,0.0
+C-0911,Democratic candidate (TX-25),Democratic,candidate (TX-25),DEM,TX,0,,0.0
+C-0912,Republican candidate (TX-25),Republican,candidate (TX-25),REP,TX,1,,0.0
+C-0913,Democratic candidate (TX-26),Democratic,candidate (TX-26),DEM,TX,0,,0.0
+C-0914,Republican candidate (TX-26),Republican,candidate (TX-26),REP,TX,1,,0.0
+C-0915,Democratic candidate (TX-27),Democratic,candidate (TX-27),DEM,TX,0,,0.0
+C-0916,Republican candidate (TX-27),Republican,candidate (TX-27),REP,TX,1,,0.0
+C-0917,Democratic candidate (TX-28),Democratic,candidate (TX-28),DEM,TX,1,,0.0
+C-0918,Republican candidate (TX-28),Republican,candidate (TX-28),REP,TX,0,,0.0
+C-0919,Democratic candidate (TX-29),Democratic,candidate (TX-29),DEM,TX,1,,0.0
+C-0920,Republican candidate (TX-29),Republican,candidate (TX-29),REP,TX,0,,0.0
+C-0921,Democratic candidate (TX-30),Democratic,candidate (TX-30),DEM,TX,1,,0.0
+C-0922,Republican candidate (TX-30),Republican,candidate (TX-30),REP,TX,0,,0.0
+C-0923,Democratic candidate (TX-31),Democratic,candidate (TX-31),DEM,TX,0,,0.0
+C-0924,Republican candidate (TX-31),Republican,candidate (TX-31),REP,TX,1,,0.0
+C-0925,Democratic candidate (TX-32),Democratic,candidate (TX-32),DEM,TX,0,,0.0
+C-0926,Republican candidate (TX-32),Republican,candidate (TX-32),REP,TX,1,,0.0
+C-0927,Democratic candidate (TX-33),Democratic,candidate (TX-33),DEM,TX,1,,0.0
+C-0928,Republican candidate (TX-33),Republican,candidate (TX-33),REP,TX,0,,0.0
+C-0929,Democratic candidate (TX-34),Democratic,candidate (TX-34),DEM,TX,1,,0.0
+C-0930,Republican candidate (TX-34),Republican,candidate (TX-34),REP,TX,0,,0.0
+C-0931,Democratic candidate (TX-35),Democratic,candidate (TX-35),DEM,TX,0,,0.0
+C-0932,Republican candidate (TX-35),Republican,candidate (TX-35),REP,TX,1,,0.0
+C-0933,Democratic candidate (TX-36),Democratic,candidate (TX-36),DEM,TX,0,,0.0
+C-0934,Republican candidate (TX-36),Republican,candidate (TX-36),REP,TX,1,,0.0
+C-0935,Democratic candidate (TX-37),Democratic,candidate (TX-37),DEM,TX,1,,0.0
+C-0936,Republican candidate (TX-37),Republican,candidate (TX-37),REP,TX,0,,0.0
+C-0937,Democratic candidate (TX-38),Democratic,candidate (TX-38),DEM,TX,0,,0.0
+C-0938,Republican candidate (TX-38),Republican,candidate (TX-38),REP,TX,1,,0.0
+C-0939,Democratic candidate (UT-01),Democratic,candidate (UT-01),DEM,UT,1,,0.0
+C-0940,Republican candidate (UT-01),Republican,candidate (UT-01),REP,UT,0,,0.0
+C-0941,Democratic candidate (UT-02),Democratic,candidate (UT-02),DEM,UT,0,,0.0
+C-0942,Republican candidate (UT-02),Republican,candidate (UT-02),REP,UT,1,,0.0
+C-0943,Democratic candidate (UT-03),Democratic,candidate (UT-03),DEM,UT,0,,0.0
+C-0944,Republican candidate (UT-03),Republican,candidate (UT-03),REP,UT,1,,0.0
+C-0945,Democratic candidate (UT-04),Democratic,candidate (UT-04),DEM,UT,0,,0.0
+C-0946,Republican candidate (UT-04),Republican,candidate (UT-04),REP,UT,1,,0.0
+C-0947,Democratic candidate (VA-01),Democratic,candidate (VA-01),DEM,VA,0,,0.0
+C-0948,Republican candidate (VA-01),Republican,candidate (VA-01),REP,VA,1,,0.0
+C-0949,Missy Cotter Smasal,Missy,Cotter Smasal,DEM,VA,0,,0.0
+C-0950,Jen Kiggans,Jen,Kiggans,REP,VA,1,,0.0
+C-0951,Democratic candidate (VA-03),Democratic,candidate (VA-03),DEM,VA,1,,0.0
+C-0952,Republican candidate (VA-03),Republican,candidate (VA-03),REP,VA,0,,0.0
+C-0953,Democratic candidate (VA-04),Democratic,candidate (VA-04),DEM,VA,1,,0.0
+C-0954,Republican candidate (VA-04),Republican,candidate (VA-04),REP,VA,0,,0.0
+C-0955,Democratic candidate (VA-05),Democratic,candidate (VA-05),DEM,VA,0,,0.0
+C-0956,Republican candidate (VA-05),Republican,candidate (VA-05),REP,VA,1,,0.0
+C-0957,Democratic candidate (VA-06),Democratic,candidate (VA-06),DEM,VA,0,,0.0
+C-0958,Republican candidate (VA-06),Republican,candidate (VA-06),REP,VA,1,,0.0
+C-0959,Democratic candidate (VA-07),Democratic,candidate (VA-07),DEM,VA,1,,0.0
+C-0960,Republican candidate (VA-07),Republican,candidate (VA-07),REP,VA,0,,0.0
+C-0961,Democratic candidate (VA-08),Democratic,candidate (VA-08),DEM,VA,1,,0.0
+C-0962,Republican candidate (VA-08),Republican,candidate (VA-08),REP,VA,0,,0.0
+C-0963,Democratic candidate (VA-09),Democratic,candidate (VA-09),DEM,VA,0,,0.0
+C-0964,Republican candidate (VA-09),Republican,candidate (VA-09),REP,VA,1,,0.0
+C-0965,Democratic candidate (VA-10),Democratic,candidate (VA-10),DEM,VA,1,,0.0
+C-0966,Republican candidate (VA-10),Republican,candidate (VA-10),REP,VA,0,,0.0
+C-0967,Democratic candidate (VA-11),Democratic,candidate (VA-11),DEM,VA,1,,0.0
+C-0968,Republican candidate (VA-11),Republican,candidate (VA-11),REP,VA,0,,0.0
+C-0969,Democratic candidate (VT-01),Democratic,candidate (VT-01),DEM,VT,1,,0.0
+C-0970,Republican candidate (VT-01),Republican,candidate (VT-01),REP,VT,0,,0.0
+C-0971,Democratic candidate (WA-01),Democratic,candidate (WA-01),DEM,WA,1,,0.0
+C-0972,Republican candidate (WA-01),Republican,candidate (WA-01),REP,WA,0,,0.0
+C-0973,Democratic candidate (WA-02),Democratic,candidate (WA-02),DEM,WA,1,,0.0
+C-0974,Republican candidate (WA-02),Republican,candidate (WA-02),REP,WA,0,,0.0
+C-0975,Marie Gluesenkamp Perez,Marie,Gluesenkamp Perez,DEM,WA,1,,9.12
+C-0976,Joe Kent,Joe,Kent,REP,WA,0,,0.0
+C-0977,Democratic candidate (WA-04),Democratic,candidate (WA-04),DEM,WA,0,,0.0
+C-0978,Republican candidate (WA-04),Republican,candidate (WA-04),REP,WA,1,,0.0
+C-0979,Democratic candidate (WA-05),Democratic,candidate (WA-05),DEM,WA,0,,0.0
+C-0980,Republican candidate (WA-05),Republican,candidate (WA-05),REP,WA,1,,0.0
+C-0981,Democratic candidate (WA-06),Democratic,candidate (WA-06),DEM,WA,1,,0.0
+C-0982,Republican candidate (WA-06),Republican,candidate (WA-06),REP,WA,0,,0.0
+C-0983,Democratic candidate (WA-07),Democratic,candidate (WA-07),DEM,WA,1,,0.0
+C-0984,Republican candidate (WA-07),Republican,candidate (WA-07),REP,WA,0,,0.0
+C-0985,Democratic candidate (WA-08),Democratic,candidate (WA-08),DEM,WA,1,,0.0
+C-0986,Republican candidate (WA-08),Republican,candidate (WA-08),REP,WA,0,,0.0
+C-0987,Democratic candidate (WA-09),Democratic,candidate (WA-09),DEM,WA,1,,0.0
+C-0988,Republican candidate (WA-09),Republican,candidate (WA-09),REP,WA,0,,0.0
+C-0989,Democratic candidate (WA-10),Democratic,candidate (WA-10),DEM,WA,1,,0.0
+C-0990,Republican candidate (WA-10),Republican,candidate (WA-10),REP,WA,0,,0.0
+C-0991,Democratic candidate (WI-01),Democratic,candidate (WI-01),DEM,WI,0,,0.0
+C-0992,Republican candidate (WI-01),Republican,candidate (WI-01),REP,WI,1,,0.0
+C-0993,Democratic candidate (WI-02),Democratic,candidate (WI-02),DEM,WI,1,,0.0
+C-0994,Republican candidate (WI-02),Republican,candidate (WI-02),REP,WI,0,,0.0
+C-0995,Democratic candidate (WI-03),Democratic,candidate (WI-03),DEM,WI,0,,0.0
+C-0996,Republican candidate (WI-03),Republican,candidate (WI-03),REP,WI,1,,0.0
+C-0997,Democratic candidate (WI-04),Democratic,candidate (WI-04),DEM,WI,1,,0.0
+C-0998,Republican candidate (WI-04),Republican,candidate (WI-04),REP,WI,0,,0.0
+C-0999,Democratic candidate (WI-05),Democratic,candidate (WI-05),DEM,WI,0,,0.0
+C-1000,Republican candidate (WI-05),Republican,candidate (WI-05),REP,WI,1,,0.0
+C-1001,Democratic candidate (WI-06),Democratic,candidate (WI-06),DEM,WI,0,,0.0
+C-1002,Republican candidate (WI-06),Republican,candidate (WI-06),REP,WI,1,,0.0
+C-1003,Democratic candidate (WI-07),Democratic,candidate (WI-07),DEM,WI,0,,0.0
+C-1004,Republican candidate (WI-07),Republican,candidate (WI-07),REP,WI,1,,0.0
+C-1005,Democratic candidate (WI-08),Democratic,candidate (WI-08),DEM,WI,0,,0.0
+C-1006,Republican candidate (WI-08),Republican,candidate (WI-08),REP,WI,1,,0.0
+C-1007,Democratic candidate (WV-01),Democratic,candidate (WV-01),DEM,WV,0,,0.0
+C-1008,Republican candidate (WV-01),Republican,candidate (WV-01),REP,WV,1,,0.0
+C-1009,Democratic candidate (WV-02),Democratic,candidate (WV-02),DEM,WV,0,,0.0
+C-1010,Republican candidate (WV-02),Republican,candidate (WV-02),REP,WV,1,,0.0
+C-1011,Democratic candidate (WY-01),Democratic,candidate (WY-01),DEM,WY,0,,0.0
+C-1012,Republican candidate (WY-01),Republican,candidate (WY-01),REP,WY,1,,0.0
