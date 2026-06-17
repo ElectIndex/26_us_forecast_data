@@ -20,6 +20,93 @@ curated model inputs plus the generated forecast output.
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
 | `fred_cache.json` | Cached FRED economic series (value + fetch timestamp). |
 
+## Data dictionary
+
+Column-level reference for the input files. Conventions: margins are Democratic
+minus Republican in percentage points (negative = Republican advantage); `VAP` =
+voting-age population; candidate-slot IDs (`*_id`) join to `candidates.csv`; and
+geography keys (`race_code`, district codes, `county_fips`) are shared across
+files.
+
+### candidates.csv — 1,012 rows (one per candidate)
+- `cand_id` — internal candidate ID (e.g. `C-0001`), referenced by `races.csv`.
+- `name`, `first`, `last` — candidate name.
+- `party` — `DEM` / `REP` / `IND` / minor party.
+- `state` — two-letter state.
+- `incumbent` — `1` if the incumbent, else `0`.
+- `fec_id` — FEC candidate ID (blank if none).
+- `strength` — candidate-strength score (electoral over/under-performance vs. the
+  seat's partisan baseline; restored by name-match from historical results, `0`
+  for candidates with no history).
+
+### races.csv — 506 rows (one per contest)
+- `race_code` — race key (e.g. `AK-SEN`, `AK-01`).
+- `race_type` — `senate` / `governor` / `house`.
+- `state`, `district` — geography.
+- `dem_id`/`dem_name`/`dem_party`, `rep_*`, `ind_*` — candidate in each slot
+  (`*_id` joins to `candidates.csv`).
+- `ind_caucus` — party an independent caucuses with.
+- `dem2_id`, `rep2_id` — second same-party candidate (top-two same-party races).
+- `rcv` — ranked-choice race (bool).
+- `threeway` — modeled as a 3-way D/R/IND plurality (bool).
+- `ind_frac` — share of the anti-R vote going to the independent in 3-way sims.
+- `same_party` — `DEM`/`REP` when a California top-two general is same-party.
+- `cand2_name` — second candidate in a same-party / intra-party contest.
+- `cand1_inc` — candidate 1 is the incumbent (bool).
+- `incumbent_party`, `seat_holder` — party currently holding the seat, and who.
+- `dem_status`/`rep_status`/`ind_status` — `confirmed` / `presumptive` /
+  `projected`.
+
+### demographics.csv — 435 rows (one per House district)
+Voting-age population broken down four ways:
+- `district_code`, `state`, `district`, `vap_total`.
+- `vap_white`/`vap_hispanic`/`vap_black`/`vap_asian`/`vap_native`/`vap_pacific` —
+  VAP by race/ethnicity.
+- `age_20_29` … `age_80_plus` — VAP by age band.
+- `educ_no_hs` … `educ_doctorate` — VAP by educational attainment.
+- `inc_u10k` … `inc_200k_plus` — counts by income bracket.
+
+### county_segments.csv — 3,744 rows (CD×county intersections)
+2024 presidential votes and demographics for each (county, congressional
+district) segment; the basis for uniform-swing county projection.
+- `state`, `county_fips`, `cd_code`.
+- `votes_dem`/`votes_rep`/`votes_total` — 2024 presidential votes in the segment.
+- `pop_tot`, `vap_tot`, and `vap_white`/`vap_black`/`vap_hisp`/`vap_asian`/
+  `vap_native`/`vap_pacific`.
+
+### historical.csv — 485 rows (district + state level)
+Past presidential results behind partisan lean and candidate strength.
+- `code`, `level` (`district`/`state`), `state`, `district`.
+- `pres16_total`/`pres16_dem`/`pres16_rep` (and `pres20_*`, `pres24_*`) — votes.
+- `margin_2016`/`margin_2020`/`margin_2024` — D−R margin in points.
+
+### national.csv — 3 rows
+National two-party result by recent year: `Year`, `Margin` (D−R points).
+
+### national_econ.csv — 33 rows (one per presidential election, 1960→)
+Economic-fundamentals training set.
+- `Year`, `Incumbent` (party in the White House), `Winner`, `Margin`
+  (popular-vote margin).
+- `Jobs`, `Income`, `Consumption`, `Production`, `Inflation`, `GDP`, `Stocks` —
+  economic indicators feeding the fundamentals model.
+
+### gcb_polls.csv — 496 rows
+Generic-congressional-ballot polls.
+- `pollster`, `end_date`, `dem`, `rep` (topline %), `n` (sample size),
+  `rating` (pollster quality), `lean` (partisan-sponsor flag).
+
+### approval_polls.csv — 878 rows
+Presidential approval polls.
+- `pollster`, `end_date`, `approve`, `disapprove` (%), `n`, `rating`, `lean`.
+
+### pollster_ratings.csv — 73 rows
+Pollster-quality lookup: `pollster`, `rating` (higher = better), `lean`
+(house-effect direction; blank if none).
+
+### third_parties.csv — 99 rows
+Third-party / independent candidates on the 2026 ballot, detected from FEC
+filings: `race_code`, `party`, `name`, `fec_id`.
+
 ## Output
 
 Generated forecast output lives in [`output/`](output/):
