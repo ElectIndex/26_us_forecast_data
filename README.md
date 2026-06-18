@@ -19,6 +19,7 @@ curated model inputs plus the generated forecast output.
 | `race_polls.csv` | Per-race NYT matchup polls (Senate/House/Governor), multi-candidate. |
 | `pollster_ratings.csv` | Pollster quality ratings. |
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
+| `ei_env_swings.json` | Ecological-inference per-group vote-margin swings (drives the demographic environment). |
 | `fred_cache.json` | Cached FRED economic series (value + fetch timestamp). |
 
 ## Data dictionary
@@ -122,6 +123,19 @@ Pollster-quality lookup: `pollster`, `rating` (higher = better), `lean`
 Third-party / independent candidates on the 2026 ballot, detected from FEC
 filings: `race_code`, `party`, `name`, `fec_id`.
 
+### ei_env_swings.json
+Per-race-group recent vote-margin swing (D-R points; e.g. `hispanic: -23.1`),
+estimated by **ecological inference** over the 435 House districts (district
+two-party Dem share ~ VAP composition, 2020 vs 2024; bounded MAP fit with a
+ridge prior so small/collinear groups don't blow up). Regenerate with
+`python -m src.model.ecological`.
+
+This drives the **demographic environment**: a district's composition-weighted,
+nationally-centered swing is applied with a **reversion** weight
+(`ENV_FEED_WEIGHT = -0.5`) — i.e. groups that swung in 2024 (Hispanics hard R)
+are projected to *snap back* in the 2026 midterm. The result feeds each race's
+`fundamentals`/`margin` (not just the reported `environment`).
+
 ## Output
 
 Generated forecast output lives in [`output/`](output/). Each run updates the
@@ -137,8 +151,9 @@ under `output/historical/`.
   - **Per-race polling:** `poll_dem`, `poll_rep`, `poll_count`, `polling_avg`,
     `polling_weight` — the point-in-time race-poll average and how heavily it was
     blended with fundamentals (blank/0 when no race polls exist as of that date).
-  - **Localized environment + approval:** `environment` (now demographically
-    adjusted), `demo_env_adj`, `trump_approve`, `trump_net`.
+  - **Localized environment + approval:** `environment` and `demo_env_adj` (the
+    EI demographic-reversion adjustment, which now feeds the race `margin`),
+    `trump_approve`, `trump_net`.
   - **Demographics:** the Dem two-party share for every demographic group
     (`dem_vap_white`, `dem_age_20_29`, `dem_educ_bachelor`, `dem_inc_200k_plus`, …).
 
