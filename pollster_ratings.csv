@@ -1,74 +1,86 @@
-pollster,rating,lean
-The New York Times/Siena University,3.0,
-Marquette Law School,2.9,
-Marquette University Law School,2.9,
-Pew Research Center,2.8,
-Quinnipiac University,2.7,
-Marist University,2.7,
-Marist,2.7,
-CNN/SSRS,2.6,
-AP-NORC,2.6,
-Beacon Research/Shaw & Company Research,2.5,
-Emerson College,2.5,
-Gallup,2.4,
-SurveyUSA,2.4,
-KFF,2.4,
-High Point University,2.3,
-YouGov,2.3,
-Ipsos,2.3,
-PRRI,2.3,
-Civiqs,2.2,
-AtlasIntel,2.2,
-NewsNation,2.1,
-Morning Consult,2.0,
-Echelon Insights,2.0,R
-Leger,2.0,
-Data for Progress,1.9,D
-Public Opinion Strategies,1.9,R
-Navigator Research,1.8,D
-Global Strategy Group,1.8,D
-Hart Research Associates,1.8,D
-Public Policy Polling,1.8,D
-J.L. Partners,1.8,
-Noble Predictive Insights,1.8,
-Research Co.,1.8,
-Verasight,1.8,
-The Argument/Verasight,1.8,
-Change Research,1.7,D
-Fabrizio Ward,1.7,R
-GBAO,1.7,D
-Lake Research Partners,1.7,D
-HarrisX,1.5,
-HarrisX/Harris Poll,1.5,
-SurveyMonkey,1.5,
-TIPP Insights,1.5,
-American Research Group,1.5,
-The Bullfinch Group,1.5,
-Lord Ashcroft Polls,1.5,
-Angus Reid Global,1.5,
-Focaldata,1.5,
-North Star Opinion Research,1.5,R
-The Winston Group,1.5,R
-Winston Group,1.5,R
-Cygnal,1.4,R
-Cygnal Political,1.4,R
-RealClear Opinion Research,1.4,R
-RMG Research,1.3,R
-i360,1.3,R
-Manhattan Institute,1.3,R
-OnMessage Inc.,1.3,R
-Trafalgar Group,1.2,R
-Trafalgar Group/InsiderAdvantage,1.2,R
-Big Data Poll,1.2,R
-Remington,1.2,R
-Merlin Strategy,1.2,R
-Wick,1.2,R
-American Pulse Research & Polling,1.2,R
-Zogby Analytics,1.2,
-John Zogby Strategies,1.2,
-ActiVote,1.2,
-InsiderAdvantage,1.0,R
-co/efficient,1.0,R
-McLaughlin & Associates,1.0,R
-Quantus Insights,1.0,R
-Rasmussen Reports,1.0,R
+pollster,rating,lean,banned
+The New York Times/Siena University,3.0,,
+Marquette Law School,2.9,,
+Marquette University Law School,2.9,,
+Pew Research Center,2.8,,
+Quinnipiac University,2.7,,
+Marist University,2.7,,
+Marist,2.7,,
+CNN/SSRS,2.6,,
+AP-NORC,2.6,,
+Beacon Research/Shaw & Company Research,2.5,,
+Emerson College,2.5,,
+Gallup,2.4,,
+SurveyUSA,2.4,,
+KFF,2.4,,
+High Point University,2.3,,
+YouGov,2.3,,
+Ipsos,2.3,,
+PRRI,2.3,,
+Civiqs,2.2,,
+AtlasIntel,2.2,,
+NewsNation,2.1,,
+Morning Consult,2.0,,
+Echelon Insights,2.0,R,
+Leger,2.0,,
+Data for Progress,1.9,D,
+Public Opinion Strategies,1.9,R,
+Navigator Research,1.8,D,
+Global Strategy Group,1.8,D,
+Hart Research Associates,1.8,D,
+Public Policy Polling,1.8,D,
+J.L. Partners,1.8,,
+Noble Predictive Insights,1.8,,
+Research Co.,1.8,,
+Verasight,1.8,,
+The Argument/Verasight,1.8,,
+Change Research,1.7,D,
+Fabrizio Ward,1.7,R,
+GBAO,1.7,D,
+Lake Research Partners,1.7,D,
+HarrisX,1.5,,
+HarrisX/Harris Poll,1.5,,
+SurveyMonkey,1.5,,
+TIPP Insights,1.5,,
+American Research Group,1.5,,
+The Bullfinch Group,1.5,,
+Lord Ashcroft Polls,1.5,,
+Angus Reid Global,1.5,,
+Focaldata,1.5,,
+North Star Opinion Research,1.5,R,
+The Winston Group,1.5,R,
+Winston Group,1.5,R,
+Cygnal,1.4,R,
+Cygnal Political,1.4,R,
+RealClear Opinion Research,1.4,R,
+RMG Research,1.3,R,
+i360,1.3,R,
+Manhattan Institute,1.3,R,
+OnMessage Inc.,1.3,R,
+Trafalgar Group,1.2,R,
+Trafalgar Group/InsiderAdvantage,1.2,R,
+Big Data Poll,0.0,R,1
+Remington,1.2,R,
+Merlin Strategy,1.2,R,
+Wick,1.2,R,
+American Pulse Research & Polling,1.2,R,
+Zogby Analytics,1.2,,
+John Zogby Strategies,1.2,,
+ActiVote,1.2,,
+InsiderAdvantage,1.0,R,
+co/efficient,1.0,R,
+McLaughlin & Associates,1.0,R,
+Quantus Insights,1.0,R,
+Rasmussen Reports,1.0,R,
+Pharos Research,0.0,,1
+Strategic Vision,0.0,,1
+Research 2000,0.0,,1
+Blumenthal Research,0.0,,1
+Rethink Priorities,0.0,,1
+CSP Polling,0.0,,1
+KG Polling,0.0,,1
+OurProgress,0.0,,1
+The Progress Campaign,0.0,,1
+Overtime Politics,0.0,,1
+TCJ Research,0.0,,1
+The Public Sentiment Institute,0.0,,1

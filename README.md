@@ -17,7 +17,7 @@ curated model inputs plus the generated forecast output.
 | `gcb_polls.csv` | Generic-ballot polls (538-format, pollster-quality rated). |
 | `approval_polls.csv` | Presidential approval polls. |
 | `race_polls.csv` | Per-race NYT matchup polls (Senate/House/Governor), multi-candidate. |
-| `pollster_ratings.csv` | Pollster quality ratings. |
+| `pollster_ratings.csv` | Pollster quality ratings; the `banned` column (rating 0) denotes fabrication/fake pollsters excluded from every average. |
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
 | `fundraising.csv` | Per-race FEC candidate fundraising (cycle receipts + cash on hand) for House/Senate; governors 0. Feeds the fundamentals fundraising term and the output `dem_funds`/`rep_funds`/`ind_funds`. |
 | `ei_env_swings.json` | Ecological-inference per-group vote-margin swings (drives the demographic environment). |
@@ -116,9 +116,10 @@ final round).
 The forecast blends a point-in-time, recency- and quality-weighted average of
 these (polls with `end_date ≤` the run date) with each race's fundamentals.
 
-### pollster_ratings.csv — 73 rows
+### pollster_ratings.csv — 85 rows
 Pollster-quality lookup: `pollster`, `rating` (higher = better), `lean`
-(house-effect direction; blank if none).
+(house-effect direction; blank if none), `banned` (`1` = fabrication/fake
+pollster excluded from every poll average, rating set to 0 to denote it).
 
 ### third_parties.csv — 99 rows
 Third-party / independent candidates on the 2026 ballot, detected from FEC
