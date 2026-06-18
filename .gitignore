@@ -9,6 +9,9 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 
+# Large regenerable caches (the derived fundraising.csv IS committed)
+.fec_summary_2026.csv
+
 # Secrets / credentials — never commit
 .env
 *.env

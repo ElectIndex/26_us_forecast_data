@@ -1,2 +1,2 @@
 date,days_out,n_polls,gcb_naive_margin,gcb_quality_margin,gcb_correction,approve,disapprove,net_approval,approval_pred_margin,econ_pred_margin,fundamentals_blend,time_weight,gcb_margin,house_pv_dem,house_pv_rep,house_pv_oth,house_pv_margin
-2026-05-23,164,469,5.34,5.6,0.26,38.97,57.82,-18.85,6.23,1.88,4.04,0.497,4.82,57734275,50611443,68574,6.57
+2026-05-23,164,458,5.26,5.58,0.31,38.97,57.83,-18.86,6.23,1.88,4.04,0.497,4.8,57841657,50504089,68574,6.77
