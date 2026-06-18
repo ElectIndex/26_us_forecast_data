@@ -19,6 +19,7 @@ curated model inputs plus the generated forecast output.
 | `race_polls.csv` | Per-race NYT matchup polls (Senate/House/Governor), multi-candidate. |
 | `pollster_ratings.csv` | Pollster quality ratings. |
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
+| `fundraising.csv` | Per-race FEC candidate fundraising (cycle receipts + cash on hand) for House/Senate; governors 0. Feeds the fundamentals fundraising term and the output `dem_funds`/`rep_funds`/`ind_funds`. |
 | `ei_env_swings.json` | Ecological-inference per-group vote-margin swings (drives the demographic environment). |
 | `fred_cache.json` | Cached FRED economic series (value + fetch timestamp). |
 
