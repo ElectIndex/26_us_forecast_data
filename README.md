@@ -16,6 +16,7 @@ curated model inputs plus the generated forecast output.
 | `national_econ.csv` | Economic training set (fundamentals). |
 | `gcb_polls.csv` | Generic-ballot polls (538-format, pollster-quality rated). |
 | `approval_polls.csv` | Presidential approval polls. |
+| `race_polls.csv` | Per-race NYT matchup polls (Senate/House/Governor), multi-candidate. |
 | `pollster_ratings.csv` | Pollster quality ratings. |
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
 | `fred_cache.json` | Cached FRED economic series (value + fetch timestamp). |
@@ -99,6 +100,20 @@ Generic-congressional-ballot polls.
 Presidential approval polls.
 - `pollster`, `end_date`, `approve`, `disapprove` (%), `n`, `rating`, `lean`.
 
+### race_polls.csv — per-race NYT matchup polls
+One row per poll-question, scraped from the NYT Senate/House/Governor feeds and
+keyed to `race_code`. Multi-candidate aware so independents, third parties, and
+ranked-choice / top-two contests are represented (ranked-choice polls keep the
+final round).
+- `race_code`, `poll_id`, `pollster`, `end_date`, `n`, `rating`, `lean`.
+- `dem`, `rep` (the dominant Dem/Rep shares), `margin` (`dem − rep`).
+- `oth`, `oth_party`, `oth_name` — strongest minor/independent candidate.
+- `dem2`, `rep2` — secondary same-party shares (open primaries / top-two).
+- `dem_name`, `rep_name` — matched candidate names.
+
+The forecast blends a point-in-time, recency- and quality-weighted average of
+these (polls with `end_date ≤` the run date) with each race's fundamentals.
+
 ### pollster_ratings.csv — 73 rows
 Pollster-quality lookup: `pollster`, `rating` (higher = better), `lean`
 (house-effect direction; blank if none).
@@ -118,10 +133,14 @@ under `output/historical/`.
 - `output/races/<RACE_CODE>.csv` — **one row per run date**, tracking the race's
   evolution over time: `margin`, `dem_prob`/`rep_prob`, `rating`, `lean`, `gcb`,
   `fundamentals`, `pres_2024`, `swing_24_26`, vote shares, RCV / three-way /
-  same-party flags, independent + third-party fields, localized Trump approval
-  (`environment`, `trump_approve`, `trump_net`), and the Dem two-party share for
-  every demographic group (`dem_vap_white`, `dem_age_20_29`, `dem_educ_bachelor`,
-  `dem_inc_200k_plus`, …).
+  same-party flags, and independent + third-party fields. Plus:
+  - **Per-race polling:** `poll_dem`, `poll_rep`, `poll_count`, `polling_avg`,
+    `polling_weight` — the point-in-time race-poll average and how heavily it was
+    blended with fundamentals (blank/0 when no race polls exist as of that date).
+  - **Localized environment + approval:** `environment` (now demographically
+    adjusted), `demo_env_adj`, `trump_approve`, `trump_net`.
+  - **Demographics:** the Dem two-party share for every demographic group
+    (`dem_vap_white`, `dem_age_20_29`, `dem_educ_bachelor`, `dem_inc_200k_plus`, …).
 
 ### Latest-run aggregates (overwritten each run)
 
@@ -132,6 +151,10 @@ under `output/historical/`.
   approval, fundamentals.
 - `output/area_indicators.csv` — per House district and state: lean, GCB,
   environment, and localized Trump approval.
+- `output/votes.csv` — race-level multi-way vote totals + shares (Dem/Rep/Ind/Other).
+- `output/breakdown.csv` — per race × demographic group: Dem/Rep/Ind/Other votes
+  + shares (handles three-way / RCV / top-two splits).
+- `output/race_polls.csv` — the as-of per-race poll averages (incl. `oth`/`dem2`/`rep2`).
 - `output/county_projections.csv` — county-level D/R/IND/OTH vote projection
   (latest run only).
 - `output/county_approval.csv` — Trump approval per county (latest run only).
@@ -140,10 +163,11 @@ under `output/historical/`.
 ### Timelines & history
 
 - `output/timeline.csv` — daily national + chamber numbers across the cycle.
-- `output/historical/<YYYY-MM-DD>/` — per-date archive of that run's run-level
-  aggregates: `races_summary.csv`, `chambers.csv`, `national_indicators.csv`,
-  `area_indicators.csv`, `rcv_rounds.csv`. County-level files are not archived
-  per date; per-race history lives in the `races/` timelines.
+- `output/historical/<YYYY-MM-DD>/` — per-date archive of that run: `races_summary.csv`,
+  `chambers.csv`, `national_indicators.csv`, `area_indicators.csv`, `rcv_rounds.csv`,
+  `votes.csv`, `breakdown.csv.gz` (per race × demographic group, gzipped), and
+  `race_polls.csv` (the as-of race-poll averages). County-level files are not
+  archived per date; per-race history lives in the `races/` timelines.
 
 Produced by the ElectIndex 2026 U.S. forecast pipeline. Inputs are curated from
 public sources; the per-race timelines and `historical/` snapshots accumulate
