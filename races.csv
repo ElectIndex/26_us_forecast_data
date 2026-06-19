@@ -267,7 +267,7 @@ MD-06,house,MD,06,C-0529,April Delaney,DEM,C-0530,Robin Ficker,REP,,,,,,,False,F
 MD-07,house,MD,07,C-0531,Kweisi Mfume,DEM,C-0532,Republican candidate (MD-07),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MD-08,house,MD,08,C-0533,Jamie Raskin,DEM,C-0534,Cheryl Riley,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 ME-01,house,ME,01,C-0535,Chellie Pingree,DEM,C-0536,Republican,REP,,,,,,,True,False,0.0,,,False,DEM,DEM,confirmed,projected,
-ME-02,house,ME,02,C-0537,Matthew Dunlap,DEM,C-0538,Paul LePage,REP,,,,,,,True,False,0.0,,,False,DEM,DEM,projected,confirmed,
+ME-02,house,ME,02,C-0537,Matthew Dunlap,DEM,C-0538,Paul LePage,REP,,,,,,,True,False,0.0,,,False,,DEM,projected,confirmed,
 MI-01,house,MI,01,C-0539,Callie Barr,DEM,C-0540,John Bergman,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 MI-02,house,MI,02,C-0541,Benjamin Ambrose,DEM,C-0542,John Moolenaar,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 MI-03,house,MI,03,C-0543,Hillary Scholten,DEM,C-0544,Allen Fiorletta,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
