@@ -68,6 +68,7 @@ CA-48,7646a549-0add-41ca-8f97-eb9999119af6,Blueprint Polling,2025-10-26,517,1.3,
 CA-GOV,ef4b0770-080f-41bc-8455-d0406e8a13e9,University of California Berkeley Institute of Governmental Studies,2026-05-24,8578,1.3,,52.0,31.0,21.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
 CA-GOV,1ca5915e-9c60-4f3d-89e9-7785ea4e5ee8,University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,2026-05-26,735,1.3,,55.0,34.0,21.0,0.0,,,0.0,0.0,Tom Steyer,Steve Hilton
 CA-GOV,1ca5915e-9c60-4f3d-89e9-7785ea4e5ee8,University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,2026-05-26,735,1.3,,58.0,35.0,23.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
+CA-GOV,dcd15a6d-fa87-4fdc-9b8d-6950782e9970,Kreate Strategies,2026-06-17,900,1.3,,58.0,33.0,25.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
 CO-03,edf8bf05-3a02-4b59-b8ba-154c23aca139,Expedition Strategies,2026-01-12,400,1.3,D,39.0,48.0,-9.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,37.0,47.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,41.0,46.0,-5.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
@@ -379,6 +380,9 @@ MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1163,1.5,R,
 MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1163,1.5,R,45.2,41.6,3.6,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1456,1.5,R,45.0,38.4,6.6,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,171c2baa-929a-4545-9980-55d6685168c3,Tulchin Research,2026-06-04,500,1.3,,46.0,41.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,45.0,42.0,3.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,44.0,42.0,2.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -413,6 +417,7 @@ MT-01,f55d29d1-a799-4b26-8406-120005160eee,Upswing Research,2026-05-05,401,1.3,D
 MT-01,f55d29d1-a799-4b26-8406-120005160eee,Upswing Research,2026-05-05,401,1.3,D,43.0,48.0,-5.0,0.0,,,0.0,0.0,Sam Forstag,Aaron Flint
 MT-SEN,a4cdceed-7a8c-4b70-9ad1-d62e948b6530,yes. every kid. foundation.,2026-01-26,500,1.3,,19.0,43.0,-24.0,15.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
 MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,,44.0,56.0,-12.0,0.0,,,0.0,0.0,Generic Democrat,Kurt Alme
+MT-SEN,bf714d68-2d8d-416f-909e-af5f1c6bf6b1,Public Opinion Strategies,2026-06-11,500,1.9,R,25.0,44.0,-19.0,20.0,IND,Seth Bodnar,0.0,0.0,Alani Bankhead,Kurt Alme
 NC-01,3440fa4a-0c67-43d6-a61b-504c00357db0,GQR,2026-02-02,500,1.3,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NC-01,3440fa4a-0c67-43d6-a61b-504c00357db0,GQR,2026-02-02,500,1.3,D,42.0,39.0,3.0,9.0,LIB,Thomas Aaron Bailey,0.0,0.0,Don Davis,Laurie Buckhout
 NC-01,f50b80ab-4b2b-4f4e-85a2-893560d1be1e,co/efficient,2026-04-29,842,1.0,R,42.0,46.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -599,6 +604,7 @@ PA-GOV,4519c428-f67b-46bc-9201-df5d74ca0d8f,Quinnipiac University,2026-02-23,836
 PA-GOV,aa72a795-9afd-47e9-9acc-d1a4d4c7bea5,Franklin & Marshall College,2026-03-01,834,1.3,,48.0,28.0,20.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 PA-GOV,7097efaf-3d5a-4c01-9aa2-f49c938f6801,"Susquehanna Polling & Research, Inc.",2026-03-29,700,1.3,,58.0,36.0,22.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 PA-GOV,605876ff-2942-4ecc-90a4-3c039d0b5cff,Bravo Group,2026-05-24,684,1.3,,53.4,28.8,24.6,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
+PA-GOV,3493eedc-8f8c-4f18-9857-cb66de51c272,Franklin & Marshall College,2026-06-14,546,1.3,,50.0,28.0,22.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 RI-GOV,5e0ce830-1928-4c23-8e3b-1c25be303a9b,Opinion Diagnostics,2026-04-16,802,1.3,,33.0,16.0,17.0,18.0,IND,Ken Block,0.0,0.0,Helena Foulkes,Aaron Guckian
 RI-GOV,5e0ce830-1928-4c23-8e3b-1c25be303a9b,Opinion Diagnostics,2026-04-16,802,1.3,,28.0,15.0,13.0,20.0,IND,Ken Block,0.0,0.0,Daniel McKee,Aaron Guckian
 RI-GOV,cf5aecb5-692a-45ad-a9b9-35d031ac5d91,Emerson College,2026-05-16,1000,2.5,,32.6,22.5,10.1,22.1,IND,Ken Block,0.0,0.0,Daniel McKee,Generic Republican
