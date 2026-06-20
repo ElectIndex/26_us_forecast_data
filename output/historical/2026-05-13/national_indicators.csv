@@ -1,2 +1,2 @@
-date,days_out,n_polls,gcb_naive_margin,gcb_quality_margin,gcb_correction,approve,disapprove,net_approval,approval_pred_margin,econ_pred_margin,fundamentals_blend,time_weight,gcb_margin,house_pv_dem,house_pv_rep,house_pv_oth,house_pv_margin
-2026-05-13,174,445,4.85,5.17,0.32,39.44,57.4,-17.96,6.13,1.88,3.94,0.486,4.54,57655644,50690081,68574,6.43
+date,days_out,n_polls,gcb_naive_margin,gcb_quality_margin,gcb_correction,approve,disapprove,net_approval,approval_pred_margin,econ_pred_margin,fundamentals_blend,time_weight,gcb_margin,econ_Jobs,econ_Income,econ_Consumption,econ_Production,econ_Inflation,econ_GDP,econ_Stocks,house_pv_dem,house_pv_rep,house_pv_oth,house_pv_margin
+2026-05-13,174,445,4.85,5.17,0.32,39.44,57.4,-17.96,6.13,1.88,3.94,0.486,4.54,0.32,2.54,5.94,1.67,4.27,5.92,27.38,57630493,50675215,108593,6.42
