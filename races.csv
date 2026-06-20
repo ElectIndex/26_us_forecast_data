@@ -318,7 +318,7 @@ NC-12,house,NC,12,C-0631,Alma Adams,DEM,C-0632,John Codiga,REP,,,,,,,False,False
 NC-13,house,NC,13,C-0633,Paul Barringer,DEM,C-0634,Brad Knott,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 NC-14,house,NC,14,C-0635,Lakesha Womack,DEM,C-0636,Tim Moore,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 ND-01,house,ND,01,C-0637,Trygve Hammer,DEM,C-0638,Julie Fedorchak,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
-NE-01,house,NE,01,C-0639,Christopher Backemeyer,DEM,C-0640,Mike Flood,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
+NE-01,house,NE,01,C-0639,Christopher Backemeyer,DEM,C-0640,Mike Flood,REP,C-1015,Austin Ahlman,IND,DEM,,,False,True,0.4,,,False,REP,REP,projected,projected,confirmed
 NE-02,house,NE,02,C-0641,Denise Powell,DEM,C-0642,Brinker Harding,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,
 NE-03,house,NE,03,C-0643,Becky Stille,DEM,C-0644,Adrian Smith,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 NH-01,house,NH,01,C-0645,Stefany Shaheen,DEM,C-0646,Anthony Dilorenzo,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,projected,
