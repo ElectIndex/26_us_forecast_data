@@ -28,9 +28,10 @@ AR-SEN,54e089ff-5f60-4aca-b00c-d93838450703,GrayHouse,2026-02-09,550,1.3,R,36.0,
 AZ-01,aabe2548-ac61-4588-a4c0-4be0aae748f7,Clarity Campaign Labs,2025-11-05,676,1.3,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 AZ-01,e251a4a0-a480-477f-84ea-392b35c58b52,GrayHouse,2025-11-17,500,1.3,,42.0,42.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Thomas (Jay) Feely
 AZ-01,e251a4a0-a480-477f-84ea-392b35c58b52,GrayHouse,2025-11-17,500,1.3,,43.0,40.0,3.0,0.0,,,0.0,0.0,Generic Democrat,Gina Swoboda
-AZ-06,98ca77f6-ec80-4dfa-930b-89b1260ee9c3,Public Policy Polling,2025-10-15,581,1.8,D,42.0,41.0,1.0,0.0,,,0.0,0.0,JoAnna Mendonza,Juan Ciscomani
-AZ-06,88f080b6-7ea1-41ee-a50a-ea1ee78f439c,Ragnar Research Partners,2026-03-14,400,1.3,R,47.0,44.0,3.0,0.0,,,0.0,0.0,JoAnna Mendonza,Juan Ciscomani
+AZ-06,98ca77f6-ec80-4dfa-930b-89b1260ee9c3,Public Policy Polling,2025-10-15,581,1.8,D,42.0,41.0,1.0,0.0,,,0.0,0.0,JoAnna Mendoza,Juan Ciscomani
+AZ-06,88f080b6-7ea1-41ee-a50a-ea1ee78f439c,Ragnar Research Partners,2026-03-14,400,1.3,R,47.0,44.0,3.0,0.0,,,0.0,0.0,JoAnna Mendoza,Juan Ciscomani
 AZ-06,88f080b6-7ea1-41ee-a50a-ea1ee78f439c,Ragnar Research Partners,2026-03-14,400,1.3,R,43.0,42.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+AZ-06,826d7413-1536-4249-8d2a-1ee10804babd,"Normington, Petts & Associates",2026-06-11,500,1.3,D,47.0,45.0,2.0,0.0,,,0.0,0.0,JoAnna Mendoza,Juan Ciscomani
 AZ-GOV,23e35f2b-75f0-4d81-9683-937d845f6e8b,Kreate Strategies,2025-02-07,924,1.3,R,40.0,38.0,2.0,0.0,,,0.0,0.0,Katie Hobbs,Karrin Taylor Robson
 AZ-GOV,23e35f2b-75f0-4d81-9683-937d845f6e8b,Kreate Strategies,2025-02-07,924,1.3,R,43.0,44.0,-1.0,0.0,,,0.0,0.0,Katie Hobbs,Andy Biggs
 AZ-GOV,76031070-e5b3-4204-89eb-e37ed7063081,Noble Predictive Insights,2025-02-13,1006,1.8,,40.0,34.0,6.0,0.0,,,0.0,0.0,Katie Hobbs,Kimberly Yee
@@ -199,6 +200,8 @@ IA-SEN,e6cb5ea0-a482-40b1-aa49-45f7eef8eb57,GBAO,2026-03-16,1200,1.7,D,44.0,47.0
 IA-SEN,bfdc9478-9560-4666-9689-c10a7f491db2,Echelon Insights,2026-04-09,377,2.0,R,46.0,44.0,2.0,0.0,,,0.0,0.0,Zach Wahls,Ashley Hinson
 IA-SEN,bfdc9478-9560-4666-9689-c10a7f491db2,Echelon Insights,2026-04-09,377,2.0,R,46.0,45.0,1.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,f592df59-2938-4f60-9b35-8bb8c1797b2d,Public Policy Polling,2026-06-04,557,1.8,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
+IA-SEN,451d8bec-3834-470b-ac9a-1ba5e1a05a5b,Global Strategy Group,2026-06-11,1000,1.8,D,45.0,47.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+IA-SEN,451d8bec-3834-470b-ac9a-1ba5e1a05a5b,Global Strategy Group,2026-06-11,1000,1.8,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 ID-SEN,c122ad52-5f1f-4e63-adb5-0e3e0218943e,Peak Insights,2026-06-07,500,1.3,R,15.0,55.0,-40.0,7.0,IND,Todd Achilles,0.0,0.0,David Roth,James E. Risch
 IL-GOV,8fe3ba32-52bc-45e8-b8c2-2fc650cd2e1c,Victory Research,2025-11-24,1200,1.3,,54.3,34.0,20.3,0.0,,,0.0,0.0,J.B. Pritzker,Darren Bailey
 KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,Patrick Schmidt,Roger Marshall
@@ -639,6 +642,7 @@ TX-GOV,85cc4ac5-cb11-4b55-9888-56afabb87393,Public Policy Polling,2026-05-23,643
 TX-GOV,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670,1.3,,41.0,46.0,-5.0,1.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,Siena University,2026-06-04,807,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,41.0,49.0,-8.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,R,42.2,53.9,-11.7,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,47.0,-3.0,0.0,,,0.0,0.0,Joaquin Castro,Ken Paxton
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Beto O’Rourke,Wesley Hunt
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,48.0,-4.0,0.0,,,0.0,0.0,Colin Allred,John Cornyn
@@ -704,6 +708,7 @@ TX-SEN,85cc4ac5-cb11-4b55-9888-56afabb87393,Public Policy Polling,2026-05-23,643
 TX-SEN,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670,1.3,,47.0,44.0,3.0,1.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,Siena University,2026-06-04,807,1.3,,46.0,46.0,0.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,43.0,45.0,-2.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,R,47.0,48.5,-1.5,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Shannon Taylor,Robert J. Wittman
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 VA-01,e654526e-74e0-4231-9e4d-f6db1751ccae,Ragnar Research Partners,2026-03-12,400,1.3,R,44.0,42.0,2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
