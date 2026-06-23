@@ -99,12 +99,12 @@ FL-GOV,85470c38-3966-469e-b79c-0d6aa57b08b8,University of North Florida,2025-10-
 FL-GOV,85470c38-3966-469e-b79c-0d6aa57b08b8,University of North Florida,2025-10-25,728,1.3,D,34.0,45.0,-11.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,9717bb62-87de-4da2-a173-9d0772e46664,Targoz Market Research,2026-02-16,0,1.3,,36.0,41.0,-5.0,6.0,IND,Jay Pizzo,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,9717bb62-87de-4da2-a173-9d0772e46664,Targoz Market Research,2026-02-16,1129,1.3,,34.0,36.0,-2.0,6.0,IND,Jay Pizzo,0.0,0.0,David W. Jolly,Byron Donalds
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,200,1.3,,30.3,31.3,-1.0,0.0,,,0.0,0.0,David W. Jolly,James Fishback
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,124,1.3,,42.3,35.8,6.5,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,200,1.3,,32.2,35.7,-3.5,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,124,1.3,,40.1,32.9,7.2,0.0,,,0.0,0.0,David W. Jolly,James Fishback
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,183,1.3,,31.9,31.8,0.1,0.0,,,0.0,0.0,David W. Jolly,James Fishback
-FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,183,1.3,,34.0,36.7,-2.7,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,200,0.0,,30.3,31.3,-1.0,0.0,,,0.0,0.0,David W. Jolly,James Fishback
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,124,0.0,,42.3,35.8,6.5,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,200,0.0,,32.2,35.7,-3.5,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,124,0.0,,40.1,32.9,7.2,0.0,,,0.0,0.0,David W. Jolly,James Fishback
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,183,0.0,,31.9,31.8,0.1,0.0,,,0.0,0.0,David W. Jolly,James Fishback
+FL-GOV,dd707c4b-ee2d-4cbe-8c41-75897ae3d196,The Public Sentiment Institute,2026-02-20,183,0.0,,34.0,36.7,-2.7,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,72690b9b-5fcd-43cc-9f2e-8b5dd041b889,University of North Florida,2026-03-02,776,1.3,,36.0,42.0,-6.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,72690b9b-5fcd-43cc-9f2e-8b5dd041b889,University of North Florida,2026-03-02,773,1.3,,36.0,43.0,-7.0,0.0,,,0.0,0.0,Jerry Demings,Byron Donalds
 FL-GOV,0c1d5568-d122-4047-b18a-d2ae1f2bc8c1,Emerson College,2026-03-31,1125,2.5,,36.2,45.2,-9.0,0.0,,,0.0,0.0,Jerry Demings,Byron Donalds
@@ -451,6 +451,7 @@ NC-SEN,419d2158-916b-4df7-a656-28a6a005e069,Opinion Diagnostics,2026-04-24,830,1
 NC-SEN,17eb9dd9-8dc0-4319-80c9-638fe7b99c58,Opinion Diagnostics,2026-04-24,830,1.3,,50.4,41.4,9.0,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
 NC-SEN,1759647c-7327-4a19-9985-8ebc9ca0bc2b,Change Research,2026-05-08,957,1.7,D,49.3,42.4,6.9,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
 NC-SEN,d9cf448e-160f-4950-adf4-1e4d5d837fd8,Harper Polling,2026-05-11,600,1.3,,49.8,38.7,11.1,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
+NC-SEN,f6e3156e-154f-44b2-9274-6aa47b65ae00,YouGov,2026-06-10,905,2.3,,47.7,34.0,13.7,2.8,LIB,Shannon W. Bray,0.0,0.0,Roy A. Cooper,Michael Whatley
 NE-01,4a7696a0-ee2f-40a1-816e-9d3ad6f0d0da,Zenith Research,2026-05-11,401,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-02,490a2251-4e5b-42c6-95ab-be674de75ad4,Public Policy Polling,2025-10-23,594,1.8,D,46.0,39.0,7.0,0.0,,,0.0,0.0,John Cavanaugh,Generic Republican
 NE-02,490a2251-4e5b-42c6-95ab-be674de75ad4,Public Policy Polling,2025-10-23,594,1.8,D,49.0,42.0,7.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -551,6 +552,7 @@ NY-GOV,14302708-d80e-4ef3-b0e3-1ab8c3d82939,McLaughlin & Associates,2026-03-08,8
 NY-GOV,05fe3660-a54d-4b95-ae71-76ffcf8ab2c1,Echelon Insights,2026-03-26,500,2.0,R,55.0,40.0,15.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
 NY-GOV,9ff953c1-dc3f-4ad4-87eb-ad126f443530,Siena University,2026-03-26,804,1.3,,47.0,34.0,13.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
 NY-GOV,46acc6e1-fd8e-4bfe-9b77-9997ac2f3245,Siena University,2026-04-30,806,1.3,,49.0,33.0,16.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
+OH-07,1e7dc593-8095-4a9e-9cd7-fcdd03fa26b8,GBAO,2026-06-20,500,1.7,D,43.0,44.0,-1.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
 OH-09,fd68275a-5c7e-4660-9427-3c284559935b,McLaughlin & Associates,2026-04-20,400,1.0,R,43.0,47.0,-4.0,3.0,LIB,David Gedert,0.0,0.0,Marcy Kaptur,Derek Merrin
 OH-GOV,f48c4408-c612-4ed8-a111-17380a5a03ce,Public Policy Polling,2025-02-20,642,1.8,D,45.0,44.0,1.0,0.0,,,0.0,0.0,Amy Acton,Vivek G. Ramaswamy
 OH-GOV,f48c4408-c612-4ed8-a111-17380a5a03ce,Public Policy Polling,2025-02-20,642,1.8,D,42.0,48.0,-6.0,0.0,,,0.0,0.0,Tim Ryan,Vivek G. Ramaswamy
@@ -642,6 +644,7 @@ TX-GOV,85cc4ac5-cb11-4b55-9888-56afabb87393,Public Policy Polling,2026-05-23,643
 TX-GOV,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670,1.3,,41.0,46.0,-5.0,1.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,Siena University,2026-06-04,807,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,41.0,49.0,-8.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,b06f9f02-67f3-4c3c-8af6-993ed3085bc5,YouGov,2026-06-12,1200,2.3,,40.0,47.0,-7.0,1.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,R,42.2,53.9,-11.7,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,47.0,-3.0,0.0,,,0.0,0.0,Joaquin Castro,Ken Paxton
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Beto O’Rourke,Wesley Hunt
@@ -708,6 +711,7 @@ TX-SEN,85cc4ac5-cb11-4b55-9888-56afabb87393,Public Policy Polling,2026-05-23,643
 TX-SEN,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670,1.3,,47.0,44.0,3.0,1.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,Siena University,2026-06-04,807,1.3,,46.0,46.0,0.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,43.0,45.0,-2.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,b06f9f02-67f3-4c3c-8af6-993ed3085bc5,YouGov,2026-06-12,1200,2.3,,42.0,43.0,-1.0,3.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,R,47.0,48.5,-1.5,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Shannon Taylor,Robert J. Wittman
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
