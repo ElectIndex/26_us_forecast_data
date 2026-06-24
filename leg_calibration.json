@@ -1,6 +1,7 @@
 {
   "beta_lean": 0.8434,
   "beta_inc": 7.633,
+  "strength_weight": 0.373,
   "sigma": 15.233,
   "nat_2024": -1.48,
   "cycle_intercepts": {

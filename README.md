@@ -291,7 +291,8 @@ by the federal Gov/Sen swings (`races_summary.csv:swing_24_26`). **Outputs:**
 - `output/leg_chambers.csv` — one row per chamber: current/projected composition,
   `dem_control_prob`, seat distribution (mean/median/90% CI), projected control, flip.
 - `output/leg_races.csv` — one row per 2026 seat: candidates, the margin breakdown
-  (`pres_margin → lean + state_swing + inc_adj + env = margin`), `dem_prob`/`rep_prob`,
+  (`pres_margin → lean + state_swing + inc_adj + cand_strength + env = margin`, where
+  `cand_strength` is the ticket-splitting / personal-vote term), `dem_prob`/`rep_prob`,
   and a Safe/Likely/Lean/Toss-up `rating`.
 - `output/leg_timeline.csv` — national daily trajectory across the cycle (D/R chambers
   controlled, expected D-controlled, environment) from `--backdate`.
