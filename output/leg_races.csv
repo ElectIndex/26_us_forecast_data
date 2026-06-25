@@ -3895,7 +3895,7 @@ date,race_code,state,chamber,district,num_seats,dem_name,rep_name,other_name,inc
 2026-06-24,NY-SD-2,NY,Senate,SD-2,1,Jonathan Estreich,Mario Mattera,,Mario Mattera,R,True,False,-11.0,-9.1,-7.37,0.36,-7.43,-4.4,0.0,5.32,,-13.87,0.1931,0.8069,Likely R,,
 2026-06-24,NY-SD-20,NY,Senate,SD-20,1,Zellnor Myrie,,,Zellnor Myrie,D,True,False,78.1,80.12,67.88,0.36,7.43,0.0,5.0,5.32,D,85.63,0.98,0.02,Safe D,,
 2026-06-24,NY-SD-21,NY,Senate,SD-21,1,Kevin Parker,Ronald Seifert,,Kevin Parker,D,True,False,52.2,55.83,47.39,0.37,7.43,0.0,5.0,5.32,,65.15,1.0,0.0,Safe D,,
-2026-06-24,NY-SD-22,NY,Senate,SD-22,1,Sam Sutton,Bernard Vaiselberg,,Sam Sutton,D,True,False,-55.8,-51.11,-42.79,0.36,7.43,0.0,5.0,5.32,,-25.04,0.0589,0.9411,Likely R,,
+2026-06-24,NY-SD-22,NY,Senate,SD-22,1,Sam Sutton,Bernard Vaiselberg,,Sam Sutton,D,True,False,-55.8,-51.11,-42.79,0.36,7.43,81.55,0.0,5.32,,51.51,0.9994,0.0006,Safe D,,
 2026-06-24,NY-SD-23,NY,Senate,SD-23,1,Jessica Scarcella-Spanton,Ruslan Shamal,,Jessica Scarcella-Spanton,D,True,False,-3.3,0.54,0.77,0.36,7.43,5.28,0.0,5.32,,18.8,0.8798,0.1202,Likely D,,
 2026-06-24,NY-SD-24,NY,Senate,SD-24,1,Alexis Rodriguez,Andrew Lanza,,Andrew Lanza,R,True,False,-45.8,-42.74,-35.74,0.36,-7.43,0.0,-5.0,5.32,,-42.85,0.0037,0.9963,Safe R,,
 2026-06-24,NY-SD-25,NY,Senate,SD-25,1,Jabari Brisport,,,Jabari Brisport,D,True,False,82.2,84.5,71.58,0.37,7.43,0.0,5.0,5.32,D,89.33,0.98,0.02,Safe D,,
