@@ -290,11 +290,16 @@ by the federal Gov/Sen swings (`races_summary.csv:swing_24_26`). **Outputs:**
 
 - `output/leg_chambers.csv` — one row per chamber: current/projected composition,
   `dem_control_prob`, seat distribution (mean/median/90% CI), projected control, flip.
+  `cur_control` uses MultiState's authoritative arrangement, so bipartisan-coalition
+  chambers (both Alaska) read `Coalition` with a `coalition_desc`, and MN-House reads
+  `Power_Sharing`, rather than a partisan seat-count.
 - `output/leg_races.csv` — one row per 2026 seat: candidates, the margin breakdown
-  (`pres_margin → lean + state_swing + inc_adj + cand_strength + env = margin`, where
-  `cand_strength` is the ticket-splitting / personal-vote term), `dem_prob`/`rep_prob`,
-  and a Safe/Likely/Lean/Toss-up `rating`. Seats with only one major-party candidate
-  are flagged `uncontested` (`D`/`R`) and go to that candidate regardless of lean.
+  (`fed_lean (2016/2020/2024 blend, or pres_margin) → lean + state_swing + inc_adj +
+  cand_strength + inc_hold + env = margin`), `dem_prob`/`rep_prob`, and a
+  Safe/Likely/Lean/Toss-up `rating`. `cand_strength` is the ticket-splitting term;
+  `inc_hold` is a bounded entrenchment bonus for a running incumbent with no measured
+  strength (the "virtually uncontested" case). Seats with only one major-party
+  candidate are flagged `uncontested` (`D`/`R`) and go to that candidate regardless of lean.
 - `output/leg_timeline.csv` — national daily trajectory across the cycle (D/R chambers
   controlled, expected D-controlled, environment) from `--backdate`.
 - `output/leg_chamber_timeline.csv` — per chamber per date (`dem_control_prob`,
