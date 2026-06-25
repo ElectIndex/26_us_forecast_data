@@ -1,7 +1,10 @@
 # 26_us_forecast_data
 
-Data for ElectIndex's **2026 U.S. election forecast** (Governor, Senate, House) —
-curated model inputs plus the generated forecast output.
+Data for ElectIndex's **2026 U.S. election forecast** (Governor, Senate, House, and
+state legislatures) — curated model inputs plus the generated forecast output. The
+federal/governor forecast and the state-legislative forecast share this repo; files
+prefixed `leg_` belong to the state-legislative layer (`src/pipeline/run_stateleg.py`),
+the rest to the federal/governor pipeline (`src/pipeline/run_all.py`).
 
 ## Inputs
 
@@ -27,6 +30,11 @@ curated model inputs plus the generated forecast output.
 | `leg_results.csv` | Normalized candidate-level 2020/2022/2024 state-legislative election results with per-seat derived fields (`leg_margin`, `winner_party`, `contested`). |
 | `leg_candidate_strength.csv` | Per-candidate strength score (signed D−R, federal-overperf formula); composite across available cycles. |
 | `leg_candidates_2026.csv` | 2026 SLD candidate roster (Ballotpedia scrape + graceful degradation from `leg_results`), with per-slot strengths attached. |
+| `leg_members.csv` | Current state-legislative roster (one row per seat) from MultiState: functional party, 2024 presidential margin, next-election year. |
+| `leg_races_2026.csv` | 2026 state-legislative contests from MultiState: presidential margin, incumbent + party, open/contested, candidate names, `num_seats`, Cook/Sabato ratings. |
+| `leg_chamber_meta.csv` | Authoritative per-chamber totals from MultiState: composition (D/R/Other), `seats_up_2026`, supermajority threshold, and `control` (`D`/`R`/`Coalition`/`Power_Sharing`) with `coalition_desc`. |
+| `leg_calibration.json` | Coefficients fit to the 2020/2022/2024 results (`src/model/leg_calibration.py`): `beta_lean`, `beta_inc`, `strength_weight`, `incumbent_hold`, `sigma`, per-cycle environments. |
+| `leg_strength_overrides.csv` | Curated per-candidate strength overrides (`candidate,state,strength,note`) applied at full weight, for ticket-splitters with no contested history to auto-measure (e.g. Sam Sutton, NY SD-22). |
 
 ## Data dictionary
 
@@ -145,7 +153,8 @@ are projected to *snap back* in the 2026 midterm. The result feeds each race's
 
 ### leg_historical.csv — 6,775 rows (one per 2026 state legislative district)
 Presidential vote history for every SLD that appears on the 2026 ballot; produced
-by `src/data/leg_history.py` from MIT Election Lab + OpenElections shapefiles.
+by `src/data/load_stateleg.py` from the 2026 district shapefiles' `.dbf` attribute
+tables (presidential results pre-attached to each district).
 - `code` — canonical district key (e.g. `AK-H-33`; uses `H`/`S` abbreviation, not
   `lower`/`upper`).
 - `geoid` — TIGER-line GEOID.
@@ -159,7 +168,7 @@ by `src/data/leg_history.py` from MIT Election Lab + OpenElections shapefiles.
 
 ### leg_demographics.csv — 6,775 rows (one per SLD)
 Race/ethnicity composition of the voting-age population for each SLD; produced by
-`src/data/leg_history.py` from the same Census apportionment data as `demographics.csv`.
+`src/data/load_stateleg.py` from the same district shapefiles' `.dbf` attributes.
 - `code`, `state`, `chamber`, `district` — same keys as `leg_historical.csv`.
 - `vap_total` — total voting-age population.
 - `vap_white_pct`/`vap_black_pct`/`vap_hisp_pct`/`vap_asian_pct`/`vap_native_pct`/
@@ -168,7 +177,7 @@ Race/ethnicity composition of the voting-age population for each SLD; produced b
 
 ### leg_results.csv — 38,160 rows (one per candidate × election year)
 Normalized candidate-level state-legislative results for 2020, 2022, and 2024;
-produced by `src/data/leg_results_builder.py`.
+produced by `src/data/prep_leg_results.py`.
 - `year` — election year (2020, 2022, or 2024).
 - `state`, `chamber`, `district` — geography keys; `district` is a string token.
   `chamber` uses `lower`/`upper` (not the `H`/`S` abbreviation in `code`).
@@ -183,7 +192,7 @@ produced by `src/data/leg_results_builder.py`.
   (positive = Dem advantage; derived from the D and R vote shares; `NaN` if
   uncontested or no two-party vote available).
 
-### leg_candidate_strength.csv — 14,549 rows (one per unique candidate)
+### leg_candidate_strength.csv — ~15,400 rows (one per unique candidate)
 Per-candidate strength score for all state-legislative candidates with at least
 one contested appearance in 2020–2024; produced by `src/data/leg_strength.py`.
 - `candidate` — raw candidate name (lower-case, "last, first" as stored in
