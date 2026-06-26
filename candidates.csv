@@ -159,7 +159,7 @@ C-0157,Gary Palmer,Gary,Palmer,REP,AL,1,,-0.79
 C-0158,Terri Sewell,Terri,Sewell,DEM,AL,1,,3.97
 C-0159,Republican candidate (AL-07),Republican,candidate (AL-07),REP,AL,0,,0.0
 C-0160,Terri Green,Terri,Green,DEM,AR,0,,0.0
-C-0161,Eric Crawford,Eric,Crawford,REP,AR,1,,-3.92
+C-0161,Rick Crawford,Rick,Crawford,REP,AR,1,,-3.92
 C-0162,Chris Jones,Chris,Jones,DEM,AR,0,,2.14
 C-0163,French Hill,French,Hill,REP,AR,1,,-1.32
 C-0164,Robb Ryerse,Robb,Ryerse,DEM,AR,0,,0.0
@@ -185,7 +185,7 @@ C-0183,Abraham Hamadeh,Abraham,Hamadeh,REP,AZ,1,,1.08
 C-0184,Danielle Sterbinsky,Danielle,Sterbinsky,DEM,AZ,0,,0.0
 C-0185,Paul Gosar,Paul,Gosar,REP,AZ,1,,0.69
 C-0186,Mike McGuire,Mike,McGuire,DEM,CA,0,,0.0
-C-0187,James Gallagher,James,Gallagher,REP,CA,0,,0.0
+C-0187,James Gallagher,James,Gallagher,REP,CA,1,,0.0
 C-0188,Jared Huffman,Jared,Huffman,DEM,CA,1,,-1.34
 C-0189,Robin Littau,Robin,Littau,REP,CA,0,,0.0
 C-0190,Amerish Bera,Amerish,Bera,DEM,CA,1,,0.84
@@ -232,7 +232,7 @@ C-0230,Tessa Lynn Hodge,Tessa,Lynn Hodge,DEM,CA,0,,0.0
 C-0231,Jay Obernolte,Jay,Obernolte,REP,CA,1,,-3.48
 C-0232,Salud Carbajal,Salud,Carbajal,DEM,CA,1,,-0.8
 C-0233,Robert Smith,Robert,Smith,REP,CA,0,,0.0
-C-0234,Raul Ruiz,Raul,Ruiz,DEM,CA,0,,0.0
+C-0234,Raul Ruiz,Raul,Ruiz,DEM,CA,1,,0.0
 C-0235,Joe Males,Joe,Males,REP,CA,0,,0.0
 C-0236,Jacqui Irwin,Jacqui,Irwin,DEM,CA,0,,0.0
 C-0237,Samuel Gallucci,Samuel,Gallucci,REP,CA,0,,0.0
@@ -244,7 +244,7 @@ C-0242,Luz Rivas,Luz,Rivas,DEM,CA,1,,4.62
 C-0243,Rudy Melendez,Rudy,Melendez,REP,CA,0,,0.0
 C-0244,Laura Friedman,Laura,Friedman,DEM,CA,1,,-2.5
 C-0245,Scott Alan Meyers,Scott,Alan Meyers,REP,CA,0,,0.0
-C-0246,Gilbert Cisneros,Gilbert,Cisneros,DEM,CA,0,,-14.76
+C-0246,Gilbert Cisneros,Gilbert,Cisneros,DEM,CA,1,,-14.76
 C-0247,Eric Ching,Eric,Ching,REP,CA,0,,-2.77
 C-0248,Brad Sherman,Brad,Sherman,DEM,CA,1,,-0.08
 C-0249,Larry Thompson,Larry,Thompson,REP,CA,0,,0.0
@@ -316,7 +316,7 @@ C-0314,Michele Botelho,Michele,Botelho,REP,CT,0,,0.0
 C-0315,Sarah McBride,Sarah,McBride,DEM,DE,1,,4.08
 C-0316,Donyale Hall,Donyale,Hall,REP,DE,0,,0.0
 C-0317,Marcel Davis,Marcel,Davis,DEM,FL,0,,0.0
-C-0318,Jimmy Patronis,Jimmy,Patronis,REP,FL,0,,0.0
+C-0318,Jimmy Patronis,Jimmy,Patronis,REP,FL,1,,0.0
 C-0319,Nicholas Zateslo,Nicholas,Zateslo,DEM,FL,0,,0.0
 C-0320,Keith Gross,Keith,Gross,REP,FL,0,,0.0
 C-0321,Seth Harp,Seth,Harp,DEM,FL,0,,0.0
@@ -398,7 +398,7 @@ C-0396,Rick Allen,Rick,Allen,REP,GA,1,,-5.28
 C-0397,Jasmine Clark,Jasmine,Clark,DEM,GA,0,,0.0
 C-0398,Jonathan Chavez,Jonathan,Chavez,REP,GA,0,,-0.12
 C-0399,Shawn Harris,Shawn,Harris,DEM,GA,0,,12.6
-C-0400,Clay Fuller,Clay,Fuller,REP,GA,0,,0.0
+C-0400,Clay Fuller,Clay,Fuller,REP,GA,1,,0.0
 C-0401,Ed Case,Ed,Case,DEM,HI,1,,19.05
 C-0402,Maxwell Frazier,Maxwell,Frazier,REP,HI,0,,0.0
 C-0403,Jill Tokuda,Jill,Tokuda,DEM,HI,1,,13.58
@@ -454,7 +454,7 @@ C-0452,Barb Regnitz,Barb,Regnitz,REP,IN,0,,0.0
 C-0453,Jamee Decio,Jamee,Decio,DEM,IN,0,,0.0
 C-0454,Rudy Yakym,Rudy,Yakym,REP,IN,1,,-1.6
 C-0455,Kelly Thompson,Kelly,Thompson,DEM,IN,0,,0.0
-C-0456,Marlin Stutzman,Marlin,Stutzman,REP,IN,0,,0.0
+C-0456,Marlin Stutzman,Marlin,Stutzman,REP,IN,1,,0.0
 C-0457,Joseph MacKey,Joseph,MacKey,DEM,IN,0,,0.85
 C-0458,Jim Baird,Jim,Baird,REP,IN,1,,-4.21
 C-0459,James Ford,James,Ford,DEM,IN,0,,0.0
@@ -525,8 +525,8 @@ C-0523,Sarah Elfreth,Sarah,Elfreth,DEM,MD,1,,1.38
 C-0524,Penny Kennedy,Penny,Kennedy,REP,MD,0,,0.0
 C-0525,Glenn Ivey,Glenn,Ivey,DEM,MD,0,,0.0
 C-0526,Republican candidate (MD-04),Republican,candidate (MD-04),REP,MD,0,,0.0
-C-0527,Quincy Bareebe,Quincy,Bareebe,DEM,MD,0,,0.0
-C-0528,Michelle Talkington,Michelle,Talkington,REP,MD,0,,-0.67
+C-0527,Adrian Boafo,Adrian,Boafo,DEM,MD,0,,0.0
+C-0528,Chris Chaffee,Chris,Chaffee,REP,MD,0,,-0.67
 C-0529,April Delaney,April,Delaney,DEM,MD,1,,3.76
 C-0530,Robin Ficker,Robin,Ficker,REP,MD,0,,0.0
 C-0531,Kweisi Mfume,Kweisi,Mfume,DEM,MD,1,,3.35
@@ -534,7 +534,7 @@ C-0532,Republican candidate (MD-07),Republican,candidate (MD-07),REP,MD,0,,0.0
 C-0533,Jamie Raskin,Jamie,Raskin,DEM,MD,1,,0.52
 C-0534,Cheryl Riley,Cheryl,Riley,REP,MD,0,,-3.05
 C-0535,Chellie Pingree,Chellie,Pingree,DEM,ME,1,,3.16
-C-0536,Republican,Republican,,REP,ME,0,,0.0
+C-0536,Ronald Russell,Ronald,Russell,REP,ME,0,,0.0
 C-0537,Matthew Dunlap,Matthew,Dunlap,DEM,ME,0,,0.0
 C-0538,Paul LePage,Paul,LePage,REP,ME,0,,0.0
 C-0539,Callie Barr,Callie,Barr,DEM,MI,0,,3.5
@@ -596,13 +596,13 @@ C-0594,Eric Burlison,Eric,Burlison,REP,MO,1,,-2.22
 C-0595,Clayton Harbison,Clayton,Harbison,DEM,MO,0,,0.0
 C-0596,Jason Smith,Jason,Smith,REP,MO,1,,-0.24
 C-0597,Cliff Johnson,Cliff,Johnson,DEM,MS,0,,0.0
-C-0598,John Kelly,John,Kelly,REP,MS,1,,-1.98
+C-0598,Trent Kelly,Trent,Kelly,REP,MS,1,,-1.98
 C-0599,Bennie Thompson,Bennie,Thompson,DEM,MS,1,,3.09
 C-0600,Ron Eller,Ron,Eller,REP,MS,0,,0.48
 C-0601,Michael Chiaradio,Michael,Chiaradio,DEM,MS,0,,0.0
 C-0602,Mike Guest,Mike,Guest,REP,MS,1,,0.0
 C-0603,Jeffrey Hulum,Jeffrey,Hulum,DEM,MS,0,,0.0
-C-0604,Walter Ezell,Walter,Ezell,REP,MS,1,,-4.62
+C-0604,Mike Ezell,Mike,Ezell,REP,MS,1,,-4.62
 C-0605,Sam Forstag,Sam,Forstag,DEM,MT,0,,0.0
 C-0606,Aaron Flint,Aaron,Flint,REP,MT,0,,0.0
 C-0607,Brian Miller,Brian,Miller,DEM,MT,0,,0.0
@@ -661,13 +661,13 @@ C-0659,Frank Pallone,Frank,Pallone,DEM,NJ,1,,7.68
 C-0660,Hillary Herzig,Hillary,Herzig,REP,NJ,0,,0.0
 C-0661,Rebecca Bennett,Rebecca,Bennett,DEM,NJ,0,,0.0
 C-0662,Tom Kean Jr.,Tom,Kean Jr.,REP,NJ,1,,0.0
-C-0663,Rob Menendez,Rob,Menendez,DEM,NJ,0,,0.0
+C-0663,Rob Menendez,Rob,Menendez,DEM,NJ,1,,0.0
 C-0664,Republican candidate (NJ-08),Republican,candidate (NJ-08),REP,NJ,0,,0.0
 C-0665,Nelida Pou,Nelida,Pou,DEM,NJ,1,,6.52
 C-0666,Rosemary Pino,Rosemary,Pino,REP,NJ,0,,0.0
 C-0667,Lamonica McIver,Lamonica,McIver,DEM,NJ,1,,1.37
 C-0668,Carmen Bucco,Carmen,Bucco,REP,NJ,0,,-1.63
-C-0669,Analilia Mejia,Analilia,Mejia,DEM,NJ,0,,0.0
+C-0669,Analilia Mejia,Analilia,Mejia,DEM,NJ,1,,0.0
 C-0670,Joe Hathaway,Joe,Hathaway,REP,NJ,0,,0.0
 C-0671,Adam Hamawy,Adam,Hamawy,DEM,NJ,0,,0.0
 C-0672,Gregg Mele,Gregg,Mele,REP,NJ,0,,0.0
@@ -691,7 +691,7 @@ C-0689,Patrick Halpin,Patrick,Halpin,DEM,NY,0,,0.0
 C-0690,Andrew Garbarino,Andrew,Garbarino,REP,NY,1,,-3.84
 C-0691,Tom Suozzi,Tom,Suozzi,DEM,NY,1,,11.72
 C-0692,Gregory Hach,Gregory,Hach,REP,NY,0,,0.0
-C-0693,Laura Gillen,Laura,Gillen,DEM,NY,0,,3.81
+C-0693,Laura Gillen,Laura,Gillen,DEM,NY,1,,3.81
 C-0694,Marvin Suber Williams,Marvin,Suber Williams,REP,NY,0,,0.0
 C-0695,Gregory Meeks,Gregory,Meeks,DEM,NY,1,,3.34
 C-0696,Aaron Cherry,Aaron,Cherry,REP,NY,0,,0.0
@@ -786,7 +786,7 @@ C-0784,Loran Ayles,Loran,Ayles,REP,OR,0,,0.0
 C-0785,Valerie Hoyle,Valerie,Hoyle,DEM,OR,1,,-2.12
 C-0786,Monique Despain,Monique,Despain,REP,OR,0,,0.0
 C-0787,Janelle Bynum,Janelle,Bynum,DEM,OR,1,,1.21
-C-0788,Republican,Republican,,REP,OR,0,,0.0
+C-0788,Patti Adair,Patti,Adair,REP,OR,0,,0.0
 C-0789,Andrea Salinas,Andrea,Salinas,DEM,OR,1,,-3.63
 C-0790,David Russ,David,Russ,REP,OR,0,,0.0
 C-0791,Robert Harvie,Robert,Harvie,DEM,PA,0,,0.0
@@ -825,7 +825,7 @@ C-0823,Chris Deluzio,Chris,Deluzio,DEM,PA,1,,4.37
 C-0824,Jesse Vodvarka,Jesse,Vodvarka,REP,PA,0,,0.0
 C-0825,Gabriel Amo,Gabriel,Amo,DEM,RI,1,,9.82
 C-0826,Republican candidate (RI-01),Republican,candidate (RI-01),REP,RI,0,,0.0
-C-0827,Seth Magaziner,Seth,Magaziner,DEM,RI,0,,0.0
+C-0827,Seth Magaziner,Seth,Magaziner,DEM,RI,1,,0.0
 C-0828,Victor Mellor,Victor,Mellor,REP,RI,0,,0.0
 C-0829,Nancy Lacore,Nancy,Lacore,DEM,SC,0,,0.0
 C-0830,Jenny Costa Honeycutt,Jenny,Costa Honeycutt,REP,SC,0,,0.0
@@ -954,7 +954,7 @@ C-0952,Republican candidate (VA-03),Republican,candidate (VA-03),REP,VA,0,,0.0
 C-0953,Jennifer McClellan,Jennifer,McClellan,DEM,VA,1,,5.37
 C-0954,Republican candidate (VA-04),Republican,candidate (VA-04),REP,VA,0,,0.0
 C-0955,Thomas Perriello,Thomas,Perriello,DEM,VA,0,,0.0
-C-0956,John McGuire,John,McGuire,REP,VA,0,,0.0
+C-0956,John McGuire,John,McGuire,REP,VA,1,,0.0
 C-0957,Beth MacY,Beth,MacY,DEM,VA,0,,0.0
 C-0958,Ben Cline,Ben,Cline,REP,VA,1,,-3.8
 C-0959,Yevgeny Vindman,Yevgeny,Vindman,DEM,VA,1,,3.1
@@ -1005,7 +1005,7 @@ C-1003,Frederic Clark,Frederic,Clark,DEM,WI,0,,0.0
 C-1004,Paul Wassgren,Paul,Wassgren,REP,WI,0,,0.0
 C-1005,Mark Scheffler,Mark,Scheffler,DEM,WI,0,,0.0
 C-1006,Tony Wied,Tony,Wied,REP,WI,1,,-0.21
-C-1007,Britta Aguirre,Britta,Aguirre,DEM,WV,0,,0.0
+C-1007,Vince George,Vince,George,DEM,WV,0,,0.0
 C-1008,Carol Miller,Carol,Miller,REP,WV,1,,2.17
 C-1009,Ahsan Parsi,Ahsan,Parsi,DEM,WV,0,,0.0
 C-1010,Riley Moore,Riley,Moore,REP,WV,1,,-3.54
