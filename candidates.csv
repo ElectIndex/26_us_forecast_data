@@ -205,13 +205,13 @@ C-0203,John McBride,John,McBride,REP,CA,0,,0.0
 C-0204,Mark DeSaulnier,Mark,DeSaulnier,DEM,CA,1,,-2.01
 C-0205,Jeff Frese,Jeff,Frese,REP,CA,0,,0.0
 C-0206,Scott Wiener,Scott,Wiener,DEM,CA,0,,0.0
-C-0207,Republican candidate (CA-11),Republican,candidate (CA-11),REP,CA,0,,0.0
+C-0207,(no Republican — top-two),(no,Republican — top-two),REP,CA,0,,0.0
 C-0208,Lateefah Simon,Lateefah,Simon,DEM,CA,1,,0.0
 C-0209,(no Republican — top-two),(no,Republican — top-two),REP,CA,0,,0.0
 C-0210,Adam Gray,Adam,Gray,DEM,CA,1,,8.06
 C-0211,John Duarte,John,Duarte,REP,CA,0,,0.0
 C-0212,Aisha Wahab,Aisha,Wahab,DEM,CA,0,,0.0
-C-0213,Wendy Huang,Wendy,Huang,REP,CA,0,,0.0
+C-0213,(no Republican — top-two),(no,Republican — top-two),REP,CA,0,,0.0
 C-0214,Kevin Mullin,Kevin,Mullin,DEM,CA,1,,-3.99
 C-0215,Charles Hoelter,Charles,Hoelter,REP,CA,0,,0.0
 C-0216,Sam Liccardo,Sam,Liccardo,DEM,CA,1,,0.0
@@ -371,7 +371,7 @@ C-0369,Richard Lamondin,Richard,Lamondin,DEM,FL,0,,0.0
 C-0370,Maria Salazar,Maria,Salazar,REP,FL,1,,-8.15
 C-0371,Phil Ehr,Phil,Ehr,DEM,FL,0,,-3.07
 C-0372,Carlos Gimenez,Carlos,Gimenez,REP,FL,1,,-6.29
-C-0373,Joyce Griggs,Joyce,Griggs,DEM,GA,0,,0.0
+C-0373,Amanda Hollowell,Amanda,Hollowell,DEM,GA,0,,0.0
 C-0374,James Kingston,James,Kingston,REP,GA,0,,0.0
 C-0375,Sanford Bishop,Sanford,Bishop,DEM,GA,1,,5.73
 C-0376,Matt Day,Matt,Day,REP,GA,0,,0.0
@@ -389,9 +389,9 @@ C-0387,James Cooper,James,Cooper,DEM,GA,0,,0.0
 C-0388,Austin Scott,Austin,Scott,REP,GA,1,,-6.52
 C-0389,Nicholas Alex,Nicholas,Alex,DEM,GA,0,,0.0
 C-0390,Andrew Clyde,Andrew,Clyde,REP,GA,1,,-2.86
-C-0391,Alexandra Doherty,Alexandra,Doherty,DEM,GA,0,,-0.95
+C-0391,Pamela DeLancy,Pamela,DeLancy,DEM,GA,0,,-0.95
 C-0392,Houston Gaines,Houston,Gaines,REP,GA,0,,0.0
-C-0393,Barry Wolfert,Barry,Wolfert,DEM,GA,0,,0.0
+C-0393,Chris Harden,Chris,Harden,DEM,GA,0,,0.0
 C-0394,John Cowan,John,Cowan,REP,GA,0,,0.0
 C-0395,Ceretta Smith,Ceretta,Smith,DEM,GA,0,,0.0
 C-0396,Rick Allen,Rick,Allen,REP,GA,1,,-5.28
@@ -427,7 +427,7 @@ C-0425,Mike Quigley,Mike,Quigley,DEM,IL,1,,1.66
 C-0426,Tom Hanson,Tom,Hanson,REP,IL,0,,-1.34
 C-0427,Sean Casten,Sean,Casten,DEM,IL,1,,2.56
 C-0428,Niki Conforti,Niki,Conforti,REP,IL,0,,-0.08
-C-0429,La Ford,La,Ford,DEM,IL,0,,0.0
+C-0429,La Shawn Ford,La Shawn,Ford,DEM,IL,0,,0.0
 C-0430,Chad Koppie,Chad,Koppie,REP,IL,0,,-2.92
 C-0431,Melissa Bean,Melissa,Bean,DEM,IL,0,,0.0
 C-0432,Jennifer Davis,Jennifer,Davis,REP,IL,0,,0.0
@@ -661,7 +661,7 @@ C-0659,Frank Pallone,Frank,Pallone,DEM,NJ,1,,7.68
 C-0660,Hillary Herzig,Hillary,Herzig,REP,NJ,0,,0.0
 C-0661,Rebecca Bennett,Rebecca,Bennett,DEM,NJ,0,,0.0
 C-0662,Tom Kean Jr.,Tom,Kean Jr.,REP,NJ,1,,0.0
-C-0663,Bob Menendez Jr.,Bob,Menendez Jr.,DEM,NJ,0,,0.0
+C-0663,Rob Menendez,Rob,Menendez,DEM,NJ,0,,0.0
 C-0664,Republican candidate (NJ-08),Republican,candidate (NJ-08),REP,NJ,0,,0.0
 C-0665,Nelida Pou,Nelida,Pou,DEM,NJ,1,,6.52
 C-0666,Rosemary Pino,Rosemary,Pino,REP,NJ,0,,0.0
@@ -827,9 +827,9 @@ C-0825,Gabriel Amo,Gabriel,Amo,DEM,RI,1,,9.82
 C-0826,Republican candidate (RI-01),Republican,candidate (RI-01),REP,RI,0,,0.0
 C-0827,Seth Magaziner,Seth,Magaziner,DEM,RI,0,,0.0
 C-0828,Victor Mellor,Victor,Mellor,REP,RI,0,,0.0
-C-0829,William Deford,William,Deford,DEM,SC,0,,0.0
-C-0830,Sam McCown,Sam,McCown,REP,SC,0,,0.0
-C-0831,Roger Pruitt,Roger,Pruitt,DEM,SC,0,,0.0
+C-0829,Nancy Lacore,Nancy,Lacore,DEM,SC,0,,0.0
+C-0830,Jenny Costa Honeycutt,Jenny,Costa Honeycutt,REP,SC,0,,0.0
+C-0831,Zyon Khalifa,Zyon,Khalifa,DEM,SC,0,,0.0
 C-0832,Joe Wilson,Joe,Wilson,REP,SC,1,,-4.1
 C-0833,Eunice Lehmacher,Eunice,Lehmacher,DEM,SC,0,,0.0
 C-0834,Sheri Biggs,Sheri,Biggs,REP,SC,1,,-7.13
@@ -939,7 +939,7 @@ C-0937,Melissa McDonough,Melissa,McDonough,DEM,TX,0,,-0.82
 C-0938,Jon Bonck,Jon,Bonck,REP,TX,0,,0.0
 C-0939,Ben McAdams,Ben,McAdams,DEM,UT,0,,5.02
 C-0940,Riley Owen,Riley,Owen,REP,UT,0,,0.0
-C-0941,Democratic candidate (UT-02),Democratic,candidate (UT-02),DEM,UT,0,,0.0
+C-0941,Peter Crosby,Peter,Crosby,DEM,UT,0,,0.0
 C-0942,Blake Moore,Blake,Moore,REP,UT,1,,-10.56
 C-0943,Kent Udell,Kent,Udell,DEM,UT,0,,0.0
 C-0944,Celeste Maloy,Celeste,Maloy,REP,UT,1,,-4.38
