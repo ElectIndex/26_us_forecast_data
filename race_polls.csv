@@ -305,6 +305,7 @@ ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,
 ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,,55.0,45.0,10.0,0.0,,,0.0,0.0,Generic Democrat,Susan M. Collins
 ME-SEN,1dc1cc06-a65f-46f1-a53b-c11769d634dd,Quantus Insights,2026-06-11,870,1.0,R,46.0,45.0,1.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,6539644e-fc58-4f80-9d89-ed3a81a98bc6,Wick,2026-06-14,1008,1.2,R,47.6,45.4,2.2,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
+ME-SEN,67b56c94-89a5-47e0-ace0-551879438390,The New York Times/Siena University,2026-06-26,608,3.0,,49.0,47.0,2.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 MI-04,f33c3514-2271-4179-93da-6545ef164594,Public Policy Polling,2025-11-21,559,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,48.0,-6.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
@@ -396,6 +397,9 @@ MI-SEN,65ba6cdf-2251-4329-92db-d3957baf9616,Mitchell Research & Communications,2
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,45.0,42.0,3.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,44.0,42.0,2.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
+MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,46.0,46.0,0.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,49.0,44.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,41.0,48.0,-7.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
