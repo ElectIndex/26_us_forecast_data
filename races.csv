@@ -486,7 +486,7 @@ VA-11,house,VA,11,C-0967,James Walkinshaw,DEM,C-0968,Stewart Whitson,REP,,,,,,,F
 VT-01,house,VT,01,C-0969,Rebecca Balint,DEM,C-0970,Mark Coester,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 WA-01,house,WA,01,C-0971,Suzan Delbene,DEM,C-0972,Republican candidate (WA-01),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 WA-02,house,WA,02,C-0973,Rick Larsen,DEM,C-0974,Republican candidate (WA-02),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
-WA-03,house,WA,03,C-0975,Marie Gluesenkamp Perez,DEM,C-0976,Joe Kent,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,confirmed,
+WA-03,house,WA,03,C-0975,Marie Gluesenkamp Perez,DEM,C-0976,John Braun,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,projected,
 WA-04,house,WA,04,C-0977,John Duresky,DEM,C-0978,Jerrod Sessler,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
 WA-05,house,WA,05,C-0979,Carmela Conroy,DEM,C-0980,Michael Baumgartner,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 WA-06,house,WA,06,C-0981,Emily Randall,DEM,C-0982,Teresa Fox,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
