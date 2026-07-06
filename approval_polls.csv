@@ -1,39 +1,39 @@
 pollster,end_date,approve,disapprove,n,rating,lean
 InsiderAdvantage,2025-01-20,56.0,39.0,800,1.0,R
-Ipsos,2025-01-21,47.0,41.0,1077,2.3,
 SoCal Strategies,2025-01-21,49.0,36.0,742,1.3,
+Ipsos,2025-01-21,47.0,41.0,1077,2.3,
 Big Data Poll,2025-01-22,55.5,37.4,2979,1.2,R
 Quantus Insights,2025-01-23,54.0,40.0,1000,1.0,R
 AtlasIntel,2025-01-23,50.1,49.7,1882,2.2,
 RMG Research,2025-01-23,57.0,39.0,3000,1.3,R
-Echelon Insights,2025-01-24,51.0,43.0,1024,2.0,R
 Research Co.,2025-01-24,50.0,46.0,1001,1.8,
+Echelon Insights,2025-01-24,51.0,43.0,1024,2.0,R
 Morning Consult,2025-01-26,52.0,44.0,2303,2.0,
 Ipsos,2025-01-26,45.0,46.0,1034,2.3,
 Gallup,2025-01-27,47.0,48.0,1001,2.4,
-McLaughlin & Associates,2025-01-27,52.0,43.0,1000,1.0,R
 Morning Consult,2025-01-27,52.0,38.0,0,2.0,
 Quinnipiac University,2025-01-27,46.0,43.0,1019,2.7,
-co/efficient,2025-01-28,52.0,47.0,1570,1.0,R
+McLaughlin & Associates,2025-01-27,52.0,43.0,1000,1.0,R
 Emerson College,2025-01-28,48.5,41.2,1000,2.5,
+co/efficient,2025-01-28,52.0,47.0,1570,1.0,R
 YouGov,2025-01-28,49.5,44.5,1577,2.3,
+TIPP Insights,2025-01-31,46.0,41.0,1478,1.5,
 RMG Research,2025-01-31,53.0,43.0,4000,1.3,R
 ActiVote,2025-01-31,52.0,45.9,1182,1.2,
-TIPP Insights,2025-01-31,46.0,41.0,1478,1.5,
 Fabrizio Ward/Impact Research,2025-02-01,48.0,47.0,3000,1.3,
 Pew Research Center,2025-02-02,47.0,51.0,5086,2.8,
-Navigator Research,2025-02-03,49.0,47.0,1000,1.8,D
 Quantus Insights,2025-02-03,52.0,45.0,1000,1.0,R
+Navigator Research,2025-02-03,49.0,47.0,1000,1.8,D
 Morning Consult,2025-02-03,49.0,47.0,0,2.0,
 YouGov,2025-02-04,47.0,45.5,1423,2.3,
 Civiqs,2025-02-04,45.0,52.0,1113,2.2,D
-Marquette University Law School,2025-02-05,48.0,52.0,1063,2.9,
 Cygnal Political,2025-02-05,49.8,47.6,1500,1.4,R
+Marquette University Law School,2025-02-05,48.0,52.0,1063,2.9,
 RMG Research,2025-02-06,51.0,45.0,3000,1.3,R
 Clarity Campaign Labs,2025-02-06,48.0,43.0,1102,1.3,
 YouGov,2025-02-07,53.0,47.0,2175,2.3,
-Morning Consult,2025-02-09,49.0,49.0,0,2.0,
 Trafalgar Group/InsiderAdvantage,2025-02-09,53.9,45.3,1321,1.2,R
+Morning Consult,2025-02-09,49.0,49.0,0,2.0,
 J.L. Partners,2025-02-09,46.0,40.0,1017,1.8,
 YouGov,2025-02-11,45.0,41.0,1000,2.3,
 YouGov,2025-02-11,46.5,48.5,1595,2.3,
@@ -41,24 +41,24 @@ Quantus Insights,2025-02-12,53.0,44.0,1000,1.0,R
 Echelon Insights,2025-02-13,52.0,46.0,1010,2.0,R
 RMG Research,2025-02-14,55.0,43.0,3000,1.3,R
 HarrisX,2025-02-15,52.0,43.0,1009,1.5,
-Gallup,2025-02-16,45.0,51.0,1004,2.4,
 Morning Consult,2025-02-16,50.0,47.0,0,2.0,
 SurveyUSA,2025-02-16,51.0,45.0,2000,2.4,
-Quinnipiac University,2025-02-17,45.0,49.0,1039,2.7,
+Gallup,2025-02-16,45.0,51.0,1004,2.4,
 Blueprint Polling,2025-02-17,47.0,48.0,1383,1.3,
 co/efficient,2025-02-17,48.0,48.0,2063,1.0,R
-Emerson College,2025-02-17,47.8,42.2,1000,2.5,
 CNN/SSRS,2025-02-17,46.5,53.0,989,2.6,
-Ipsos,2025-02-18,46.5,52.0,2601,2.3,
-Ipsos,2025-02-18,44.0,51.0,4125,2.3,
-YouGov,2025-02-18,50.0,46.0,1451,2.3,
-YouGov,2025-02-18,46.0,46.0,1135,2.3,
+Emerson College,2025-02-17,47.8,42.2,1000,2.5,
+Quinnipiac University,2025-02-17,45.0,49.0,1039,2.7,
 McLaughlin & Associates,2025-02-18,51.0,46.0,1000,1.0,R
+YouGov,2025-02-18,46.0,46.0,1135,2.3,
+Ipsos,2025-02-18,46.5,52.0,2601,2.3,
+YouGov,2025-02-18,50.0,46.0,1451,2.3,
+Ipsos,2025-02-18,44.0,51.0,4125,2.3,
 OnMessage Inc.,2025-02-19,50.0,49.0,1000,1.3,R
+YouGov,2025-02-20,48.0,44.0,1137,2.3,
 HarrisX/Harris Poll,2025-02-20,52.0,43.0,2443,1.5,
 Echelon Insights,2025-02-20,48.0,49.0,1006,2.0,R
 American Research Group,2025-02-20,43.0,51.0,1100,1.5,
-YouGov,2025-02-20,48.0,44.0,1137,2.3,
 RMG Research,2025-02-21,53.0,44.0,3000,1.3,R
 Ipsos,2025-02-23,44.0,50.0,1029,2.3,
 YouGov,2025-02-24,48.0,43.0,1198,2.3,
@@ -69,200 +69,200 @@ J.L. Partners,2025-02-25,45.0,39.0,1001,1.8,
 YouGov,2025-02-25,48.0,46.0,1444,2.3,
 YouGov,2025-02-25,45.0,46.0,1129,2.3,
 The Bullfinch Group,2025-02-26,47.5,47.0,1200,1.5,
-Quantus Insights,2025-02-26,51.0,45.2,1000,1.0,R
 Marist University,2025-02-26,45.0,50.0,1533,2.7,
+Quantus Insights,2025-02-26,51.0,45.2,1000,1.0,R
 AtlasIntel,2025-02-27,50.3,49.7,2849,2.2,
-RMG Research,2025-02-28,53.0,45.0,3000,1.3,R
-TIPP Insights,2025-02-28,46.0,43.0,1434,1.5,
 ActiVote,2025-02-28,49.5,48.8,1760,1.2,
+TIPP Insights,2025-02-28,46.0,43.0,1434,1.5,
+RMG Research,2025-02-28,53.0,45.0,3000,1.3,R
 CNN/SSRS,2025-02-28,48.0,52.0,1785,2.6,
 YouGov,2025-02-28,51.0,49.0,2311,2.3,
 John Zogby Strategies,2025-03-01,47.7,47.5,1001,1.2,
 Morning Consult,2025-03-02,49.0,48.0,2229,2.0,
-Public Opinion Strategies,2025-03-02,51.0,49.0,1000,1.9,R
 Justice Research Fund,2025-03-02,47.0,50.0,2049,1.3,
+Public Opinion Strategies,2025-03-02,51.0,49.0,1000,1.9,R
 Civiqs,2025-03-03,48.0,52.0,1031,2.2,D
 Emerson College,2025-03-03,48.0,43.1,1000,2.5,
 YouGov,2025-03-04,48.5,47.5,1491,2.3,
 Ipsos,2025-03-04,44.0,51.0,1174,2.3,
+Morning Consult,2025-03-05,48.7,44.7,0,2.0,
 Trafalgar Group/InsiderAdvantage,2025-03-05,50.0,45.0,800,1.2,R
 Cygnal Political,2025-03-05,47.4,50.7,1500,1.4,R
-Morning Consult,2025-03-05,48.7,44.7,0,2.0,
-RMG Research,2025-03-06,51.0,47.0,2000,1.3,R
 TIPP Insights,2025-03-06,43.0,48.0,1720,1.5,R
+RMG Research,2025-03-06,51.0,47.0,2000,1.3,R
 McLaughlin & Associates,2025-03-07,50.8,49.2,1655,1.0,R
 J.L. Partners,2025-03-07,45.0,46.0,1019,1.8,
-CNN/SSRS,2025-03-09,45.5,53.5,1206,2.6,
-Clarity Campaign Labs,2025-03-09,50.0,46.0,1036,1.3,
 Morning Consult,2025-03-09,49.0,49.0,2219,2.0,
+Clarity Campaign Labs,2025-03-09,50.0,46.0,1036,1.3,
+CNN/SSRS,2025-03-09,45.5,53.5,1206,2.6,
 Quinnipiac University,2025-03-10,42.0,53.0,1198,2.7,
 Emerson College,2025-03-10,47.2,45.0,1000,2.5,
-Hart Research Associates/Public Opinion Strategies,2025-03-11,47.0,51.0,1000,1.3,
 YouGov,2025-03-11,47.5,48.0,1699,2.3,
-Quantus Insights,2025-03-12,49.5,47.4,1000,1.0,R
+Hart Research Associates/Public Opinion Strategies,2025-03-11,47.0,51.0,1000,1.3,
 Ipsos,2025-03-12,44.0,52.0,1422,2.3,
 AtlasIntel,2025-03-12,47.3,52.4,2550,2.2,
-Echelon Insights,2025-03-13,49.0,48.0,1007,2.0,R
+Quantus Insights,2025-03-12,49.5,47.4,1000,1.0,R
 RMG Research,2025-03-13,54.0,44.0,3000,1.3,R
+Echelon Insights,2025-03-13,49.0,48.0,1007,2.0,R
 Blueprint Polling,2025-03-14,45.0,51.0,1400,1.3,
 Gallup,2025-03-16,43.0,53.0,1002,2.4,
 Morning Consult,2025-03-16,48.0,50.0,2210,2.0,
 North Star Opinion Research,2025-03-17,46.0,51.0,1000,1.5,R
 Beacon Research/Shaw & Company Research,2025-03-17,49.0,51.0,994,2.5,
 Navigator Research,2025-03-17,47.0,49.0,1000,1.8,D
-YouGov,2025-03-18,46.0,50.5,1458,2.3,
 Remington,2025-03-18,50.0,48.0,800,1.2,R
+YouGov,2025-03-18,46.0,50.5,1458,2.3,
 RMG Research,2025-03-19,53.0,45.0,3000,1.3,R
 "Normington, Petts & Associates",2025-03-19,46.0,53.0,800,1.3,
 American Research Group,2025-03-20,45.5,51.0,1100,1.5,
 PRRI,2025-03-20,43.0,54.0,5025,2.3,
-GBAO,2025-03-23,48.0,50.0,2000,1.7,D
-Morning Consult,2025-03-23,47.0,50.0,2206,2.0,
 Ipsos,2025-03-23,45.0,51.0,1030,2.3,
-AP-NORC,2025-03-24,42.0,56.0,1229,2.6,
+Morning Consult,2025-03-23,47.0,50.0,2206,2.0,
+GBAO,2025-03-23,48.0,50.0,2000,1.7,D
 Schoen Cooperman Research,2025-03-24,46.0,48.0,1011,1.3,
+AP-NORC,2025-03-24,42.0,56.0,1229,2.6,
 YouGov,2025-03-24,45.0,50.0,1667,2.3,
 YouGov,2025-03-25,48.0,48.0,1600,2.3,
-J.L. Partners,2025-03-27,45.0,46.0,1001,1.8,
-Marquette University Law School,2025-03-27,46.5,53.0,1021,2.9,
 HarrisX/Harris Poll,2025-03-27,49.0,46.0,2746,1.5,
 Quantus Insights,2025-03-27,49.4,46.4,1000,1.0,R
+Marquette University Law School,2025-03-27,46.5,53.0,1021,2.9,
+J.L. Partners,2025-03-27,45.0,46.0,1001,1.8,
 RMG Research,2025-03-27,52.0,45.0,3000,1.3,R
-Targoz Market Research,2025-03-28,46.0,51.0,1200,1.3,
 TIPP Insights,2025-03-28,44.0,45.0,1452,1.5,
+Targoz Market Research,2025-03-28,46.0,51.0,1200,1.3,
 YouGov,2025-03-28,50.0,50.0,2600,2.3,
 Morning Consult,2025-03-30,47.0,49.0,2205,2.0,
-John Zogby Strategies,2025-03-31,48.0,48.0,1000,1.2,
 ActiVote,2025-03-31,47.6,49.4,799,1.2,
+John Zogby Strategies,2025-03-31,48.0,48.0,1000,1.2,
 YouGov,2025-04-01,46.0,50.0,1626,2.3,
 "Fabrizio, Lee & Associates/Impact Research",2025-04-01,46.0,51.0,1500,1.3,
 Ipsos,2025-04-02,43.0,53.0,1486,2.3,
-RMG Research,2025-04-03,51.0,47.0,3000,1.3,R
-Cygnal Political,2025-04-03,47.0,51.1,1500,1.4,R
 J.L. Partners,2025-04-03,47.0,42.0,1019,1.8,
+Cygnal Political,2025-04-03,47.0,51.1,1500,1.4,R
+RMG Research,2025-04-03,51.0,47.0,3000,1.3,R
 Morning Consult,2025-04-06,46.0,52.0,2207,2.0,
+Quinnipiac University,2025-04-07,41.0,53.0,1407,2.7,
+Navigator Research,2025-04-07,44.0,53.0,1000,1.8,D
 Morning Consult,2025-04-07,47.8,46.0,0,2.0,
 HarrisX,2025-04-07,47.0,49.0,1883,1.5,
-Navigator Research,2025-04-07,44.0,53.0,1000,1.8,D
-Quinnipiac University,2025-04-07,41.0,53.0,1407,2.7,
 YouGov,2025-04-08,44.0,51.5,1741,2.3,
-Quantus Insights,2025-04-09,46.8,49.7,1000,1.0,R
-University of Massachusetts Department of Political Science/YouGov,2025-04-09,44.0,51.0,1000,1.3,
 TIPP Insights,2025-04-09,43.0,50.0,1570,1.5,R
-HarrisX/Harris Poll,2025-04-10,48.0,46.0,2286,1.5,
-YouGov,2025-04-10,41.0,54.0,1151,2.3,
+University of Massachusetts Department of Political Science/YouGov,2025-04-09,44.0,51.0,1000,1.3,
+Quantus Insights,2025-04-09,46.8,49.7,1000,1.0,R
 RMG Research,2025-04-10,49.0,48.0,3000,1.3,R
 The Winston Group,2025-04-10,39.0,54.0,1000,1.5,R
+YouGov,2025-04-10,41.0,54.0,1151,2.3,
+HarrisX/Harris Poll,2025-04-10,48.0,46.0,2286,1.5,
 YouGov,2025-04-11,47.0,53.0,2410,2.3,
 RealClear Opinion Research,2025-04-12,44.2,43.5,1000,1.4,R
-Morning Consult,2025-04-13,45.0,52.0,2203,2.0,
 Pew Research Center,2025-04-13,40.0,59.0,3589,2.8,
+Morning Consult,2025-04-13,45.0,52.0,2203,2.0,
 Hart Research Associates/Public Opinion Strategies,2025-04-13,44.0,51.0,1000,1.3,
 GrayHouse,2025-04-13,46.0,52.0,1100,1.3,R
-Echelon Insights,2025-04-14,47.0,51.0,1014,2.0,R
-Clarity Campaign Labs,2025-04-14,46.0,49.0,1008,1.3,
-AtlasIntel,2025-04-14,46.1,52.4,2347,2.2,
 Gallup,2025-04-14,44.0,53.0,1006,2.4,
+Echelon Insights,2025-04-14,47.0,51.0,1014,2.0,R
+AtlasIntel,2025-04-14,46.1,52.4,2347,2.2,
 J.L. Partners,2025-04-14,48.0,42.0,1002,1.8,
-Civiqs,2025-04-15,46.0,53.0,1124,2.2,D
+Clarity Campaign Labs,2025-04-14,46.0,49.0,1008,1.3,
 YouGov,2025-04-15,43.5,52.5,1329,2.3,
+Civiqs,2025-04-15,46.0,53.0,1124,2.2,D
 RMG Research,2025-04-16,48.0,51.0,3000,1.3,R
 YouGov,2025-04-17,41.0,47.0,1000,2.3,
 Noble Predictive Insights,2025-04-18,44.0,53.0,2527,1.8,
 McLaughlin & Associates,2025-04-19,48.4,51.6,1638,1.0,R
-Morning Consult,2025-04-20,46.0,51.0,2207,2.0,
-SurveyMonkey,2025-04-20,45.0,55.0,19682,1.5,
 American Research Group,2025-04-20,43.0,53.0,1100,1.5,
+SurveyMonkey,2025-04-20,45.0,55.0,19682,1.5,
+Morning Consult,2025-04-20,46.0,51.0,2207,2.0,
 Beacon Research/Shaw & Company Research,2025-04-21,44.0,55.0,1104,2.5,
-Ipsos,2025-04-21,42.0,53.0,4306,2.3,
 AP-NORC,2025-04-21,39.0,59.0,1260,2.6,
+Ipsos,2025-04-21,42.0,53.0,4306,2.3,
 Ipsos,2025-04-22,40.5,55.0,2464,2.3,
 YouGov,2025-04-22,41.0,54.0,1625,2.3,
 Quantus Insights,2025-04-23,47.7,49.8,1000,1.0,R
-Marist University,2025-04-23,42.5,53.0,1439,2.7,
 John Zogby Strategies,2025-04-23,48.0,50.0,1000,1.2,
 YouGov,2025-04-23,43.0,52.5,949,2.3,
-CNN/SSRS,2025-04-24,42.0,58.0,1476,2.6,
-The New York Times/Siena University,2025-04-24,41.5,53.9,913,3.0,
-The Bullfinch Group,2025-04-24,46.0,51.0,1200,1.5,
+Marist University,2025-04-23,42.5,53.0,1439,2.7,
 RMG Research,2025-04-24,49.0,48.0,3000,1.3,R
+The Bullfinch Group,2025-04-24,46.0,51.0,1200,1.5,
+The New York Times/Siena University,2025-04-24,41.5,53.9,913,3.0,
+CNN/SSRS,2025-04-24,42.0,58.0,1476,2.6,
 YouGov,2025-04-25,45.0,55.0,2365,2.3,
-Morning Consult,2025-04-27,45.9,54.2,4426,2.0,
-TrueDot,2025-04-27,43.0,56.0,1448,1.3,
 Ipsos,2025-04-27,42.0,53.0,1029,2.3,
-YouGov,2025-04-28,43.5,53.0,1024,2.3,
+TrueDot,2025-04-27,43.0,56.0,1448,1.3,
+Morning Consult,2025-04-27,45.9,54.2,4426,2.0,
+Emerson College,2025-04-28,44.7,45.3,1000,2.5,
 Navigator Research,2025-04-28,44.0,54.0,1000,1.8,D
 J.L. Partners,2025-04-28,41.0,50.0,1006,1.8,
-Emerson College,2025-04-28,44.7,45.3,1000,2.5,
 YouGov,2025-04-28,42.5,53.0,1785,2.3,
-ActiVote,2025-04-30,45.0,51.1,576,1.2,
-Wick,2025-04-30,43.0,51.0,1000,1.2,R
+YouGov,2025-04-28,43.5,53.0,1024,2.3,
 Lord Ashcroft Polls,2025-04-30,45.5,52.5,8595,1.5,
-Trafalgar Group/InsiderAdvantage,2025-05-01,45.8,43.8,1200,1.2,R
+Wick,2025-04-30,43.0,51.0,1000,1.2,R
+ActiVote,2025-04-30,45.0,51.1,576,1.2,
 RMG Research,2025-05-01,49.0,48.0,3000,1.3,R
+Trafalgar Group/InsiderAdvantage,2025-05-01,45.8,43.8,1200,1.2,R
 YouGov,2025-05-02,42.0,52.0,2220,2.3,
 TIPP Insights,2025-05-02,42.0,47.0,1400,1.5,
 High Point University,2025-05-03,41.0,50.0,1000,2.3,
 Morning Consult,2025-05-04,46.0,52.0,2263,2.0,
+Big Data Poll,2025-05-05,48.0,47.4,3128,1.2,R
 YouGov,2025-05-05,43.5,52.0,1850,2.3,
 AP-NORC,2025-05-05,41.0,57.0,1175,2.6,
-Big Data Poll,2025-05-05,48.0,47.4,3128,1.2,R
 Verasight,2025-05-06,40.0,56.0,1000,1.8,
 Quantus Insights,2025-05-07,48.2,48.3,1000,1.0,R
 RMG Research,2025-05-08,49.0,49.0,3000,1.3,R
-Morning Consult,2025-05-08,46.2,48.0,0,2.0,
 YouGov,2025-05-08,41.5,50.0,1142,2.3,
-co/efficient,2025-05-09,49.0,51.0,1462,1.0,R
+Morning Consult,2025-05-08,46.2,48.0,0,2.0,
 Wick,2025-05-09,47.0,49.0,1000,1.2,R
+co/efficient,2025-05-09,49.0,51.0,1462,1.0,R
 Morning Consult,2025-05-11,45.0,52.0,2221,2.0,
 Echelon Insights,2025-05-12,46.0,52.0,1000,2.0,R
 YouGov,2025-05-12,44.0,52.0,1610,2.3,
-Ipsos,2025-05-13,44.0,52.0,1163,2.3,
 The Bullfinch Group,2025-05-13,45.0,50.5,1000,1.5,
+Ipsos,2025-05-13,44.0,52.0,1163,2.3,
 J.L. Partners,2025-05-14,45.0,46.0,1003,1.8,
-HarrisX/Harris Poll,2025-05-15,47.0,48.0,1903,1.5,
 RMG Research,2025-05-15,52.0,48.0,3000,1.3,R
+HarrisX/Harris Poll,2025-05-15,47.0,48.0,1903,1.5,
 Marquette University Law School,2025-05-15,46.0,54.0,1004,2.9,
 YouGov,2025-05-16,43.7,48.5,1118,2.3,
+Navigator Research,2025-05-18,44.0,54.0,1376,1.8,D
 Ipsos,2025-05-18,42.0,52.0,1024,2.3,
 Gallup,2025-05-18,43.0,53.0,1003,2.4,
-Navigator Research,2025-05-18,44.0,54.0,1376,1.8,D
-Morning Consult,2025-05-19,48.0,50.0,2208,2.0,
-Fabrizio Ward,2025-05-19,46.0,49.0,800,1.7,R
 InsiderAdvantage,2025-05-19,54.6,44.4,1000,1.0,R
 YouGov,2025-05-19,44.0,51.5,1710,2.3,
-American Research Group,2025-05-20,41.5,55.0,1100,1.5,
+Morning Consult,2025-05-19,48.0,50.0,2208,2.0,
+Fabrizio Ward,2025-05-19,46.0,49.0,800,1.7,R
 Quantus Insights,2025-05-20,48.3,47.8,1000,1.0,R
 Civiqs,2025-05-20,47.0,52.0,1018,2.2,D
+American Research Group,2025-05-20,41.5,55.0,1100,1.5,
 RMG Research,2025-05-21,48.0,50.0,3000,1.3,R
 Morning Consult,2025-05-25,47.6,50.7,2237,2.0,
 YouGov,2025-05-26,45.0,52.0,1486,2.3,
-YouGov,2025-05-27,43.0,53.5,1560,2.3,
 AtlasIntel,2025-05-27,44.5,54.4,3469,2.2,
+YouGov,2025-05-27,43.0,53.5,1560,2.3,
 Wick,2025-05-28,47.0,48.9,1000,1.2,R
-RMG Research,2025-05-29,49.0,50.0,3000,1.3,R
 John Zogby Strategies,2025-05-29,48.0,49.0,1000,1.2,
+RMG Research,2025-05-29,49.0,50.0,3000,1.3,R
 TIPP Insights,2025-05-30,43.0,45.0,1395,1.5,
 ActiVote,2025-05-31,46.3,50.2,488,1.2,
 Trafalgar Group,2025-06-01,53.7,45.6,1098,1.2,R
+YouGov,2025-06-02,45.5,50.0,1436,2.3,
 GrayHouse,2025-06-02,48.0,49.0,2000,1.3,R
 Morning Consult,2025-06-02,46.2,50.8,2205,2.0,
-YouGov,2025-06-02,45.5,50.0,1436,2.3,
 RMG Research,2025-06-03,51.0,46.0,3000,1.3,R
 Quantus Insights,2025-06-04,48.8,48.2,1000,1.0,R
-J.L. Partners,2025-06-06,43.0,49.0,1006,1.8,
 YouGov,2025-06-06,45.0,55.0,2428,2.3,
+J.L. Partners,2025-06-06,43.0,49.0,1006,1.8,
 Morning Consult,2025-06-08,46.6,51.0,2204,2.0,
 Pew Research Center,2025-06-08,41.0,58.0,5044,2.8,
-YouGov,2025-06-09,44.0,52.5,1533,2.3,
-Morning Consult,2025-06-09,49.8,44.1,0,2.0,
-Quinnipiac University,2025-06-09,38.0,54.0,1265,2.7,
-Navigator Research,2025-06-09,43.0,55.0,1371,1.8,D
 AP-NORC,2025-06-09,39.0,60.0,1158,2.6,
-SurveyMonkey,2025-06-10,45.0,55.0,19410,1.5,
+Quinnipiac University,2025-06-09,38.0,54.0,1265,2.7,
+YouGov,2025-06-09,44.0,52.5,1533,2.3,
+Navigator Research,2025-06-09,43.0,55.0,1371,1.8,D
+Morning Consult,2025-06-09,49.8,44.1,0,2.0,
 PureSpectrum,2025-06-10,37.0,48.0,30967,1.3,
-Quantus Insights,2025-06-11,47.5,49.1,1000,1.0,R
+SurveyMonkey,2025-06-10,45.0,55.0,19410,1.5,
 J.L. Partners,2025-06-11,42.0,46.0,1807,1.8,
+Quantus Insights,2025-06-11,47.5,49.1,1000,1.0,R
 TIPP Insights,2025-06-11,43.0,50.0,1584,1.5,R
 HarrisX/Harris Poll,2025-06-12,46.0,50.0,2097,1.5,
 RMG Research,2025-06-12,52.0,46.0,3000,1.3,R
@@ -270,33 +270,33 @@ Verasight,2025-06-12,42.0,56.0,1500,1.8,
 Clarity Campaign Labs,2025-06-14,47.0,50.0,1000,1.3,
 The Winston Group,2025-06-14,41.0,52.0,1000,1.5,R
 GrayHouse,2025-06-15,47.0,52.0,1000,1.3,R
-Morning Consult,2025-06-15,46.3,52.2,2207,2.0,
 McLaughlin & Associates,2025-06-15,47.4,52.6,1637,1.0,R
+Morning Consult,2025-06-15,46.3,52.2,2207,2.0,
+InsiderAdvantage,2025-06-16,54.4,44.1,1000,1.0,R
 Ipsos,2025-06-16,42.0,54.0,4258,2.3,
+Schoen Cooperman Research,2025-06-16,45.0,50.0,800,1.3,
 YouGov,2025-06-16,42.5,53.5,1351,2.3,
 Beacon Research/Shaw & Company Research,2025-06-16,46.0,54.0,1003,2.5,
-InsiderAdvantage,2025-06-16,54.4,44.1,1000,1.0,R
-Schoen Cooperman Research,2025-06-16,45.0,50.0,800,1.3,
 J.L. Partners,2025-06-17,46.0,51.0,1039,1.8,
 Echelon Insights,2025-06-17,45.0,53.0,982,2.0,R
 Echelon Insights,2025-06-18,48.0,52.0,1002,2.0,R
-RMG Research,2025-06-19,53.0,46.0,3000,1.3,R
 Gallup,2025-06-19,40.0,57.0,1000,2.4,
+RMG Research,2025-06-19,53.0,46.0,3000,1.3,R
 Trafalgar Group,2025-06-20,54.4,44.5,1085,1.2,R
 The Bullfinch Group,2025-06-20,42.0,54.0,1006,1.5,
 American Research Group,2025-06-20,38.0,59.0,1100,1.5,
 Morning Consult,2025-06-22,45.0,52.7,2205,2.0,
-YouGov,2025-06-23,41.5,54.0,1455,2.3,
-Ipsos,2025-06-23,41.0,54.0,1144,2.3,
 Ipsos,2025-06-23,41.0,57.0,1139,2.3,
+Ipsos,2025-06-23,41.0,54.0,1144,2.3,
+YouGov,2025-06-23,41.5,54.0,1455,2.3,
 Quinnipiac University,2025-06-24,41.0,54.0,979,2.7,
 Marist University,2025-06-25,43.5,52.5,1381,2.7,
 Emerson College,2025-06-25,44.9,46.3,1000,2.5,
 Quantus Insights,2025-06-25,47.0,50.0,1000,1.0,R
 American Pulse Research & Polling,2025-06-25,49.7,48.9,633,1.2,R
 John Zogby Strategies,2025-06-25,45.0,53.0,1006,1.2,
-RMG Research,2025-06-26,51.0,47.0,3000,1.3,R
 The Tyson Group,2025-06-26,45.0,51.0,1027,1.3,
+RMG Research,2025-06-26,51.0,47.0,3000,1.3,R
 Targoz Market Research,2025-06-26,43.0,54.0,1200,1.3,
 TIPP Insights,2025-06-27,44.0,45.0,1421,1.5,
 Morning Consult,2025-06-29,47.1,50.4,2202,2.0,
@@ -309,52 +309,52 @@ Quantus Insights,2025-07-02,47.0,49.0,1000,1.0,R
 Morning Consult,2025-07-06,45.0,52.1,2203,2.0,
 YouGov,2025-07-07,42.5,53.5,1528,2.3,
 HarrisX/Harris Poll,2025-07-08,47.0,49.0,2044,1.5,
-J.L. Partners,2025-07-10,44.0,48.0,1013,1.8,
 Morning Consult,2025-07-10,44.0,50.1,0,2.0,
-A2 Insights,2025-07-10,46.7,52.7,862,1.3,
 RMG Research,2025-07-10,50.0,47.0,3000,1.3,R
-YouGov,2025-07-13,39.0,56.0,2104,2.3,
-Morning Consult,2025-07-13,47.5,50.1,2201,2.0,
+A2 Insights,2025-07-10,46.7,52.7,862,1.3,
+J.L. Partners,2025-07-10,44.0,48.0,1013,1.8,
 CNN/SSRS,2025-07-13,43.0,57.0,1057,2.6,
-Quinnipiac University,2025-07-14,40.0,54.0,1290,2.7,
+Morning Consult,2025-07-13,47.5,50.1,2201,2.0,
+YouGov,2025-07-13,39.0,56.0,2104,2.3,
 Echelon Insights,2025-07-14,45.0,53.0,1084,2.0,R
+Quinnipiac University,2025-07-14,40.0,54.0,1290,2.7,
 Big Data Poll,2025-07-14,48.3,48.7,3022,1.2,R
 AP-NORC,2025-07-14,40.0,58.0,1437,2.6,
 YouGov,2025-07-14,42.0,54.5,1506,2.3,
+Verasight,2025-07-16,42.0,57.0,1500,1.8,
 Marquette University Law School,2025-07-16,45.5,54.5,747,2.9,
 Quantus Insights,2025-07-16,48.0,50.0,1000,1.0,R
 Ipsos,2025-07-16,41.0,54.0,1027,2.3,
 RMG Research,2025-07-16,52.0,48.0,3000,1.3,R
-Verasight,2025-07-16,42.0,57.0,1500,1.8,
 YouGov,2025-07-18,42.0,58.0,2343,2.3,
 AtlasIntel,2025-07-18,44.3,54.9,1935,2.2,
-American Research Group,2025-07-20,38.0,59.0,1100,1.5,
 "Fabrizio, Lee & Associates/Impact Research",2025-07-20,46.0,52.0,1500,1.3,
 Morning Consult,2025-07-20,45.2,52.0,2202,2.0,
-GBAO,2025-07-21,45.0,54.0,2000,1.7,D
-Beacon Research/Shaw & Company Research,2025-07-21,46.0,54.0,1000,2.5,
-Gallup,2025-07-21,37.0,58.0,1002,2.4,
-YouGov,2025-07-21,41.5,55.5,1111,2.3,
-YouGov,2025-07-21,42.0,55.5,1729,2.3,
+American Research Group,2025-07-20,38.0,59.0,1100,1.5,
 Navigator Research,2025-07-21,42.0,54.0,1000,1.8,D
+GBAO,2025-07-21,45.0,54.0,2000,1.7,D
+YouGov,2025-07-21,42.0,55.5,1729,2.3,
+Beacon Research/Shaw & Company Research,2025-07-21,46.0,54.0,1000,2.5,
+YouGov,2025-07-21,41.5,55.5,1111,2.3,
 High Point University,2025-07-21,40.0,51.0,1000,2.3,
+Gallup,2025-07-21,37.0,58.0,1002,2.4,
+J.L. Partners,2025-07-22,45.0,46.0,1007,1.8,
 The Bullfinch Group,2025-07-22,41.5,55.5,1000,1.5,
 Emerson College,2025-07-22,45.7,46.8,1400,2.5,
-J.L. Partners,2025-07-22,45.0,46.0,1007,1.8,
-Trafalgar Group/InsiderAdvantage,2025-07-23,50.0,48.0,1200,1.2,R
 Quantus Insights,2025-07-23,47.4,49.9,1123,1.0,R
-McLaughlin & Associates,2025-07-24,46.9,53.1,1633,1.0,R
+Trafalgar Group/InsiderAdvantage,2025-07-23,50.0,48.0,1200,1.2,R
 RMG Research,2025-07-24,50.0,48.0,3000,1.3,R
-Ipsos,2025-07-27,40.0,56.0,1023,2.3,
+McLaughlin & Associates,2025-07-24,46.9,53.1,1633,1.0,R
 Morning Consult,2025-07-27,47.4,49.7,2203,2.0,
+Ipsos,2025-07-27,40.0,56.0,1023,2.3,
 Leger,2025-07-27,37.0,51.0,1007,2.0,
-YouGov,2025-07-28,41.5,55.0,1168,2.3,
 YouGov,2025-07-28,42.0,54.0,1610,2.3,
-GrayHouse,2025-07-29,46.0,51.0,2000,1.3,R
+YouGov,2025-07-28,41.5,55.0,1168,2.3,
 John Zogby Strategies,2025-07-29,43.0,54.0,1010,1.2,
+GrayHouse,2025-07-29,46.0,51.0,2000,1.3,R
 University of Massachusetts Department of Political Science/YouGov,2025-07-30,38.0,58.0,1000,1.3,
-RMG Research,2025-07-31,50.0,48.0,3000,1.3,R
 ActiVote,2025-07-31,44.5,52.1,454,1.2,
+RMG Research,2025-07-31,50.0,48.0,3000,1.3,R
 Clarity Campaign Labs,2025-07-31,46.0,51.0,1018,1.3,
 TIPP Insights,2025-08-01,45.0,46.0,1362,1.5,
 Hart Research Associates/Public Opinion Strategies,2025-08-03,46.0,51.0,1000,1.3,
@@ -364,91 +364,91 @@ RMG Research,2025-08-07,50.0,49.0,3000,1.3,R
 Morning Consult,2025-08-09,44.9,48.7,0,2.0,
 Pew Research Center,2025-08-10,38.0,60.0,3505,2.8,
 Morning Consult,2025-08-10,46.5,51.0,2200,2.0,
-Navigator Research,2025-08-11,43.0,55.0,1000,1.8,D
 YouGov,2025-08-11,43.0,53.5,1635,2.3,
+Navigator Research,2025-08-11,43.0,55.0,1000,1.8,D
 Merlin Strategy,2025-08-12,42.1,49.8,2000,1.2,R
 Quantus Insights,2025-08-13,47.4,51.0,1000,1.0,R
 RMG Research,2025-08-14,48.0,51.0,3000,1.3,R
 The Argument/Verasight,2025-08-17,43.0,55.0,1562,1.8,
 InsiderAdvantage,2025-08-17,54.0,43.6,1000,1.0,R
-Ipsos,2025-08-18,40.0,54.0,4446,2.3,
 Echelon Insights,2025-08-18,47.0,51.0,1057,2.0,R
-Morning Consult,2025-08-18,46.5,50.7,2201,2.0,
 YouGov,2025-08-18,41.5,55.0,1568,2.3,
+Morning Consult,2025-08-18,46.5,50.7,2201,2.0,
+Ipsos,2025-08-18,40.0,54.0,4446,2.3,
 SoCal Strategies,2025-08-19,45.0,48.0,700,1.3,R
-American Research Group,2025-08-20,38.0,59.5,1100,1.5,
 Gallup,2025-08-20,40.0,56.0,1094,2.4,
+American Research Group,2025-08-20,38.0,59.5,1100,1.5,
+Verasight,2025-08-21,41.0,56.0,1500,1.8,
 HarrisX/Harris Poll,2025-08-21,47.0,49.0,2025,1.5,
 RMG Research,2025-08-21,49.0,48.0,3000,1.3,R
-Verasight,2025-08-21,41.0,56.0,1500,1.8,
 Morning Consult,2025-08-24,47.0,50.0,2200,2.0,
 Ipsos,2025-08-24,40.0,54.0,1022,2.3,
-YouGov,2025-08-25,42.0,55.5,1523,2.3,
 Quinnipiac University,2025-08-25,37.0,55.0,1220,2.7,
 AP-NORC,2025-08-25,45.0,53.0,1182,2.6,
-Emerson College,2025-08-26,44.7,47.3,1000,2.5,
+YouGov,2025-08-25,42.0,55.5,1523,2.3,
 Talker Research,2025-08-26,43.0,46.0,1000,1.3,
+Emerson College,2025-08-26,44.7,47.3,1000,2.5,
 Quantus Insights,2025-08-26,47.6,50.6,1000,1.0,R
 RMG Research,2025-08-28,50.0,49.0,3000,1.3,R
 TIPP Insights,2025-08-29,43.0,47.0,1362,1.5,
+ActiVote,2025-08-31,43.7,50.4,412,1.2,
 Morning Consult,2025-08-31,46.0,50.7,2202,2.0,
 Leger,2025-08-31,39.0,50.0,1014,2.0,
-ActiVote,2025-08-31,43.7,50.4,412,1.2,
 John Zogby Strategies,2025-08-31,46.4,52.2,1005,1.2,
 Survey 160,2025-09-01,43.0,54.0,1437,1.3,
 J.L. Partners,2025-09-01,49.0,41.0,867,1.8,
-SurveyMonkey,2025-09-01,43.0,57.0,30196,1.5,
 The Winston Group,2025-09-01,41.0,52.0,1000,1.5,R
 J.L. Partners,2025-09-01,49.0,41.0,867,1.8,
+SurveyMonkey,2025-09-01,43.0,57.0,30196,1.5,
 YouGov,2025-09-02,42.5,55.0,1549,2.3,
 YouGov,2025-09-02,41.0,55.5,1690,2.3,
 RMG Research,2025-09-03,50.0,48.0,3000,1.3,R
 YouGov,2025-09-05,44.0,56.0,2385,2.3,
-Navigator Research,2025-09-08,43.0,53.0,1375,1.8,D
 PRRI,2025-09-08,42.0,56.0,5543,2.3,
-Morning Consult,2025-09-08,45.3,51.7,2201,2.0,
-Morning Consult,2025-09-08,44.2,49.2,0,2.0,
 YouGov,2025-09-08,42.5,54.0,1644,2.3,
-Ipsos,2025-09-09,42.0,56.0,1084,2.3,
+Morning Consult,2025-09-08,44.2,49.2,0,2.0,
+Morning Consult,2025-09-08,45.3,51.7,2201,2.0,
+Navigator Research,2025-09-08,43.0,53.0,1375,1.8,D
 YouGov,2025-09-09,42.0,55.0,2030,2.3,R
+Ipsos,2025-09-09,42.0,56.0,1084,2.3,
 Beacon Research/Shaw & Company Research,2025-09-09,46.0,54.0,1004,2.5,
-RMG Research,2025-09-11,50.0,48.0,3000,1.3,R
 Clarity Campaign Labs,2025-09-11,46.0,52.0,1001,1.3,
+RMG Research,2025-09-11,50.0,48.0,3000,1.3,R
 The Bullfinch Group,2025-09-11,46.0,51.0,1700,1.5,
 Morning Consult,2025-09-14,45.9,51.9,2204,2.0,
 Ipsos,2025-09-15,44.0,55.5,2513,2.3,
-YouGov,2025-09-15,41.0,55.0,1102,2.3,
 AP-NORC,2025-09-15,39.0,60.0,1183,2.6,
 SurveyMonkey,2025-09-15,43.0,55.0,20807,1.5,
+YouGov,2025-09-15,41.0,55.0,1102,2.3,
 YouGov,2025-09-15,41.0,56.0,1420,2.3,
 Gallup,2025-09-16,40.0,56.0,1000,2.4,
-"Normington, Petts & Associates",2025-09-16,45.0,54.0,800,1.3,
 TIPP Insights,2025-09-16,45.0,49.0,1561,1.5,R
+"Normington, Petts & Associates",2025-09-16,45.0,54.0,800,1.3,
 AtlasIntel,2025-09-16,46.9,52.0,1066,2.2,
 RMG Research,2025-09-17,51.0,47.0,3000,1.3,R
 The Argument/Verasight,2025-09-18,42.0,56.0,1541,1.8,
 Verasight,2025-09-19,42.0,55.0,1500,1.8,
 American Research Group,2025-09-20,37.0,58.0,1100,1.5,
-Ipsos,2025-09-21,41.0,58.0,1019,2.3,
 Quinnipiac University,2025-09-21,38.0,54.0,1276,2.7,
-Morning Consult,2025-09-21,46.3,51.6,2201,2.0,
 Quantus Insights,2025-09-21,48.2,49.7,1000,1.0,R
-YouGov,2025-09-22,41.0,55.5,1392,2.3,
+Morning Consult,2025-09-21,46.3,51.6,2201,2.0,
+Ipsos,2025-09-21,41.0,58.0,1019,2.3,
 Echelon Insights,2025-09-22,45.0,53.0,1071,2.0,R
-Marquette University Law School,2025-09-24,44.0,56.0,1043,2.9,
+YouGov,2025-09-22,41.0,55.5,1392,2.3,
 RMG Research,2025-09-24,50.0,48.5,3000,1.3,R
+Marquette University Law School,2025-09-24,44.0,56.0,1043,2.9,
 Marist University,2025-09-26,41.5,53.0,1329,2.7,
 The New York Times/Siena University,2025-09-27,42.9,54.1,1313,3.0,
 Pew Research Center,2025-09-28,40.0,58.0,3445,2.8,
 Morning Consult,2025-09-28,45.7,52.0,2202,2.0,
 Leger,2025-09-29,38.0,50.0,1010,2.0,
-YouGov,2025-09-29,42.5,55.0,1129,2.3,
 YouGov,2025-09-29,41.5,54.0,1518,2.3,
-InsiderAdvantage,2025-09-30,52.0,46.0,800,1.0,R
+YouGov,2025-09-29,42.5,55.0,1129,2.3,
 ActiVote,2025-09-30,43.5,51.5,485,1.2,
+InsiderAdvantage,2025-09-30,52.0,46.0,800,1.0,R
 RMG Research,2025-10-01,51.0,48.0,3000,1.3,R
-TIPP Insights,2025-10-02,42.0,46.0,1459,1.5,
 HarrisX/Harris Poll,2025-10-02,46.0,50.0,2413,1.5,
+TIPP Insights,2025-10-02,42.0,46.0,1459,1.5,
 YouGov,2025-10-03,42.0,58.0,2438,2.3,
 Navigator Research,2025-10-05,44.0,54.0,1000,1.8,D
 Morning Consult,2025-10-05,46.2,51.6,2200,2.0,
@@ -458,139 +458,139 @@ Noble Predictive Insights,2025-10-06,48.0,50.0,2565,1.8,
 Morning Consult,2025-10-07,43.4,50.1,0,2.0,
 Ipsos,2025-10-07,40.0,58.0,1154,2.3,
 Quantus Insights,2025-10-08,47.0,51.0,1000,1.0,R
-Tavern Research,2025-10-09,43.0,54.0,1993,1.3,
 RMG Research,2025-10-09,51.0,48.0,3000,1.3,R
+Tavern Research,2025-10-09,43.0,54.0,1993,1.3,
 Hart Research Associates/Public Opinion Strategies,2025-10-12,44.0,52.0,1000,1.3,
-John Zogby Strategies,2025-10-12,44.0,51.0,1000,1.2,
 Morning Consult,2025-10-12,45.1,52.9,2202,2.0,
-AP-NORC,2025-10-13,37.0,61.0,1289,2.6,
+John Zogby Strategies,2025-10-12,44.0,51.0,1000,1.2,
 Navigator Research,2025-10-13,44.0,54.0,1000,1.8,D
 YouGov,2025-10-13,42.0,54.5,1622,2.3,
+AP-NORC,2025-10-13,37.0,61.0,1289,2.6,
 Emerson College,2025-10-14,45.3,48.3,1000,2.5,
 J.L. Partners,2025-10-15,46.0,44.0,1004,1.8,
-Gallup,2025-10-16,41.0,54.0,1000,2.4,
 The Argument/Verasight,2025-10-16,43.0,54.0,1530,1.8,
-The Winston Group,2025-10-16,38.0,55.0,1000,1.5,R
-RMG Research,2025-10-16,52.0,47.0,3000,1.3,R
 The Bullfinch Group,2025-10-16,42.0,52.5,1000,1.5,
+The Winston Group,2025-10-16,38.0,55.0,1000,1.5,R
+Gallup,2025-10-16,41.0,54.0,1000,2.4,
+RMG Research,2025-10-16,52.0,47.0,3000,1.3,R
 Hart Research Associates,2025-10-19,45.0,55.0,1221,1.8,D
 Morning Consult,2025-10-19,46.4,51.0,2200,2.0,
 Schoen Cooperman Research,2025-10-20,45.0,51.0,1000,1.3,
-Ipsos,2025-10-20,42.0,56.0,4385,2.3,
-Echelon Insights,2025-10-20,46.0,53.0,1010,2.0,R
 YouGov,2025-10-20,41.0,55.5,1448,2.3,
-American Research Group,2025-10-20,37.0,60.0,1100,1.5,
 Navigator Research,2025-10-20,43.0,55.0,1000,1.8,D
-University of Massachusetts Lowell Center for Public Opinion/YouGov,2025-10-20,42.0,58.0,1000,1.3,
 Quinnipiac University,2025-10-20,40.0,54.0,1327,2.7,
+Ipsos,2025-10-20,42.0,56.0,4385,2.3,
+University of Massachusetts Lowell Center for Public Opinion/YouGov,2025-10-20,42.0,58.0,1000,1.3,
+American Research Group,2025-10-20,37.0,60.0,1100,1.5,
+Echelon Insights,2025-10-20,46.0,53.0,1010,2.0,R
 RMG Research,2025-10-22,51.0,47.0,3000,1.3,R
 Clarity Campaign Labs,2025-10-23,46.0,52.0,1047,1.3,
-Morning Consult,2025-10-26,46.1,51.0,2202,2.0,
 Ipsos,2025-10-26,40.0,57.0,1018,2.3,
+Morning Consult,2025-10-26,46.1,51.0,2202,2.0,
 Leger,2025-10-26,39.0,52.0,1010,2.0,
-YouGov,2025-10-27,41.0,56.5,1476,2.3,
-Navigator Research,2025-10-27,41.0,57.0,1000,1.8,D
 YouGov,2025-10-27,41.5,55.5,1770,2.3,
+Navigator Research,2025-10-27,41.0,57.0,1000,1.8,D
+YouGov,2025-10-27,41.0,56.5,1476,2.3,
 Ipsos,2025-10-28,42.0,58.0,2203,2.3,
-Hart Research Associates/Public Opinion Strategies,2025-10-28,43.0,55.0,1000,1.3,
 Big Data Poll,2025-10-28,44.9,51.2,2984,1.2,R
-NewsNation,2025-10-29,42.0,56.8,1159,2.1,
+Hart Research Associates/Public Opinion Strategies,2025-10-28,43.0,55.0,1000,1.3,
 Verasight,2025-10-29,41.0,56.0,1567,1.8,
 Targoz Market Research,2025-10-29,43.0,55.0,1200,1.3,
+NewsNation,2025-10-29,42.0,56.8,1159,2.1,
 CNN/SSRS,2025-10-30,38.0,62.0,954,2.6,
 RMG Research,2025-10-30,48.0,49.0,3000,1.3,R
-YouGov,2025-10-31,41.0,59.0,2118,2.3,
-TIPP Insights,2025-10-31,40.0,51.0,1418,1.5,
-ActiVote,2025-10-31,46.0,50.6,574,1.2,
 Talker Research,2025-10-31,44.0,46.0,1000,1.3,
+ActiVote,2025-10-31,46.0,50.6,574,1.2,
+TIPP Insights,2025-10-31,40.0,51.0,1418,1.5,
+YouGov,2025-10-31,41.0,59.0,2118,2.3,
 Lord Ashcroft Polls,2025-11-01,42.0,55.0,10028,1.5,
 Morning Consult,2025-11-02,45.3,52.3,2202,2.0,
-Navigator Research,2025-11-03,41.0,56.0,1000,1.8,D
 YouGov,2025-11-03,41.0,56.0,1475,2.3,
+Navigator Research,2025-11-03,41.0,56.0,1000,1.8,D
 Emerson College,2025-11-04,41.1,49.4,1000,2.5,
 HarrisX/Harris Poll,2025-11-06,44.0,51.0,2000,1.5,
 RMG Research,2025-11-06,46.0,51.0,3000,1.3,R
-Morning Consult,2025-11-09,43.9,54.3,2201,2.0,
 Navigator Research,2025-11-09,40.0,58.0,1000,1.8,D
+Morning Consult,2025-11-09,43.9,54.3,2201,2.0,
 GrayHouse,2025-11-09,45.0,53.0,1475,1.3,R
-Change Research,2025-11-10,45.0,54.0,1572,1.7,D
 Survey 160,2025-11-10,36.0,61.0,1513,1.3,
+Change Research,2025-11-10,45.0,54.0,1572,1.7,D
 YouGov,2025-11-10,41.0,55.5,1500,2.3,
 AP-NORC,2025-11-10,36.0,62.0,1143,2.6,
 Yale University Institution for Social and Policy Studies,2025-11-11,43.0,55.0,3426,1.3,
-Ipsos,2025-11-12,40.0,58.0,1200,2.3,
-Morning Consult,2025-11-12,41.1,52.2,0,2.0,
-Marquette University Law School,2025-11-12,43.0,57.0,1052,2.9,
 Quantus Insights,2025-11-12,43.2,54.6,1000,1.0,R
+Marquette University Law School,2025-11-12,43.0,57.0,1052,2.9,
+Morning Consult,2025-11-12,41.1,52.2,0,2.0,
+Ipsos,2025-11-12,40.0,58.0,1200,2.3,
+Marist University,2025-11-13,39.5,56.5,1443,2.7,
 RMG Research,2025-11-13,49.0,50.0,3000,1.3,R
 Morning Consult,2025-11-13,43.0,52.0,1745,2.0,
-Marist University,2025-11-13,39.5,56.5,1443,2.7,
-High Point University,2025-11-14,36.5,56.5,837,2.3,
 Verasight,2025-11-14,41.0,57.0,2038,1.8,
+High Point University,2025-11-14,36.5,56.5,837,2.3,
 Morning Consult,2025-11-16,45.6,52.1,2201,2.0,
-The Argument/Verasight,2025-11-17,42.0,56.0,1508,1.8,
+YouGov,2025-11-17,41.5,56.0,1549,2.3,
 Ipsos,2025-11-17,38.0,60.0,1017,2.3,
-Beacon Research/Shaw & Company Research,2025-11-17,41.0,58.0,1005,2.5,
+The Argument/Verasight,2025-11-17,42.0,56.0,1508,1.8,
 The Winston Group,2025-11-17,36.0,57.0,1000,1.5,R
 Echelon Insights,2025-11-17,42.0,57.0,1051,2.0,R
-YouGov,2025-11-17,41.5,56.0,1549,2.3,
-J.L. Partners,2025-11-20,41.0,49.0,1244,1.8,
-American Research Group,2025-11-20,35.0,62.0,1100,1.5,
+Beacon Research/Shaw & Company Research,2025-11-17,41.0,58.0,1005,2.5,
 RMG Research,2025-11-20,46.0,53.0,3000,1.3,R
+American Research Group,2025-11-20,35.0,62.0,1100,1.5,
+J.L. Partners,2025-11-20,41.0,49.0,1244,1.8,
+YouGov,2025-11-21,40.0,60.0,2478,2.3,
 InsiderAdvantage,2025-11-21,44.0,49.3,800,1.0,R
 Emerson College,2025-11-21,45.0,55.0,1000,2.5,
 Big Data Poll,2025-11-21,45.4,50.3,2005,1.2,R
-YouGov,2025-11-21,40.0,60.0,2478,2.3,
 Morning Consult,2025-11-23,45.2,51.8,2200,2.0,
 YouGov,2025-11-24,40.5,56.5,1677,2.3,
 YouGov,2025-11-24,40.0,56.0,1684,2.3,
-Gallup,2025-11-25,36.0,60.0,1321,2.4,
 The Bullfinch Group,2025-11-25,39.5,54.0,1000,1.5,
+Gallup,2025-11-25,36.0,60.0,1321,2.4,
 GBAO,2025-11-26,43.0,56.0,2000,1.7,D
 TIPP Insights,2025-11-29,43.0,47.0,1483,1.5,
-Morning Consult,2025-11-30,44.9,52.1,2200,2.0,
 ActiVote,2025-11-30,41.4,54.5,568,1.2,
+Morning Consult,2025-11-30,44.9,52.1,2200,2.0,
 YouGov,2025-12-01,40.5,57.0,1628,2.3,
 Big Data Poll,2025-12-01,45.4,50.8,1788,1.2,R
-HarrisX/Harris Poll,2025-12-04,47.0,49.0,2204,1.5,
 Trafalgar Group/InsiderAdvantage,2025-12-04,44.0,48.6,1000,1.2,R
 RMG Research,2025-12-04,45.0,53.0,3000,1.3,R
-Quantus Insights,2025-12-05,43.4,53.1,1000,1.0,R
+HarrisX/Harris Poll,2025-12-04,47.0,49.0,2204,1.5,
 J.L. Partners,2025-12-05,43.2,49.0,1000,1.8,
+Quantus Insights,2025-12-05,43.4,53.1,1000,1.0,R
 Morning Consult,2025-12-07,45.3,51.9,2201,2.0,
 John Zogby Strategies,2025-12-07,45.9,51.6,1000,1.2,
 Ipsos,2025-12-08,41.0,57.0,4434,2.3,
 YouGov,2025-12-08,42.0,54.5,1530,2.3,
 Navigator Research,2025-12-08,42.0,56.0,1000,1.8,D
-Tavern Research,2025-12-08,45.0,53.0,2017,1.3,
-AP-NORC,2025-12-08,36.0,61.0,1146,2.6,
 Hart Research Associates/Public Opinion Strategies,2025-12-08,45.0,52.0,1000,1.3,
+Tavern Research,2025-12-08,45.0,53.0,2017,1.3,
 SurveyMonkey,2025-12-08,42.0,58.0,20252,1.5,
+AP-NORC,2025-12-08,36.0,61.0,1146,2.6,
 Tavern Research,2025-12-10,45.0,53.0,1567,1.3,
 Change Research,2025-12-10,45.0,53.0,1520,1.7,D
-Marist University,2025-12-11,39.0,54.5,1440,2.7,
-The Argument/Verasight,2025-12-11,43.0,55.0,1521,1.8,
-Clarity Campaign Labs,2025-12-11,44.0,55.0,1000,1.3,
 RMG Research,2025-12-11,47.0,51.0,3000,1.3,R
+Marist University,2025-12-11,39.0,54.5,1440,2.7,
+Clarity Campaign Labs,2025-12-11,44.0,55.0,1000,1.3,
+The Argument/Verasight,2025-12-11,43.0,55.0,1521,1.8,
 Big Data Poll,2025-12-12,47.0,49.9,3004,1.2,R
 Tavern Research,2025-12-13,43.0,54.0,1247,1.3,
 Morning Consult,2025-12-14,42.9,50.9,0,2.0,
 Gallup,2025-12-15,36.0,59.0,1016,2.4,
 Ipsos,2025-12-15,39.0,59.0,1016,2.3,
-Beacon Research/Shaw & Company Research,2025-12-15,44.0,56.0,1001,2.5,
-Echelon Insights,2025-12-15,45.0,55.0,1011,2.0,R
-Quinnipiac University,2025-12-15,40.0,54.0,1035,2.7,
 Emerson College,2025-12-15,40.8,50.3,1000,2.5,
-YouGov,2025-12-15,42.5,54.5,1632,2.3,
+Quinnipiac University,2025-12-15,40.0,54.0,1035,2.7,
+Beacon Research/Shaw & Company Research,2025-12-15,44.0,56.0,1001,2.5,
 Morning Consult,2025-12-15,45.8,51.9,2201,2.0,
+Echelon Insights,2025-12-15,45.0,55.0,1011,2.0,R
+YouGov,2025-12-15,42.5,54.5,1632,2.3,
 Echelon Insights/GBAO,2025-12-16,44.0,55.0,2593,1.3,
 Quantus Insights,2025-12-16,44.0,53.0,1000,1.0,R
 "Susquehanna Polling & Research, Inc.",2025-12-17,38.0,56.0,0,1.3,
 RMG Research,2025-12-18,50.0,49.0,3000,1.3,R
-YouGov,2025-12-19,41.0,59.0,2300,2.3,
 AtlasIntel,2025-12-19,39.3,59.6,2315,2.2,
-InsiderAdvantage,2025-12-20,49.5,41.4,800,1.0,R
+YouGov,2025-12-19,41.0,59.0,2300,2.3,
 American Research Group,2025-12-20,35.0,62.0,1100,1.5,
+InsiderAdvantage,2025-12-20,49.5,41.4,800,1.0,R
 J.L. Partners,2025-12-21,43.4,46.8,1000,1.8,
 Morning Consult,2025-12-21,45.2,52.3,2203,2.0,
 YouGov,2025-12-22,40.5,56.5,1425,2.3,
@@ -606,47 +606,47 @@ Zogby Analytics,2026-01-07,43.5,55.1,891,1.2,
 YouGov,2026-01-07,41.0,59.0,2317,2.3,
 RMG Research,2026-01-08,47.0,51.0,2000,1.3,R
 TIPP Insights,2026-01-09,40.0,51.0,1478,1.5,
-AP-NORC,2026-01-11,40.0,59.0,1203,2.6,
 RealClear Opinion Research,2026-01-11,39.5,50.2,1500,1.4,R
-CNN/SSRS,2026-01-12,39.5,60.0,1209,2.6,
+AP-NORC,2026-01-11,40.0,59.0,1203,2.6,
 Morning Consult,2026-01-12,44.9,52.6,2201,2.0,
+CNN/SSRS,2026-01-12,39.5,60.0,1209,2.6,
 The Winston Group,2026-01-12,40.0,52.0,1000,1.5,R
-Navigator Research,2026-01-12,42.0,56.0,1000,1.8,D
-YouGov,2026-01-12,41.5,56.0,1709,2.3,
 Quinnipiac University,2026-01-12,40.0,54.0,1133,2.7,
+Navigator Research,2026-01-12,42.0,56.0,1000,1.8,D
 YouGov,2026-01-12,42.0,54.0,1602,2.3,
-Ipsos,2026-01-13,41.0,58.0,1217,2.3,
-Marist University,2026-01-13,38.5,56.5,1222,2.7,
+YouGov,2026-01-12,41.5,56.0,1709,2.3,
 Impact Research/National Research Inc.,2026-01-13,45.0,54.0,1500,1.3,
-Public Policy Polling,2026-01-14,44.0,52.0,597,1.8,D
+Marist University,2026-01-13,38.5,56.5,1222,2.7,
+Ipsos,2026-01-13,41.0,58.0,1217,2.3,
 RMG Research,2026-01-14,48.0,51.0,3000,1.3,R
+Public Policy Polling,2026-01-14,44.0,52.0,597,1.8,D
 Research Co.,2026-01-15,42.0,53.0,1002,1.8,
 YouGov,2026-01-16,41.0,59.0,2515,2.3,
 The New York Times/Siena University,2026-01-17,40.4,56.3,1625,3.0,
 YouGov,2026-01-18,39.0,57.0,1094,2.3,
 Morning Consult,2026-01-18,46.0,51.0,2201,2.0,
-Change Research,2026-01-19,45.0,53.0,1348,1.7,D
 Emerson College,2026-01-19,43.2,51.3,1000,2.5,
+Change Research,2026-01-19,45.0,53.0,1348,1.7,D
 YouGov,2026-01-19,39.0,56.5,1549,2.3,
-Angus Reid Global,2026-01-20,37.0,56.0,1838,1.5,
 American Research Group,2026-01-20,35.0,63.0,1100,1.5,
+Angus Reid Global,2026-01-20,37.0,56.0,1838,1.5,
 Verasight,2026-01-20,40.0,58.0,1532,1.8,
 Tavern Research,2026-01-21,44.0,53.0,2997,1.3,
 RMG Research,2026-01-21,47.0,51.0,3000,1.3,R
 Clarity Campaign Labs,2026-01-22,43.0,56.0,1147,1.3,
-Quantus Insights,2026-01-22,43.5,51.6,1000,1.0,R
 YouGov,2026-01-22,38.0,58.0,2224,2.3,
+Quantus Insights,2026-01-22,43.5,51.6,1000,1.0,R
 Big Data Poll,2026-01-24,44.8,51.9,3280,1.2,R
 Morning Consult,2026-01-25,45.3,51.8,2204,2.0,
-Tavern Research,2026-01-25,42.0,56.0,506,1.3,
 Ipsos,2026-01-25,38.0,59.0,1139,2.3,
-Pew Research Center,2026-01-26,37.0,61.0,8378,2.8,
-YouGov,2026-01-26,40.0,57.0,1520,2.3,
-Focaldata,2026-01-26,39.3,51.9,1709,1.5,
+Tavern Research,2026-01-25,42.0,56.0,506,1.3,
 Beacon Research/Shaw & Company Research,2026-01-26,44.0,56.0,1005,2.5,
-Echelon Insights,2026-01-26,41.0,57.0,1029,2.0,R
+YouGov,2026-01-26,40.0,57.0,1520,2.3,
 J.L. Partners,2026-01-26,41.0,50.9,1027,1.8,
 Tavern Research,2026-01-26,42.0,56.0,1507,1.3,
+Echelon Insights,2026-01-26,41.0,57.0,1029,2.0,R
+Pew Research Center,2026-01-26,37.0,61.0,8378,2.8,
+Focaldata,2026-01-26,39.3,51.9,1709,1.5,
 The Argument/Verasight,2026-01-27,42.0,57.0,1515,1.8,
 Marquette University Law School,2026-01-28,42.0,58.0,1003,2.9,
 RMG Research,2026-01-28,48.0,51.0,3000,1.3,R
@@ -656,174 +656,174 @@ Marist University,2026-01-30,39.0,56.5,1326,2.7,
 Public Policy Polling,2026-01-30,39.0,56.0,652,1.8,D
 ActiVote,2026-01-31,44.0,52.7,490,1.2,
 InsiderAdvantage,2026-02-01,50.0,49.0,1000,1.0,R
-Navigator Research,2026-02-01,41.0,56.0,1000,1.8,D
 Morning Consult,2026-02-01,45.0,53.0,2201,2.0,
+Navigator Research,2026-02-01,41.0,56.0,1000,1.8,D
 Quinnipiac University,2026-02-02,37.0,56.0,1191,2.7,
 YouGov,2026-02-02,41.0,54.5,1672,2.3,
 RMG Research,2026-02-04,46.0,53.0,3000,1.3,R
 John Zogby Strategies,2026-02-05,44.0,54.0,1000,1.2,
 SurveyMonkey,2026-02-06,39.0,61.0,21995,1.5,
-Morning Consult,2026-02-08,40.0,54.2,0,2.0,
 AP-NORC,2026-02-08,36.0,62.0,1156,2.6,
+Morning Consult,2026-02-08,40.0,54.2,0,2.0,
 GBAO,2026-02-09,43.0,57.0,1000,1.7,D
-YouGov,2026-02-09,38.5,56.5,1730,2.3,
 Morning Consult,2026-02-09,44.0,53.0,2200,2.0,
-The Argument/Verasight,2026-02-10,42.0,57.0,3003,1.8,
+YouGov,2026-02-09,38.5,56.5,1730,2.3,
 Focaldata,2026-02-10,36.7,54.3,957,1.5,
-YouGov,2026-02-12,40.0,57.0,1149,2.3,
-Quantus Insights,2026-02-12,43.1,56.3,1515,1.0,R
+The Argument/Verasight,2026-02-10,42.0,57.0,3003,1.8,
 RMG Research,2026-02-12,47.0,51.0,3000,1.3,R
+Quantus Insights,2026-02-12,43.1,56.3,1515,1.0,R
+YouGov,2026-02-12,40.0,57.0,1149,2.3,
 Morning Consult,2026-02-13,42.0,55.0,2002,2.0,
 The Bullfinch Group,2026-02-16,38.5,57.5,1000,1.5,
+Ipsos,2026-02-16,38.0,60.0,1117,2.3,
 Morning Consult,2026-02-16,42.9,54.7,2200,2.0,
 YouGov,2026-02-16,41.0,55.5,1682,2.3,
-Ipsos,2026-02-16,38.0,60.0,1117,2.3,
 Ipsos,2026-02-17,40.0,59.0,2087,2.3,
-InsiderAdvantage,2026-02-18,49.6,46.0,800,1.0,R
 Bowling Green State University Democracy and Public Policy Research Network/YouGov,2026-02-18,41.0,58.0,1200,1.3,
-Change Research,2026-02-18,43.0,55.0,1741,1.7,D
 Big Data Poll,2026-02-18,43.0,54.6,2012,1.2,R
+InsiderAdvantage,2026-02-18,49.6,46.0,800,1.0,R
+Change Research,2026-02-18,43.0,55.0,1741,1.7,D
 RMG Research,2026-02-19,47.0,52.0,3000,1.3,R
-Tavern Research,2026-02-19,41.0,56.0,1526,1.3,
 Talker Research,2026-02-19,44.0,47.0,1000,1.3,
+Tavern Research,2026-02-19,41.0,56.0,1526,1.3,
 CNN/SSRS,2026-02-20,37.5,62.0,2496,2.6,
-American Research Group,2026-02-20,36.0,62.0,1100,1.5,
 Verasight,2026-02-20,37.0,59.0,1566,1.8,
+American Research Group,2026-02-20,36.0,62.0,1100,1.5,
 Morning Consult,2026-02-22,44.0,53.0,2202,2.0,
 Emerson College,2026-02-22,42.7,54.7,1000,2.5,
-YouGov,2026-02-23,40.5,57.0,1551,2.3,
-Ipsos,2026-02-23,40.0,58.0,4638,2.3,
-YouGov,2026-02-23,40.0,60.0,2372,2.3,
 Echelon Insights,2026-02-23,44.0,55.0,1002,2.0,R
 Navigator Research,2026-02-23,41.0,58.0,1000,1.8,D
+YouGov,2026-02-23,40.0,60.0,2372,2.3,
+YouGov,2026-02-23,40.5,57.0,1551,2.3,
+Ipsos,2026-02-23,40.0,58.0,4638,2.3,
 Trafalgar Group,2026-02-25,50.8,47.6,1084,1.2,R
 John Zogby Strategies,2026-02-26,47.0,50.0,1015,1.2,
-HarrisX/Harris Poll,2026-02-26,48.0,48.0,1999,1.5,
 RMG Research,2026-02-26,45.0,54.0,3000,1.3,R
+HarrisX/Harris Poll,2026-02-26,48.0,48.0,1999,1.5,
 J.L. Partners,2026-02-27,43.5,47.5,1095,1.8,
-TIPP Insights,2026-02-27,40.0,51.0,1456,1.5,
 YouGov,2026-02-27,41.0,59.0,2260,2.3,
-Morning Consult,2026-02-28,44.0,53.0,1618,2.0,
+TIPP Insights,2026-02-27,40.0,51.0,1456,1.5,
 ActiVote,2026-02-28,42.4,54.3,580,1.2,
 The Public Sentiment Institute,2026-02-28,38.1,61.0,249,0.0,
-Ipsos,2026-03-01,39.0,60.0,1282,2.3,
+Morning Consult,2026-02-28,44.0,53.0,1618,2.0,
 RMG Research,2026-03-01,45.0,54.0,1000,1.3,R
-YouGov,2026-03-02,40.0,57.5,1515,2.3,
+Ipsos,2026-03-01,39.0,60.0,1282,2.3,
 Beacon Research/Shaw & Company Research,2026-03-02,43.0,57.0,1004,2.5,
-Trafalgar Group,2026-03-03,49.5,48.0,1098,1.2,R
-J.L. Partners,2026-03-03,39.7,50.0,1020,1.8,
+YouGov,2026-03-02,40.0,57.5,1515,2.3,
 Quantus Insights,2026-03-03,45.2,53.8,1624,1.0,R
 Hart Research Associates/Public Opinion Strategies,2026-03-03,44.0,54.0,1000,1.3,
-Angus Reid Global,2026-03-04,35.0,58.0,1215,1.5,
+Trafalgar Group,2026-03-03,49.5,48.0,1098,1.2,R
+J.L. Partners,2026-03-03,39.7,50.0,1020,1.8,
 RMG Research,2026-03-04,46.0,52.0,3000,1.3,R
+Angus Reid Global,2026-03-04,35.0,58.0,1215,1.5,
 Marist University,2026-03-04,39.0,57.0,1591,2.7,
 Noble Predictive Insights,2026-03-05,46.0,51.0,2659,1.8,
 Angus Reid Global,2026-03-05,36.0,56.0,1529,1.5,
 Schoen Cooperman Research,2026-03-05,39.0,54.0,810,1.3,
 Clarity Campaign Labs,2026-03-07,43.0,53.0,1004,1.3,
+Morning Consult,2026-03-08,44.0,53.0,2202,2.0,
 Morning Consult,2026-03-08,39.0,55.0,0,2.0,
 Quinnipiac University,2026-03-08,37.0,57.0,1002,2.7,
-Morning Consult,2026-03-08,44.0,53.0,2202,2.0,
 YouGov,2026-03-09,41.5,54.5,1563,2.3,
 Focaldata,2026-03-10,38.2,51.1,1782,1.5,
 RMG Research,2026-03-12,45.0,53.0,3000,1.3,R
 Change Research,2026-03-12,43.0,56.0,1540,1.7,D
 Survey 160,2026-03-15,38.0,59.0,1546,1.3,
-Navigator Research,2026-03-16,40.0,59.0,1000,1.8,D
 Morning Consult,2026-03-16,42.8,54.0,2200,2.0,
-YouGov,2026-03-16,39.0,56.0,1595,2.3,
 Echelon Insights,2026-03-16,41.0,57.0,1033,2.0,R
-YouGov,2026-03-16,39.0,58.5,1699,2.3,
 Leger,2026-03-16,35.0,55.0,1006,2.0,
-The Argument/Verasight,2026-03-17,40.0,58.0,1519,1.8,
+Navigator Research,2026-03-16,40.0,59.0,1000,1.8,D
+YouGov,2026-03-16,39.0,58.5,1699,2.3,
+YouGov,2026-03-16,39.0,56.0,1595,2.3,
 Winston Group,2026-03-17,37.0,58.0,1000,1.5,R
 Emerson College,2026-03-17,41.9,51.4,1000,2.5,
-Tavern Research,2026-03-18,41.0,55.0,1531,1.3,
-John Zogby Strategies,2026-03-18,44.0,54.0,1000,1.2,
+The Argument/Verasight,2026-03-17,40.0,58.0,1519,1.8,
 Verasight,2026-03-18,37.0,60.0,1530,1.8,
+John Zogby Strategies,2026-03-18,44.0,54.0,1000,1.2,
 Quantus Insights,2026-03-18,44.4,55.1,1064,1.0,R
+Tavern Research,2026-03-18,41.0,55.0,1531,1.3,
 Ipsos,2026-03-19,40.0,58.0,1545,2.3,
 RMG Research,2026-03-19,46.0,53.0,3000,1.3,R
-YouGov,2026-03-20,40.0,60.0,3332,2.3,
 J.L. Partners,2026-03-20,39.0,53.6,1037,1.8,
+YouGov,2026-03-20,40.0,60.0,3332,2.3,
 American Research Group,2026-03-20,34.0,63.0,1100,1.5,
 Morning Consult,2026-03-22,43.1,53.8,2202,2.0,
-AP-NORC,2026-03-23,38.0,60.0,1150,2.6,
 Yale University Institution for Social and Policy Studies,2026-03-23,41.7,56.2,3427,1.3,
 Ipsos,2026-03-23,38.0,60.5,984,2.3,
-Quinnipiac University,2026-03-23,38.0,56.0,1191,2.7,
 Beacon Research/Shaw & Company Research,2026-03-23,41.0,59.0,1001,2.5,
+Quinnipiac University,2026-03-23,38.0,56.0,1191,2.7,
+AP-NORC,2026-03-23,38.0,60.0,1150,2.6,
 YouGov,2026-03-23,39.5,55.5,1665,2.3,
-J.L. Partners,2026-03-24,41.3,49.3,1019,1.8,
 Big Data Poll,2026-03-24,42.3,55.7,3003,1.2,R
+J.L. Partners,2026-03-24,41.3,49.3,1019,1.8,
 University of Massachusetts Department of Political Science/YouGov,2026-03-25,33.0,62.0,1000,1.3,
 RMG Research,2026-03-26,45.0,54.0,3000,1.3,R
 Quantus Insights,2026-03-26,42.2,56.6,1472,1.0,R
 HarrisX/Harris Poll,2026-03-26,43.0,53.0,2009,1.5,
 Morning Consult,2026-03-28,40.0,53.0,2202,2.0,
 Morning Consult,2026-03-29,43.2,53.9,2203,2.0,
-Lake Research Partners,2026-03-30,38.0,57.0,800,1.7,D
-University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-03-30,39.0,61.0,1000,1.3,
 CNN/SSRS,2026-03-30,36.5,63.0,1201,2.6,
+Lake Research Partners,2026-03-30,38.0,57.0,800,1.7,D
 YouGov,2026-03-30,37.0,58.0,1679,2.3,
+University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-03-30,39.0,61.0,1000,1.3,
 ActiVote,2026-03-31,42.0,54.8,598,1.2,
-RMG Research,2026-04-02,40.0,58.0,3000,1.3,R
 TIPP Insights,2026-04-02,39.0,53.0,1464,1.5,
+RMG Research,2026-04-02,40.0,58.0,3000,1.3,R
 High Point University,2026-04-03,39.0,53.0,1001,2.3,
 Morning Consult,2026-04-05,44.9,51.7,2200,2.0,
-YouGov,2026-04-06,39.5,55.5,1750,2.3,
 Navigator Research,2026-04-06,40.0,58.0,1000,1.8,D
-Morning Consult,2026-04-07,38.0,57.0,0,2.0,
+YouGov,2026-04-06,39.5,55.5,1750,2.3,
 Change Research,2026-04-07,42.0,56.0,2702,1.7,D
+Morning Consult,2026-04-07,38.0,57.0,0,2.0,
 J.L. Partners,2026-04-08,38.8,52.2,1013,1.8,
-RMG Research,2026-04-09,45.0,54.0,4000,1.3,R
 Echelon Insights,2026-04-09,43.0,56.0,2880,2.0,R
+RMG Research,2026-04-09,45.0,54.0,4000,1.3,R
 YouGov,2026-04-10,39.0,61.0,2373,2.3,
 Morning Consult,2026-04-12,43.8,53.4,2201,2.0,
-YouGov,2026-04-13,39.5,57.0,1573,2.3,
-Quinnipiac University,2026-04-13,38.0,55.0,1028,2.7,
 Survey 160,2026-04-13,37.0,60.0,1539,1.3,
+YouGov,2026-04-13,39.5,57.0,1573,2.3,
 SurveyMonkey,2026-04-13,37.0,63.0,32433,1.5,
+Quinnipiac University,2026-04-13,38.0,55.0,1028,2.7,
 Verasight,2026-04-14,35.0,61.0,1514,1.8,
 GBAO,2026-04-15,39.0,60.0,2000,1.7,D
 RMG Research,2026-04-15,45.0,53.0,3000,1.3,R
 Marquette Law School,2026-04-16,40.0,59.5,982,2.9,
 John Zogby Strategies,2026-04-18,43.0,55.0,1001,1.2,
-Hart Research Associates/Public Opinion Strategies,2026-04-19,40.0,58.0,1000,1.3,
 YouGov,2026-04-19,38.0,57.0,2232,2.3,
+Hart Research Associates/Public Opinion Strategies,2026-04-19,40.0,58.0,1000,1.3,
+Ipsos,2026-04-20,36.0,62.0,4557,2.3,
+Leger,2026-04-20,36.0,53.0,1004,2.0,
 YouGov,2026-04-20,39.5,55.0,1553,2.3,
+AP-NORC,2026-04-20,33.0,67.0,2596,2.6,
+American Research Group,2026-04-20,32.0,63.5,1100,1.5,
+Angus Reid Global,2026-04-20,35.0,59.0,1490,1.5,
+Beacon Research/Shaw & Company Research,2026-04-20,42.0,58.0,1001,2.5,
+Morning Consult,2026-04-20,44.5,52.8,2203,2.0,
 Morning Consult,2026-04-20,42.0,54.0,2057,2.0,
 Echelon Insights,2026-04-20,41.0,57.0,1012,2.0,R
-American Research Group,2026-04-20,32.0,63.5,1100,1.5,
-Morning Consult,2026-04-20,44.5,52.8,2203,2.0,
-Angus Reid Global,2026-04-20,35.0,59.0,1490,1.5,
-Leger,2026-04-20,36.0,53.0,1004,2.0,
-Ipsos,2026-04-20,36.0,62.0,4557,2.3,
-Beacon Research/Shaw & Company Research,2026-04-20,42.0,58.0,1001,2.5,
-AP-NORC,2026-04-20,33.0,67.0,2596,2.6,
 The Argument/Verasight,2026-04-23,39.0,60.0,1516,1.8,
 RMG Research,2026-04-23,42.0,55.0,3000,1.3,R
 Quantus Insights,2026-04-23,42.6,56.3,1452,1.0,R
 Clarity Campaign Labs,2026-04-24,43.0,55.0,1000,1.3,
+HarrisX/Harris Poll,2026-04-26,44.0,52.0,2745,1.5,
 Emerson College,2026-04-26,39.6,55.9,1000,2.5,
 Pew Research Center,2026-04-26,34.0,64.0,5026,2.8,
-HarrisX/Harris Poll,2026-04-26,44.0,52.0,2745,1.5,
-YouGov,2026-04-27,38.5,58.0,1647,2.3,
 InsiderAdvantage,2026-04-27,44.1,49.0,800,1.0,R
-Ipsos,2026-04-27,36.0,63.0,1014,2.3,
-Tavern Research,2026-04-27,37.0,60.0,528,1.3,
-Navigator Research,2026-04-27,40.0,58.0,1000,1.8,D
 Morning Consult,2026-04-27,44.7,52.8,2201,2.0,
+Tavern Research,2026-04-27,37.0,60.0,528,1.3,
+Ipsos,2026-04-27,36.0,63.0,1014,2.3,
+Navigator Research,2026-04-27,40.0,58.0,1000,1.8,D
+YouGov,2026-04-27,38.5,58.0,1647,2.3,
 Public Opinion Strategies,2026-04-27,40.0,60.0,1000,1.9,R
-Ipsos,2026-04-28,38.0,61.0,2560,2.3,
 Big Data Poll,2026-04-28,40.2,56.9,3176,1.2,R
-RMG Research,2026-04-30,42.0,57.0,3000,1.3,R
+Ipsos,2026-04-28,38.0,61.0,2560,2.3,
 Marist University,2026-04-30,38.0,59.0,1322,2.7,
 ActiVote,2026-04-30,39.5,55.9,636,1.2,
+RMG Research,2026-04-30,42.0,57.0,3000,1.3,R
 TIPP Insights,2026-05-01,38.0,54.0,1464,1.5,
 Morning Consult,2026-05-03,44.0,53.0,0,2.0,
-YouGov,2026-05-04,38.0,58.0,1409,2.3,
 CNN/SSRS,2026-05-04,35.5,64.0,1499,2.6,
+YouGov,2026-05-04,38.0,58.0,1409,2.3,
 HarrisX,2026-05-05,42.0,55.7,2065,1.5,
 RMG Research,2026-05-06,41.0,58.0,3000,1.3,R
 AtlasIntel,2026-05-07,39.5,59.8,2069,2.2,
@@ -831,19 +831,19 @@ Change Research,2026-05-10,43.0,56.0,2244,1.7,D
 Ipsos,2026-05-11,36.0,63.0,1254,2.3,
 YouGov,2026-05-11,38.5,57.5,1549,2.3,
 RMG Research,2026-05-14,42.0,57.0,3000,1.3,R
-YouGov,2026-05-15,37.0,63.0,2057,2.3,
 The New York Times/Siena University,2026-05-15,36.5,58.7,1507,3.0,
+YouGov,2026-05-15,37.0,63.0,2057,2.3,
 Morning Consult,2026-05-17,42.1,55.1,2203,2.0,
-Ipsos,2026-05-18,36.5,62.0,1271,2.3,
-Impact Research/National Research Inc.,2026-05-18,37.5,60.0,2000,1.3,
-Echelon Insights,2026-05-18,40.0,59.0,1008,2.0,R
+Data for Progress,2026-05-18,43.0,56.0,1149,1.9,D
+AP-NORC,2026-05-18,37.0,62.0,1117,2.6,
+Navigator Research,2026-05-18,39.0,59.0,1000,1.8,D
+YouGov,2026-05-18,39.0,57.0,1549,2.3,
 J.L. Partners,2026-05-18,39.5,52.4,1003,1.8,
+Ipsos,2026-05-18,36.5,62.0,1271,2.3,
+Echelon Insights,2026-05-18,40.0,59.0,1008,2.0,R
 Quinnipiac University,2026-05-18,34.0,58.0,1106,2.7,
 Beacon Research/Shaw & Company Research,2026-05-18,39.0,61.0,1002,2.5,
-Navigator Research,2026-05-18,39.0,59.0,1000,1.8,D
-AP-NORC,2026-05-18,37.0,62.0,1117,2.6,
-YouGov,2026-05-18,39.0,57.0,1549,2.3,
-Data for Progress,2026-05-18,43.0,56.0,1149,1.9,D
+Impact Research/National Research Inc.,2026-05-18,37.5,60.0,2000,1.3,
 Verasight,2026-05-19,37.0,60.0,1520,1.8,
 American Research Group,2026-05-20,31.0,64.5,1009,1.5,
 Overton Insights,2026-05-20,32.0,58.0,1377,1.3,
@@ -851,56 +851,58 @@ RMG Research,2026-05-21,42.0,57.0,3000,1.3,R
 John Zogby Strategies,2026-05-22,44.0,54.0,0,1.2,
 Morning Consult,2026-05-24,43.3,53.9,2204,2.0,
 Emerson College,2026-05-25,39.3,55.2,1000,2.5,
-RMG Research,2026-05-26,43.0,55.0,3000,1.3,R
-YouGov,2026-05-26,36.0,59.5,1397,2.3,
 Marquette Law School,2026-05-26,41.0,59.0,576,2.9,
+YouGov,2026-05-26,36.0,59.5,1397,2.3,
+RMG Research,2026-05-26,43.0,55.0,3000,1.3,R
 Big Data Poll,2026-05-27,40.1,57.2,2784,1.2,R
 TIPP Insights,2026-05-28,37.0,54.0,1589,1.5,
-ActiVote,2026-05-31,39.7,55.0,672,1.2,
-Morning Consult,2026-05-31,43.0,55.0,0,2.0,
 HarrisX/Harris Poll,2026-05-31,43.0,53.0,1725,1.5,
+Morning Consult,2026-05-31,43.0,55.0,0,2.0,
+ActiVote,2026-05-31,39.7,55.0,672,1.2,
 YouGov,2026-06-01,37.0,60.5,1604,2.3,
 Focaldata,2026-06-01,37.4,55.7,1719,1.5,
 Quantus Insights,2026-06-02,42.0,56.3,1050,1.0,R
-The Bullfinch Group,2026-06-02,41.5,55.0,1200,1.5,
 The Winston Group,2026-06-02,37.0,58.0,1000,1.5,R
+The Bullfinch Group,2026-06-02,41.5,55.0,1200,1.5,
 The Argument/Verasight,2026-06-03,38.0,61.0,3008,1.8,
-Noble Predictive Insights,2026-06-04,40.0,58.0,2585,1.8,
 RMG Research,2026-06-04,44.0,55.0,3000,1.3,R
+Noble Predictive Insights,2026-06-04,40.0,58.0,2585,1.8,
 Clarity Campaign Labs,2026-06-05,40.0,58.0,1045,1.3,
 Research Co.,2026-06-06,38.0,57.0,1001,1.8,
 Hart Research Associates/Public Opinion Strategies,2026-06-07,40.5,57.5,2400,1.3,
 HarrisX,2026-06-07,42.3,54.7,2010,1.5,
-YouGov,2026-06-08,37.0,59.5,1568,2.3,
 Emerson College,2026-06-08,39.4,54.6,1200,2.5,
 Morning Consult,2026-06-08,43.9,53.5,2201,2.0,
+YouGov,2026-06-08,37.0,59.5,1568,2.3,
 Navigator Research,2026-06-08,40.0,58.0,1383,1.8,D
 Ipsos,2026-06-08,35.0,63.0,4531,2.3,
-Marist University,2026-06-11,37.0,59.0,1340,2.7,
 RMG Research,2026-06-11,42.0,56.0,3000,1.3,R
+Marist University,2026-06-11,37.0,59.0,1340,2.7,
 Tavern Research,2026-06-11,40.0,57.0,1007,1.3,
 Echelon Insights,2026-06-14,40.0,59.0,1012,2.0,R
-Ipsos,2026-06-15,38.0,61.0,1195,2.3,
-Beacon Research/Shaw & Company Research,2026-06-15,39.0,60.0,1002,2.5,
 YouGov,2026-06-15,40.0,56.0,1403,2.3,
+Beacon Research/Shaw & Company Research,2026-06-15,39.0,60.0,1002,2.5,
+Ipsos,2026-06-15,38.0,61.0,1195,2.3,
 Marquette Law School,2026-06-15,39.0,61.0,1166,2.9,
 The Bullfinch Group,2026-06-16,41.0,56.0,1000,1.5,
-AP-NORC,2026-06-17,37.0,62.0,3040,2.6,
 Quantus Insights,2026-06-17,43.0,56.0,1000,1.0,R
+AP-NORC,2026-06-17,37.0,62.0,3040,2.6,
 RMG Research,2026-06-18,43.0,55.0,3000,1.3,R
 YouGov,2026-06-19,38.0,62.0,2517,2.3,
 American Research Group,2026-06-20,30.0,66.5,1006,1.5,
 J.L. Partners,2026-06-21,43.9,49.7,1042,1.8,
-Echelon Insights,2026-06-22,41.0,58.0,1003,2.0,R
 Verasight,2026-06-22,37.0,60.0,2087,1.8,
 Ipsos,2026-06-22,35.5,63.0,1262,2.3,
-Quinnipiac University,2026-06-22,38.0,55.0,1165,2.7,
+Echelon Insights,2026-06-22,41.0,58.0,1003,2.0,R
 Morning Consult,2026-06-22,43.0,54.0,0,2.0,
 YouGov,2026-06-22,37.5,58.0,1679,2.3,
+Quinnipiac University,2026-06-22,38.0,55.0,1165,2.7,
 RMG Research,2026-06-23,43.0,55.0,3000,1.3,R
 Morning Consult,2026-06-26,41.0,47.0,2253,2.0,
 Morning Consult,2026-06-28,43.0,55.0,2202,2.0,
 Big Data Poll,2026-06-28,43.6,53.3,2971,1.2,R
 YouGov,2026-06-29,39.0,58.0,1428,2.3,
 ActiVote,2026-06-30,40.5,55.2,478,1.2,
+Focaldata,2026-06-30,35.2,56.6,2016,1.5,
+TIPP Insights,2026-07-02,38.0,54.0,1473,1.5,
 Talker Research,2026-07-02,45.0,46.0,2000,1.3,
