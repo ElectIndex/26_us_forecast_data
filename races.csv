@@ -71,8 +71,8 @@ VT-GOV,governor,VT,GOV,C-0139,Amanda Janoo,DEM,C-0140,Phil Scott,REP,,,,,,,False
 WI-GOV,governor,WI,GOV,C-0141,Mandela Barnes,DEM,C-0142,Tom Tiffany,REP,,,,,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,
 WY-GOV,governor,WY,GOV,C-0143,Gabriel Green,DEM,C-0144,Megan Degenfelder,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 AK-01,house,AK,01,C-1012,Matt Schultz,DEM,C-0145,Nick Begich III,REP,C-1013,Bill Hill,IND,DEM,,,True,False,0.0,,,False,REP,REP,confirmed,confirmed,confirmed
-AL-01,house,AL,01,C-0146,Clyde Jones,DEM,C-0147,Rhett Marques,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
-AL-02,house,AL,02,C-0148,Shomari Figures,DEM,C-0149,Hampton Harris,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
+AL-01,house,AL,01,C-0146,Clyde Jones,DEM,C-1017,Jerry Carl,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
+AL-02,house,AL,02,C-0148,Shomari Figures,DEM,C-0147,Rhett Marques,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 AL-03,house,AL,03,C-0150,Victor McInnis,DEM,C-0151,Mike Rogers,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 AL-04,house,AL,04,C-0152,Amanda Pusczek,DEM,C-0153,Robert Aderholt,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 AL-05,house,AL,05,C-0154,Andrew Sneed,DEM,C-0155,Dale Strong,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
