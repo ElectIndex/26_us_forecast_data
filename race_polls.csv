@@ -151,6 +151,7 @@ GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,
 GA-GOV,0e593d7b-c6db-4e3e-9971-2ca674972da1,Concord Public Opinion Partners,2026-06-02,510,1.3,D,53.0,38.0,15.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
 GA-GOV,0e593d7b-c6db-4e3e-9971-2ca674972da1,Concord Public Opinion Partners,2026-06-02,510,1.3,D,52.0,42.0,10.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Burt Jones
 GA-GOV,218f0f52-9f5d-4b50-ae1d-bae3778ef88e,Beacon Research/Shaw & Company Research,2026-06-27,1002,2.5,,52.0,47.0,5.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
+GA-GOV,3eccfb66-aab7-475e-a672-bc7dd16272cc,Wick,2026-06-30,1175,1.2,R,42.7,43.2,-0.5,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,44.0,33.0,11.0,0.0,,,0.0,0.0,Jon Ossoff,Rich McCormick
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,45.0,32.0,13.0,0.0,,,0.0,0.0,Jon Ossoff,Buddy Carter
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,46.0,32.0,14.0,0.0,,,0.0,0.0,Jon Ossoff,Brad Raffensperger
@@ -185,6 +186,7 @@ GA-SEN,7720f3fa-d9be-461e-a9ab-0ddb661a7672,Emerson College,2026-03-02,1000,2.5,
 GA-SEN,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,52.0,43.0,9.0,0.0,,,0.0,0.0,Jon Ossoff,Buddy Carter
 GA-SEN,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,51.0,44.0,7.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 GA-SEN,218f0f52-9f5d-4b50-ae1d-bae3778ef88e,Beacon Research/Shaw & Company Research,2026-06-27,1002,2.5,,56.0,43.0,13.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
+GA-SEN,3eccfb66-aab7-475e-a672-bc7dd16272cc,Wick,2026-06-30,1175,1.2,R,46.7,42.9,3.8,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,43.0,39.0,4.0,0.0,,,0.0,0.0,Christina Bohannan,Mariannette Miller-Meeks
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,42.0,45.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 IA-02,97b470d5-8f93-40aa-84d0-ee987957190f,Public Policy Polling,2026-04-14,673,1.8,D,36.0,33.0,3.0,0.0,,,0.0,0.0,Lindsay James,Joe Mitchell
@@ -327,6 +329,12 @@ ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,
 ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,48.0,43.0,5.0,0.0,,,0.0,0.0,Troy Jackson,Susan M. Collins
 ME-SEN,4017c7ce-c6f0-479c-b778-dcb8097a7766,Tavern Research,2026-07-06,1074,1.3,,52.0,48.0,4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,46.0,50.0,-4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,42.0,47.0,-5.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,45.0,45.0,0.0,0.0,,,0.0,0.0,Nirav Shah,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,49.0,44.0,5.0,0.0,,,0.0,0.0,Troy Jackson,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,37.0,48.0,-11.0,0.0,,,0.0,0.0,Janet T. Mills,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,38.0,47.0,-9.0,0.0,,,0.0,0.0,Jordan Wood,Susan M. Collins
+ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shenna Bellows,Susan M. Collins
 MI-04,f33c3514-2271-4179-93da-6545ef164594,Public Policy Polling,2025-11-21,559,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,48.0,-6.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
@@ -657,6 +665,7 @@ OR-GOV,6d03f69f-26d3-44f4-9667-0cead4760720,Hoffman Research Group,2026-05-12,60
 OR-GOV,6d03f69f-26d3-44f4-9667-0cead4760720,Hoffman Research Group,2026-05-12,603,1.3,R,44.0,48.0,-4.0,0.0,,,0.0,0.0,Tina Kotek,Chris Dudley
 PA-01,b8d528af-4b84-445f-ad55-b588dc1734df,Public Policy Polling,2025-10-11,585,1.8,D,41.0,41.0,0.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
 PA-01,5d96c614-598b-4b8c-8aff-d5f8fdb5edcf,Global Strategy Group,2026-03-22,400,1.8,D,42.0,48.0,-6.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
+PA-07,71d6acce-6fa2-449e-b896-2211ce9a6e22,GBAO,2026-07-02,0,1.7,D,47.0,43.0,4.0,0.0,,,0.0,0.0,Bob Brooks,Ryan E. Mackenzie
 PA-08,8048696d-561b-4a0c-9e5b-9d98927e1a94,Public Policy Polling,2025-08-28,615,1.8,D,45.0,43.0,2.0,0.0,,,0.0,0.0,Paige Cognetti,Rob Bresnahan Jr.
 PA-08,2532e8f9-f9bf-4cfa-8b5e-b03c097b3d93,Impact Research,2026-06-11,500,1.3,D,46.0,45.0,1.0,0.0,,,0.0,0.0,Paige Cognetti,Rob Bresnahan Jr.
 PA-08,af754860-bd3b-457b-a877-1be608dc44ac,Lake Research Partners,2026-06-23,400,1.7,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Paige Cognetti,Rob Bresnahan Jr.
