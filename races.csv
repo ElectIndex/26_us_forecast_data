@@ -34,7 +34,7 @@ TX-SEN,senate,TX,SEN,C-0065,James Talarico,DEM,C-0066,Ken Paxton,REP,,,,,,,False
 VA-SEN,senate,VA,SEN,C-0067,Mark Warner,DEM,C-0068,Bert Mizusawa,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,projected,
 WV-SEN,senate,WV,SEN,C-0069,Rachel Anderson,DEM,C-0070,Shelley Moore Capito,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
 WY-SEN,senate,WY,SEN,C-0071,James Byrd,DEM,C-0072,Harriet Hageman,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
-AK-GOV,governor,AK,GOV,C-0073,Tom Begich,DEM,C-0074,Click Bishop,REP,,,,,,,True,False,0.0,,,False,,REP,confirmed,confirmed,
+AK-GOV,governor,AK,GOV,C-0073,Tom Begich,DEM,C-0074,Bernadette Wilson,REP,,,,,,,True,False,0.0,,,False,,REP,confirmed,confirmed,
 AL-GOV,governor,AL,GOV,C-0075,Doug Jones,DEM,C-0076,Tommy Tuberville,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 AR-GOV,governor,AR,GOV,C-0077,Fredrick Love,DEM,C-0078,Sarah Huckabee Sanders,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,
 AZ-GOV,governor,AZ,GOV,C-0079,Katie Hobbs,DEM,C-0080,Andy Biggs,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,confirmed,
