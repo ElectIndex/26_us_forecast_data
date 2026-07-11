@@ -11,7 +11,7 @@ ID-SEN,senate,ID,SEN,C-0017,David Roth,DEM,C-0018,Jim Risch,REP,,,,,,,False,Fals
 IL-SEN,senate,IL,SEN,C-0019,Juliana Stratton,DEM,C-0020,Don Tracy,REP,,,,,,,False,False,0.0,,,False,,DEM,presumptive,projected,
 KS-SEN,senate,KS,SEN,C-0021,Adam Hamilton,DEM,C-0022,Roger Marshall,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
 KY-SEN,senate,KY,SEN,C-0023,Charles Booker,DEM,C-0024,Andy Barr,REP,,,,,,,False,False,0.0,,,False,,REP,presumptive,projected,
-LA-SEN,senate,LA,SEN,C-0025,Gary Crockett,DEM,C-0026,Julia Letlow,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
+LA-SEN,senate,LA,SEN,C-0025,Jamie Davis,DEM,C-0026,Julia Letlow,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
 MA-SEN,senate,MA,SEN,C-0027,Ed Markey,DEM,C-0028,John Deaton,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,presumptive,
 ME-SEN,senate,ME,SEN,C-1016,Democratic candidate (ME-SEN),DEM,C-0030,Susan Collins,REP,,,,,,,True,False,0.0,,,False,REP,REP,projected,confirmed,
 MI-SEN,senate,MI,SEN,C-0031,Abdul El-Sayed,DEM,C-0032,Mike Rogers,REP,,,,,,,False,False,0.0,,,False,,DEM,presumptive,presumptive,
