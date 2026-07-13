@@ -233,6 +233,7 @@ KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,38.0,33.0,5.0,0.0,,,0.0,0.0,Zach Dembo,Ryan Dotson
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,37.0,37.0,0.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,36.0,37.0,-1.0,0.0,,,0.0,0.0,Cherlynn Stevenson,Ryan Dotson
+KY-06,ce844147-e0fc-47cb-bb72-f56747f82bce,GQR,2026-06-28,0,1.3,D,39.0,42.0,-3.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,39.0,46.0,-7.0,0.0,,,0.0,0.0,Charles Booker,Daniel Cameron
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,648,1.8,D,35.0,51.0,-16.0,0.0,,,0.0,0.0,Amy McGrath,Generic Republican
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Charles Booker,Nate Morris
@@ -433,6 +434,8 @@ MI-SEN,65ba6cdf-2251-4329-92db-d3957baf9616,Mitchell Research & Communications,2
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,45.0,42.0,3.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,71938f8f-5729-4080-8138-466f03f51516,Zenith Research,2026-06-14,602,1.3,D,44.0,42.0,2.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
+MI-SEN,007278d5-49cd-4aa2-9400-8c95c5fc50c5,Data for Progress,2026-06-22,709,1.9,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,007278d5-49cd-4aa2-9400-8c95c5fc50c5,Data for Progress,2026-06-22,709,1.9,D,47.0,46.0,1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,46.0,46.0,0.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,49.0,44.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,ac22743d-7975-4bd3-981b-d39a2d3c9051,Wedgewood Polls,2026-06-28,602,1.3,,41.0,48.0,-7.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
@@ -509,6 +512,7 @@ NC-SEN,1759647c-7327-4a19-9985-8ebc9ca0bc2b,Change Research,2026-05-08,957,1.7,D
 NC-SEN,d9cf448e-160f-4950-adf4-1e4d5d837fd8,Harper Polling,2026-05-11,600,1.3,,49.8,38.7,11.1,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
 NC-SEN,f6e3156e-154f-44b2-9274-6aa47b65ae00,YouGov,2026-06-10,905,2.3,,47.7,34.0,13.7,2.8,LIB,Shannon W. Bray,0.0,0.0,Roy A. Cooper,Michael Whatley
 NC-SEN,089fc166-61e3-41b2-bd4e-45650b667195,The New York Times/Siena University,2026-06-27,601,3.0,,50.0,43.2,6.8,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
+NC-SEN,f744b6a4-6d46-4db9-81f4-136e1d25501c,Public Policy Polling,2026-07-11,759,1.8,D,48.0,44.0,4.0,0.0,,,0.0,0.0,Roy A. Cooper,Michael Whatley
 NE-01,4a7696a0-ee2f-40a1-816e-9d3ad6f0d0da,Zenith Research,2026-05-11,401,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-02,490a2251-4e5b-42c6-95ab-be674de75ad4,Public Policy Polling,2025-10-23,594,1.8,D,46.0,39.0,7.0,0.0,,,0.0,0.0,John Cavanaugh,Generic Republican
 NE-02,490a2251-4e5b-42c6-95ab-be674de75ad4,Public Policy Polling,2025-10-23,594,1.8,D,49.0,42.0,7.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
