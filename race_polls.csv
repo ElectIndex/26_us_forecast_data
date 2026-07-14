@@ -579,6 +579,7 @@ NJ-07,7cf4ffbe-1c0e-4672-a077-1f3ca0aed5ba,Z to A Research,2026-05-26,430,1.3,D,
 NJ-07,7cf4ffbe-1c0e-4672-a077-1f3ca0aed5ba,Z to A Research,2026-05-26,430,1.3,D,46.0,43.0,3.0,0.0,,,0.0,0.0,Tina Shah,Thomas H. Kean
 NM-02,06bcf2dd-2622-4984-9d26-992e75d54d69,co/efficient,2026-04-28,879,1.0,R,43.0,41.0,2.0,0.0,,,0.0,0.0,Gabe Vasquez,Greg Cunningham
 NM-02,06bcf2dd-2622-4984-9d26-992e75d54d69,co/efficient,2026-04-28,879,1.0,R,45.0,45.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+NV-02,4cad4c84-d015-49ef-b046-404cbc081d2a,Wedgewood Polls,2026-07-12,350,1.3,,48.0,46.0,2.0,0.0,,,0.0,0.0,Teresa Benitez-Thompson,David Flippo
 NV-GOV,eedcc32c-983c-4b8e-8231-f61eafbbc9ac,Noble Predictive Insights,2025-10-13,766,1.8,,37.0,40.0,-3.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
 NV-GOV,31a83377-2935-4ca9-aad9-54cfa7c068c3,Emerson College,2025-11-18,800,2.5,,41.1,41.1,0.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
 NV-GOV,ee5ae2ab-e88b-45f3-a331-b7768af93af6,Hart Research Associates,2026-02-17,800,1.8,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
@@ -587,6 +588,7 @@ NV-GOV,d318da4a-e303-4b25-a48a-9d7476525ce8,Noble Predictive Insights,2026-03-13
 NV-GOV,d318da4a-e303-4b25-a48a-9d7476525ce8,Noble Predictive Insights,2026-03-13,845,1.8,,37.0,31.0,6.0,0.0,,,0.0,0.0,Aaron Ford,Matthew Winterhawk
 NV-GOV,d318da4a-e303-4b25-a48a-9d7476525ce8,Noble Predictive Insights,2026-03-13,845,1.8,,38.0,39.0,-1.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
 NV-GOV,6688a39b-f0f4-4b43-a56b-028126a98357,Global Strategy Group,2026-05-11,700,1.8,D,42.0,45.0,-3.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
+NV-GOV,4cad4c84-d015-49ef-b046-404cbc081d2a,Wedgewood Polls,2026-07-12,700,1.3,,47.0,50.0,-3.0,0.0,,,0.0,0.0,Aaron Ford,Joe Lombardo
 NY-01,c4ac660b-506e-4108-8384-f898c7ca6c39,Public Policy Polling,2025-12-11,579,1.8,D,38.0,41.0,-3.0,0.0,,,0.0,0.0,Chris Gallant,Nicholas J. LaLota
 NY-04,dec04d4e-6715-42f2-93cd-0974636778b2,Impact Research,2026-02-17,500,1.3,,46.0,41.0,5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NY-17,87e7b4ad-6a1a-42cd-b11b-a7887728daac,Impact Research,2026-02-17,500,1.3,,44.0,39.0,5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -819,6 +821,7 @@ VT-GOV,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-
 VT-GOV,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-23,867,1.3,,27.0,42.0,-15.0,3.0,OTH,Dean Roy,0.0,0.0,Amanda Janoo,Phil Scott
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,34.0,41.0,-7.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,45.0,44.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+WA-03,6e479a7e-3f3a-41aa-b7dd-611ae4aa5215,Emerson College,2026-07-10,500,2.5,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun
 WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,47.0,53.0,-6.0,0.0,,,0.0,0.0,Carmela Conroy,Michael Baumgartner
 WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,47.0,53.0,-6.0,0.0,,,0.0,0.0,Generic Democrat,Michael Baumgartner
 WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,David Womack,Michael Baumgartner
