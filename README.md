@@ -35,6 +35,7 @@ the rest to the federal/governor pipeline (`src/pipeline/run_all.py`).
 | `leg_chamber_meta.csv` | Authoritative per-chamber totals from MultiState: composition (D/R/Other), `seats_up_2026`, supermajority threshold, and `control` (`D`/`R`/`Coalition`/`Power_Sharing`) with `coalition_desc`. |
 | `leg_calibration.json` | Coefficients fit to the 2020/2022/2024 results (`src/model/leg_calibration.py`): `beta_lean`, `beta_inc`, `strength_weight`, `incumbent_hold`, `sigma`, per-cycle environments. |
 | `leg_strength_overrides.csv` | Curated per-candidate strength overrides (`candidate,state,strength,note`) applied at full weight, for ticket-splitters with no contested history to auto-measure (e.g. Sam Sutton, NY SD-22). |
+| `leg_overrides_sd.csv` | Curated SD general-election roster (SD SOS certified list, post June-2026 primary): one row per SEAT — the 33 two-member at-large House districts split into paired A/B seats, 26A/26B/28A/28B as their own single-member subdistricts. Replaces MultiState's stale pre-primary SD rows via `apply_sd_roster()`; incumbency is re-derived from 2024 winners in `leg_results.csv`. |
 
 ## Data dictionary
 
