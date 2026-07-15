@@ -19,7 +19,7 @@ MN-SEN,senate,MN,SEN,C-0033,Peggy Flanagan,DEM,C-1021,Michele Tafoya,REP,,,,,,,F
 MS-SEN,senate,MS,SEN,C-0035,Scott Colom,DEM,C-0036,Cindy Hyde-Smith,REP,C-1039,Ty Pinkins,IND,IND,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,confirmed
 MT-SEN,senate,MT,SEN,C-0037,Alani Bankhead,DEM,C-0038,Kurt Alme,REP,C-0039,Seth Bodnar,IND,IND,,,False,True,0.43,,,False,,REP,confirmed,confirmed,confirmed
 NC-SEN,senate,NC,SEN,C-0040,Roy Cooper,DEM,C-0041,Michael Whatley,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
-NE-SEN,senate,NE,SEN,C-1034,Cindy Burbank,DEM,C-0043,Pete Ricketts,REP,C-0044,Dan Osborn,IND,DEM,,,False,True,0.85,,,False,REP,REP,confirmed,confirmed,confirmed
+NE-SEN,senate,NE,SEN,C-1034,(No Democrat),DEM,C-0043,Pete Ricketts,REP,C-0044,Dan Osborn,IND,DEM,,,False,True,0.85,,,False,REP,REP,,confirmed,confirmed
 NH-SEN,senate,NH,SEN,C-0045,Chris Pappas,DEM,C-1022,John E. Sununu,REP,,,,,,,False,False,0.0,,,False,,DEM,presumptive,presumptive,
 NJ-SEN,senate,NJ,SEN,C-0047,Cory Booker,DEM,C-0048,Justin Murphy,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,confirmed,
 NM-SEN,senate,NM,SEN,C-0049,Ben Ray Lujan,DEM,C-0050,Larry Marker,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,confirmed,
