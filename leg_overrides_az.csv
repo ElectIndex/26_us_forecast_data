@@ -1,0 +1,73 @@
+# 2026 Arizona House per-seat roster (PRESUMPTIVE — primary is Jul 21, 2026).
+# 30 legislative districts x 2 at-large seats, split into paired A/B seats like
+# WA/ID/SD. Sources: Ballotpedia's AZ House 2026 primary table, corroborated by
+# Blog for Arizona, Tucson Sentinel, Gilbert Sun News, AZ Capitol Times/KJZZ
+# (LD-3 Reim appointment), Axios Phoenix (captured 2026-07-14). Where a party
+# primary has >2 candidates, the presumptive top-2 are seated (incumbents +
+# best-reported challenger); unsettled open slots carry the leading name.
+# Incumbency is CURATED here (explicit columns) because AZ has mid-term
+# appointees (Cody Reim) that 2024-winner matching would miss. Pairing keeps
+# incumbents on their own seat and puts challengers against non-incumbents
+# where one exists. Ballot-qualified Greens/No Labels in other_name; write-ins
+# excluded. Senate rows intentionally absent (single-member, MultiState OK).
+chamber,district,seat,dem_name,rep_name,other_name,incumbent,incumbent_party
+House,1,A,Sandy Zalecki,Selina Bliss,,Selina Bliss,R
+House,1,B,,Quang Nguyen,,Quang Nguyen,R
+House,2,A,Stephanie Simacek,Danielle Skranak,,Stephanie Simacek,D
+House,2,B,,Justin Wilmeth,,Justin Wilmeth,R
+House,3,A,Julie Gable,George Khalaf,,,
+House,3,B,Richard Spargo,Cody Reim,,Cody Reim,R
+House,4,A,Tammy Caputi,Pamela Carter,,Pamela Carter,R
+House,4,B,Karen Gresham,Matt Gress,,Matt Gress,R
+House,5,A,Sarah Liguori,,,Sarah Liguori,D
+House,5,B,Aaron Marquez,,,Aaron Marquez,D
+House,6,A,Mae Peshlakai,,,Mae Peshlakai,D
+House,6,B,Angela Maloney,,,,
+House,7,A,Samuel Martin,David Cook,Richard Grayson,,
+House,7,B,,Walter Blackman,,Walter Blackman,R
+House,8,A,Janeen Connolly,Donald Hawker,,Janeen Connolly,D
+House,8,B,Brian Garcia,,,Brian Garcia,D
+House,9,A,Lorena Austin,Bradley Bettencourt,,Lorena Austin,D
+House,9,B,Jacob Martinez,Sage Stroh,,,
+House,10,A,Brian Calaway,Ciara Anderson,David Scott,,
+House,10,B,Helen Hunter,Justin Olson,,Justin Olson,R
+House,11,A,Junelle Cavero,Cesar Aleman,,Junelle Cavero,D
+House,11,B,Oscar De Los Santos,Joseph Dailey,,Oscar De Los Santos,D
+House,12,A,Anastasia Travers,,,Anastasia Travers,D
+House,12,B,Armando Montero,David Richardson,,,
+House,13,A,Racquel Armstrong,Kevin Hartke,,,
+House,13,B,Jacob Weinberg,Janet Weninger,,,
+House,14,A,Mary Rose,Tyler Farnsworth,,,
+House,14,B,,Laurin Hendrix,,Laurin Hendrix,R
+House,15,A,,Neal Carter,,Neal Carter,R
+House,15,B,,Michael Way,,Michael Way,R
+House,16,A,Julia Gusse,Chris Lopez,,Chris Lopez,R
+House,16,B,,Teresa Martinez,,Teresa Martinez,R
+House,17,A,Kevin Volk,John Winchester,,Kevin Volk,D
+House,17,B,Hollace Lyon,Rachel Keshel,,Rachel Keshel,R
+House,18,A,Nancy Gutierrez,Bob Dohse,,Nancy Gutierrez,D
+House,18,B,Christopher Mathis,,,Christopher Mathis,D
+House,19,A,Jackie Anderson,David Gowan,,,
+House,19,B,Aiden Swallow,Lupe Diaz,,Lupe Diaz,R
+House,20,A,Betty Villegas,,,Betty Villegas,D
+House,20,B,Sally Ann Gonzales,Katherine Weasel,,,
+House,21,A,Consuelo Hernandez,Christopher Kibbey,,Consuelo Hernandez,D
+House,21,B,Stephanie Stahl Hamilton,,,Stephanie Stahl Hamilton,D
+House,22,A,Elda Luna-Nájera,Blaine Griffin Sr.,,Elda Luna-Nájera,D
+House,22,B,Veronica Bejarano-Malone,Diana Jones,,,
+House,23,A,Mariana Sandoval,Gary Garcia Snyder,,Mariana Sandoval,D
+House,23,B,Emilia Cortez,Michele Pena,,Michele Pena,R
+House,24,A,Lydia Hernandez,,,Lydia Hernandez,D
+House,24,B,Lisbeth Arescurenaga,Delores McLaughlin,,,
+House,25,A,Tiffany Byrne,Michael Carbone,,Michael Carbone,R
+House,25,B,,Nick Kupper,,Nick Kupper,R
+House,26,A,Cesar Aguilar,Jonathan McKenna,Hector Gomez,Cesar Aguilar,D
+House,26,B,Quantá Crews,Frank Roberts,,Quantá Crews,D
+House,27,A,Deborah Howard,Lisa Fink,,Lisa Fink,R
+House,27,B,,Tony Rivero,,Tony Rivero,R
+House,28,A,Barbara Fike,David Livingston,,David Livingston,R
+House,28,B,Marc Graham,Beverly Pingerelli,,Beverly Pingerelli,R
+House,29,A,Christine Scianna,Steve Montenegro,,Steve Montenegro,R
+House,29,B,,James Taylor,,James Taylor,R
+House,30,A,Brian McMahan,Mike Gannuscio,,,
+House,30,B,,Grace Hecht,,,
