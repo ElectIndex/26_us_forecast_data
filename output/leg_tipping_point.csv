@@ -141,53 +141,57 @@ AK,Senate,AK-SD-M,6.24,0
 AK,Senate,AK-SD-O,0.82,0
 AK,Senate,AK-SD-Q,23.79,0
 AK,Senate,AK-SD-S,0.07,0
-AZ,House,AZ-HD-10A,0.94,0
-AZ,House,AZ-HD-10B,0.02,0
-AZ,House,AZ-HD-11A,0.02,0
-AZ,House,AZ-HD-11B,0.02,0
-AZ,House,AZ-HD-12A,1.64,0
-AZ,House,AZ-HD-12B,6.2,0
-AZ,House,AZ-HD-13A,7.24,0
-AZ,House,AZ-HD-13B,7.65,0
-AZ,House,AZ-HD-14A,1.82,0
-AZ,House,AZ-HD-15A,0.01,0
-AZ,House,AZ-HD-16A,3.05,0
-AZ,House,AZ-HD-17A,7.99,0
-AZ,House,AZ-HD-17B,1.33,0
-AZ,House,AZ-HD-18A,0.11,0
-AZ,House,AZ-HD-18B,1.43,0
-AZ,House,AZ-HD-19A,0.52,0
-AZ,House,AZ-HD-19B,0.01,0
-AZ,House,AZ-HD-20A,1.69,0
-AZ,House,AZ-HD-20B,0.08,0
-AZ,House,AZ-HD-21A,0.05,0
-AZ,House,AZ-HD-21B,1.53,0
-AZ,House,AZ-HD-22A,0.22,0
-AZ,House,AZ-HD-22B,1.76,0
-AZ,House,AZ-HD-23A,6.58,0
-AZ,House,AZ-HD-23B,8.19,1
-AZ,House,AZ-HD-24A,1.53,0
-AZ,House,AZ-HD-24B,3.05,0
-AZ,House,AZ-HD-25A,0.01,0
-AZ,House,AZ-HD-25B,0.01,0
-AZ,House,AZ-HD-26A,0.17,0
-AZ,House,AZ-HD-26B,0.18,0
-AZ,House,AZ-HD-27A,0.01,0
-AZ,House,AZ-HD-29A,0.2,0
-AZ,House,AZ-HD-2A,5.53,0
-AZ,House,AZ-HD-3A,0.62,0
-AZ,House,AZ-HD-3B,0.07,0
-AZ,House,AZ-HD-4A,3.24,0
-AZ,House,AZ-HD-4B,1.36,0
-AZ,House,AZ-HD-5A,1.47,0
-AZ,House,AZ-HD-5B,1.45,0
-AZ,House,AZ-HD-6A,1.32,0
-AZ,House,AZ-HD-6B,1.52,0
-AZ,House,AZ-HD-7B,0.01,0
-AZ,House,AZ-HD-8A,0.5,0
-AZ,House,AZ-HD-8B,1.45,0
-AZ,House,AZ-HD-9A,7.74,0
-AZ,House,AZ-HD-9B,8.46,0
+AZ,House,AZ-HD-10A,6.51,0
+AZ,House,AZ-HD-10B,0.84,0
+AZ,House,AZ-HD-12A,0.13,0
+AZ,House,AZ-HD-12B,0.91,0
+AZ,House,AZ-HD-13A,5.71,0
+AZ,House,AZ-HD-13B,5.95,0
+AZ,House,AZ-HD-14A,7.69,0
+AZ,House,AZ-HD-14B,0.26,0
+AZ,House,AZ-HD-15A,0.25,0
+AZ,House,AZ-HD-15B,0.28,0
+AZ,House,AZ-HD-16A,8.92,1
+AZ,House,AZ-HD-16B,0.26,0
+AZ,House,AZ-HD-17A,1.95,0
+AZ,House,AZ-HD-17B,7.98,0
+AZ,House,AZ-HD-18B,0.07,0
+AZ,House,AZ-HD-19A,1.9,0
+AZ,House,AZ-HD-19B,0.49,0
+AZ,House,AZ-HD-1A,0.22,0
+AZ,House,AZ-HD-1B,0.3,0
+AZ,House,AZ-HD-20A,0.08,0
+AZ,House,AZ-HD-21B,0.06,0
+AZ,House,AZ-HD-22A,0.02,0
+AZ,House,AZ-HD-22B,0.11,0
+AZ,House,AZ-HD-23A,1.74,0
+AZ,House,AZ-HD-23B,2.68,0
+AZ,House,AZ-HD-24A,0.07,0
+AZ,House,AZ-HD-24B,0.3,0
+AZ,House,AZ-HD-25A,0.33,0
+AZ,House,AZ-HD-25B,0.23,0
+AZ,House,AZ-HD-27A,0.6,0
+AZ,House,AZ-HD-27B,0.27,0
+AZ,House,AZ-HD-28A,0.28,0
+AZ,House,AZ-HD-28B,0.19,0
+AZ,House,AZ-HD-29A,2.52,0
+AZ,House,AZ-HD-29B,0.28,0
+AZ,House,AZ-HD-2A,8.0,0
+AZ,House,AZ-HD-2B,0.28,0
+AZ,House,AZ-HD-30A,0.07,0
+AZ,House,AZ-HD-30B,0.25,0
+AZ,House,AZ-HD-3A,5.83,0
+AZ,House,AZ-HD-3B,1.39,0
+AZ,House,AZ-HD-4A,9.21,0
+AZ,House,AZ-HD-4B,7.6,0
+AZ,House,AZ-HD-5A,0.07,0
+AZ,House,AZ-HD-5B,0.1,0
+AZ,House,AZ-HD-6A,0.07,0
+AZ,House,AZ-HD-6B,0.12,0
+AZ,House,AZ-HD-7B,0.29,0
+AZ,House,AZ-HD-8B,0.03,0
+AZ,House,AZ-HD-9A,1.86,0
+AZ,House,AZ-HD-9B,4.45,0
 AZ,Senate,AZ-SD-1,0.01,0
 AZ,Senate,AZ-SD-10,2.33,0
 AZ,Senate,AZ-SD-12,0.4,0
@@ -1765,57 +1769,117 @@ ME,Senate,ME-SD-5,1.01,0
 ME,Senate,ME-SD-7,3.98,0
 ME,Senate,ME-SD-8,9.95,0
 ME,Senate,ME-SD-9,2.0,0
-MD,House of Delegates,MD-HD-10,4.37,0
-MD,House of Delegates,MD-HD-11A,1.37,0
-MD,House of Delegates,MD-HD-11B,1.25,0
-MD,House of Delegates,MD-HD-12A,0.11,0
-MD,House of Delegates,MD-HD-12B,1.34,0
-MD,House of Delegates,MD-HD-13,4.01,0
-MD,House of Delegates,MD-HD-14,4.01,0
-MD,House of Delegates,MD-HD-15,0.17,0
-MD,House of Delegates,MD-HD-16,0.11,0
-MD,House of Delegates,MD-HD-17,4.27,0
-MD,House of Delegates,MD-HD-18,3.96,0
-MD,House of Delegates,MD-HD-19,4.48,0
-MD,House of Delegates,MD-HD-20,3.96,0
-MD,House of Delegates,MD-HD-21,3.93,0
-MD,House of Delegates,MD-HD-22,4.11,0
-MD,House of Delegates,MD-HD-23,0.17,0
-MD,House of Delegates,MD-HD-24,3.95,0
-MD,House of Delegates,MD-HD-25,4.64,1
-MD,House of Delegates,MD-HD-26,0.17,0
-MD,House of Delegates,MD-HD-27A,0.07,0
-MD,House of Delegates,MD-HD-27B,0.75,0
-MD,House of Delegates,MD-HD-28,1.63,0
-MD,House of Delegates,MD-HD-29B,0.54,0
-MD,House of Delegates,MD-HD-2B,1.37,0
-MD,House of Delegates,MD-HD-3,1.46,0
-MD,House of Delegates,MD-HD-30A,2.9,0
-MD,House of Delegates,MD-HD-32,1.93,0
-MD,House of Delegates,MD-HD-33A,1.49,0
-MD,House of Delegates,MD-HD-33B,0.12,0
-MD,House of Delegates,MD-HD-33C,1.36,0
-MD,House of Delegates,MD-HD-34A,2.83,0
-MD,House of Delegates,MD-HD-34B,0.03,0
-MD,House of Delegates,MD-HD-37A,1.35,0
-MD,House of Delegates,MD-HD-38A,0.04,0
-MD,House of Delegates,MD-HD-38B,0.02,0
-MD,House of Delegates,MD-HD-39,4.03,0
-MD,House of Delegates,MD-HD-40,4.64,0
-MD,House of Delegates,MD-HD-41,4.16,0
+MD,House of Delegates,MD-HD-10A,1.15,0
+MD,House of Delegates,MD-HD-10B,1.28,0
+MD,House of Delegates,MD-HD-10C,1.34,0
+MD,House of Delegates,MD-HD-11A,1.14,0
+MD,House of Delegates,MD-HD-11BA,0.4,0
+MD,House of Delegates,MD-HD-11BB,1.25,0
+MD,House of Delegates,MD-HD-12AA,0.05,0
+MD,House of Delegates,MD-HD-12AB,1.13,0
+MD,House of Delegates,MD-HD-12B,1.21,0
+MD,House of Delegates,MD-HD-13A,0.17,0
+MD,House of Delegates,MD-HD-13B,1.07,0
+MD,House of Delegates,MD-HD-13C,1.32,0
+MD,House of Delegates,MD-HD-14A,1.2,0
+MD,House of Delegates,MD-HD-14B,1.21,0
+MD,House of Delegates,MD-HD-14C,1.19,0
+MD,House of Delegates,MD-HD-15A,0.41,0
+MD,House of Delegates,MD-HD-15B,1.27,0
+MD,House of Delegates,MD-HD-15C,1.21,0
+MD,House of Delegates,MD-HD-16A,0.02,0
+MD,House of Delegates,MD-HD-16B,1.1,0
+MD,House of Delegates,MD-HD-16C,1.24,0
+MD,House of Delegates,MD-HD-17A,1.16,0
+MD,House of Delegates,MD-HD-17B,1.14,0
+MD,House of Delegates,MD-HD-17C,1.18,0
+MD,House of Delegates,MD-HD-18A,1.13,0
+MD,House of Delegates,MD-HD-18B,1.26,0
+MD,House of Delegates,MD-HD-18C,1.09,0
+MD,House of Delegates,MD-HD-19A,1.18,0
+MD,House of Delegates,MD-HD-19B,1.1,0
+MD,House of Delegates,MD-HD-19C,1.13,0
+MD,House of Delegates,MD-HD-20A,1.47,0
+MD,House of Delegates,MD-HD-20B,1.19,0
+MD,House of Delegates,MD-HD-20C,1.17,0
+MD,House of Delegates,MD-HD-21A,1.03,0
+MD,House of Delegates,MD-HD-21B,1.21,0
+MD,House of Delegates,MD-HD-21C,1.2,0
+MD,House of Delegates,MD-HD-22A,1.22,0
+MD,House of Delegates,MD-HD-22B,1.35,0
+MD,House of Delegates,MD-HD-22C,1.16,0
+MD,House of Delegates,MD-HD-23A,0.01,0
+MD,House of Delegates,MD-HD-23B,0.07,0
+MD,House of Delegates,MD-HD-23C,1.14,0
+MD,House of Delegates,MD-HD-24A,1.28,0
+MD,House of Delegates,MD-HD-24B,1.12,0
+MD,House of Delegates,MD-HD-24C,1.17,0
+MD,House of Delegates,MD-HD-25A,1.22,0
+MD,House of Delegates,MD-HD-25B,1.4,0
+MD,House of Delegates,MD-HD-25C,1.24,0
+MD,House of Delegates,MD-HD-26A,0.03,0
+MD,House of Delegates,MD-HD-26B,0.04,0
+MD,House of Delegates,MD-HD-26C,1.24,0
+MD,House of Delegates,MD-HD-27A,0.02,0
+MD,House of Delegates,MD-HD-27B,0.42,0
+MD,House of Delegates,MD-HD-28A,0.7,0
+MD,House of Delegates,MD-HD-28B,0.33,0
+MD,House of Delegates,MD-HD-28C,1.43,0
+MD,House of Delegates,MD-HD-29B,0.66,0
+MD,House of Delegates,MD-HD-2B,0.64,0
+MD,House of Delegates,MD-HD-30AA,1.17,0
+MD,House of Delegates,MD-HD-30AB,1.1,1
+MD,House of Delegates,MD-HD-31B,0.03,0
+MD,House of Delegates,MD-HD-31C,0.01,0
+MD,House of Delegates,MD-HD-32A,0.51,0
+MD,House of Delegates,MD-HD-32B,0.46,0
+MD,House of Delegates,MD-HD-32C,1.22,0
+MD,House of Delegates,MD-HD-33A,1.25,0
+MD,House of Delegates,MD-HD-33B,0.1,0
+MD,House of Delegates,MD-HD-33C,1.26,0
+MD,House of Delegates,MD-HD-34AA,1.14,0
+MD,House of Delegates,MD-HD-34AB,0.92,0
+MD,House of Delegates,MD-HD-34B,0.02,0
+MD,House of Delegates,MD-HD-37A,1.07,0
+MD,House of Delegates,MD-HD-37BB,0.01,0
+MD,House of Delegates,MD-HD-38B,0.37,0
+MD,House of Delegates,MD-HD-39A,1.07,0
+MD,House of Delegates,MD-HD-39B,1.19,0
+MD,House of Delegates,MD-HD-39C,1.47,0
+MD,House of Delegates,MD-HD-3A,0.43,0
+MD,House of Delegates,MD-HD-3B,0.31,0
+MD,House of Delegates,MD-HD-3C,1.18,0
+MD,House of Delegates,MD-HD-40A,1.2,0
+MD,House of Delegates,MD-HD-40B,1.13,0
+MD,House of Delegates,MD-HD-40C,1.29,0
+MD,House of Delegates,MD-HD-41A,1.25,0
+MD,House of Delegates,MD-HD-41B,1.37,0
+MD,House of Delegates,MD-HD-41C,1.14,0
 MD,House of Delegates,MD-HD-42A,0.01,0
-MD,House of Delegates,MD-HD-42B,0.71,0
-MD,House of Delegates,MD-HD-43A,2.83,0
-MD,House of Delegates,MD-HD-43B,1.36,0
-MD,House of Delegates,MD-HD-44A,1.39,0
-MD,House of Delegates,MD-HD-44B,0.13,0
-MD,House of Delegates,MD-HD-45,4.07,0
-MD,House of Delegates,MD-HD-46,0.23,0
-MD,House of Delegates,MD-HD-47A,0.1,0
-MD,House of Delegates,MD-HD-47B,1.22,0
-MD,House of Delegates,MD-HD-8,2.99,0
-MD,House of Delegates,MD-HD-9A,2.42,0
-MD,House of Delegates,MD-HD-9B,1.44,0
+MD,House of Delegates,MD-HD-42B,0.59,0
+MD,House of Delegates,MD-HD-43AA,1.02,0
+MD,House of Delegates,MD-HD-43AB,1.24,0
+MD,House of Delegates,MD-HD-43B,1.1,0
+MD,House of Delegates,MD-HD-44A,1.07,0
+MD,House of Delegates,MD-HD-44BA,0.07,0
+MD,House of Delegates,MD-HD-44BB,1.32,0
+MD,House of Delegates,MD-HD-45A,1.19,0
+MD,House of Delegates,MD-HD-45B,1.05,0
+MD,House of Delegates,MD-HD-45C,1.21,0
+MD,House of Delegates,MD-HD-46A,0.03,0
+MD,House of Delegates,MD-HD-46B,1.16,0
+MD,House of Delegates,MD-HD-46C,1.14,0
+MD,House of Delegates,MD-HD-47AA,0.01,0
+MD,House of Delegates,MD-HD-47AB,1.07,0
+MD,House of Delegates,MD-HD-47B,1.03,0
+MD,House of Delegates,MD-HD-4B,0.04,0
+MD,House of Delegates,MD-HD-4C,0.11,0
+MD,House of Delegates,MD-HD-8A,0.62,0
+MD,House of Delegates,MD-HD-8B,1.19,0
+MD,House of Delegates,MD-HD-8C,1.21,0
+MD,House of Delegates,MD-HD-9AA,0.92,0
+MD,House of Delegates,MD-HD-9AB,0.92,0
+MD,House of Delegates,MD-HD-9B,1.12,0
 MD,Senate,MD-SD-10,3.64,0
 MD,Senate,MD-SD-11,0.96,0
 MD,Senate,MD-SD-12,3.89,0
@@ -3824,105 +3888,104 @@ SC,House,SC-HD-96,1.43,0
 SC,House,SC-HD-97,1.74,0
 SC,House,SC-HD-98,1.48,0
 SC,House,SC-HD-99,1.71,0
-SD,House,SD-HD-10B,0.01,0
-SD,House,SD-HD-11A,1.17,0
-SD,House,SD-HD-11B,1.84,0
-SD,House,SD-HD-12A,0.09,0
-SD,House,SD-HD-12B,1.88,0
-SD,House,SD-HD-13A,0.44,0
-SD,House,SD-HD-13B,1.88,0
-SD,House,SD-HD-14A,0.12,0
-SD,House,SD-HD-14B,1.69,0
-SD,House,SD-HD-16A,1.85,0
-SD,House,SD-HD-16B,2.0,0
-SD,House,SD-HD-17A,2.11,0
-SD,House,SD-HD-17B,0.58,0
-SD,House,SD-HD-18A,2.06,0
-SD,House,SD-HD-18B,1.94,0
-SD,House,SD-HD-19A,0.15,0
-SD,House,SD-HD-19B,2.08,0
-SD,House,SD-HD-1A,1.07,0
-SD,House,SD-HD-1B,1.82,0
-SD,House,SD-HD-20A,1.44,0
-SD,House,SD-HD-20B,1.88,0
-SD,House,SD-HD-21A,1.91,0
-SD,House,SD-HD-21B,1.76,0
-SD,House,SD-HD-22A,0.98,0
-SD,House,SD-HD-22B,2.03,0
-SD,House,SD-HD-23A,1.89,0
-SD,House,SD-HD-23B,1.71,0
-SD,House,SD-HD-24A,1.79,0
-SD,House,SD-HD-24B,1.94,0
-SD,House,SD-HD-25A,1.95,0
-SD,House,SD-HD-25B,1.78,0
-SD,House,SD-HD-26B,2.14,0
-SD,House,SD-HD-27A,1.65,0
+SD,House,SD-HD-10A,0.01,0
+SD,House,SD-HD-11A,1.01,0
+SD,House,SD-HD-11B,1.83,0
+SD,House,SD-HD-12A,0.06,0
+SD,House,SD-HD-12B,2.1,0
+SD,House,SD-HD-13A,0.39,0
+SD,House,SD-HD-13B,1.95,0
+SD,House,SD-HD-14A,0.15,0
+SD,House,SD-HD-14B,1.8,0
+SD,House,SD-HD-16A,2.03,0
+SD,House,SD-HD-16B,1.93,0
+SD,House,SD-HD-17A,2.0,0
+SD,House,SD-HD-17B,0.49,0
+SD,House,SD-HD-18A,1.99,0
+SD,House,SD-HD-18B,1.64,0
+SD,House,SD-HD-19A,0.2,0
+SD,House,SD-HD-19B,1.81,0
+SD,House,SD-HD-1A,0.81,0
+SD,House,SD-HD-1B,1.86,0
+SD,House,SD-HD-20A,1.99,0
+SD,House,SD-HD-20B,2.0,0
+SD,House,SD-HD-21A,2.08,0
+SD,House,SD-HD-21B,1.79,0
+SD,House,SD-HD-22A,1.14,0
+SD,House,SD-HD-22B,1.86,0
+SD,House,SD-HD-23A,1.71,0
+SD,House,SD-HD-23B,1.55,0
+SD,House,SD-HD-24A,2.01,0
+SD,House,SD-HD-24B,1.89,0
+SD,House,SD-HD-25A,2.05,0
+SD,House,SD-HD-25B,2.05,0
+SD,House,SD-HD-26B,2.11,0
+SD,House,SD-HD-27A,1.85,0
 SD,House,SD-HD-27B,0.02,0
-SD,House,SD-HD-28A,0.82,0
-SD,House,SD-HD-28B,1.93,0
-SD,House,SD-HD-29A,1.74,0
-SD,House,SD-HD-29B,1.69,0
-SD,House,SD-HD-2A,1.66,0
-SD,House,SD-HD-2B,1.77,0
-SD,House,SD-HD-30A,0.19,0
-SD,House,SD-HD-30B,1.75,0
-SD,House,SD-HD-31A,0.88,0
-SD,House,SD-HD-31B,2.06,0
-SD,House,SD-HD-32A,0.13,0
-SD,House,SD-HD-32B,1.95,0
-SD,House,SD-HD-33A,1.21,0
-SD,House,SD-HD-33B,1.94,0
-SD,House,SD-HD-34A,0.82,0
-SD,House,SD-HD-34B,2.01,0
-SD,House,SD-HD-35A,1.79,0
-SD,House,SD-HD-35B,1.93,0
-SD,House,SD-HD-3A,1.67,0
-SD,House,SD-HD-3B,1.91,0
-SD,House,SD-HD-4A,0.71,0
-SD,House,SD-HD-4B,1.74,0
-SD,House,SD-HD-5A,1.8,0
-SD,House,SD-HD-5B,1.93,0
-SD,House,SD-HD-6A,1.94,0
-SD,House,SD-HD-6B,1.94,0
-SD,House,SD-HD-7A,1.65,0
-SD,House,SD-HD-7B,1.88,1
-SD,House,SD-HD-8A,2.0,0
-SD,House,SD-HD-8B,1.96,0
-SD,House,SD-HD-9A,1.09,0
-SD,House,SD-HD-9B,1.86,0
-SD,Senate,SD-SD-1,3.6,0
-SD,Senate,SD-SD-11,2.36,0
-SD,Senate,SD-SD-12,0.2,0
-SD,Senate,SD-SD-13,3.72,0
-SD,Senate,SD-SD-14,3.92,0
-SD,Senate,SD-SD-15,0.03,0
-SD,Senate,SD-SD-16,3.73,0
-SD,Senate,SD-SD-17,3.75,0
-SD,Senate,SD-SD-18,3.54,0
-SD,Senate,SD-SD-19,0.19,0
-SD,Senate,SD-SD-2,3.27,0
-SD,Senate,SD-SD-20,3.51,0
-SD,Senate,SD-SD-21,0.26,0
-SD,Senate,SD-SD-22,3.85,0
-SD,Senate,SD-SD-23,3.61,0
-SD,Senate,SD-SD-24,3.67,0
-SD,Senate,SD-SD-25,3.98,0
-SD,Senate,SD-SD-26,0.24,0
-SD,Senate,SD-SD-27,0.08,0
-SD,Senate,SD-SD-28,3.8,0
-SD,Senate,SD-SD-29,3.5,0
-SD,Senate,SD-SD-3,3.51,0
-SD,Senate,SD-SD-30,3.31,0
-SD,Senate,SD-SD-31,3.76,0
-SD,Senate,SD-SD-32,1.38,0
-SD,Senate,SD-SD-33,4.13,0
-SD,Senate,SD-SD-34,3.8,0
-SD,Senate,SD-SD-35,3.73,0
-SD,Senate,SD-SD-4,3.51,0
-SD,Senate,SD-SD-5,3.64,0
-SD,Senate,SD-SD-6,3.82,1
-SD,Senate,SD-SD-7,3.48,0
-SD,Senate,SD-SD-8,3.46,0
+SD,House,SD-HD-28A,0.52,0
+SD,House,SD-HD-28B,1.87,0
+SD,House,SD-HD-29A,1.81,0
+SD,House,SD-HD-29B,2.04,0
+SD,House,SD-HD-2A,1.25,0
+SD,House,SD-HD-2B,1.71,0
+SD,House,SD-HD-30A,0.17,0
+SD,House,SD-HD-30B,1.83,0
+SD,House,SD-HD-31A,1.0,0
+SD,House,SD-HD-31B,2.1,0
+SD,House,SD-HD-32A,0.17,0
+SD,House,SD-HD-32B,2.0,0
+SD,House,SD-HD-33A,1.4,0
+SD,House,SD-HD-33B,2.08,0
+SD,House,SD-HD-34A,0.65,0
+SD,House,SD-HD-34B,1.82,0
+SD,House,SD-HD-35A,2.01,0
+SD,House,SD-HD-35B,1.87,0
+SD,House,SD-HD-3A,1.55,0
+SD,House,SD-HD-3B,2.05,0
+SD,House,SD-HD-4A,0.86,0
+SD,House,SD-HD-4B,1.93,0
+SD,House,SD-HD-5A,1.95,0
+SD,House,SD-HD-5B,2.03,0
+SD,House,SD-HD-6A,1.7,0
+SD,House,SD-HD-6B,1.87,0
+SD,House,SD-HD-7A,1.15,0
+SD,House,SD-HD-7B,1.9,0
+SD,House,SD-HD-8A,1.83,0
+SD,House,SD-HD-8B,2.06,0
+SD,House,SD-HD-9A,0.8,0
+SD,House,SD-HD-9B,1.86,1
+SD,Senate,SD-SD-1,3.59,0
+SD,Senate,SD-SD-11,1.98,0
+SD,Senate,SD-SD-12,0.14,0
+SD,Senate,SD-SD-13,3.62,0
+SD,Senate,SD-SD-14,3.8,0
+SD,Senate,SD-SD-16,3.79,0
+SD,Senate,SD-SD-17,3.7,0
+SD,Senate,SD-SD-18,4.14,0
+SD,Senate,SD-SD-19,0.3,0
+SD,Senate,SD-SD-2,3.5,0
+SD,Senate,SD-SD-20,3.58,0
+SD,Senate,SD-SD-21,0.23,0
+SD,Senate,SD-SD-22,3.36,0
+SD,Senate,SD-SD-23,3.45,0
+SD,Senate,SD-SD-24,3.73,0
+SD,Senate,SD-SD-25,3.69,0
+SD,Senate,SD-SD-26,0.7,0
+SD,Senate,SD-SD-27,0.02,0
+SD,Senate,SD-SD-28,3.58,0
+SD,Senate,SD-SD-29,3.71,0
+SD,Senate,SD-SD-3,3.32,0
+SD,Senate,SD-SD-30,3.41,0
+SD,Senate,SD-SD-31,3.37,0
+SD,Senate,SD-SD-32,1.04,0
+SD,Senate,SD-SD-33,4.19,0
+SD,Senate,SD-SD-34,3.9,0
+SD,Senate,SD-SD-35,3.69,0
+SD,Senate,SD-SD-4,3.81,0
+SD,Senate,SD-SD-5,3.86,0
+SD,Senate,SD-SD-6,3.81,0
+SD,Senate,SD-SD-7,3.54,1
+SD,Senate,SD-SD-8,3.79,0
 SD,Senate,SD-SD-9,3.66,0
 TN,House,TN-HD-1,1.94,0
 TN,House,TN-HD-10,1.95,0

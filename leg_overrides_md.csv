@@ -1,0 +1,151 @@
+# 2026 Maryland House of Delegates per-seat roster (GENERAL nominees).
+# Source: MD State Board of Elections June 23 primary RESULTS (winners = top-N
+# per party per unit, results final as of Jul 10) x the BOE candidate list;
+# seats-per-unit from MultiState (71 units, 141 seats: 3-member at-large
+# districts split A/B/C, 2-member subdistricts A/B, single-member as-is).
+# Incumbency curated from 2022 winners in leg_results (MD serves 4-year terms;
+# 2022 results lump lettered subdistricts under the base district number).
+# Pairing: incumbents keep their own seat; an outnumbered party's candidates
+# face the other party's non-incumbents. Built 2026-07-15.
+chamber,district,seat,dem_name,rep_name,other_name,incumbent,incumbent_party
+House of Delegates,1A,,Jason M. Jobe,Dan Duggan,,,
+House of Delegates,1B,,Rhiannon C. Brown,Jason C. Buckel,,Jason C. Buckel,R
+House of Delegates,1C,,Seth Funk,Terry Baker,,Terry Baker,R
+House of Delegates,2A,A,John D. Leonard,William J. Wivell,,William J. Wivell,R
+House of Delegates,2A,B,Brandon Thompson,William Valentine,,William Valentine,R
+House of Delegates,2B,,Matthew J. Schindler,Sean Flaherty,,,
+House of Delegates,3,A,Kris Fair,Angela McIntosh,,Kris Fair,D
+House of Delegates,3,B,Karen Simpson,Ashley Nieves,,Karen Simpson,D
+House of Delegates,3,C,Ken Kerr,,,Ken Kerr,D
+House of Delegates,4,A,Andrew Duck,Jesse T. Pippy,,Jesse T. Pippy,R
+House of Delegates,4,B,Jerry Donald,April Fleming Miller,,,
+House of Delegates,4,C,Alleria Stanley,Jason E. Keckler,,,
+House of Delegates,5,A,Alison Rudolph,April R. Rose,,April R. Rose,R
+House of Delegates,5,B,Dayana Bergman,Chris Tomlinson,,Chris Tomlinson,R
+House of Delegates,5,C,Courtney Alexa Welch,Steve Whisler,,,
+House of Delegates,6,A,Megan Ann Mioduszewski,Bob Long,,Bob Long,R
+House of Delegates,6,B,Rayneika Robinson,Robin L. Grammer,,Robin L. Grammer,R
+House of Delegates,6,C,Artus W. Huffman,Ric Metzgar,,,
+House of Delegates,7A,A,Ly Xinzhen Brown,Kathy Szeliga,,Kathy Szeliga,R
+House of Delegates,7A,B,Satish Chapagain,Ryan Nawrocki,,Ryan Nawrocki,R
+House of Delegates,7B,,Candace Hart,Lauren Arikan,,Lauren Arikan,R
+House of Delegates,8,A,Nick Allen,Brian A. Campbell,,Nick Allen,D
+House of Delegates,8,B,Kim L. Ross,Steven J. Riemer,,,
+House of Delegates,8,C,Harry Bhandari,Glen Geelhaar,,,
+House of Delegates,9A,A,Natalie Ziegler,Fitzgerald Mofor,,Natalie Ziegler,D
+House of Delegates,9A,B,Chao Wu,Spencer Rhoda,,Chao Wu,D
+House of Delegates,9B,,Courtney Watson,,,Courtney Watson,D
+House of Delegates,10,A,Jennifer White Holland,,,,
+House of Delegates,10,B,Robin Harvey,,,,
+House of Delegates,10,C,N. Scott Phillips,,,,
+House of Delegates,11A,,Cheryl E. Pasteur,,,Cheryl E. Pasteur,D
+House of Delegates,11B,A,Jon S. Cardin,John C. Gordon,,Jon S. Cardin,D
+House of Delegates,11B,B,Dana Stein,,,Dana Stein,D
+House of Delegates,12A,A,Jessica Feldmark,Frank Glover,,Jessica Feldmark,D
+House of Delegates,12A,B,Terri Hill,,,Terri Hill,D
+House of Delegates,12B,,Gary Simmons,Blair L. Brannock,,Gary Simmons,D
+House of Delegates,13,A,Amy Brooks,Mark Fisher,,,
+House of Delegates,13,B,Pam Lanman Guzzone,,,,
+House of Delegates,13,C,Gabriel Maximilian Moreno,,,,
+House of Delegates,14,A,Anne R. Kaiser,,,Anne R. Kaiser,D
+House of Delegates,14,B,Matt Post,,,,
+House of Delegates,14,C,Bernice Mireku-North,,,,
+House of Delegates,15,A,David V. Fraser-Hidalgo,Peter Chan,,,
+House of Delegates,15,B,Lily Qi,,,Lily Qi,D
+House of Delegates,15,C,Linda Foley,,,Linda Foley,D
+House of Delegates,16,A,Sarah Wolek,Ann Guthrie Hingston,,,
+House of Delegates,16,B,Marc Korman,,,Marc Korman,D
+House of Delegates,16,C,Teresa Saavedra Woorman,,,,
+House of Delegates,17,A,Joe Vogel,,,Joe Vogel,D
+House of Delegates,17,B,Julie Palakovich Carr,,,,
+House of Delegates,17,C,Ryan Spiegel,,,,
+House of Delegates,18,A,Emily Shetty,,,Emily Shetty,D
+House of Delegates,18,B,Jared Solomon,,,Jared Solomon,D
+House of Delegates,18,C,Aaron M. Kaufman,,,Aaron M. Kaufman,D
+House of Delegates,19,A,Charlotte Crutchfield,,,Charlotte Crutchfield,D
+House of Delegates,19,B,Vaughn Stewart,,,Vaughn Stewart,D
+House of Delegates,19,C,Christa Tichy,,,,
+House of Delegates,20,A,David Moon,,,David Moon,D
+House of Delegates,20,B,Lorig Charkoudian,,,Lorig Charkoudian,D
+House of Delegates,20,C,Jheanelle K. Wilkins,,,Jheanelle K. Wilkins,D
+House of Delegates,21,A,Mary A. Lehman,,,Mary A. Lehman,D
+House of Delegates,21,B,Ben Barnes,,,Ben Barnes,D
+House of Delegates,21,C,Joseline A. Peña-Melnyk,,,,
+House of Delegates,22,A,Ashanti Martinez,,,,
+House of Delegates,22,B,Tracy Gant,,,,
+House of Delegates,22,C,Molly McKee-Seabrook,,,,
+House of Delegates,23,A,Keenon James,Michael Riker,,,
+House of Delegates,23,B,Kym Taylor,Kimberly Simmons Robinson,,Kym Taylor,D
+House of Delegates,23,C,"Marvin E. Holmes, Jr.",,,"Marvin E. Holmes, Jr.",D
+House of Delegates,24,A,Andrea Fletcher Harrison,,,,
+House of Delegates,24,B,LaTasha R. Ward,,,,
+House of Delegates,24,C,Derrick L. Coley,,,,
+House of Delegates,25,A,Karen Toles,,,Karen Toles,D
+House of Delegates,25,B,Denise Roberts,,,,
+House of Delegates,25,C,Kent Roberson,,,,
+House of Delegates,26,A,Kriselda Valderrama,JoAnn Y. Fisher,,,
+House of Delegates,26,B,Jamila J. Woods,Ike Puzon,,Jamila J. Woods,D
+House of Delegates,26,C,Veronica Turner,,,Veronica Turner,D
+House of Delegates,27A,,"Darrell C. Odom, Sr.",Jim Crawford,,,
+House of Delegates,27B,,"Jeffrie E. Long, Jr.",Dan L. Thomas,,"Jeffrie E. Long, Jr.",D
+House of Delegates,27C,,Jennifer M. Davidson,Mark N. Fisher,,Mark N. Fisher,R
+House of Delegates,28,A,Abena Affum-McAllister,James Emerson Ashburn,,,
+House of Delegates,28,B,Debra Davis,"Winfield W. Clark, Jr.",,Debra Davis,D
+House of Delegates,28,C,Edith J. Patterson,,,Edith J. Patterson,D
+House of Delegates,29A,,Jennifer Lynn Clancy,Matt Morgan,,Matt Morgan,R
+House of Delegates,29B,,Adrianne M. Mathis,BJ Hall,,,
+House of Delegates,29C,,Shaara Watts,Todd B. Morgan,,Todd B. Morgan,R
+House of Delegates,30A,A,Dana Jones,,,Dana Jones,D
+House of Delegates,30A,B,Dylan Behler,,,,
+House of Delegates,30B,,Matt Johnston,Seth Howard,,Seth Howard,R
+House of Delegates,31,A,Heidi Buchanan Schmidt,Brian A. Chisholm,,Brian A. Chisholm,R
+House of Delegates,31,B,Joan Barone Cole,Mike Jacobs,,,
+House of Delegates,31,C,Ryan Kelly Shaban,LaToya Marie Caldwell-Nkongolo,,,
+House of Delegates,32,A,J. Sandy Bartlett,Mary Phelps,,J. Sandy Bartlett,D
+House of Delegates,32,B,Mike Rogers,Colin McEvers,,Mike Rogers,D
+House of Delegates,32,C,Spencer F. Dixon,"Marcus Damon Snipes, Jr.",,,
+House of Delegates,33A,,Andrew C. Pruski,,,Andrew C. Pruski,D
+House of Delegates,33B,,Chuck Cook,"Stuart M. Schmidt, Jr.",,"Stuart M. Schmidt, Jr.",R
+House of Delegates,33C,,Heather A. Bagnall,Kristin M. Norris,,Heather A. Bagnall,D
+House of Delegates,34A,A,"Andre V. Johnson, Jr.",Elliott Joseph Herneker,,"Andre V. Johnson, Jr.",D
+House of Delegates,34A,B,Steve Johnson,,,Steve Johnson,D
+House of Delegates,34B,,Anthony Lyon,Jake Taylor,,,
+House of Delegates,35A,A,Gregory V. Anderson,Mike Griffith,,Mike Griffith,R
+House of Delegates,35A,B,"Michael A. Eckels, Jr.",Teresa Reilly,,Teresa Reilly,R
+House of Delegates,35B,,Blessing T. Oluwadare,Derek J. Howell,,,
+House of Delegates,36,A,Crystal Woodward,Jay A. Jacobs,,Jay A. Jacobs,R
+House of Delegates,36,B,Michelle Ravert,Jeff Ghrist,,Jeff Ghrist,R
+House of Delegates,36,C,Nevin Crouse,Steve Arentz,,,
+House of Delegates,37A,,Sheree Sample-Hughes,,,,
+House of Delegates,37B,A,Michele W. Johnson (Talbot County),Tom Hutchinson (Dorchester County),,,
+House of Delegates,37B,B,Marco Antonio Garcia (Dorchester County),Chris Adams (Wicomico County),,,
+House of Delegates,38A,,Shelley Johnson,"C. L. Marshall, III",,,
+House of Delegates,38B,,Josh Hastings,Barry S. Beauchamp,,,
+House of Delegates,38C,,Laurie Anne Brittingham,Wayne A. Hartman,,Wayne A. Hartman,R
+House of Delegates,39,A,Lesley J. Lopez,,,Lesley J. Lopez,D
+House of Delegates,39,B,Gabriel Acevero,,,Gabriel Acevero,D
+House of Delegates,39,C,Greg Wims,,,,
+House of Delegates,40,A,Marlon D. Amprey,,,Marlon D. Amprey,D
+House of Delegates,40,B,Melissa Wells,,,Melissa Wells,D
+House of Delegates,40,C,Tiffany Welch,,,,
+House of Delegates,41,A,"S. I. ""Sandy"" Rosenberg",,,,
+House of Delegates,41,B,Sean A. Stinnett,,,,
+House of Delegates,41,C,Ryan Turner,,,,
+House of Delegates,42A,,Jyoti Mohan,"Charles Edward Murphy, III",,,
+House of Delegates,42B,,Michele Guyton,Jeffry K. McDonald,,Michele Guyton,D
+House of Delegates,42C,,Corynne Courpas,Steve Patten,,,
+House of Delegates,43A,A,Regina T. Boyce,,,Regina T. Boyce,D
+House of Delegates,43A,B,Elizabeth Embry,,,Elizabeth Embry,D
+House of Delegates,43B,,Cathi Forbes,,,Cathi Forbes,D
+House of Delegates,44A,,Eric Ebersole,Chuck Linton,,Eric Ebersole,D
+House of Delegates,44B,A,Aletheia McCaskill,Domonic Martin,,Aletheia McCaskill,D
+House of Delegates,44B,B,Sheila Ruth,,,Sheila Ruth,D
+House of Delegates,45,A,Jackie Addison,,,Jackie Addison,D
+House of Delegates,45,B,Caylin Young,,,Caylin Young,D
+House of Delegates,45,C,Chanel A. Branch,,,,
+House of Delegates,46,A,Luke Clippinger,Jeremy L. Amason,,Luke Clippinger,D
+House of Delegates,46,B,Robbyn Lewis,,,Robbyn Lewis,D
+House of Delegates,46,C,Mark Edelson,,,Mark Edelson,D
+House of Delegates,47A,A,Robert Julian Ivey,"Fred M. Price, Jr.",,,
+House of Delegates,47A,B,Diana M. Fennell,,,Diana M. Fennell,D
+House of Delegates,47B,,Deni Taveras,,,Deni Taveras,D

@@ -137,52 +137,52 @@ AK,Senate,11,211
 AK,Senate,12,50
 AK,Senate,13,16
 AK,Senate,14,2
-AZ,House,10,1
-AZ,House,15,3
-AZ,House,16,6
-AZ,House,17,9
-AZ,House,18,6
-AZ,House,19,8
-AZ,House,20,15
-AZ,House,21,21
-AZ,House,22,30
-AZ,House,23,49
-AZ,House,24,58
-AZ,House,25,88
-AZ,House,26,119
-AZ,House,27,156
-AZ,House,28,233
-AZ,House,29,307
-AZ,House,30,372
-AZ,House,31,492
-AZ,House,32,632
-AZ,House,33,753
-AZ,House,34,791
-AZ,House,35,797
-AZ,House,36,802
-AZ,House,37,767
-AZ,House,38,719
-AZ,House,39,571
-AZ,House,40,527
-AZ,House,41,407
-AZ,House,42,294
-AZ,House,43,248
-AZ,House,44,173
-AZ,House,45,159
-AZ,House,46,102
-AZ,House,47,78
-AZ,House,48,52
-AZ,House,49,42
-AZ,House,50,34
-AZ,House,51,27
-AZ,House,52,15
-AZ,House,53,9
-AZ,House,54,13
-AZ,House,55,3
-AZ,House,56,4
-AZ,House,57,3
-AZ,House,58,4
-AZ,House,59,1
+AZ,House,5,1
+AZ,House,9,3
+AZ,House,10,6
+AZ,House,11,9
+AZ,House,12,5
+AZ,House,13,7
+AZ,House,14,16
+AZ,House,15,22
+AZ,House,16,29
+AZ,House,17,49
+AZ,House,18,59
+AZ,House,19,86
+AZ,House,20,121
+AZ,House,21,156
+AZ,House,22,235
+AZ,House,23,303
+AZ,House,24,378
+AZ,House,25,499
+AZ,House,26,636
+AZ,House,27,766
+AZ,House,28,805
+AZ,House,29,816
+AZ,House,30,818
+AZ,House,31,787
+AZ,House,32,719
+AZ,House,33,585
+AZ,House,34,530
+AZ,House,35,370
+AZ,House,36,285
+AZ,House,37,236
+AZ,House,38,173
+AZ,House,39,132
+AZ,House,40,92
+AZ,House,41,70
+AZ,House,42,49
+AZ,House,43,41
+AZ,House,44,35
+AZ,House,45,21
+AZ,House,46,15
+AZ,House,47,8
+AZ,House,48,13
+AZ,House,49,4
+AZ,House,50,3
+AZ,House,51,2
+AZ,House,52,4
+AZ,House,53,1
 AZ,Senate,4,2
 AZ,Senate,5,4
 AZ,Senate,6,10
@@ -1655,88 +1655,97 @@ ME,Senate,32,74
 ME,Senate,33,44
 ME,Senate,34,13
 ME,Senate,35,6
-MD,House of Delegates,30,1
-MD,House of Delegates,37,1
-MD,House of Delegates,42,1
-MD,House of Delegates,45,1
-MD,House of Delegates,54,1
+MD,House of Delegates,16,1
+MD,House of Delegates,28,1
+MD,House of Delegates,38,1
+MD,House of Delegates,40,1
+MD,House of Delegates,44,1
+MD,House of Delegates,47,1
+MD,House of Delegates,48,1
+MD,House of Delegates,52,1
+MD,House of Delegates,53,2
 MD,House of Delegates,55,1
-MD,House of Delegates,57,1
-MD,House of Delegates,59,2
-MD,House of Delegates,62,4
-MD,House of Delegates,63,1
+MD,House of Delegates,56,1
+MD,House of Delegates,57,2
+MD,House of Delegates,59,4
+MD,House of Delegates,60,5
+MD,House of Delegates,61,4
+MD,House of Delegates,62,1
+MD,House of Delegates,63,3
 MD,House of Delegates,64,4
 MD,House of Delegates,65,4
-MD,House of Delegates,66,3
-MD,House of Delegates,67,3
-MD,House of Delegates,68,3
+MD,House of Delegates,66,8
+MD,House of Delegates,67,1
+MD,House of Delegates,68,5
+MD,House of Delegates,69,4
 MD,House of Delegates,70,3
-MD,House of Delegates,71,5
-MD,House of Delegates,72,3
-MD,House of Delegates,73,4
-MD,House of Delegates,74,4
-MD,House of Delegates,75,4
-MD,House of Delegates,76,10
-MD,House of Delegates,77,5
-MD,House of Delegates,78,6
-MD,House of Delegates,79,4
-MD,House of Delegates,80,8
-MD,House of Delegates,81,8
-MD,House of Delegates,82,14
-MD,House of Delegates,83,7
-MD,House of Delegates,84,16
-MD,House of Delegates,85,12
-MD,House of Delegates,86,18
-MD,House of Delegates,87,24
-MD,House of Delegates,88,24
+MD,House of Delegates,71,10
+MD,House of Delegates,72,5
+MD,House of Delegates,73,2
+MD,House of Delegates,74,7
+MD,House of Delegates,75,7
+MD,House of Delegates,76,7
+MD,House of Delegates,77,7
+MD,House of Delegates,78,10
+MD,House of Delegates,79,10
+MD,House of Delegates,80,19
+MD,House of Delegates,81,11
+MD,House of Delegates,82,8
+MD,House of Delegates,83,11
+MD,House of Delegates,84,22
+MD,House of Delegates,85,19
+MD,House of Delegates,86,31
+MD,House of Delegates,87,37
+MD,House of Delegates,88,29
 MD,House of Delegates,89,32
-MD,House of Delegates,90,37
-MD,House of Delegates,91,57
-MD,House of Delegates,92,51
-MD,House of Delegates,93,70
-MD,House of Delegates,94,80
-MD,House of Delegates,95,124
-MD,House of Delegates,96,120
-MD,House of Delegates,97,201
-MD,House of Delegates,98,249
-MD,House of Delegates,99,347
-MD,House of Delegates,100,493
-MD,House of Delegates,101,720
-MD,House of Delegates,102,835
-MD,House of Delegates,103,880
-MD,House of Delegates,104,822
-MD,House of Delegates,105,707
-MD,House of Delegates,106,562
-MD,House of Delegates,107,523
-MD,House of Delegates,108,451
-MD,House of Delegates,109,388
-MD,House of Delegates,110,320
-MD,House of Delegates,111,282
-MD,House of Delegates,112,229
-MD,House of Delegates,113,190
-MD,House of Delegates,114,156
-MD,House of Delegates,115,135
-MD,House of Delegates,116,124
-MD,House of Delegates,117,108
-MD,House of Delegates,118,84
-MD,House of Delegates,119,75
-MD,House of Delegates,120,66
-MD,House of Delegates,121,44
-MD,House of Delegates,122,40
-MD,House of Delegates,123,40
-MD,House of Delegates,124,36
-MD,House of Delegates,125,22
-MD,House of Delegates,126,23
-MD,House of Delegates,127,13
-MD,House of Delegates,128,11
-MD,House of Delegates,129,12
-MD,House of Delegates,130,8
-MD,House of Delegates,131,8
-MD,House of Delegates,132,4
-MD,House of Delegates,133,3
-MD,House of Delegates,134,2
-MD,House of Delegates,135,3
-MD,House of Delegates,136,1
+MD,House of Delegates,90,39
+MD,House of Delegates,91,62
+MD,House of Delegates,92,61
+MD,House of Delegates,93,89
+MD,House of Delegates,94,83
+MD,House of Delegates,95,129
+MD,House of Delegates,96,121
+MD,House of Delegates,97,150
+MD,House of Delegates,98,173
+MD,House of Delegates,99,235
+MD,House of Delegates,100,360
+MD,House of Delegates,101,371
+MD,House of Delegates,102,508
+MD,House of Delegates,103,529
+MD,House of Delegates,104,579
+MD,House of Delegates,105,580
+MD,House of Delegates,106,577
+MD,House of Delegates,107,542
+MD,House of Delegates,108,494
+MD,House of Delegates,109,460
+MD,House of Delegates,110,469
+MD,House of Delegates,111,394
+MD,House of Delegates,112,350
+MD,House of Delegates,113,334
+MD,House of Delegates,114,315
+MD,House of Delegates,115,235
+MD,House of Delegates,116,226
+MD,House of Delegates,117,188
+MD,House of Delegates,118,173
+MD,House of Delegates,119,151
+MD,House of Delegates,120,126
+MD,House of Delegates,121,98
+MD,House of Delegates,122,89
+MD,House of Delegates,123,66
+MD,House of Delegates,124,65
+MD,House of Delegates,125,55
+MD,House of Delegates,126,43
+MD,House of Delegates,127,39
+MD,House of Delegates,128,27
+MD,House of Delegates,129,18
+MD,House of Delegates,130,15
+MD,House of Delegates,131,14
+MD,House of Delegates,132,8
+MD,House of Delegates,133,5
+MD,House of Delegates,134,5
+MD,House of Delegates,135,1
+MD,House of Delegates,136,2
+MD,House of Delegates,137,1
 MD,House of Delegates,138,2
 MD,Senate,9,1
 MD,Senate,11,1
@@ -3748,88 +3757,87 @@ SC,House,98,1
 SC,House,99,2
 SC,House,106,1
 SC,House,114,1
-SD,House,2,35
-SD,House,3,197
-SD,House,4,380
-SD,House,5,576
-SD,House,6,708
-SD,House,7,850
-SD,House,8,857
-SD,House,9,895
-SD,House,10,803
-SD,House,11,744
-SD,House,12,614
-SD,House,13,536
-SD,House,14,433
-SD,House,15,412
-SD,House,16,284
-SD,House,17,226
-SD,House,18,233
-SD,House,19,185
-SD,House,20,164
-SD,House,21,116
-SD,House,22,102
-SD,House,23,85
-SD,House,24,79
-SD,House,25,64
-SD,House,26,67
-SD,House,27,49
-SD,House,28,42
-SD,House,29,30
-SD,House,30,29
-SD,House,31,27
-SD,House,32,21
-SD,House,33,24
-SD,House,34,20
-SD,House,35,13
-SD,House,36,17
-SD,House,37,16
-SD,House,38,15
-SD,House,39,10
-SD,House,40,12
-SD,House,41,2
-SD,House,42,5
-SD,House,43,4
-SD,House,44,4
-SD,House,45,3
-SD,House,46,3
-SD,House,47,1
-SD,House,49,1
-SD,House,51,1
-SD,House,52,2
-SD,House,57,1
-SD,House,58,2
-SD,House,61,1
-SD,Senate,2,257
-SD,Senate,3,911
-SD,Senate,4,1397
-SD,Senate,5,1624
-SD,Senate,6,1723
-SD,Senate,7,1434
-SD,Senate,8,953
-SD,Senate,9,553
-SD,Senate,10,395
-SD,Senate,11,199
-SD,Senate,12,167
-SD,Senate,13,94
-SD,Senate,14,86
-SD,Senate,15,55
-SD,Senate,16,42
-SD,Senate,17,19
-SD,Senate,18,23
-SD,Senate,19,18
-SD,Senate,20,8
-SD,Senate,21,5
-SD,Senate,22,8
-SD,Senate,23,3
-SD,Senate,24,7
-SD,Senate,25,6
-SD,Senate,26,5
-SD,Senate,27,2
-SD,Senate,29,1
+SD,House,0,232
+SD,House,1,380
+SD,House,2,576
+SD,House,3,708
+SD,House,4,850
+SD,House,5,857
+SD,House,6,895
+SD,House,7,803
+SD,House,8,744
+SD,House,9,614
+SD,House,10,536
+SD,House,11,433
+SD,House,12,412
+SD,House,13,284
+SD,House,14,226
+SD,House,15,233
+SD,House,16,185
+SD,House,17,164
+SD,House,18,116
+SD,House,19,102
+SD,House,20,85
+SD,House,21,79
+SD,House,22,64
+SD,House,23,67
+SD,House,24,49
+SD,House,25,42
+SD,House,26,30
+SD,House,27,29
+SD,House,28,27
+SD,House,29,21
+SD,House,30,24
+SD,House,31,20
+SD,House,32,13
+SD,House,33,17
+SD,House,34,16
+SD,House,35,15
+SD,House,36,10
+SD,House,37,12
+SD,House,38,2
+SD,House,39,5
+SD,House,40,4
+SD,House,41,4
+SD,House,42,3
+SD,House,43,3
+SD,House,44,1
+SD,House,46,1
+SD,House,48,1
+SD,House,49,2
+SD,House,54,1
+SD,House,55,2
+SD,House,58,1
+SD,Senate,1,198
+SD,Senate,2,702
+SD,Senate,3,1513
+SD,Senate,4,1912
+SD,Senate,5,1930
+SD,Senate,6,1334
+SD,Senate,7,840
+SD,Senate,8,503
+SD,Senate,9,342
+SD,Senate,10,184
+SD,Senate,11,168
+SD,Senate,12,95
+SD,Senate,13,72
+SD,Senate,14,60
+SD,Senate,15,37
+SD,Senate,16,19
+SD,Senate,17,23
+SD,Senate,18,18
+SD,Senate,19,8
+SD,Senate,20,6
+SD,Senate,21,7
+SD,Senate,22,3
+SD,Senate,23,7
+SD,Senate,24,6
+SD,Senate,25,5
+SD,Senate,26,2
+SD,Senate,28,1
+SD,Senate,29,2
 SD,Senate,30,2
-SD,Senate,31,2
-SD,Senate,33,1
+SD,Senate,32,1
 TN,House,3,1
 TN,House,4,1
 TN,House,5,3
