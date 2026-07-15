@@ -104,67 +104,90 @@ AL,Senate,AL-SD-6,0.89,0
 AL,Senate,AL-SD-7,2.69,0
 AL,Senate,AL-SD-8,0.72,0
 AL,Senate,AL-SD-9,5.37,0
-AK,House,AK-HD-1,4.83,0
-AK,House,AK-HD-10,4.72,0
-AK,House,AK-HD-11,6.68,0
-AK,House,AK-HD-12,4.48,0
-AK,House,AK-HD-15,4.65,0
-AK,House,AK-HD-18,1.42,0
+AK,House,AK-HD-1,4.8,0
+AK,House,AK-HD-10,4.71,0
+AK,House,AK-HD-11,6.72,0
+AK,House,AK-HD-12,4.43,0
+AK,House,AK-HD-15,4.68,0
+AK,House,AK-HD-18,1.4,0
 AK,House,AK-HD-19,0.01,0
 AK,House,AK-HD-2,4.85,0
 AK,House,AK-HD-21,0.01,0
 AK,House,AK-HD-22,0.02,0
-AK,House,AK-HD-23,12.37,0
-AK,House,AK-HD-24,4.76,0
+AK,House,AK-HD-23,12.31,0
+AK,House,AK-HD-24,4.81,0
 AK,House,AK-HD-25,4.68,0
 AK,House,AK-HD-26,0.12,0
-AK,House,AK-HD-27,4.77,0
+AK,House,AK-HD-27,4.78,0
 AK,House,AK-HD-28,0.28,0
-AK,House,AK-HD-29,0.77,0
-AK,House,AK-HD-30,0.67,0
+AK,House,AK-HD-29,0.83,0
+AK,House,AK-HD-30,0.7,0
 AK,House,AK-HD-31,0.2,0
 AK,House,AK-HD-32,4.83,0
-AK,House,AK-HD-33,4.99,1
-AK,House,AK-HD-34,4.87,0
+AK,House,AK-HD-33,4.97,1
+AK,House,AK-HD-34,4.83,0
 AK,House,AK-HD-36,4.74,0
 AK,House,AK-HD-37,1.19,0
 AK,House,AK-HD-38,0.01,0
-AK,House,AK-HD-5,4.41,0
-AK,House,AK-HD-6,4.67,0
-AK,House,AK-HD-7,0.89,0
-AK,House,AK-HD-8,4.59,0
-AK,House,AK-HD-9,4.52,0
-AK,Senate,AK-SD-A,23.19,0
-AK,Senate,AK-SD-C,22.61,0
-AK,Senate,AK-SD-E,23.14,1
-AK,Senate,AK-SD-M,6.28,0
-AK,Senate,AK-SD-O,1.15,0
-AK,Senate,AK-SD-Q,23.56,0
+AK,House,AK-HD-5,4.45,0
+AK,House,AK-HD-6,4.66,0
+AK,House,AK-HD-7,0.93,0
+AK,House,AK-HD-8,4.58,0
+AK,House,AK-HD-9,4.47,0
+AK,Senate,AK-SD-A,23.17,0
+AK,Senate,AK-SD-C,22.68,0
+AK,Senate,AK-SD-E,23.1,1
+AK,Senate,AK-SD-M,6.27,0
+AK,Senate,AK-SD-O,1.13,0
+AK,Senate,AK-SD-Q,23.58,0
 AK,Senate,AK-SD-S,0.07,0
-AZ,House,AZ-HD-1,0.52,0
-AZ,House,AZ-HD-10,2.43,0
-AZ,House,AZ-HD-12,0.12,0
-AZ,House,AZ-HD-13,9.86,0
-AZ,House,AZ-HD-14,1.52,0
-AZ,House,AZ-HD-15,0.27,0
-AZ,House,AZ-HD-16,13.92,0
-AZ,House,AZ-HD-17,11.65,0
-AZ,House,AZ-HD-19,0.52,0
-AZ,House,AZ-HD-2,13.6,1
-AZ,House,AZ-HD-23,11.72,0
-AZ,House,AZ-HD-24,0.02,0
-AZ,House,AZ-HD-25,0.5,0
-AZ,House,AZ-HD-27,0.85,0
-AZ,House,AZ-HD-28,0.28,0
-AZ,House,AZ-HD-29,6.53,0
-AZ,House,AZ-HD-3,8.89,0
-AZ,House,AZ-HD-30,0.11,0
-AZ,House,AZ-HD-4,12.42,0
-AZ,House,AZ-HD-5,0.14,0
-AZ,House,AZ-HD-6,0.15,0
-AZ,House,AZ-HD-7,0.85,0
-AZ,House,AZ-HD-8,0.03,0
-AZ,House,AZ-HD-9,3.1,0
+AZ,House,AZ-HD-10A,0.93,0
+AZ,House,AZ-HD-10B,0.02,0
+AZ,House,AZ-HD-11A,0.02,0
+AZ,House,AZ-HD-11B,0.02,0
+AZ,House,AZ-HD-12A,1.62,0
+AZ,House,AZ-HD-12B,6.21,0
+AZ,House,AZ-HD-13A,7.26,0
+AZ,House,AZ-HD-13B,7.61,0
+AZ,House,AZ-HD-14A,1.79,0
+AZ,House,AZ-HD-15A,0.01,0
+AZ,House,AZ-HD-16A,3.07,0
+AZ,House,AZ-HD-17A,7.96,0
+AZ,House,AZ-HD-17B,1.35,0
+AZ,House,AZ-HD-18A,0.11,0
+AZ,House,AZ-HD-18B,1.41,0
+AZ,House,AZ-HD-19A,0.52,0
+AZ,House,AZ-HD-19B,0.01,0
+AZ,House,AZ-HD-20A,1.68,0
+AZ,House,AZ-HD-20B,0.1,0
+AZ,House,AZ-HD-21A,0.05,0
+AZ,House,AZ-HD-21B,1.53,0
+AZ,House,AZ-HD-22A,0.24,0
+AZ,House,AZ-HD-22B,1.78,0
+AZ,House,AZ-HD-23A,6.6,0
+AZ,House,AZ-HD-23B,8.18,1
+AZ,House,AZ-HD-24A,1.54,0
+AZ,House,AZ-HD-24B,3.06,0
+AZ,House,AZ-HD-25A,0.01,0
+AZ,House,AZ-HD-25B,0.01,0
+AZ,House,AZ-HD-26A,0.17,0
+AZ,House,AZ-HD-26B,0.19,0
+AZ,House,AZ-HD-27A,0.01,0
+AZ,House,AZ-HD-29A,0.2,0
+AZ,House,AZ-HD-2A,5.5,0
+AZ,House,AZ-HD-3A,0.62,0
+AZ,House,AZ-HD-3B,0.07,0
+AZ,House,AZ-HD-4A,3.25,0
+AZ,House,AZ-HD-4B,1.36,0
+AZ,House,AZ-HD-5A,1.48,0
+AZ,House,AZ-HD-5B,1.45,0
+AZ,House,AZ-HD-6A,1.3,0
+AZ,House,AZ-HD-6B,1.53,0
+AZ,House,AZ-HD-7B,0.01,0
+AZ,House,AZ-HD-8A,0.52,0
+AZ,House,AZ-HD-8B,1.44,0
+AZ,House,AZ-HD-9A,7.77,0
+AZ,House,AZ-HD-9B,8.43,0
 AZ,Senate,AZ-SD-1,0.01,0
 AZ,Senate,AZ-SD-10,2.33,0
 AZ,Senate,AZ-SD-12,0.4,0
@@ -990,94 +1013,94 @@ HI,Senate,HI-SD-5,7.1,0
 HI,Senate,HI-SD-8,7.09,0
 HI,Senate,HI-SD-9,12.48,0
 ID,House,ID-HD-10A,0.4,0
-ID,House,ID-HD-10B,0.35,0
-ID,House,ID-HD-11A,2.98,0
+ID,House,ID-HD-10B,0.33,0
+ID,House,ID-HD-11A,3.07,0
 ID,House,ID-HD-11B,1.45,0
-ID,House,ID-HD-12A,2.51,0
-ID,House,ID-HD-12B,2.41,0
-ID,House,ID-HD-13A,1.83,0
-ID,House,ID-HD-13B,2.31,0
-ID,House,ID-HD-14A,1.68,0
-ID,House,ID-HD-14B,1.8,0
+ID,House,ID-HD-12A,2.5,0
+ID,House,ID-HD-12B,2.37,0
+ID,House,ID-HD-13A,1.88,0
+ID,House,ID-HD-13B,2.29,0
+ID,House,ID-HD-14A,1.7,0
+ID,House,ID-HD-14B,1.81,0
 ID,House,ID-HD-15B,0.09,0
-ID,House,ID-HD-1A,2.91,0
-ID,House,ID-HD-1B,1.79,0
-ID,House,ID-HD-20A,2.67,0
-ID,House,ID-HD-20B,2.97,1
-ID,House,ID-HD-21A,2.55,0
-ID,House,ID-HD-21B,2.29,0
-ID,House,ID-HD-22A,1.0,0
-ID,House,ID-HD-22B,3.09,0
-ID,House,ID-HD-23A,0.4,0
+ID,House,ID-HD-1A,2.99,0
+ID,House,ID-HD-1B,1.73,0
+ID,House,ID-HD-20A,2.65,0
+ID,House,ID-HD-20B,2.95,1
+ID,House,ID-HD-21A,2.53,0
+ID,House,ID-HD-21B,2.23,0
+ID,House,ID-HD-22A,1.05,0
+ID,House,ID-HD-22B,3.07,0
+ID,House,ID-HD-23A,0.41,0
 ID,House,ID-HD-23B,0.48,0
-ID,House,ID-HD-24A,2.87,0
-ID,House,ID-HD-24B,1.67,0
-ID,House,ID-HD-25A,2.42,0
-ID,House,ID-HD-25B,2.79,0
+ID,House,ID-HD-24A,2.76,0
+ID,House,ID-HD-24B,1.64,0
+ID,House,ID-HD-25A,2.45,0
+ID,House,ID-HD-25B,2.81,0
 ID,House,ID-HD-26A,0.04,0
 ID,House,ID-HD-26B,0.02,0
-ID,House,ID-HD-27A,2.92,0
-ID,House,ID-HD-27B,2.8,0
-ID,House,ID-HD-28A,1.0,0
-ID,House,ID-HD-28B,0.88,0
-ID,House,ID-HD-29A,0.26,0
+ID,House,ID-HD-27A,2.84,0
+ID,House,ID-HD-27B,2.75,0
+ID,House,ID-HD-28A,0.99,0
+ID,House,ID-HD-28B,0.86,0
+ID,House,ID-HD-29A,0.28,0
 ID,House,ID-HD-29B,0.03,0
-ID,House,ID-HD-2A,0.36,0
-ID,House,ID-HD-2B,0.47,0
-ID,House,ID-HD-30A,3.01,0
-ID,House,ID-HD-30B,0.28,0
-ID,House,ID-HD-31A,0.43,0
-ID,House,ID-HD-31B,0.43,0
-ID,House,ID-HD-32A,2.5,0
+ID,House,ID-HD-2A,0.35,0
+ID,House,ID-HD-2B,0.45,0
+ID,House,ID-HD-30A,3.04,0
+ID,House,ID-HD-30B,0.29,0
+ID,House,ID-HD-31A,0.4,0
+ID,House,ID-HD-31B,0.4,0
+ID,House,ID-HD-32A,2.52,0
 ID,House,ID-HD-32B,1.06,0
-ID,House,ID-HD-33A,3.08,0
-ID,House,ID-HD-33B,2.77,0
-ID,House,ID-HD-34A,2.86,0
-ID,House,ID-HD-34B,2.96,0
-ID,House,ID-HD-35A,0.72,0
-ID,House,ID-HD-35B,0.96,0
-ID,House,ID-HD-3A,2.8,0
-ID,House,ID-HD-3B,2.47,0
-ID,House,ID-HD-4A,2.45,0
-ID,House,ID-HD-4B,2.26,0
-ID,House,ID-HD-5A,1.02,0
-ID,House,ID-HD-5B,0.98,0
+ID,House,ID-HD-33A,3.07,0
+ID,House,ID-HD-33B,2.73,0
+ID,House,ID-HD-34A,2.93,0
+ID,House,ID-HD-34B,2.92,0
+ID,House,ID-HD-35A,0.7,0
+ID,House,ID-HD-35B,0.93,0
+ID,House,ID-HD-3A,2.77,0
+ID,House,ID-HD-3B,2.46,0
+ID,House,ID-HD-4A,2.55,0
+ID,House,ID-HD-4B,2.32,0
+ID,House,ID-HD-5A,1.09,0
+ID,House,ID-HD-5B,0.97,0
 ID,House,ID-HD-6A,0.16,0
-ID,House,ID-HD-6B,0.21,0
-ID,House,ID-HD-7A,0.89,0
-ID,House,ID-HD-7B,0.79,0
-ID,House,ID-HD-8A,2.71,0
-ID,House,ID-HD-8B,2.59,0
-ID,House,ID-HD-9A,2.75,0
-ID,House,ID-HD-9B,0.37,0
-ID,Senate,ID-SD-1,4.74,0
-ID,Senate,ID-SD-10,1.6,0
-ID,Senate,ID-SD-11,4.37,0
-ID,Senate,ID-SD-12,5.34,0
-ID,Senate,ID-SD-13,6.0,0
-ID,Senate,ID-SD-14,4.27,0
-ID,Senate,ID-SD-2,2.6,0
-ID,Senate,ID-SD-20,4.93,0
-ID,Senate,ID-SD-21,5.43,0
-ID,Senate,ID-SD-22,4.09,0
-ID,Senate,ID-SD-23,2.2,0
-ID,Senate,ID-SD-24,4.13,0
-ID,Senate,ID-SD-25,3.6,0
-ID,Senate,ID-SD-27,1.4,0
-ID,Senate,ID-SD-28,4.52,0
-ID,Senate,ID-SD-3,2.98,0
-ID,Senate,ID-SD-30,1.6,0
+ID,House,ID-HD-6B,0.23,0
+ID,House,ID-HD-7A,0.91,0
+ID,House,ID-HD-7B,0.83,0
+ID,House,ID-HD-8A,2.7,0
+ID,House,ID-HD-8B,2.63,0
+ID,House,ID-HD-9A,2.79,0
+ID,House,ID-HD-9B,0.35,0
+ID,Senate,ID-SD-1,4.77,0
+ID,Senate,ID-SD-10,1.64,0
+ID,Senate,ID-SD-11,4.31,0
+ID,Senate,ID-SD-12,5.22,0
+ID,Senate,ID-SD-13,6.16,0
+ID,Senate,ID-SD-14,4.08,0
+ID,Senate,ID-SD-2,2.66,0
+ID,Senate,ID-SD-20,4.94,0
+ID,Senate,ID-SD-21,5.47,0
+ID,Senate,ID-SD-22,4.15,0
+ID,Senate,ID-SD-23,2.24,0
+ID,Senate,ID-SD-24,4.14,0
+ID,Senate,ID-SD-25,3.7,0
+ID,Senate,ID-SD-27,1.48,0
+ID,Senate,ID-SD-28,4.55,0
+ID,Senate,ID-SD-3,2.96,0
+ID,Senate,ID-SD-30,1.58,0
 ID,Senate,ID-SD-31,1.62,0
-ID,Senate,ID-SD-32,3.56,0
-ID,Senate,ID-SD-33,5.05,0
-ID,Senate,ID-SD-34,1.64,0
-ID,Senate,ID-SD-35,4.82,0
-ID,Senate,ID-SD-4,3.22,0
-ID,Senate,ID-SD-5,3.78,0
+ID,Senate,ID-SD-32,3.64,0
+ID,Senate,ID-SD-33,5.01,0
+ID,Senate,ID-SD-34,1.56,0
+ID,Senate,ID-SD-35,4.79,0
+ID,Senate,ID-SD-4,3.23,0
+ID,Senate,ID-SD-5,3.81,0
 ID,Senate,ID-SD-6,0.08,0
-ID,Senate,ID-SD-7,5.27,0
-ID,Senate,ID-SD-8,5.36,1
-ID,Senate,ID-SD-9,1.8,0
+ID,Senate,ID-SD-7,5.09,0
+ID,Senate,ID-SD-8,5.3,1
+ID,Senate,ID-SD-9,1.82,0
 IL,House,IL-HD-1,1.56,0
 IL,House,IL-HD-10,1.39,0
 IL,House,IL-HD-103,1.49,0
@@ -1577,173 +1600,171 @@ KY,Senate,KY-SD-38,6.73,0
 KY,Senate,KY-SD-4,6.91,1
 KY,Senate,KY-SD-6,1.47,0
 KY,Senate,KY-SD-8,7.3,0
-ME,House,ME-HD-1,0.21,0
+ME,House,ME-HD-1,0.2,0
 ME,House,ME-HD-10,0.02,0
 ME,House,ME-HD-102,0.03,0
-ME,House,ME-HD-103,0.19,0
+ME,House,ME-HD-103,0.17,0
 ME,House,ME-HD-104,0.03,0
-ME,House,ME-HD-105,0.32,0
-ME,House,ME-HD-106,2.3,0
-ME,House,ME-HD-107,2.17,0
+ME,House,ME-HD-105,0.3,0
+ME,House,ME-HD-106,2.33,0
+ME,House,ME-HD-107,2.21,0
 ME,House,ME-HD-108,0.17,0
-ME,House,ME-HD-109,1.01,0
+ME,House,ME-HD-109,1.02,0
 ME,House,ME-HD-11,0.02,0
-ME,House,ME-HD-111,0.13,0
-ME,House,ME-HD-114,0.18,0
-ME,House,ME-HD-115,0.05,0
-ME,House,ME-HD-116,0.16,0
-ME,House,ME-HD-117,0.16,0
+ME,House,ME-HD-111,0.16,0
+ME,House,ME-HD-114,0.15,0
+ME,House,ME-HD-115,0.07,0
+ME,House,ME-HD-116,0.25,0
+ME,House,ME-HD-117,0.15,0
 ME,House,ME-HD-118,0.13,0
-ME,House,ME-HD-12,0.02,0
+ME,House,ME-HD-12,0.01,0
 ME,House,ME-HD-120,0.01,0
-ME,House,ME-HD-122,0.16,0
-ME,House,ME-HD-124,0.28,0
-ME,House,ME-HD-125,0.18,0
-ME,House,ME-HD-126,0.04,0
-ME,House,ME-HD-127,0.1,0
-ME,House,ME-HD-128,0.18,0
+ME,House,ME-HD-122,0.18,0
+ME,House,ME-HD-124,0.26,0
+ME,House,ME-HD-125,0.19,0
+ME,House,ME-HD-126,0.03,0
+ME,House,ME-HD-127,0.15,0
+ME,House,ME-HD-128,0.16,0
 ME,House,ME-HD-129,0.18,0
-ME,House,ME-HD-13,1.13,0
-ME,House,ME-HD-130,0.13,0
-ME,House,ME-HD-131,0.21,0
+ME,House,ME-HD-13,1.17,0
+ME,House,ME-HD-130,0.16,0
+ME,House,ME-HD-131,0.29,0
 ME,House,ME-HD-132,0.18,0
-ME,House,ME-HD-133,0.12,0
-ME,House,ME-HD-134,0.19,0
-ME,House,ME-HD-135,0.12,0
-ME,House,ME-HD-136,0.7,0
+ME,House,ME-HD-133,0.15,0
+ME,House,ME-HD-134,0.21,0
+ME,House,ME-HD-135,0.21,0
+ME,House,ME-HD-136,0.67,0
 ME,House,ME-HD-137,0.46,0
-ME,House,ME-HD-138,1.29,0
+ME,House,ME-HD-138,1.2,0
 ME,House,ME-HD-139,1.15,0
 ME,House,ME-HD-14,0.01,0
-ME,House,ME-HD-140,1.38,0
-ME,House,ME-HD-141,1.71,0
-ME,House,ME-HD-142,2.75,0
-ME,House,ME-HD-143,2.89,0
+ME,House,ME-HD-140,1.42,0
+ME,House,ME-HD-141,1.76,0
+ME,House,ME-HD-142,2.71,0
+ME,House,ME-HD-143,2.9,0
 ME,House,ME-HD-145,2.12,0
-ME,House,ME-HD-146,0.42,0
-ME,House,ME-HD-147,0.13,0
-ME,House,ME-HD-148,0.46,0
-ME,House,ME-HD-149,1.84,0
-ME,House,ME-HD-15,0.17,0
-ME,House,ME-HD-150,1.05,0
+ME,House,ME-HD-146,0.41,0
+ME,House,ME-HD-147,0.18,0
+ME,House,ME-HD-148,0.44,0
+ME,House,ME-HD-149,1.83,0
+ME,House,ME-HD-15,0.21,0
+ME,House,ME-HD-150,1.04,0
 ME,House,ME-HD-16,0.17,0
-ME,House,ME-HD-17,2.04,0
+ME,House,ME-HD-17,2.05,0
 ME,House,ME-HD-18,0.01,0
-ME,House,ME-HD-19,0.09,0
-ME,House,ME-HD-2,0.55,0
-ME,House,ME-HD-20,2.25,0
+ME,House,ME-HD-19,0.08,0
+ME,House,ME-HD-2,0.56,0
+ME,House,ME-HD-20,2.24,0
 ME,House,ME-HD-21,0.36,0
-ME,House,ME-HD-22,1.21,0
-ME,House,ME-HD-23,0.93,0
-ME,House,ME-HD-24,0.13,0
+ME,House,ME-HD-22,1.16,0
+ME,House,ME-HD-23,0.92,0
+ME,House,ME-HD-24,0.16,0
 ME,House,ME-HD-25,0.01,0
-ME,House,ME-HD-26,2.77,0
+ME,House,ME-HD-26,2.81,0
 ME,House,ME-HD-27,0.13,0
-ME,House,ME-HD-3,1.34,0
+ME,House,ME-HD-3,1.33,0
 ME,House,ME-HD-30,0.01,0
-ME,House,ME-HD-31,0.29,0
+ME,House,ME-HD-31,0.31,0
 ME,House,ME-HD-32,0.02,0
 ME,House,ME-HD-34,0.04,0
 ME,House,ME-HD-35,0.01,0
-ME,House,ME-HD-36,0.87,0
-ME,House,ME-HD-37,0.59,0
-ME,House,ME-HD-38,0.31,0
+ME,House,ME-HD-36,0.86,0
+ME,House,ME-HD-37,0.57,0
+ME,House,ME-HD-38,0.32,0
 ME,House,ME-HD-39,0.24,0
-ME,House,ME-HD-4,0.01,0
-ME,House,ME-HD-40,1.21,0
+ME,House,ME-HD-4,0.02,0
+ME,House,ME-HD-40,1.2,0
 ME,House,ME-HD-41,0.01,0
-ME,House,ME-HD-42,0.18,0
-ME,House,ME-HD-43,1.75,0
+ME,House,ME-HD-42,0.17,0
+ME,House,ME-HD-43,1.74,0
 ME,House,ME-HD-44,0.01,0
-ME,House,ME-HD-45,0.01,0
-ME,House,ME-HD-46,0.21,0
-ME,House,ME-HD-47,2.49,0
-ME,House,ME-HD-48,1.34,0
-ME,House,ME-HD-49,2.5,0
-ME,House,ME-HD-5,2.02,0
+ME,House,ME-HD-46,0.18,0
+ME,House,ME-HD-47,2.45,0
+ME,House,ME-HD-48,1.31,0
+ME,House,ME-HD-49,2.51,0
+ME,House,ME-HD-5,2.01,0
 ME,House,ME-HD-50,0.02,0
-ME,House,ME-HD-51,0.05,0
-ME,House,ME-HD-52,2.62,0
-ME,House,ME-HD-53,0.18,0
-ME,House,ME-HD-54,1.2,0
-ME,House,ME-HD-55,2.65,0
+ME,House,ME-HD-51,0.04,0
+ME,House,ME-HD-52,2.63,0
+ME,House,ME-HD-53,0.2,0
+ME,House,ME-HD-54,1.19,0
+ME,House,ME-HD-55,2.6,0
 ME,House,ME-HD-56,0.03,0
-ME,House,ME-HD-57,1.15,0
-ME,House,ME-HD-59,2.15,0
-ME,House,ME-HD-60,0.66,0
+ME,House,ME-HD-57,1.14,0
+ME,House,ME-HD-59,2.13,0
+ME,House,ME-HD-60,0.65,0
 ME,House,ME-HD-61,0.13,0
-ME,House,ME-HD-62,0.05,0
-ME,House,ME-HD-63,0.52,0
+ME,House,ME-HD-62,0.06,0
+ME,House,ME-HD-63,0.51,0
 ME,House,ME-HD-64,0.04,0
-ME,House,ME-HD-65,0.02,0
-ME,House,ME-HD-67,1.48,0
-ME,House,ME-HD-68,0.02,0
-ME,House,ME-HD-7,0.08,0
-ME,House,ME-HD-70,0.4,0
+ME,House,ME-HD-65,0.03,0
+ME,House,ME-HD-67,1.51,0
+ME,House,ME-HD-68,0.01,0
+ME,House,ME-HD-7,0.09,0
+ME,House,ME-HD-70,0.35,0
 ME,House,ME-HD-71,0.02,0
 ME,House,ME-HD-72,0.07,0
-ME,House,ME-HD-73,0.18,0
-ME,House,ME-HD-74,0.87,0
-ME,House,ME-HD-75,2.92,1
-ME,House,ME-HD-76,0.27,0
+ME,House,ME-HD-73,0.19,0
+ME,House,ME-HD-74,0.85,0
+ME,House,ME-HD-75,2.86,1
+ME,House,ME-HD-76,0.28,0
 ME,House,ME-HD-77,0.01,0
-ME,House,ME-HD-78,0.96,0
+ME,House,ME-HD-78,0.97,0
 ME,House,ME-HD-79,0.1,0
 ME,House,ME-HD-8,0.01,0
-ME,House,ME-HD-81,1.11,0
-ME,House,ME-HD-82,2.78,0
-ME,House,ME-HD-83,1.27,0
-ME,House,ME-HD-84,0.29,0
+ME,House,ME-HD-81,1.15,0
+ME,House,ME-HD-82,2.72,0
+ME,House,ME-HD-83,1.28,0
+ME,House,ME-HD-84,0.3,0
 ME,House,ME-HD-85,1.93,0
-ME,House,ME-HD-86,1.76,0
-ME,House,ME-HD-87,0.01,0
-ME,House,ME-HD-88,1.81,0
-ME,House,ME-HD-89,1.43,0
+ME,House,ME-HD-86,1.75,0
+ME,House,ME-HD-88,1.8,0
+ME,House,ME-HD-89,1.45,0
 ME,House,ME-HD-9,0.55,0
-ME,House,ME-HD-90,2.68,0
-ME,House,ME-HD-91,0.68,0
+ME,House,ME-HD-90,2.58,0
+ME,House,ME-HD-91,0.69,0
 ME,House,ME-HD-92,0.01,0
-ME,House,ME-HD-93,0.52,0
-ME,House,ME-HD-94,0.82,0
-ME,House,ME-HD-95,2.44,0
-ME,House,ME-HD-96,2.66,0
-ME,House,ME-HD-97,1.53,0
+ME,House,ME-HD-93,0.5,0
+ME,House,ME-HD-94,0.8,0
+ME,House,ME-HD-95,2.45,0
+ME,House,ME-HD-96,2.67,0
+ME,House,ME-HD-97,1.5,0
 ME,House,ME-HD-98,1.59,0
 ME,House,ME-HD-99,0.12,0
 ME,Senate,ME-SD-1,0.77,0
 ME,Senate,ME-SD-10,0.1,0
-ME,Senate,ME-SD-11,9.73,1
-ME,Senate,ME-SD-12,2.11,0
-ME,Senate,ME-SD-13,1.85,0
-ME,Senate,ME-SD-14,10.43,0
-ME,Senate,ME-SD-15,5.64,0
-ME,Senate,ME-SD-16,1.51,0
-ME,Senate,ME-SD-17,0.34,0
+ME,Senate,ME-SD-11,9.54,1
+ME,Senate,ME-SD-12,2.28,0
+ME,Senate,ME-SD-13,2.04,0
+ME,Senate,ME-SD-14,10.32,0
+ME,Senate,ME-SD-15,5.61,0
+ME,Senate,ME-SD-16,1.48,0
+ME,Senate,ME-SD-17,0.35,0
 ME,Senate,ME-SD-18,1.39,0
-ME,Senate,ME-SD-19,0.12,0
+ME,Senate,ME-SD-19,0.11,0
 ME,Senate,ME-SD-2,0.01,0
-ME,Senate,ME-SD-20,2.94,0
-ME,Senate,ME-SD-21,2.35,0
-ME,Senate,ME-SD-22,0.84,0
-ME,Senate,ME-SD-23,0.02,0
-ME,Senate,ME-SD-24,2.17,0
-ME,Senate,ME-SD-25,2.14,0
-ME,Senate,ME-SD-26,9.16,0
-ME,Senate,ME-SD-27,1.93,0
-ME,Senate,ME-SD-28,1.88,0
+ME,Senate,ME-SD-20,2.95,0
+ME,Senate,ME-SD-21,2.56,0
+ME,Senate,ME-SD-22,0.87,0
+ME,Senate,ME-SD-23,0.01,0
+ME,Senate,ME-SD-24,2.26,0
+ME,Senate,ME-SD-25,2.19,0
+ME,Senate,ME-SD-26,9.01,0
+ME,Senate,ME-SD-27,2.12,0
+ME,Senate,ME-SD-28,2.04,0
 ME,Senate,ME-SD-29,0.02,0
-ME,Senate,ME-SD-3,0.44,0
-ME,Senate,ME-SD-30,5.27,0
-ME,Senate,ME-SD-31,6.22,0
-ME,Senate,ME-SD-32,1.97,0
+ME,Senate,ME-SD-3,0.43,0
+ME,Senate,ME-SD-30,5.09,0
+ME,Senate,ME-SD-31,5.95,0
+ME,Senate,ME-SD-32,2.25,0
 ME,Senate,ME-SD-33,0.5,0
-ME,Senate,ME-SD-34,9.24,0
-ME,Senate,ME-SD-35,1.7,0
+ME,Senate,ME-SD-34,9.12,0
+ME,Senate,ME-SD-35,1.68,0
 ME,Senate,ME-SD-4,0.03,0
-ME,Senate,ME-SD-5,0.96,0
-ME,Senate,ME-SD-7,4.12,0
-ME,Senate,ME-SD-8,10.12,0
-ME,Senate,ME-SD-9,1.98,0
+ME,Senate,ME-SD-5,1.02,0
+ME,Senate,ME-SD-7,3.97,0
+ME,Senate,ME-SD-8,9.92,0
+ME,Senate,ME-SD-9,2.01,0
 MD,House of Delegates,MD-HD-10,4.32,0
 MD,House of Delegates,MD-HD-11A,1.41,0
 MD,House of Delegates,MD-HD-11B,1.31,0
@@ -1831,187 +1852,187 @@ MD,Senate,MD-SD-46,0.12,0
 MD,Senate,MD-SD-47,3.54,0
 MD,Senate,MD-SD-8,2.6,0
 MD,Senate,MD-SD-9,2.16,0
-MA,House,MA-10th Bristol,0.68,0
-MA,House,MA-10th Essex,0.84,0
-MA,House,MA-10th Hampden,0.69,0
-MA,House,MA-10th Middlesex,0.78,0
-MA,House,MA-10th Norfolk,0.77,0
-MA,House,MA-10th Plymouth,0.69,0
-MA,House,MA-10th Suffolk,0.79,0
-MA,House,MA-10th Worcester,0.7,0
-MA,House,MA-11th Bristol,0.77,0
-MA,House,MA-11th Essex,0.65,0
-MA,House,MA-11th Hampden,0.75,0
-MA,House,MA-11th Middlesex,0.71,0
-MA,House,MA-11th Norfolk,0.66,0
-MA,House,MA-11th Plymouth,0.76,0
-MA,House,MA-11th Suffolk,0.94,0
-MA,House,MA-12th Essex,0.89,0
-MA,House,MA-12th Hampden,0.77,0
-MA,House,MA-12th Middlesex,1.03,0
-MA,House,MA-12th Norfolk,0.81,0
-MA,House,MA-12th Plymouth,0.39,0
-MA,House,MA-12th Suffolk,0.8,0
-MA,House,MA-12th Worcester,0.98,0
-MA,House,MA-13th Bristol,0.89,0
-MA,House,MA-13th Essex,0.79,0
+MA,House,MA-10th Bristol,0.7,0
+MA,House,MA-10th Essex,0.74,0
+MA,House,MA-10th Hampden,0.66,0
+MA,House,MA-10th Middlesex,0.76,0
+MA,House,MA-10th Norfolk,0.72,0
+MA,House,MA-10th Plymouth,0.65,0
+MA,House,MA-10th Suffolk,0.81,0
+MA,House,MA-10th Worcester,0.71,0
+MA,House,MA-11th Bristol,0.81,0
+MA,House,MA-11th Essex,0.61,0
+MA,House,MA-11th Hampden,0.8,0
+MA,House,MA-11th Middlesex,0.77,0
+MA,House,MA-11th Norfolk,0.65,0
+MA,House,MA-11th Plymouth,0.75,0
+MA,House,MA-11th Suffolk,0.71,0
+MA,House,MA-12th Essex,0.91,0
+MA,House,MA-12th Hampden,0.8,0
+MA,House,MA-12th Middlesex,0.98,0
+MA,House,MA-12th Norfolk,0.77,0
+MA,House,MA-12th Plymouth,0.42,0
+MA,House,MA-12th Suffolk,0.73,0
+MA,House,MA-12th Worcester,0.77,0
+MA,House,MA-13th Bristol,0.82,0
+MA,House,MA-13th Essex,0.74,0
 MA,House,MA-13th Middlesex,0.72,0
-MA,House,MA-13th Norfolk,0.72,0
-MA,House,MA-13th Suffolk,0.89,0
-MA,House,MA-13th Worcester,0.64,0
-MA,House,MA-14th Bristol,0.67,0
-MA,House,MA-14th Essex,0.82,0
-MA,House,MA-14th Middlesex,0.82,0
-MA,House,MA-14th Norfolk,0.66,0
-MA,House,MA-14th Suffolk,0.69,0
-MA,House,MA-14th Worcester,0.71,0
-MA,House,MA-15th Essex,0.66,0
-MA,House,MA-15th Middlesex,0.77,0
-MA,House,MA-15th Norfolk,0.92,0
-MA,House,MA-15th Suffolk,0.79,0
-MA,House,MA-15th Worcester,0.69,0
-MA,House,MA-16th Essex,0.61,0
-MA,House,MA-16th Middlesex,0.81,0
-MA,House,MA-16th Suffolk,0.78,0
-MA,House,MA-16th Worcester,1.02,0
-MA,House,MA-17th Essex,0.69,0
-MA,House,MA-17th Middlesex,0.84,0
-MA,House,MA-17th Suffolk,0.62,0
-MA,House,MA-17th Worcester,0.72,0
-MA,House,MA-18th Essex,0.9,0
-MA,House,MA-18th Middlesex,0.59,0
-MA,House,MA-18th Suffolk,0.8,0
-MA,House,MA-19th Middlesex,0.67,0
-MA,House,MA-19th Suffolk,0.72,0
-MA,House,MA-19th Worcester,0.94,0
-MA,House,MA-1st Barnstable,0.87,0
-MA,House,MA-1st Berkshire,0.95,0
+MA,House,MA-13th Norfolk,0.76,0
+MA,House,MA-13th Suffolk,0.75,0
+MA,House,MA-13th Worcester,0.7,0
+MA,House,MA-14th Bristol,0.65,0
+MA,House,MA-14th Essex,0.85,0
+MA,House,MA-14th Middlesex,0.87,0
+MA,House,MA-14th Norfolk,0.81,0
+MA,House,MA-14th Suffolk,0.77,0
+MA,House,MA-14th Worcester,0.6,0
+MA,House,MA-15th Essex,0.57,0
+MA,House,MA-15th Middlesex,0.76,0
+MA,House,MA-15th Norfolk,0.76,0
+MA,House,MA-15th Suffolk,0.81,0
+MA,House,MA-15th Worcester,0.68,0
+MA,House,MA-16th Essex,0.72,0
+MA,House,MA-16th Middlesex,0.82,0
+MA,House,MA-16th Suffolk,0.73,0
+MA,House,MA-16th Worcester,0.97,0
+MA,House,MA-17th Essex,0.85,0
+MA,House,MA-17th Middlesex,0.82,0
+MA,House,MA-17th Suffolk,0.72,0
+MA,House,MA-17th Worcester,0.67,0
+MA,House,MA-18th Essex,0.93,0
+MA,House,MA-18th Middlesex,0.66,0
+MA,House,MA-18th Suffolk,0.71,0
+MA,House,MA-19th Middlesex,0.69,0
+MA,House,MA-19th Suffolk,0.74,0
+MA,House,MA-19th Worcester,0.9,0
+MA,House,MA-1st Barnstable,0.88,0
+MA,House,MA-1st Berkshire,0.9,0
 MA,House,MA-1st Essex,0.7,0
-MA,House,MA-1st Franklin,0.8,0
-MA,House,MA-1st Hampshire,0.9,0
-MA,House,MA-1st Middlesex,0.6,0
-MA,House,MA-1st Norfolk,0.87,0
-MA,House,MA-1st Plymouth,0.61,0
-MA,House,MA-1st Suffolk,0.68,0
-MA,House,MA-1st Worcester,0.33,0
-MA,House,MA-20th Middlesex,0.38,0
+MA,House,MA-1st Franklin,0.86,0
+MA,House,MA-1st Hampshire,0.86,0
+MA,House,MA-1st Middlesex,0.61,0
+MA,House,MA-1st Norfolk,0.84,0
+MA,House,MA-1st Plymouth,0.71,0
+MA,House,MA-1st Suffolk,0.8,0
+MA,House,MA-1st Worcester,0.36,0
+MA,House,MA-20th Middlesex,0.24,0
 MA,House,MA-21st Middlesex,0.89,0
-MA,House,MA-22nd Middlesex,0.02,0
-MA,House,MA-23rd Middlesex,0.62,0
-MA,House,MA-24th Middlesex,0.78,0
+MA,House,MA-22nd Middlesex,0.01,0
+MA,House,MA-23rd Middlesex,0.69,0
+MA,House,MA-24th Middlesex,0.81,0
 MA,House,MA-25th Middlesex,0.75,0
-MA,House,MA-26th Middlesex,0.72,0
-MA,House,MA-27th Middlesex,0.75,0
-MA,House,MA-28th Middlesex,0.83,0
-MA,House,MA-29th Middlesex,0.8,0
-MA,House,MA-2nd Barnstable,0.84,0
-MA,House,MA-2nd Berkshire,0.68,0
-MA,House,MA-2nd Bristol,0.73,0
+MA,House,MA-26th Middlesex,0.64,0
+MA,House,MA-27th Middlesex,0.77,0
+MA,House,MA-28th Middlesex,0.74,0
+MA,House,MA-29th Middlesex,0.85,0
+MA,House,MA-2nd Barnstable,0.93,0
+MA,House,MA-2nd Berkshire,0.73,0
+MA,House,MA-2nd Bristol,0.58,0
 MA,House,MA-2nd Essex,0.82,0
 MA,House,MA-2nd Franklin,0.44,0
-MA,House,MA-2nd Hampden,0.81,0
-MA,House,MA-2nd Hampshire,0.77,0
-MA,House,MA-2nd Middlesex,0.78,0
-MA,House,MA-2nd Norfolk,0.32,0
-MA,House,MA-2nd Suffolk,0.8,0
-MA,House,MA-2nd Worcester,0.84,0
-MA,House,MA-30th Middlesex,0.77,0
-MA,House,MA-31st Middlesex,0.32,0
-MA,House,MA-32nd Middlesex,0.96,0
-MA,House,MA-33rd Middlesex,0.76,0
-MA,House,MA-34th Middlesex,0.75,0
-MA,House,MA-35th Middlesex,0.51,0
+MA,House,MA-2nd Hampden,0.79,0
+MA,House,MA-2nd Hampshire,0.73,0
+MA,House,MA-2nd Middlesex,0.79,0
+MA,House,MA-2nd Norfolk,0.36,0
+MA,House,MA-2nd Suffolk,0.77,0
+MA,House,MA-2nd Worcester,0.92,0
+MA,House,MA-30th Middlesex,0.66,0
+MA,House,MA-31st Middlesex,0.35,0
+MA,House,MA-32nd Middlesex,0.89,0
+MA,House,MA-33rd Middlesex,0.81,0
+MA,House,MA-34th Middlesex,0.66,0
+MA,House,MA-35th Middlesex,0.28,0
 MA,House,MA-36th Middlesex,0.65,0
-MA,House,MA-37th Middlesex,0.82,0
-MA,House,MA-3rd Barnstable,0.24,0
-MA,House,MA-3rd Berkshire,0.79,0
-MA,House,MA-3rd Bristol,0.68,0
-MA,House,MA-3rd Essex,0.76,0
+MA,House,MA-37th Middlesex,0.69,0
+MA,House,MA-3rd Barnstable,0.2,0
+MA,House,MA-3rd Berkshire,0.72,0
+MA,House,MA-3rd Bristol,0.79,0
+MA,House,MA-3rd Essex,0.85,0
 MA,House,MA-3rd Hampshire,0.7,0
-MA,House,MA-3rd Middlesex,0.77,0
-MA,House,MA-3rd Norfolk,0.73,0
-MA,House,MA-3rd Plymouth,0.82,1
-MA,House,MA-3rd Suffolk,0.76,0
-MA,House,MA-3rd Worcester,0.7,0
-MA,House,MA-4th Barnstable,0.7,0
-MA,House,MA-4th Essex,0.73,0
-MA,House,MA-4th Middlesex,0.76,0
-MA,House,MA-4th Norfolk,0.96,0
-MA,House,MA-4th Plymouth,0.81,0
-MA,House,MA-4th Suffolk,0.81,0
-MA,House,MA-4th Worcester,0.85,0
-MA,House,MA-5th Bristol,0.02,0
-MA,House,MA-5th Essex,0.17,0
-MA,House,MA-5th Hampden,0.72,0
-MA,House,MA-5th Middlesex,0.02,0
-MA,House,MA-5th Norfolk,0.76,0
-MA,House,MA-5th Suffolk,0.65,0
-MA,House,MA-6th Bristol,0.55,0
-MA,House,MA-6th Essex,0.75,0
-MA,House,MA-6th Hampden,0.72,0
-MA,House,MA-6th Middlesex,0.75,0
-MA,House,MA-6th Norfolk,0.77,0
-MA,House,MA-6th Plymouth,0.03,0
-MA,House,MA-6th Suffolk,0.7,0
-MA,House,MA-7th Bristol,0.34,0
-MA,House,MA-7th Essex,0.81,0
-MA,House,MA-7th Hampden,0.82,0
-MA,House,MA-7th Middlesex,0.77,0
-MA,House,MA-7th Norfolk,0.72,0
-MA,House,MA-7th Plymouth,0.11,0
-MA,House,MA-7th Suffolk,0.71,0
-MA,House,MA-7th Worcester,0.02,0
-MA,House,MA-8th Bristol,0.44,0
+MA,House,MA-3rd Middlesex,0.7,0
+MA,House,MA-3rd Norfolk,0.75,0
+MA,House,MA-3rd Plymouth,0.9,1
+MA,House,MA-3rd Suffolk,0.74,0
+MA,House,MA-3rd Worcester,0.66,0
+MA,House,MA-4th Barnstable,0.76,0
+MA,House,MA-4th Essex,0.76,0
+MA,House,MA-4th Hampden,0.02,0
+MA,House,MA-4th Middlesex,0.72,0
+MA,House,MA-4th Norfolk,0.9,0
+MA,House,MA-4th Plymouth,0.73,0
+MA,House,MA-4th Suffolk,0.83,0
+MA,House,MA-4th Worcester,0.71,0
+MA,House,MA-5th Essex,0.07,0
+MA,House,MA-5th Hampden,0.79,0
+MA,House,MA-5th Middlesex,0.03,0
+MA,House,MA-5th Norfolk,0.81,0
+MA,House,MA-5th Suffolk,0.75,0
+MA,House,MA-6th Bristol,0.7,0
+MA,House,MA-6th Essex,0.81,0
+MA,House,MA-6th Hampden,0.74,0
+MA,House,MA-6th Middlesex,0.99,0
+MA,House,MA-6th Norfolk,0.87,0
+MA,House,MA-6th Plymouth,0.02,0
+MA,House,MA-6th Suffolk,0.68,0
+MA,House,MA-7th Bristol,0.63,0
+MA,House,MA-7th Essex,0.8,0
+MA,House,MA-7th Hampden,0.78,0
+MA,House,MA-7th Middlesex,0.82,0
+MA,House,MA-7th Norfolk,0.84,0
+MA,House,MA-7th Plymouth,0.1,0
+MA,House,MA-7th Suffolk,0.84,0
+MA,House,MA-7th Worcester,0.01,0
+MA,House,MA-8th Bristol,0.42,0
 MA,House,MA-8th Essex,0.83,0
-MA,House,MA-8th Hampden,0.74,0
-MA,House,MA-8th Middlesex,0.84,0
-MA,House,MA-8th Norfolk,0.93,0
-MA,House,MA-8th Plymouth,0.35,0
-MA,House,MA-8th Suffolk,0.76,0
-MA,House,MA-9th Bristol,0.14,0
-MA,House,MA-9th Essex,0.02,0
-MA,House,MA-9th Hampden,0.82,0
-MA,House,MA-9th Middlesex,0.76,0
-MA,House,MA-9th Norfolk,0.06,0
-MA,House,MA-9th Plymouth,0.83,0
-MA,House,MA-9th Suffolk,0.67,0
+MA,House,MA-8th Hampden,0.8,0
+MA,House,MA-8th Middlesex,0.87,0
+MA,House,MA-8th Norfolk,0.89,0
+MA,House,MA-8th Plymouth,0.24,0
+MA,House,MA-8th Suffolk,0.72,0
+MA,House,MA-9th Bristol,0.13,0
+MA,House,MA-9th Essex,0.03,0
+MA,House,MA-9th Hampden,0.81,0
+MA,House,MA-9th Middlesex,0.82,0
+MA,House,MA-9th Norfolk,0.05,0
+MA,House,MA-9th Plymouth,0.79,0
+MA,House,MA-9th Suffolk,0.84,0
 MA,House,"MA-Barnstable, Dukes, and Nantucket",0.7,0
-MA,Senate,MA-1st Bristol and Plymouth,1.52,0
-MA,Senate,MA-1st Essex-2,2.9,0
-MA,Senate,MA-1st Middlesex-2,3.23,0
-MA,Senate,MA-1st Suffolk-2,2.93,0
-MA,Senate,MA-1st Worcester-2,3.13,0
-MA,Senate,MA-2nd Bristol and Plymouth,2.39,0
-MA,Senate,MA-2nd Essex and Middlesex,2.62,0
-MA,Senate,MA-2nd Essex-2,2.92,0
-MA,Senate,MA-2nd Middlesex-2,2.93,0
-MA,Senate,MA-2nd Plymouth and Norfolk,3.17,0
+MA,Senate,MA-1st Bristol and Plymouth,1.53,0
+MA,Senate,MA-1st Essex-2,2.89,0
+MA,Senate,MA-1st Middlesex-2,3.22,0
+MA,Senate,MA-1st Suffolk-2,2.92,0
+MA,Senate,MA-1st Worcester-2,3.11,0
+MA,Senate,MA-2nd Bristol and Plymouth,2.4,0
+MA,Senate,MA-2nd Essex and Middlesex,2.59,0
+MA,Senate,MA-2nd Essex-2,2.94,0
+MA,Senate,MA-2nd Middlesex-2,2.95,0
+MA,Senate,MA-2nd Plymouth and Norfolk,3.1,0
 MA,Senate,MA-2nd Suffolk-2,2.71,0
-MA,Senate,MA-2nd Worcester-2,3.02,0
-MA,Senate,MA-3rd Essex-2,2.94,0
-MA,Senate,MA-3rd Middlesex-2,2.82,1
-MA,Senate,MA-3rd Suffolk-2,2.94,0
+MA,Senate,MA-2nd Worcester-2,3.01,0
+MA,Senate,MA-3rd Essex-2,2.97,0
+MA,Senate,MA-3rd Middlesex-2,2.83,1
+MA,Senate,MA-3rd Suffolk-2,2.96,0
 MA,Senate,MA-4th Middlesex-2,2.81,0
 MA,Senate,MA-5th Middlesex-2,3.27,0
-MA,Senate,"MA-Berkshire, Hampden, Franklin, and Hampshire",3.05,0
-MA,Senate,MA-Bristol and Norfolk,2.7,0
-MA,Senate,MA-Cape and Islands,2.83,0
-MA,Senate,MA-Hampden,3.1,0
-MA,Senate,MA-Hampden and Hampshire,3.15,0
-MA,Senate,"MA-Hampden, Hampshire, and Worcester",3.09,0
+MA,Senate,"MA-Berkshire, Hampden, Franklin, and Hampshire",3.04,0
+MA,Senate,MA-Bristol and Norfolk,2.71,0
+MA,Senate,MA-Cape and Islands,2.8,0
+MA,Senate,MA-Hampden,3.11,0
+MA,Senate,MA-Hampden and Hampshire,3.14,0
+MA,Senate,"MA-Hampden, Hampshire, and Worcester",3.11,0
 MA,Senate,"MA-Hampshire, Franklin, and Worcester",3.25,0
 MA,Senate,MA-Middlesex and Norfolk,3.36,0
-MA,Senate,MA-Middlesex and Suffolk,3.11,0
+MA,Senate,MA-Middlesex and Suffolk,3.08,0
 MA,Senate,MA-Middlesex and Worcester,0.16,0
-MA,Senate,MA-Norfolk and Middlesex,2.93,0
-MA,Senate,MA-Norfolk and Plymouth,2.94,0
-MA,Senate,MA-Norfolk and Suffolk,3.34,0
-MA,Senate,"MA-Norfolk, Plymouth, and Bristol",3.16,0
-MA,Senate,"MA-Norfolk, Worcester, and Middlesex",3.17,0
-MA,Senate,MA-Plymouth and Barnstable,2.29,0
-MA,Senate,MA-Suffolk and Middlesex,3.05,0
-MA,Senate,MA-Worcester and Hampshire,0.03,0
-MA,Senate,MA-Worcester and Middlesex,3.04,0
+MA,Senate,MA-Norfolk and Middlesex,2.94,0
+MA,Senate,MA-Norfolk and Plymouth,2.91,0
+MA,Senate,MA-Norfolk and Suffolk,3.35,0
+MA,Senate,"MA-Norfolk, Plymouth, and Bristol",3.14,0
+MA,Senate,"MA-Norfolk, Worcester, and Middlesex",3.15,0
+MA,Senate,MA-Plymouth and Barnstable,2.38,0
+MA,Senate,MA-Suffolk and Middlesex,3.09,0
+MA,Senate,MA-Worcester and Hampshire,0.02,0
+MA,Senate,MA-Worcester and Middlesex,3.05,0
 MI,House,MI-HD-10,0.02,0
 MI,House,MI-HD-100,0.05,0
 MI,House,MI-HD-101,0.22,0
@@ -2414,124 +2435,121 @@ MO,Senate,MO-SD-32,7.11,0
 MO,Senate,MO-SD-34,0.23,0
 MO,Senate,MO-SD-6,13.24,0
 MO,Senate,MO-SD-8,0.11,0
-MT,House,MT-HD-1,0.15,0
-MT,House,MT-HD-10,0.23,0
-MT,House,MT-HD-11,0.08,0
-MT,House,MT-HD-12,0.91,0
+MT,House,MT-HD-1,0.13,0
+MT,House,MT-HD-10,0.24,0
+MT,House,MT-HD-11,0.07,0
+MT,House,MT-HD-12,0.93,0
 MT,House,MT-HD-13,4.36,0
-MT,House,MT-HD-14,0.01,0
 MT,House,MT-HD-15,0.12,0
-MT,House,MT-HD-17,1.13,0
-MT,House,MT-HD-18,2.02,0
+MT,House,MT-HD-17,1.22,0
+MT,House,MT-HD-18,1.63,0
 MT,House,MT-HD-19,0.08,0
 MT,House,MT-HD-2,0.02,0
-MT,House,MT-HD-20,4.66,0
-MT,House,MT-HD-21,4.39,0
-MT,House,MT-HD-22,2.93,0
-MT,House,MT-HD-23,4.75,0
-MT,House,MT-HD-24,3.46,0
-MT,House,MT-HD-25,1.48,0
-MT,House,MT-HD-26,0.68,0
-MT,House,MT-HD-28,1.52,0
+MT,House,MT-HD-20,4.65,0
+MT,House,MT-HD-21,4.44,0
+MT,House,MT-HD-22,3.0,0
+MT,House,MT-HD-23,4.78,0
+MT,House,MT-HD-24,3.59,0
+MT,House,MT-HD-25,1.53,0
+MT,House,MT-HD-26,0.73,0
+MT,House,MT-HD-28,1.34,0
+MT,House,MT-HD-29,0.01,0
 MT,House,MT-HD-3,0.04,0
 MT,House,MT-HD-30,0.01,0
-MT,House,MT-HD-34,0.01,0
-MT,House,MT-HD-35,0.01,0
-MT,House,MT-HD-36,0.97,0
-MT,House,MT-HD-37,0.1,0
-MT,House,MT-HD-38,1.65,0
-MT,House,MT-HD-39,0.96,0
-MT,House,MT-HD-4,2.2,0
-MT,House,MT-HD-40,0.14,0
+MT,House,MT-HD-36,1.06,0
+MT,House,MT-HD-37,0.07,0
+MT,House,MT-HD-38,1.61,0
+MT,House,MT-HD-39,0.98,0
+MT,House,MT-HD-4,2.15,0
+MT,House,MT-HD-40,0.16,0
 MT,House,MT-HD-41,0.01,0
-MT,House,MT-HD-42,0.75,0
-MT,House,MT-HD-43,3.14,0
-MT,House,MT-HD-44,0.37,0
+MT,House,MT-HD-42,0.77,0
+MT,House,MT-HD-43,3.2,0
+MT,House,MT-HD-44,0.41,0
 MT,House,MT-HD-45,0.05,0
-MT,House,MT-HD-46,0.08,0
-MT,House,MT-HD-47,0.07,0
-MT,House,MT-HD-48,4.37,0
-MT,House,MT-HD-49,4.23,0
-MT,House,MT-HD-5,0.47,0
-MT,House,MT-HD-50,4.59,1
-MT,House,MT-HD-51,4.49,0
-MT,House,MT-HD-52,1.69,0
-MT,House,MT-HD-53,1.62,0
+MT,House,MT-HD-46,0.07,0
+MT,House,MT-HD-47,0.08,0
+MT,House,MT-HD-48,4.39,0
+MT,House,MT-HD-49,4.22,0
+MT,House,MT-HD-5,0.51,0
+MT,House,MT-HD-50,4.71,1
+MT,House,MT-HD-51,4.43,0
+MT,House,MT-HD-52,1.82,0
+MT,House,MT-HD-53,1.68,0
 MT,House,MT-HD-54,0.2,0
 MT,House,MT-HD-55,0.66,0
-MT,House,MT-HD-56,1.92,0
-MT,House,MT-HD-57,0.85,0
-MT,House,MT-HD-58,0.34,0
-MT,House,MT-HD-6,3.19,0
-MT,House,MT-HD-60,0.44,0
+MT,House,MT-HD-56,1.64,0
+MT,House,MT-HD-57,0.86,0
+MT,House,MT-HD-58,0.36,0
+MT,House,MT-HD-6,3.23,0
+MT,House,MT-HD-60,0.43,0
 MT,House,MT-HD-62,0.04,0
-MT,House,MT-HD-63,0.03,0
+MT,House,MT-HD-63,0.02,0
 MT,House,MT-HD-64,0.26,0
-MT,House,MT-HD-66,0.19,0
-MT,House,MT-HD-67,3.44,0
-MT,House,MT-HD-68,2.27,0
-MT,House,MT-HD-69,1.73,0
-MT,House,MT-HD-7,4.41,0
-MT,House,MT-HD-70,0.19,0
+MT,House,MT-HD-66,0.2,0
+MT,House,MT-HD-67,3.46,0
+MT,House,MT-HD-68,2.29,0
+MT,House,MT-HD-69,1.44,0
+MT,House,MT-HD-7,4.37,0
+MT,House,MT-HD-70,0.24,0
 MT,House,MT-HD-73,0.01,0
-MT,House,MT-HD-75,0.53,0
-MT,House,MT-HD-76,1.81,0
-MT,House,MT-HD-77,0.02,0
+MT,House,MT-HD-75,0.56,0
+MT,House,MT-HD-76,1.61,0
 MT,House,MT-HD-78,0.04,0
 MT,House,MT-HD-79,0.01,0
-MT,House,MT-HD-8,0.22,0
-MT,House,MT-HD-80,0.64,0
-MT,House,MT-HD-81,0.38,0
+MT,House,MT-HD-8,0.27,0
+MT,House,MT-HD-80,0.68,0
+MT,House,MT-HD-81,0.39,0
 MT,House,MT-HD-82,0.09,0
-MT,House,MT-HD-83,0.23,0
-MT,House,MT-HD-84,3.39,0
-MT,House,MT-HD-85,0.44,0
-MT,House,MT-HD-86,4.37,0
-MT,House,MT-HD-87,0.03,0
-MT,House,MT-HD-88,0.8,0
+MT,House,MT-HD-83,0.21,0
+MT,House,MT-HD-84,3.55,0
+MT,House,MT-HD-85,0.46,0
+MT,House,MT-HD-86,4.36,0
+MT,House,MT-HD-87,0.04,0
+MT,House,MT-HD-88,0.88,0
 MT,House,MT-HD-89,0.01,0
-MT,House,MT-HD-9,0.05,0
-MT,House,MT-HD-90,1.63,0
-MT,House,MT-HD-93,0.03,0
+MT,House,MT-HD-9,0.06,0
+MT,House,MT-HD-90,1.62,0
+MT,House,MT-HD-93,0.04,0
 MT,House,MT-HD-94,0.01,0
 MT,House,MT-HD-98,0.04,0
 MT,House,MT-HD-99,0.06,0
-MT,Senate,MT-SD-1,6.16,0
-MT,Senate,MT-SD-10,1.09,0
-MT,Senate,MT-SD-11,1.19,0
+MT,Senate,MT-SD-1,6.21,0
+MT,Senate,MT-SD-10,1.08,0
+MT,Senate,MT-SD-11,1.2,0
 MT,Senate,MT-SD-12,1.47,0
 MT,Senate,MT-SD-14,10.3,0
-MT,Senate,MT-SD-18,8.92,0
-MT,Senate,MT-SD-19,2.31,0
-MT,Senate,MT-SD-22,10.56,0
+MT,Senate,MT-SD-18,8.87,0
+MT,Senate,MT-SD-19,2.38,0
+MT,Senate,MT-SD-22,10.52,0
 MT,Senate,MT-SD-23,0.02,0
-MT,Senate,MT-SD-25,11.05,0
-MT,Senate,MT-SD-28,1.95,0
+MT,Senate,MT-SD-25,11.08,0
+MT,Senate,MT-SD-28,1.93,0
 MT,Senate,MT-SD-29,0.11,0
 MT,Senate,MT-SD-32,0.02,0
-MT,Senate,MT-SD-34,9.95,0
-MT,Senate,MT-SD-4,10.61,1
+MT,Senate,MT-SD-34,9.94,0
+MT,Senate,MT-SD-4,10.6,1
 MT,Senate,MT-SD-42,0.09,0
-MT,Senate,MT-SD-43,9.93,0
-MT,Senate,MT-SD-6,4.83,0
+MT,Senate,MT-SD-43,9.99,0
+MT,Senate,MT-SD-6,4.76,0
 MT,Senate,MT-SD-8,0.02,0
-MT,Senate,MT-SD-9,9.42,0
+MT,Senate,MT-SD-9,9.41,0
 NE,Legislature,NE-LD-12,0.46,0
 NE,Legislature,NE-LD-14,0.28,0
-NE,Legislature,NE-LD-16,19.89,1
+NE,Legislature,NE-LD-16,19.83,1
 NE,Legislature,NE-LD-18,0.18,0
 NE,Legislature,NE-LD-2,3.14,0
-NE,Legislature,NE-LD-22,12.49,0
-NE,Legislature,NE-LD-24,6.84,0
+NE,Legislature,NE-LD-22,12.53,0
+NE,Legislature,NE-LD-24,6.86,0
 NE,Legislature,NE-LD-30,1.63,0
-NE,Legislature,NE-LD-32,17.38,0
-NE,Legislature,NE-LD-34,4.81,0
-NE,Legislature,NE-LD-36,11.08,0
-NE,Legislature,NE-LD-38,6.29,0
+NE,Legislature,NE-LD-32,17.35,0
+NE,Legislature,NE-LD-34,4.83,0
+NE,Legislature,NE-LD-36,11.09,0
+NE,Legislature,NE-LD-38,6.27,0
 NE,Legislature,NE-LD-4,2.13,0
-NE,Legislature,NE-LD-40,1.67,0
+NE,Legislature,NE-LD-40,1.68,0
 NE,Legislature,NE-LD-42,2.57,0
-NE,Legislature,NE-LD-44,1.73,0
+NE,Legislature,NE-LD-44,1.74,0
 NE,Legislature,NE-LD-48,7.43,0
 NV,Assembly,NV-AD-1,1.6,0
 NV,Assembly,NV-AD-10,1.68,0
@@ -2579,183 +2597,183 @@ NV,Senate,NV-SD-20,0.26,0
 NV,Senate,NV-SD-21,18.43,0
 NV,Senate,NV-SD-8,18.31,0
 NV,Senate,NV-SD-9,17.68,1
-NH,House,NH-Belknap-1,0.96,0
-NH,House,NH-Belknap-2,2.24,0
-NH,House,NH-Belknap-3,0.75,0
-NH,House,NH-Belknap-5,4.02,0
-NH,House,NH-Belknap-6,1.11,0
-NH,House,NH-Belknap-7,0.12,0
-NH,House,NH-Belknap-8,0.14,0
+NH,House,NH-Belknap-1,0.93,0
+NH,House,NH-Belknap-2,2.13,0
+NH,House,NH-Belknap-3,0.85,0
+NH,House,NH-Belknap-4,0.02,0
+NH,House,NH-Belknap-5,3.95,0
+NH,House,NH-Belknap-6,1.24,0
+NH,House,NH-Belknap-7,0.07,0
+NH,House,NH-Belknap-8,0.2,0
+NH,House,NH-Carroll-1,0.01,0
 NH,House,NH-Carroll-2,0.01,0
-NH,House,NH-Carroll-3,2.34,0
-NH,House,NH-Carroll-4,0.79,0
-NH,House,NH-Carroll-5,0.02,0
-NH,House,NH-Carroll-6,0.04,0
-NH,House,NH-Carroll-7,0.01,0
-NH,House,NH-Carroll-8,0.42,0
-NH,House,NH-Cheshire-1,0.09,0
-NH,House,NH-Cheshire-10,2.17,0
+NH,House,NH-Carroll-3,2.18,1
+NH,House,NH-Carroll-4,0.72,0
+NH,House,NH-Carroll-5,0.01,0
+NH,House,NH-Carroll-6,0.09,0
+NH,House,NH-Carroll-7,0.02,0
+NH,House,NH-Carroll-8,0.41,0
+NH,House,NH-Cheshire-1,0.02,0
+NH,House,NH-Cheshire-10,1.96,0
 NH,House,NH-Cheshire-11,0.01,0
-NH,House,NH-Cheshire-12,0.01,0
-NH,House,NH-Cheshire-13,0.02,0
-NH,House,NH-Cheshire-14,0.24,0
+NH,House,NH-Cheshire-13,0.06,0
+NH,House,NH-Cheshire-14,0.28,0
 NH,House,NH-Cheshire-15,0.01,0
 NH,House,NH-Cheshire-16,0.21,0
-NH,House,NH-Cheshire-17,0.02,0
-NH,House,NH-Cheshire-18,0.44,0
-NH,House,NH-Cheshire-3,0.01,0
-NH,House,NH-Cheshire-5,0.14,0
-NH,House,NH-Cheshire-6,0.07,0
-NH,House,NH-Cheshire-8,0.02,0
-NH,House,NH-Cheshire-9,0.99,0
-NH,House,NH-Coos-1,0.01,0
-NH,House,NH-Coos-2,0.01,0
-NH,House,NH-Coos-3,0.02,0
-NH,House,NH-Coos-4,0.02,0
-NH,House,NH-Coos-5,0.01,0
-NH,House,NH-Coos-6,0.81,0
-NH,House,NH-Grafton-1,1.53,0
-NH,House,NH-Grafton-11,0.56,0
-NH,House,NH-Grafton-13,0.02,0
-NH,House,NH-Grafton-14,0.02,0
-NH,House,NH-Grafton-15,0.04,0
-NH,House,NH-Grafton-16,0.03,0
-NH,House,NH-Grafton-17,0.01,0
-NH,House,NH-Grafton-18,0.01,0
-NH,House,NH-Grafton-2,0.03,0
+NH,House,NH-Cheshire-18,0.6,0
+NH,House,NH-Cheshire-2,0.02,0
+NH,House,NH-Cheshire-4,0.01,0
+NH,House,NH-Cheshire-5,0.13,0
+NH,House,NH-Cheshire-6,0.02,0
+NH,House,NH-Cheshire-9,0.97,0
+NH,House,NH-Coos-1,0.03,0
+NH,House,NH-Coos-5,0.03,0
+NH,House,NH-Coos-6,0.86,0
+NH,House,NH-Grafton-1,1.52,0
+NH,House,NH-Grafton-10,0.01,0
+NH,House,NH-Grafton-11,0.63,0
+NH,House,NH-Grafton-13,0.01,0
+NH,House,NH-Grafton-14,0.04,0
+NH,House,NH-Grafton-15,0.05,0
+NH,House,NH-Grafton-16,0.01,0
+NH,House,NH-Grafton-17,0.03,0
+NH,House,NH-Grafton-2,0.06,0
 NH,House,NH-Grafton-3,0.13,0
-NH,House,NH-Grafton-4,0.64,0
-NH,House,NH-Grafton-7,0.5,0
-NH,House,NH-Grafton-8,0.05,0
-NH,House,NH-Grafton-9,0.82,0
-NH,House,NH-Hillsborough-1,0.09,0
-NH,House,NH-Hillsborough-10,1.0,0
-NH,House,NH-Hillsborough-11,0.11,0
-NH,House,NH-Hillsborough-12,0.05,0
+NH,House,NH-Grafton-4,0.71,0
+NH,House,NH-Grafton-5,0.02,0
+NH,House,NH-Grafton-7,0.75,0
+NH,House,NH-Grafton-8,0.03,0
+NH,House,NH-Grafton-9,0.86,0
+NH,House,NH-Hillsborough-1,0.05,0
+NH,House,NH-Hillsborough-10,0.87,0
+NH,House,NH-Hillsborough-11,0.07,0
+NH,House,NH-Hillsborough-12,0.09,0
 NH,House,NH-Hillsborough-13,1.01,0
-NH,House,NH-Hillsborough-14,0.46,0
-NH,House,NH-Hillsborough-15,0.07,0
-NH,House,NH-Hillsborough-16,2.3,0
-NH,House,NH-Hillsborough-17,0.08,0
-NH,House,NH-Hillsborough-18,1.08,0
-NH,House,NH-Hillsborough-19,1.97,0
-NH,House,NH-Hillsborough-2,5.87,0
+NH,House,NH-Hillsborough-14,0.57,0
+NH,House,NH-Hillsborough-15,0.02,0
+NH,House,NH-Hillsborough-16,1.99,0
+NH,House,NH-Hillsborough-17,0.02,0
+NH,House,NH-Hillsborough-18,1.0,0
+NH,House,NH-Hillsborough-19,1.83,0
+NH,House,NH-Hillsborough-2,5.18,0
 NH,House,NH-Hillsborough-20,0.01,0
-NH,House,NH-Hillsborough-21,0.05,0
-NH,House,NH-Hillsborough-22,1.82,0
-NH,House,NH-Hillsborough-23,0.05,0
-NH,House,NH-Hillsborough-24,1.46,0
-NH,House,NH-Hillsborough-25,0.78,0
-NH,House,NH-Hillsborough-26,1.64,0
-NH,House,NH-Hillsborough-27,0.92,0
-NH,House,NH-Hillsborough-28,0.11,0
-NH,House,NH-Hillsborough-29,3.21,0
-NH,House,NH-Hillsborough-3,0.09,0
-NH,House,NH-Hillsborough-30,2.46,0
-NH,House,NH-Hillsborough-31,0.04,0
-NH,House,NH-Hillsborough-32,0.43,0
-NH,House,NH-Hillsborough-34,0.88,0
-NH,House,NH-Hillsborough-36,1.57,0
-NH,House,NH-Hillsborough-37,0.13,0
-NH,House,NH-Hillsborough-38,0.02,0
-NH,House,NH-Hillsborough-39,2.06,0
-NH,House,NH-Hillsborough-40,0.33,0
-NH,House,NH-Hillsborough-41,0.03,0
-NH,House,NH-Hillsborough-42,2.51,0
-NH,House,NH-Hillsborough-43,2.97,0
-NH,House,NH-Hillsborough-44,0.5,0
-NH,House,NH-Hillsborough-45,0.94,0
-NH,House,NH-Hillsborough-5,0.03,0
-NH,House,NH-Hillsborough-6,0.17,0
-NH,House,NH-Hillsborough-7,0.07,0
-NH,House,NH-Hillsborough-8,1.05,0
-NH,House,NH-Hillsborough-9,0.45,0
-NH,House,NH-Merrimack-1,0.84,0
+NH,House,NH-Hillsborough-21,0.08,0
+NH,House,NH-Hillsborough-22,1.52,0
+NH,House,NH-Hillsborough-23,0.06,0
+NH,House,NH-Hillsborough-24,1.64,0
+NH,House,NH-Hillsborough-25,0.5,0
+NH,House,NH-Hillsborough-26,1.54,0
+NH,House,NH-Hillsborough-27,0.97,0
+NH,House,NH-Hillsborough-28,0.12,0
+NH,House,NH-Hillsborough-29,3.19,0
+NH,House,NH-Hillsborough-3,0.02,0
+NH,House,NH-Hillsborough-30,2.49,0
+NH,House,NH-Hillsborough-31,0.05,0
+NH,House,NH-Hillsborough-32,0.42,0
+NH,House,NH-Hillsborough-34,1.0,0
+NH,House,NH-Hillsborough-35,0.03,0
+NH,House,NH-Hillsborough-36,1.5,0
+NH,House,NH-Hillsborough-37,0.08,0
+NH,House,NH-Hillsborough-39,2.19,0
+NH,House,NH-Hillsborough-4,0.01,0
+NH,House,NH-Hillsborough-40,0.25,0
+NH,House,NH-Hillsborough-41,0.04,0
+NH,House,NH-Hillsborough-42,2.85,0
+NH,House,NH-Hillsborough-43,3.06,0
+NH,House,NH-Hillsborough-44,0.62,0
+NH,House,NH-Hillsborough-45,1.14,0
+NH,House,NH-Hillsborough-5,0.11,0
+NH,House,NH-Hillsborough-6,0.02,0
+NH,House,NH-Hillsborough-7,0.03,0
+NH,House,NH-Hillsborough-8,0.75,0
+NH,House,NH-Hillsborough-9,0.46,0
+NH,House,NH-Merrimack-1,0.83,0
 NH,House,NH-Merrimack-10,0.04,0
-NH,House,NH-Merrimack-11,0.96,0
-NH,House,NH-Merrimack-12,1.44,0
-NH,House,NH-Merrimack-13,0.01,0
-NH,House,NH-Merrimack-14,0.27,0
-NH,House,NH-Merrimack-15,0.02,0
-NH,House,NH-Merrimack-16,0.14,0
-NH,House,NH-Merrimack-17,0.01,0
-NH,House,NH-Merrimack-18,0.11,0
-NH,House,NH-Merrimack-19,0.01,0
-NH,House,NH-Merrimack-2,0.09,0
-NH,House,NH-Merrimack-20,0.09,0
-NH,House,NH-Merrimack-21,0.06,0
-NH,House,NH-Merrimack-22,0.04,0
-NH,House,NH-Merrimack-23,0.26,0
+NH,House,NH-Merrimack-11,0.92,0
+NH,House,NH-Merrimack-12,1.53,0
+NH,House,NH-Merrimack-14,0.31,0
+NH,House,NH-Merrimack-16,0.09,0
+NH,House,NH-Merrimack-18,0.04,0
+NH,House,NH-Merrimack-2,0.07,0
+NH,House,NH-Merrimack-20,0.07,0
+NH,House,NH-Merrimack-21,0.02,0
+NH,House,NH-Merrimack-23,0.24,0
 NH,House,NH-Merrimack-24,0.03,0
-NH,House,NH-Merrimack-25,0.1,0
+NH,House,NH-Merrimack-25,0.13,0
+NH,House,NH-Merrimack-26,0.01,0
 NH,House,NH-Merrimack-27,0.03,0
-NH,House,NH-Merrimack-28,0.07,0
-NH,House,NH-Merrimack-29,0.01,0
+NH,House,NH-Merrimack-28,0.02,0
+NH,House,NH-Merrimack-29,0.05,0
 NH,House,NH-Merrimack-3,0.64,0
-NH,House,NH-Merrimack-30,0.06,0
-NH,House,NH-Merrimack-4,1.21,0
-NH,House,NH-Merrimack-5,0.64,0
-NH,House,NH-Merrimack-6,0.04,0
-NH,House,NH-Merrimack-7,0.06,0
-NH,House,NH-Merrimack-8,1.32,0
-NH,House,NH-Merrimack-9,0.07,0
-NH,House,NH-Rockingham-1,2.18,0
-NH,House,NH-Rockingham-10,0.12,0
-NH,House,NH-Rockingham-11,0.12,0
-NH,House,NH-Rockingham-12,0.03,0
-NH,House,NH-Rockingham-13,0.45,0
-NH,House,NH-Rockingham-14,1.2,0
-NH,House,NH-Rockingham-15,0.24,0
-NH,House,NH-Rockingham-16,1.64,0
-NH,House,NH-Rockingham-17,0.73,0
-NH,House,NH-Rockingham-18,0.03,0
-NH,House,NH-Rockingham-2,0.27,0
-NH,House,NH-Rockingham-20,0.01,0
+NH,House,NH-Merrimack-30,0.02,0
+NH,House,NH-Merrimack-4,1.06,0
+NH,House,NH-Merrimack-5,0.61,0
+NH,House,NH-Merrimack-6,0.01,0
+NH,House,NH-Merrimack-7,0.01,0
+NH,House,NH-Merrimack-8,1.21,0
+NH,House,NH-Merrimack-9,0.15,0
+NH,House,NH-Rockingham-1,2.46,0
+NH,House,NH-Rockingham-10,0.1,0
+NH,House,NH-Rockingham-11,0.14,0
+NH,House,NH-Rockingham-12,0.02,0
+NH,House,NH-Rockingham-13,0.59,0
+NH,House,NH-Rockingham-14,1.28,0
+NH,House,NH-Rockingham-15,0.21,0
+NH,House,NH-Rockingham-16,1.81,0
+NH,House,NH-Rockingham-17,0.99,0
+NH,House,NH-Rockingham-18,0.05,0
+NH,House,NH-Rockingham-19,0.01,0
+NH,House,NH-Rockingham-2,0.15,0
+NH,House,NH-Rockingham-20,0.06,0
+NH,House,NH-Rockingham-21,0.02,0
 NH,House,NH-Rockingham-22,0.02,0
-NH,House,NH-Rockingham-23,0.45,0
-NH,House,NH-Rockingham-24,0.07,0
-NH,House,NH-Rockingham-25,0.55,0
-NH,House,NH-Rockingham-26,0.04,0
-NH,House,NH-Rockingham-27,0.03,0
-NH,House,NH-Rockingham-29,1.95,0
-NH,House,NH-Rockingham-3,0.01,0
-NH,House,NH-Rockingham-31,0.09,0
+NH,House,NH-Rockingham-23,0.46,0
+NH,House,NH-Rockingham-24,0.04,0
+NH,House,NH-Rockingham-25,0.65,0
+NH,House,NH-Rockingham-26,0.02,0
+NH,House,NH-Rockingham-29,1.97,0
+NH,House,NH-Rockingham-3,0.02,0
+NH,House,NH-Rockingham-30,0.03,0
+NH,House,NH-Rockingham-31,0.15,0
 NH,House,NH-Rockingham-32,0.01,0
 NH,House,NH-Rockingham-33,0.07,0
-NH,House,NH-Rockingham-34,0.02,0
-NH,House,NH-Rockingham-36,0.63,0
-NH,House,NH-Rockingham-37,0.03,0
-NH,House,NH-Rockingham-38,0.03,0
+NH,House,NH-Rockingham-34,0.01,0
+NH,House,NH-Rockingham-35,0.01,0
+NH,House,NH-Rockingham-36,0.87,0
+NH,House,NH-Rockingham-37,0.01,0
+NH,House,NH-Rockingham-38,0.04,0
 NH,House,NH-Rockingham-4,0.03,0
-NH,House,NH-Rockingham-5,2.34,0
-NH,House,NH-Rockingham-7,0.09,0
-NH,House,NH-Rockingham-9,0.02,0
-NH,House,NH-Strafford-10,0.07,0
+NH,House,NH-Rockingham-5,2.37,0
+NH,House,NH-Rockingham-7,0.06,0
+NH,House,NH-Rockingham-8,0.02,0
+NH,House,NH-Rockingham-9,0.01,0
+NH,House,NH-Strafford-1,0.01,0
+NH,House,NH-Strafford-10,0.14,0
 NH,House,NH-Strafford-11,0.03,0
-NH,House,NH-Strafford-12,0.08,0
-NH,House,NH-Strafford-13,0.46,0
-NH,House,NH-Strafford-15,0.06,0
-NH,House,NH-Strafford-16,0.02,0
+NH,House,NH-Strafford-12,0.07,0
+NH,House,NH-Strafford-13,0.24,0
+NH,House,NH-Strafford-15,0.04,0
+NH,House,NH-Strafford-16,0.03,0
 NH,House,NH-Strafford-17,0.04,0
-NH,House,NH-Strafford-18,0.35,0
-NH,House,NH-Strafford-19,3.13,1
-NH,House,NH-Strafford-2,0.72,0
-NH,House,NH-Strafford-21,0.1,0
-NH,House,NH-Strafford-3,0.26,0
-NH,House,NH-Strafford-4,2.68,0
-NH,House,NH-Strafford-5,0.95,0
-NH,House,NH-Strafford-6,0.72,0
-NH,House,NH-Strafford-7,1.0,0
-NH,House,NH-Strafford-8,1.02,0
+NH,House,NH-Strafford-18,0.5,0
+NH,House,NH-Strafford-19,3.12,0
+NH,House,NH-Strafford-2,0.94,0
+NH,House,NH-Strafford-21,0.02,0
+NH,House,NH-Strafford-3,0.25,0
+NH,House,NH-Strafford-4,2.79,0
+NH,House,NH-Strafford-5,1.2,0
+NH,House,NH-Strafford-6,0.73,0
+NH,House,NH-Strafford-7,1.06,0
+NH,House,NH-Strafford-8,1.11,0
 NH,House,NH-Strafford-9,0.01,0
-NH,House,NH-Sullivan-1,0.05,0
-NH,House,NH-Sullivan-2,0.01,0
+NH,House,NH-Sullivan-1,0.01,0
+NH,House,NH-Sullivan-2,0.02,0
 NH,House,NH-Sullivan-3,0.01,0
-NH,House,NH-Sullivan-4,0.72,0
-NH,House,NH-Sullivan-5,1.25,0
-NH,House,NH-Sullivan-6,0.07,0
-NH,House,NH-Sullivan-7,0.41,0
-NH,House,NH-Sullivan-8,0.05,0
+NH,House,NH-Sullivan-4,0.8,0
+NH,House,NH-Sullivan-5,1.01,0
+NH,House,NH-Sullivan-6,0.09,0
+NH,House,NH-Sullivan-7,0.45,0
+NH,House,NH-Sullivan-8,0.01,0
 NH,Senate,NH-SD-1,3.27,0
 NH,Senate,NH-SD-10,0.04,0
 NH,Senate,NH-SD-11,8.44,0
@@ -3706,198 +3724,198 @@ RI,Senate,RI-SD-6,0.07,0
 RI,Senate,RI-SD-7,4.72,0
 RI,Senate,RI-SD-8,4.14,0
 RI,Senate,RI-SD-9,1.83,0
-SC,House,SC-HD-1,0.01,0
+SC,House,SC-HD-1,0.03,0
 SC,House,SC-HD-10,0.13,0
-SC,House,SC-HD-100,1.77,0
+SC,House,SC-HD-100,1.78,0
 SC,House,SC-HD-102,0.6,0
-SC,House,SC-HD-104,0.51,0
+SC,House,SC-HD-104,0.5,0
 SC,House,SC-HD-105,0.27,0
-SC,House,SC-HD-106,0.52,0
-SC,House,SC-HD-107,1.52,0
-SC,House,SC-HD-108,1.42,0
+SC,House,SC-HD-106,0.49,0
+SC,House,SC-HD-107,1.5,0
+SC,House,SC-HD-108,1.41,0
 SC,House,SC-HD-11,0.14,0
-SC,House,SC-HD-110,0.78,0
-SC,House,SC-HD-112,1.88,0
+SC,House,SC-HD-110,0.81,0
+SC,House,SC-HD-112,1.91,0
 SC,House,SC-HD-114,1.9,0
 SC,House,SC-HD-115,0.03,0
-SC,House,SC-HD-116,0.6,0
-SC,House,SC-HD-117,1.59,0
-SC,House,SC-HD-118,2.22,0
+SC,House,SC-HD-116,0.59,0
+SC,House,SC-HD-117,1.53,0
+SC,House,SC-HD-118,2.23,0
 SC,House,SC-HD-119,0.01,0
-SC,House,SC-HD-12,0.74,0
-SC,House,SC-HD-120,1.88,0
-SC,House,SC-HD-122,0.73,0
-SC,House,SC-HD-123,1.92,0
-SC,House,SC-HD-124,2.13,0
+SC,House,SC-HD-12,0.73,0
+SC,House,SC-HD-120,1.86,0
+SC,House,SC-HD-122,0.74,0
+SC,House,SC-HD-123,1.96,0
+SC,House,SC-HD-124,2.1,0
 SC,House,SC-HD-13,0.2,0
-SC,House,SC-HD-14,1.98,0
-SC,House,SC-HD-16,0.99,0
+SC,House,SC-HD-14,1.99,0
+SC,House,SC-HD-16,1.03,0
 SC,House,SC-HD-17,0.03,0
-SC,House,SC-HD-18,0.23,0
-SC,House,SC-HD-19,2.09,0
-SC,House,SC-HD-2,0.34,0
-SC,House,SC-HD-20,1.07,0
-SC,House,SC-HD-21,1.16,0
-SC,House,SC-HD-22,2.3,0
-SC,House,SC-HD-24,1.8,0
+SC,House,SC-HD-18,0.24,0
+SC,House,SC-HD-19,2.11,0
+SC,House,SC-HD-2,0.31,0
+SC,House,SC-HD-20,1.06,0
+SC,House,SC-HD-21,1.17,0
+SC,House,SC-HD-22,2.31,0
+SC,House,SC-HD-24,1.79,0
 SC,House,SC-HD-26,2.26,0
-SC,House,SC-HD-27,1.75,0
-SC,House,SC-HD-28,1.85,0
-SC,House,SC-HD-29,0.1,0
-SC,House,SC-HD-3,1.68,0
+SC,House,SC-HD-27,1.73,0
+SC,House,SC-HD-28,1.8,0
+SC,House,SC-HD-29,0.12,0
+SC,House,SC-HD-3,1.6,0
 SC,House,SC-HD-30,0.02,0
-SC,House,SC-HD-32,1.82,0
-SC,House,SC-HD-33,0.67,0
-SC,House,SC-HD-34,1.89,0
+SC,House,SC-HD-32,1.8,0
+SC,House,SC-HD-33,0.68,0
+SC,House,SC-HD-34,1.9,0
 SC,House,SC-HD-35,0.66,0
 SC,House,SC-HD-36,0.54,0
-SC,House,SC-HD-37,0.7,0
+SC,House,SC-HD-37,0.68,0
 SC,House,SC-HD-38,0.01,0
-SC,House,SC-HD-39,0.02,0
-SC,House,SC-HD-4,0.02,0
+SC,House,SC-HD-39,0.01,0
+SC,House,SC-HD-4,0.01,0
 SC,House,SC-HD-40,0.8,0
-SC,House,SC-HD-42,0.89,0
-SC,House,SC-HD-43,1.43,0
-SC,House,SC-HD-44,2.25,0
-SC,House,SC-HD-45,2.04,0
-SC,House,SC-HD-46,1.56,0
-SC,House,SC-HD-47,0.22,0
-SC,House,SC-HD-48,1.79,0
+SC,House,SC-HD-42,0.83,0
+SC,House,SC-HD-43,1.44,0
+SC,House,SC-HD-44,2.27,0
+SC,House,SC-HD-45,2.09,0
+SC,House,SC-HD-46,1.59,0
+SC,House,SC-HD-47,0.23,0
+SC,House,SC-HD-48,1.82,0
 SC,House,SC-HD-5,0.12,0
-SC,House,SC-HD-53,0.59,0
-SC,House,SC-HD-56,0.66,0
+SC,House,SC-HD-53,0.61,0
+SC,House,SC-HD-56,0.67,0
 SC,House,SC-HD-57,0.01,0
-SC,House,SC-HD-58,1.47,0
-SC,House,SC-HD-6,0.32,0
-SC,House,SC-HD-60,1.82,0
-SC,House,SC-HD-61,1.14,0
-SC,House,SC-HD-63,1.58,0
-SC,House,SC-HD-64,1.06,0
+SC,House,SC-HD-58,1.46,0
+SC,House,SC-HD-6,0.34,0
+SC,House,SC-HD-60,1.87,0
+SC,House,SC-HD-61,1.11,0
+SC,House,SC-HD-63,1.59,0
+SC,House,SC-HD-64,1.05,0
 SC,House,SC-HD-65,0.16,0
-SC,House,SC-HD-66,2.13,0
-SC,House,SC-HD-67,1.98,0
+SC,House,SC-HD-66,2.05,0
+SC,House,SC-HD-67,1.97,0
 SC,House,SC-HD-68,0.5,0
-SC,House,SC-HD-69,1.69,0
+SC,House,SC-HD-69,1.65,0
 SC,House,SC-HD-7,0.08,0
-SC,House,SC-HD-71,1.78,0
+SC,House,SC-HD-71,1.8,0
 SC,House,SC-HD-75,0.01,0
 SC,House,SC-HD-8,0.56,0
-SC,House,SC-HD-80,1.99,0
-SC,House,SC-HD-81,1.47,0
+SC,House,SC-HD-80,1.98,0
+SC,House,SC-HD-81,1.5,0
 SC,House,SC-HD-82,0.05,0
-SC,House,SC-HD-83,0.6,0
-SC,House,SC-HD-84,0.91,0
-SC,House,SC-HD-85,1.74,0
-SC,House,SC-HD-86,1.98,1
-SC,House,SC-HD-87,0.1,0
+SC,House,SC-HD-83,0.65,0
+SC,House,SC-HD-84,0.92,0
+SC,House,SC-HD-85,1.73,0
+SC,House,SC-HD-86,1.99,1
+SC,House,SC-HD-87,0.13,0
 SC,House,SC-HD-88,0.72,0
-SC,House,SC-HD-89,1.66,0
+SC,House,SC-HD-89,1.64,0
 SC,House,SC-HD-9,0.42,0
-SC,House,SC-HD-92,2.03,0
-SC,House,SC-HD-94,1.86,0
-SC,House,SC-HD-96,1.41,0
-SC,House,SC-HD-97,1.75,0
-SC,House,SC-HD-98,1.48,0
-SC,House,SC-HD-99,1.71,0
+SC,House,SC-HD-92,2.06,0
+SC,House,SC-HD-94,1.9,0
+SC,House,SC-HD-96,1.43,0
+SC,House,SC-HD-97,1.74,0
+SC,House,SC-HD-98,1.46,0
+SC,House,SC-HD-99,1.69,0
 SD,House,SD-HD-10B,0.01,0
-SD,House,SD-HD-11A,1.16,0
-SD,House,SD-HD-11B,1.8,0
+SD,House,SD-HD-11A,1.18,0
+SD,House,SD-HD-11B,1.84,0
 SD,House,SD-HD-12A,0.09,0
-SD,House,SD-HD-12B,1.9,0
-SD,House,SD-HD-13A,0.43,0
-SD,House,SD-HD-13B,1.9,0
+SD,House,SD-HD-12B,1.88,0
+SD,House,SD-HD-13A,0.42,0
+SD,House,SD-HD-13B,1.88,0
 SD,House,SD-HD-14A,0.12,0
-SD,House,SD-HD-14B,1.73,0
-SD,House,SD-HD-16A,1.87,0
-SD,House,SD-HD-16B,1.93,0
+SD,House,SD-HD-14B,1.7,0
+SD,House,SD-HD-16A,1.88,0
+SD,House,SD-HD-16B,2.0,0
 SD,House,SD-HD-17A,2.11,0
-SD,House,SD-HD-17B,0.56,0
+SD,House,SD-HD-17B,0.6,0
 SD,House,SD-HD-18A,2.06,0
 SD,House,SD-HD-18B,1.95,0
-SD,House,SD-HD-19A,0.16,0
-SD,House,SD-HD-19B,2.09,0
-SD,House,SD-HD-1A,1.04,0
-SD,House,SD-HD-1B,1.84,0
+SD,House,SD-HD-19A,0.15,0
+SD,House,SD-HD-19B,2.08,0
+SD,House,SD-HD-1A,1.08,0
+SD,House,SD-HD-1B,1.81,0
 SD,House,SD-HD-20A,1.43,0
-SD,House,SD-HD-20B,1.93,0
-SD,House,SD-HD-21A,1.89,0
-SD,House,SD-HD-21B,1.81,0
-SD,House,SD-HD-22A,0.91,0
-SD,House,SD-HD-22B,2.04,0
+SD,House,SD-HD-20B,1.88,0
+SD,House,SD-HD-21A,1.9,0
+SD,House,SD-HD-21B,1.75,0
+SD,House,SD-HD-22A,0.98,0
+SD,House,SD-HD-22B,2.03,0
 SD,House,SD-HD-23A,1.89,0
-SD,House,SD-HD-23B,1.68,0
-SD,House,SD-HD-24A,1.79,0
-SD,House,SD-HD-24B,1.93,0
-SD,House,SD-HD-25A,1.99,0
-SD,House,SD-HD-25B,1.82,0
-SD,House,SD-HD-26B,2.18,0
-SD,House,SD-HD-27A,1.65,0
+SD,House,SD-HD-23B,1.71,0
+SD,House,SD-HD-24A,1.8,0
+SD,House,SD-HD-24B,1.94,0
+SD,House,SD-HD-25A,1.97,0
+SD,House,SD-HD-25B,1.77,0
+SD,House,SD-HD-26B,2.14,0
+SD,House,SD-HD-27A,1.67,0
 SD,House,SD-HD-27B,0.02,0
-SD,House,SD-HD-28A,0.75,0
-SD,House,SD-HD-28B,1.95,0
-SD,House,SD-HD-29A,1.7,0
+SD,House,SD-HD-28A,0.82,0
+SD,House,SD-HD-28B,1.96,0
+SD,House,SD-HD-29A,1.73,0
 SD,House,SD-HD-29B,1.7,0
-SD,House,SD-HD-2A,1.65,0
-SD,House,SD-HD-2B,1.81,0
+SD,House,SD-HD-2A,1.67,0
+SD,House,SD-HD-2B,1.77,0
 SD,House,SD-HD-30A,0.19,0
-SD,House,SD-HD-30B,1.79,0
+SD,House,SD-HD-30B,1.75,0
 SD,House,SD-HD-31A,0.87,0
-SD,House,SD-HD-31B,2.02,0
-SD,House,SD-HD-32A,0.11,0
-SD,House,SD-HD-32B,1.97,0
-SD,House,SD-HD-33A,1.15,0
-SD,House,SD-HD-33B,1.98,0
-SD,House,SD-HD-34A,0.83,0
-SD,House,SD-HD-34B,1.96,0
-SD,House,SD-HD-35A,1.79,0
-SD,House,SD-HD-35B,1.94,0
-SD,House,SD-HD-3A,1.65,0
-SD,House,SD-HD-3B,1.88,0
-SD,House,SD-HD-4A,0.8,0
-SD,House,SD-HD-4B,1.8,0
-SD,House,SD-HD-5A,1.78,0
-SD,House,SD-HD-5B,1.93,0
-SD,House,SD-HD-6A,1.93,0
-SD,House,SD-HD-6B,1.94,0
-SD,House,SD-HD-7A,1.66,0
+SD,House,SD-HD-31B,2.04,0
+SD,House,SD-HD-32A,0.13,0
+SD,House,SD-HD-32B,1.94,0
+SD,House,SD-HD-33A,1.21,0
+SD,House,SD-HD-33B,1.96,0
+SD,House,SD-HD-34A,0.82,0
+SD,House,SD-HD-34B,1.99,0
+SD,House,SD-HD-35A,1.76,0
+SD,House,SD-HD-35B,1.93,0
+SD,House,SD-HD-3A,1.67,0
+SD,House,SD-HD-3B,1.9,0
+SD,House,SD-HD-4A,0.7,0
+SD,House,SD-HD-4B,1.75,0
+SD,House,SD-HD-5A,1.8,0
+SD,House,SD-HD-5B,1.92,0
+SD,House,SD-HD-6A,1.94,0
+SD,House,SD-HD-6B,1.91,0
+SD,House,SD-HD-7A,1.65,0
 SD,House,SD-HD-7B,1.89,1
-SD,House,SD-HD-8A,1.99,0
-SD,House,SD-HD-8B,1.93,0
-SD,House,SD-HD-9A,1.07,0
-SD,House,SD-HD-9B,1.88,0
-SD,Senate,SD-SD-1,3.57,0
-SD,Senate,SD-SD-11,2.36,0
+SD,House,SD-HD-8A,2.01,0
+SD,House,SD-HD-8B,1.97,0
+SD,House,SD-HD-9A,1.08,0
+SD,House,SD-HD-9B,1.85,0
+SD,Senate,SD-SD-1,3.6,0
+SD,Senate,SD-SD-11,2.37,0
 SD,Senate,SD-SD-12,0.2,0
-SD,Senate,SD-SD-13,3.71,0
-SD,Senate,SD-SD-14,3.96,0
+SD,Senate,SD-SD-13,3.72,0
+SD,Senate,SD-SD-14,3.92,0
 SD,Senate,SD-SD-15,0.03,0
-SD,Senate,SD-SD-16,3.74,0
-SD,Senate,SD-SD-17,3.74,0
-SD,Senate,SD-SD-18,3.52,0
-SD,Senate,SD-SD-19,0.18,0
-SD,Senate,SD-SD-2,3.29,0
-SD,Senate,SD-SD-20,3.57,0
+SD,Senate,SD-SD-16,3.73,0
+SD,Senate,SD-SD-17,3.75,0
+SD,Senate,SD-SD-18,3.56,0
+SD,Senate,SD-SD-19,0.19,0
+SD,Senate,SD-SD-2,3.27,0
+SD,Senate,SD-SD-20,3.51,0
 SD,Senate,SD-SD-21,0.26,0
-SD,Senate,SD-SD-22,3.83,0
+SD,Senate,SD-SD-22,3.84,0
 SD,Senate,SD-SD-23,3.61,0
-SD,Senate,SD-SD-24,3.68,0
-SD,Senate,SD-SD-25,3.99,0
-SD,Senate,SD-SD-26,0.25,0
+SD,Senate,SD-SD-24,3.66,0
+SD,Senate,SD-SD-25,3.98,0
+SD,Senate,SD-SD-26,0.24,0
 SD,Senate,SD-SD-27,0.08,0
-SD,Senate,SD-SD-28,3.79,0
-SD,Senate,SD-SD-29,3.5,0
-SD,Senate,SD-SD-3,3.52,0
-SD,Senate,SD-SD-30,3.25,0
-SD,Senate,SD-SD-31,3.79,0
-SD,Senate,SD-SD-32,1.38,0
-SD,Senate,SD-SD-33,4.15,0
-SD,Senate,SD-SD-34,3.78,0
-SD,Senate,SD-SD-35,3.74,0
-SD,Senate,SD-SD-4,3.52,0
-SD,Senate,SD-SD-5,3.63,0
+SD,Senate,SD-SD-28,3.8,0
+SD,Senate,SD-SD-29,3.49,0
+SD,Senate,SD-SD-3,3.51,0
+SD,Senate,SD-SD-30,3.31,0
+SD,Senate,SD-SD-31,3.76,0
+SD,Senate,SD-SD-32,1.37,0
+SD,Senate,SD-SD-33,4.13,0
+SD,Senate,SD-SD-34,3.8,0
+SD,Senate,SD-SD-35,3.73,0
+SD,Senate,SD-SD-4,3.51,0
+SD,Senate,SD-SD-5,3.64,0
 SD,Senate,SD-SD-6,3.82,1
-SD,Senate,SD-SD-7,3.46,0
-SD,Senate,SD-SD-8,3.44,0
+SD,Senate,SD-SD-7,3.49,0
+SD,Senate,SD-SD-8,3.46,0
 SD,Senate,SD-SD-9,3.66,0
 TN,House,TN-HD-1,1.95,0
 TN,House,TN-HD-10,1.95,0
@@ -4164,94 +4182,93 @@ UT,Senate,UT-SD-28,12.26,0
 UT,Senate,UT-SD-5,0.05,0
 UT,Senate,UT-SD-6,3.99,0
 UT,Senate,UT-SD-7,1.11,0
-VT,House,VT-Addison-1,2.26,0
-VT,House,VT-Addison-2,0.93,0
-VT,House,VT-Addison-3,3.4,0
-VT,House,VT-Addison-4,2.07,0
-VT,House,VT-Addison-5,1.65,0
-VT,House,VT-Addison-Rutland,0.28,0
-VT,House,VT-Bennington-1,0.75,0
-VT,House,VT-Bennington-2,0.18,0
-VT,House,VT-Bennington-3,1.53,0
-VT,House,VT-Bennington-4,0.48,0
-VT,House,VT-Bennington-5,2.54,0
-VT,House,VT-Bennington-Rutland,0.85,0
-VT,House,VT-Caledonia-1,0.83,0
-VT,House,VT-Caledonia-2,0.67,0
-VT,House,VT-Caledonia-Essex,2.87,0
-VT,House,VT-Caledonia-Washington,0.37,0
-VT,House,VT-Chittenden-1,0.07,0
-VT,House,VT-Chittenden-10,1.14,0
-VT,House,VT-Chittenden-11,1.07,0
-VT,House,VT-Chittenden-12,1.05,0
-VT,House,VT-Chittenden-13,2.06,0
-VT,House,VT-Chittenden-14,2.27,0
-VT,House,VT-Chittenden-15,2.1,0
-VT,House,VT-Chittenden-16,2.18,0
-VT,House,VT-Chittenden-17,0.99,0
-VT,House,VT-Chittenden-18,2.22,0
-VT,House,VT-Chittenden-19,0.9,0
-VT,House,VT-Chittenden-2,2.35,0
-VT,House,VT-Chittenden-20,2.76,0
-VT,House,VT-Chittenden-21,1.82,0
-VT,House,VT-Chittenden-22,0.07,0
-VT,House,VT-Chittenden-23,0.23,0
-VT,House,VT-Chittenden-24,0.88,0
-VT,House,VT-Chittenden-25,0.44,0
-VT,House,VT-Chittenden-3,2.28,0
-VT,House,VT-Chittenden-4,1.02,0
-VT,House,VT-Chittenden-5,1.16,0
-VT,House,VT-Chittenden-6,0.01,0
-VT,House,VT-Chittenden-7,1.09,0
-VT,House,VT-Chittenden-8,0.01,0
-VT,House,VT-Chittenden-9,1.01,0
-VT,House,VT-Chittenden-Franklin,0.15,0
-VT,House,VT-Franklin-1,1.84,0
-VT,House,VT-Franklin-2,0.12,0
-VT,House,VT-Franklin-3,0.71,0
-VT,House,VT-Franklin-4,1.29,0
-VT,House,VT-Franklin-8,0.09,0
-VT,House,VT-Grand Isle-Chittenden,1.24,0
-VT,House,VT-Lamoille-1,0.04,0
-VT,House,VT-Lamoille-2,1.15,0
-VT,House,VT-Lamoille-3,1.34,1
+VT,House,VT-Addison-1,1.98,0
+VT,House,VT-Addison-2,1.03,0
+VT,House,VT-Addison-3,3.67,0
+VT,House,VT-Addison-4,1.96,0
+VT,House,VT-Addison-5,1.81,0
+VT,House,VT-Addison-Rutland,0.35,0
+VT,House,VT-Bennington-1,0.91,0
+VT,House,VT-Bennington-2,0.13,0
+VT,House,VT-Bennington-3,1.92,0
+VT,House,VT-Bennington-4,0.47,0
+VT,House,VT-Bennington-5,1.91,0
+VT,House,VT-Bennington-Rutland,0.08,0
+VT,House,VT-Caledonia-1,0.87,0
+VT,House,VT-Caledonia-2,0.95,0
+VT,House,VT-Caledonia-Essex,2.62,0
+VT,House,VT-Caledonia-Washington,0.34,0
+VT,House,VT-Chittenden-1,0.02,0
+VT,House,VT-Chittenden-10,1.03,0
+VT,House,VT-Chittenden-11,0.85,0
+VT,House,VT-Chittenden-12,0.99,0
+VT,House,VT-Chittenden-13,2.08,0
+VT,House,VT-Chittenden-14,2.2,0
+VT,House,VT-Chittenden-15,2.31,0
+VT,House,VT-Chittenden-16,2.23,0
+VT,House,VT-Chittenden-17,1.03,0
+VT,House,VT-Chittenden-18,2.19,0
+VT,House,VT-Chittenden-19,0.69,0
+VT,House,VT-Chittenden-2,2.08,0
+VT,House,VT-Chittenden-20,3.0,0
+VT,House,VT-Chittenden-21,2.24,0
+VT,House,VT-Chittenden-23,0.22,0
+VT,House,VT-Chittenden-24,0.75,0
+VT,House,VT-Chittenden-25,0.49,0
+VT,House,VT-Chittenden-3,1.96,0
+VT,House,VT-Chittenden-4,1.08,0
+VT,House,VT-Chittenden-5,0.94,0
+VT,House,VT-Chittenden-6,0.03,0
+VT,House,VT-Chittenden-7,0.98,0
+VT,House,VT-Chittenden-8,0.03,0
+VT,House,VT-Chittenden-9,0.97,0
+VT,House,VT-Chittenden-Franklin,0.07,0
+VT,House,VT-Franklin-1,1.95,0
+VT,House,VT-Franklin-2,0.34,0
+VT,House,VT-Franklin-3,0.73,0
+VT,House,VT-Franklin-4,1.49,0
+VT,House,VT-Franklin-8,0.2,0
+VT,House,VT-Grand Isle-Chittenden,0.93,0
+VT,House,VT-Lamoille-1,0.03,0
+VT,House,VT-Lamoille-2,1.32,0
+VT,House,VT-Lamoille-3,1.49,1
 VT,House,VT-Lamoille-Washington,0.1,0
-VT,House,VT-Orange-Caledonia,0.32,0
-VT,House,VT-Orange-Washington-Addison,2.5,0
-VT,House,VT-Orleans-2,0.25,0
-VT,House,VT-Orleans-4,1.04,0
-VT,House,VT-Rutland-2,0.07,0
-VT,House,VT-Rutland-6,0.84,0
-VT,House,VT-Rutland-8,0.08,0
-VT,House,VT-Rutland-9,1.07,0
-VT,House,VT-Rutland-Bennington,0.03,0
-VT,House,VT-Rutland-Windsor,0.09,0
-VT,House,VT-Washington-2,2.14,0
-VT,House,VT-Washington-3,2.76,0
-VT,House,VT-Washington-4,2.23,0
-VT,House,VT-Washington-5,0.93,0
-VT,House,VT-Washington-6,0.98,0
-VT,House,VT-Washington-Chittenden,1.89,0
-VT,House,VT-Washington-Orange,0.26,0
-VT,House,VT-Windham-1,1.56,0
-VT,House,VT-Windham-2,1.7,0
-VT,House,VT-Windham-3,0.47,0
+VT,House,VT-Orange-Caledonia,0.36,0
+VT,House,VT-Orange-Washington-Addison,2.46,0
+VT,House,VT-Orleans-2,0.28,0
+VT,House,VT-Orleans-4,1.09,0
+VT,House,VT-Rutland-2,0.05,0
+VT,House,VT-Rutland-6,1.37,0
+VT,House,VT-Rutland-8,0.03,0
+VT,House,VT-Rutland-9,0.86,0
+VT,House,VT-Rutland-Bennington,0.08,0
+VT,House,VT-Rutland-Windsor,0.15,0
+VT,House,VT-Washington-2,2.12,0
+VT,House,VT-Washington-3,2.74,0
+VT,House,VT-Washington-4,2.28,0
+VT,House,VT-Washington-5,1.07,0
+VT,House,VT-Washington-6,1.1,0
+VT,House,VT-Washington-Chittenden,2.14,0
+VT,House,VT-Washington-Orange,0.21,0
+VT,House,VT-Windham-1,1.71,0
+VT,House,VT-Windham-2,1.42,0
+VT,House,VT-Windham-3,0.35,0
 VT,House,VT-Windham-4,0.01,0
-VT,House,VT-Windham-5,0.94,0
-VT,House,VT-Windham-6,1.34,0
-VT,House,VT-Windham-7,0.13,0
-VT,House,VT-Windham-9,1.26,0
+VT,House,VT-Windham-5,1.08,0
+VT,House,VT-Windham-6,1.15,0
+VT,House,VT-Windham-7,0.07,0
+VT,House,VT-Windham-9,1.12,0
 VT,House,VT-Windham-Windsor-Bennington,0.75,0
-VT,House,VT-Windsor-1,2.14,0
-VT,House,VT-Windsor-2,0.14,0
-VT,House,VT-Windsor-3,2.74,0
-VT,House,VT-Windsor-4,0.9,0
-VT,House,VT-Windsor-5,0.91,0
-VT,House,VT-Windsor-6,2.1,0
-VT,House,VT-Windsor-Addison,0.11,0
-VT,House,VT-Windsor-Orange-1,1.33,0
-VT,House,VT-Windsor-Orange-2,2.15,0
-VT,House,VT-Windsor-Windham,0.93,0
+VT,House,VT-Windsor-1,1.96,0
+VT,House,VT-Windsor-2,0.19,0
+VT,House,VT-Windsor-3,2.68,0
+VT,House,VT-Windsor-4,1.24,0
+VT,House,VT-Windsor-5,1.01,0
+VT,House,VT-Windsor-6,2.18,0
+VT,House,VT-Windsor-Addison,0.17,0
+VT,House,VT-Windsor-Orange-1,1.41,0
+VT,House,VT-Windsor-Orange-2,2.04,0
+VT,House,VT-Windsor-Windham,1.03,0
 VT,Senate,VT-Addison,14.84,0
 VT,Senate,VT-Bennington,19.42,0
 VT,Senate,VT-Caledonia,0.67,0
