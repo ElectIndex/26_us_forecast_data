@@ -1,4 +1,4 @@
-chamber,avg_dem_seats,avg_gop_seats,projected_dem_seats,dem_control_pct,needed,races
-Senate,49.5,50.5,49,43.2,51,35
-House,229.5,205.5,226,63.8,218,435
-Governors,23.1,26.9,25,36.7,26,36
+chamber,avg_dem_seats,avg_gop_seats,projected_dem_seats,dem_control_pct,needed,races,structural_dem,structural_gop
+Senate,49.5,50.5,49,43.2,51,35,,
+House,229.5,205.5,226,63.8,218,435,,
+Governors,23.1,26.9,25,36.7,26,36,,
