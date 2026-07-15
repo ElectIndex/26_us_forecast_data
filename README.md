@@ -22,7 +22,8 @@ the rest to the federal/governor pipeline (`src/pipeline/run_all.py`).
 | `race_polls.csv` | Per-race NYT matchup polls (Senate/House/Governor), multi-candidate. |
 | `pollster_ratings.csv` | Pollster quality ratings; the `banned` column (rating 0) denotes fabrication/fake pollsters excluded from every average. |
 | `third_parties.csv` | Third-party candidates detected from 2026 FEC filings. |
-| `fundraising.csv` | Per-race FEC candidate fundraising (cycle receipts + cash on hand) for House/Senate; governors 0. Feeds the fundamentals fundraising term and the output `dem_funds`/`rep_funds`/`ind_funds`. |
+| `fundraising.csv` | Per-race candidate fundraising (cycle receipts + cash on hand): House/Senate from the FEC bulk summary; governors from Transparency USA state campaign-finance data (21 of 36 races — uncovered states 0). Feeds the fundamentals fundraising term and the output `dem_funds`/`rep_funds`/`ind_funds`. |
+| `candidate_meta.csv` | Wikipedia photo thumbnail + one-line description + page URL per (race, candidate slot), from the REST summary API with conservative wrong-person guards (`src/data/build_candidate_meta.py`). Consumed by the site's race-page candidate cards; regenerate after roster changes. |
 | `ei_env_swings.json` | Ecological-inference per-group vote-margin swings (drives the demographic environment). |
 | `fred_cache.json` | Cached FRED economic series (value + fetch timestamp). |
 | `leg_historical.csv` | Per-SLD 2016/2020/2024 presidential vote totals and two-party D−R margins; drives `lean.compute_lean` for state-legislative districts. |
