@@ -75,6 +75,7 @@ CA-GOV,ef4b0770-080f-41bc-8455-d0406e8a13e9,University of California Berkeley In
 CA-GOV,1ca5915e-9c60-4f3d-89e9-7785ea4e5ee8,University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,2026-05-26,735,1.3,,55.0,34.0,21.0,0.0,,,0.0,0.0,Tom Steyer,Steve Hilton
 CA-GOV,1ca5915e-9c60-4f3d-89e9-7785ea4e5ee8,University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,2026-05-26,735,1.3,,58.0,35.0,23.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
 CA-GOV,dcd15a6d-fa87-4fdc-9b8d-6950782e9970,Kreate Strategies,2026-06-17,900,1.3,,58.0,33.0,25.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
+CA-GOV,b2d69b28-af24-46e1-948f-3c5768cd0e60,Public Policy Institute of California,2026-07-06,1003,1.3,,61.0,36.0,25.0,0.0,,,0.0,0.0,Xavier Becerra,Steve Hilton
 CO-03,edf8bf05-3a02-4b59-b8ba-154c23aca139,Expedition Strategies,2026-01-12,400,1.3,D,39.0,48.0,-9.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,37.0,47.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,41.0,46.0,-5.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
@@ -84,6 +85,8 @@ CT-GOV,748f1fff-2f81-4cca-a789-071e7ab88c52,OnMessage Inc.,2025-08-14,600,1.3,R,
 CT-GOV,d51bef7e-c180-471e-b007-4b52ed80f222,University of New Hampshire,2026-06-23,821,1.3,,49.0,36.0,13.0,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 FL-07,0ca4d70b-5fab-4b8f-b3f8-0dfc93bb3d53,Public Policy Polling,2026-05-21,570,1.8,D,41.0,39.0,2.0,0.0,,,0.0,0.0,Bale Dalton,Cory Mills
 FL-13,86570a3c-00fa-42da-9bfa-1ae9113e94ec,Public Policy Polling,2026-05-20,616,1.8,D,39.0,41.0,-2.0,0.0,,,0.0,0.0,Leela Gray,Anna Paulina Luna
+FL-14,8625996e-08c9-473c-8330-f5afadd9dd6e,St. Pete Polls,2026-07-15,469,1.3,,46.2,38.5,7.7,0.0,,,0.0,0.0,Kathy Castor,Kevin Steele
+FL-14,8625996e-08c9-473c-8330-f5afadd9dd6e,St. Pete Polls,2026-07-15,469,1.3,,46.2,37.5,8.7,0.0,,,0.0,0.0,Kathy Castor,Mike Beltran
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,42.9,32.7,10.2,0.0,,,0.0,0.0,Jared Moskowitz,Scott Singer
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,40.1,38.5,1.6,0.0,,,0.0,0.0,Jared Moskowitz,George Moraitis
 FL-25,87c42ce2-22e9-43b2-9cac-325c035f136c,Middle Seat,2026-05-06,576,1.3,D,51.0,39.0,12.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -130,8 +133,10 @@ FL-GOV,e0c4d5f9-c97e-4b62-993b-32cda2a43ce8,Stetson University Center for Public
 FL-GOV,e0c4d5f9-c97e-4b62-993b-32cda2a43ce8,Stetson University Center for Public Opinion Research,2026-04-13,848,1.3,,42.0,46.0,-4.0,0.0,,,0.0,0.0,Jerry Demings,Byron Donalds
 FL-GOV,fba38c00-600a-4853-8185-203913c2ab61,Cherry Communications,2026-05-09,604,1.3,R,39.0,48.0,-9.0,0.0,,,0.0,0.0,Jerry Demings,Byron Donalds
 FL-GOV,fba38c00-600a-4853-8185-203913c2ab61,Cherry Communications,2026-05-09,604,1.3,R,39.0,47.0,-8.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,2070,1.7,D,41.0,43.0,-2.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,1593,1.7,D,46.0,42.0,4.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,cf8a97a9-9e76-43b9-9ea5-b8f605a65cc1,Kaplan Strategies,2026-06-09,668,1.3,,29.8,34.9,-5.1,7.1,NPA,Frank Russo,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,d92d971c-b00c-462f-a29b-5b864b42d5d1,Change Research,2026-07-11,1348,1.7,D,41.0,40.0,1.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-SEN,20d8d9f1-7024-43b0-8013-fb723d409219,The Tyson Group,2025-10-03,800,1.3,,37.0,44.0,-7.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,85470c38-3966-469e-b79c-0d6aa57b08b8,University of North Florida,2025-10-25,728,1.3,D,38.0,49.0,-11.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,72690b9b-5fcd-43cc-9f2e-8b5dd041b889,University of North Florida,2026-03-02,772,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
@@ -146,9 +151,12 @@ FL-SEN,e0c4d5f9-c97e-4b62-993b-32cda2a43ce8,Stetson University Center for Public
 FL-SEN,e0c4d5f9-c97e-4b62-993b-32cda2a43ce8,Stetson University Center for Public Opinion Research,2026-04-13,434,1.3,,42.0,49.0,-7.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,fba38c00-600a-4853-8185-203913c2ab61,Cherry Communications,2026-05-09,604,1.3,R,40.0,48.0,-8.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,1593,1.7,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
+FL-SEN,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,2070,1.7,D,41.0,46.0,-5.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,82abb093-a035-4baf-8454-9e8414a28e65,Global Strategy Group,2026-05-21,1000,1.8,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,4d861c8b-85ec-4c48-b202-172e27f1f06d,Change Research,2026-06-14,1273,1.7,D,42.0,46.0,-4.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,4d861c8b-85ec-4c48-b202-172e27f1f06d,Change Research,2026-06-14,1015,1.7,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
+FL-SEN,d92d971c-b00c-462f-a29b-5b864b42d5d1,Change Research,2026-07-11,1004,1.7,D,42.0,46.0,-4.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
+FL-SEN,d92d971c-b00c-462f-a29b-5b864b42d5d1,Change Research,2026-07-11,1348,1.7,D,37.0,45.0,-8.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,49.0,43.0,6.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Burt Jones
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,46.0,44.0,2.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Brad Raffensperger
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,49.0,43.0,6.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
@@ -695,6 +703,7 @@ PA-GOV,605876ff-2942-4ecc-90a4-3c039d0b5cff,Bravo Group,2026-05-24,684,1.3,,53.4
 PA-GOV,588348cc-dde0-4938-bf24-c7c26c94e32e,MAD Global Strategy,2026-06-11,600,1.3,,48.0,31.0,17.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 PA-GOV,3493eedc-8f8c-4f18-9857-cb66de51c272,Franklin & Marshall College,2026-06-14,546,1.3,,50.0,28.0,22.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 PA-GOV,0b1dfde7-98e7-4239-a56d-7e74bb4bab3b,Bravo Group,2026-06-25,644,1.3,,53.7,29.3,24.4,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
+PA-GOV,099d533d-85c7-47ba-9591-108720a94320,Quinnipiac University,2026-07-13,895,2.7,,53.0,40.0,13.0,0.0,,,0.0,0.0,Josh Shapiro,Stacy Garrity
 RI-GOV,5e0ce830-1928-4c23-8e3b-1c25be303a9b,Opinion Diagnostics,2026-04-16,802,1.3,,33.0,16.0,17.0,18.0,IND,Ken Block,0.0,0.0,Helena Foulkes,Aaron Guckian
 RI-GOV,5e0ce830-1928-4c23-8e3b-1c25be303a9b,Opinion Diagnostics,2026-04-16,802,1.3,,28.0,15.0,13.0,20.0,IND,Ken Block,0.0,0.0,Daniel McKee,Aaron Guckian
 RI-GOV,cf5aecb5-692a-45ad-a9b9-35d031ac5d91,Emerson College,2026-05-16,1000,2.5,,32.6,22.5,10.1,22.1,IND,Ken Block,0.0,0.0,Daniel McKee,Generic Republican
