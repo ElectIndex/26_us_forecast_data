@@ -14,7 +14,7 @@ C-0012,Ashley Moody,Ashley,Moody,REP,FL,1,,0.0
 C-0013,Jon Ossoff,Jon,Ossoff,DEM,GA,1,,7.59
 C-0014,Mike Collins,Mike,Collins,REP,GA,0,,0.0
 C-0015,Josh Turek,Josh,Turek,DEM,IA,0,,0.0
-C-0016,Ashley Hinson,Ashley,Hinson,REP,IA,0,,-1.4
+C-0016,Ashley Hinson,Ashley,Hinson,REP,IA,0,S6IA00314,-1.4
 C-0017,David Roth,David,Roth,DEM,ID,0,,-1.96
 C-0018,Jim Risch,Jim,Risch,REP,ID,1,,0.0
 C-0019,Juliana Stratton,Juliana,Stratton,DEM,IL,0,,0.0
@@ -28,6 +28,7 @@ C-0026,Julia Letlow,Julia,Letlow,REP,LA,0,,-10.65
 C-0027,Ed Markey,Ed,Markey,DEM,MA,1,,0.0
 C-0028,John Deaton,John,Deaton,REP,MA,0,,0.0
 C-0029,Graham Platner,Graham,Platner,DEM,ME,0,,0.0
+C-1043,Troy Jackson,Troy,Jackson,DEM,ME,0,,0.0
 C-0030,Susan Collins,Susan,Collins,REP,ME,1,,-17.83
 C-0031,Abdul El-Sayed,Abdul,El-Sayed,DEM,MI,0,,0.0
 C-0032,Mike Rogers,Mike,Rogers,REP,MI,0,,0.66

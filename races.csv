@@ -13,7 +13,7 @@ KS-SEN,senate,KS,SEN,C-0021,Adam Hamilton,DEM,C-0022,Roger Marshall,REP,,,,,,,Fa
 KY-SEN,senate,KY,SEN,C-0023,Charles Booker,DEM,C-0024,Andy Barr,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 LA-SEN,senate,LA,SEN,C-0025,Jamie Davis,DEM,C-0026,Julia Letlow,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 MA-SEN,senate,MA,SEN,C-0027,Ed Markey,DEM,C-0028,John Deaton,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,presumptive,presumptive,
-ME-SEN,senate,ME,SEN,C-0029,Graham Platner,DEM,C-0030,Susan Collins,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
+ME-SEN,senate,ME,SEN,C-1043,Troy Jackson,DEM,C-0030,Susan Collins,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
 MI-SEN,senate,MI,SEN,C-0031,Abdul El-Sayed,DEM,C-0032,Mike Rogers,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,presumptive,
 MN-SEN,senate,MN,SEN,C-0033,Peggy Flanagan,DEM,C-1021,Michele Tafoya,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,presumptive,
 MS-SEN,senate,MS,SEN,C-0035,Scott Colom,DEM,C-0036,Cindy Hyde-Smith,REP,C-1039,Ty Pinkins,IND,IND,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,confirmed
