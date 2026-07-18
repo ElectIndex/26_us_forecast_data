@@ -906,7 +906,7 @@ C-0904,Mark Teixeira,Mark,Teixeira,REP,TX,0,,0.0
 C-0905,Marquette Greene-Scott,Marquette,Greene-Scott,DEM,TX,0,,-0.9
 C-0906,Trever Nehls,Trever,Nehls,REP,TX,0,,0.0
 C-0907,Katy Padilla Stout,Katy,Stout,DEM,TX,0,,0.0
-C-0908,Brandon Herrera,Brandon,Herrera,REP,TX,1,,0.0
+C-0908,Brandon Herrera,Brandon,Herrera,REP,TX,0,,0.0
 C-0909,Democratic candidate (TX-24),Democratic,candidate (TX-24),DEM,TX,0,,0.0
 C-0910,Elizabeth Van Duyne,Elizabeth,Van Duyne,REP,TX,1,,-4.01
 C-0911,Dione Sims,Dione,Sims,DEM,TX,0,,0.0
@@ -1010,11 +1010,11 @@ C-1008,Carol Miller,Carol,Miller,REP,WV,1,,2.17
 C-1009,Ahsan Parsi,Ahsan,Parsi,DEM,WV,0,,0.0
 C-1010,Riley Moore,Riley,Moore,REP,WV,1,,-3.54
 C-1011,Lisa Kinney,Lisa,Kinney,DEM,WY,0,,0.0
-C-1012,Matt Schultz,Matt,Schultz,DEM,AK,0,,0.0
+C-1041,(No Democrat),(No,Democrat),DEM,AK,0,,0.0
 C-1013,Bill Hill,Bill,Hill,IND,AK,0,,0.0
 C-1014,Chuck Gray,Chuck,Gray,REP,WY,0,,0.0
 C-1015,Austin Ahlman,Austin,Ahlman,IND,NE,0,H6NE01150,0.0
-C-1016,Democratic candidate (ME-SEN),Democratic,candidate (ME-SEN),DEM,ME,0,,0.0
+C-1042,Greg Lopez,Greg,Lopez,IND,CO,0,,0.0
 C-1017,Jerry Carl,Jerry,Carl,REP,AL,0,,0.0
 C-1019,Cindy Holscher,Cindy,Holscher,DEM,KS,0,,0.0
 C-1020,Mike Lindell,Mike,Lindell,REP,MN,0,,0.0

@@ -13,7 +13,7 @@ KS-SEN,senate,KS,SEN,C-0021,Adam Hamilton,DEM,C-0022,Roger Marshall,REP,,,,,,,Fa
 KY-SEN,senate,KY,SEN,C-0023,Charles Booker,DEM,C-0024,Andy Barr,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 LA-SEN,senate,LA,SEN,C-0025,Jamie Davis,DEM,C-0026,Julia Letlow,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
 MA-SEN,senate,MA,SEN,C-0027,Ed Markey,DEM,C-0028,John Deaton,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,presumptive,presumptive,
-ME-SEN,senate,ME,SEN,C-1016,Democratic candidate (ME-SEN),DEM,C-0030,Susan Collins,REP,,,,,,,True,False,0.0,,,False,REP,REP,projected,confirmed,
+ME-SEN,senate,ME,SEN,C-0029,Graham Platner,DEM,C-0030,Susan Collins,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
 MI-SEN,senate,MI,SEN,C-0031,Abdul El-Sayed,DEM,C-0032,Mike Rogers,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,presumptive,
 MN-SEN,senate,MN,SEN,C-0033,Peggy Flanagan,DEM,C-1021,Michele Tafoya,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,presumptive,
 MS-SEN,senate,MS,SEN,C-0035,Scott Colom,DEM,C-0036,Cindy Hyde-Smith,REP,C-1039,Ty Pinkins,IND,IND,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,confirmed
@@ -39,7 +39,7 @@ AL-GOV,governor,AL,GOV,C-0075,Doug Jones,DEM,C-0076,Tommy Tuberville,REP,,,,,,,F
 AR-GOV,governor,AR,GOV,C-0077,Fredrick Love,DEM,C-0078,Sarah Huckabee Sanders,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,
 AZ-GOV,governor,AZ,GOV,C-0079,Katie Hobbs,DEM,C-0080,Andy Biggs,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,presumptive,presumptive,
 CA-GOV,governor,CA,GOV,C-0081,Xavier Becerra,DEM,C-0082,Steve Hilton,REP,,,,,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,
-CO-GOV,governor,CO,GOV,C-0083,Phil Weiser,DEM,C-0084,Victor Marx,REP,,,,,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,
+CO-GOV,governor,CO,GOV,C-0083,Phil Weiser,DEM,C-0084,Victor Marx,REP,C-1042,Greg Lopez,IND,REP,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,presumptive
 CT-GOV,governor,CT,GOV,C-0085,Ned Lamont,DEM,C-0086,Ryan Fazio,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,presumptive,confirmed,
 FL-GOV,governor,FL,GOV,C-0087,David Jolly,DEM,C-0088,Byron Donalds,REP,,,,,,,False,False,0.0,,,False,,REP,presumptive,presumptive,
 GA-GOV,governor,GA,GOV,C-0089,Keisha Lance Bottoms,DEM,C-0090,Rick Jackson,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
@@ -70,7 +70,7 @@ TX-GOV,governor,TX,GOV,C-0137,Gina Hinojosa,DEM,C-0138,Greg Abbott,REP,,,,,,,Fal
 VT-GOV,governor,VT,GOV,C-0139,Amanda Janoo,DEM,C-0140,Phil Scott,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,confirmed,
 WI-GOV,governor,WI,GOV,C-1028,Francesca Hong,DEM,C-0142,Tom Tiffany,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,presumptive,
 WY-GOV,governor,WY,GOV,C-1029,Kenneth Casner,DEM,C-0144,Megan Degenfelder,REP,,,,,,,False,False,0.0,,,False,,REP,presumptive,presumptive,
-AK-01,house,AK,01,C-1012,Matt Schultz,DEM,C-0145,Nick Begich III,REP,C-1013,Bill Hill,IND,DEM,,,True,False,0.0,,,False,REP,REP,presumptive,presumptive,confirmed
+AK-01,house,AK,01,C-1041,(No Democrat),DEM,C-0145,Nick Begich III,REP,C-1013,Bill Hill,IND,DEM,,,False,True,0.85,,,False,REP,REP,,presumptive,confirmed
 AL-01,house,AL,01,C-0146,Clyde Jones,DEM,C-1017,Jerry Carl,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
 AL-02,house,AL,02,C-0148,Shomari Figures,DEM,C-0147,Rhett Marques,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,presumptive,
 AL-03,house,AL,03,C-0150,Victor McInnis,DEM,C-0151,Mike Rogers,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
