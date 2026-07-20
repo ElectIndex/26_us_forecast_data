@@ -136,6 +136,7 @@ FL-GOV,fba38c00-600a-4853-8185-203913c2ab61,Cherry Communications,2026-05-09,604
 FL-GOV,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,2070,1.7,D,41.0,43.0,-2.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,1593,1.7,D,46.0,42.0,4.0,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-GOV,cf8a97a9-9e76-43b9-9ea5-b8f605a65cc1,Kaplan Strategies,2026-06-09,668,1.3,,29.8,34.9,-5.1,7.1,NPA,Frank Russo,0.0,0.0,David W. Jolly,Byron Donalds
+FL-GOV,b7344ec9-d1d2-459e-a5ad-16965b6345e8,University of North Florida,2026-07-17,848,1.3,,41.4,46.1,-4.7,0.0,,,0.0,0.0,David W. Jolly,Byron Donalds
 FL-SEN,20d8d9f1-7024-43b0-8013-fb723d409219,The Tyson Group,2025-10-03,800,1.3,,37.0,44.0,-7.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,85470c38-3966-469e-b79c-0d6aa57b08b8,University of North Florida,2025-10-25,728,1.3,D,38.0,49.0,-11.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,72690b9b-5fcd-43cc-9f2e-8b5dd041b889,University of North Florida,2026-03-02,772,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
@@ -154,6 +155,8 @@ FL-SEN,d3c0332e-4eb3-40ce-9ca1-23424e5f5d79,Change Research,2026-05-16,2070,1.7,
 FL-SEN,82abb093-a035-4baf-8454-9e8414a28e65,Global Strategy Group,2026-05-21,1000,1.8,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,4d861c8b-85ec-4c48-b202-172e27f1f06d,Change Research,2026-06-14,1273,1.7,D,42.0,46.0,-4.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,4d861c8b-85ec-4c48-b202-172e27f1f06d,Change Research,2026-06-14,1015,1.7,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
+FL-SEN,b7344ec9-d1d2-459e-a5ad-16965b6345e8,University of North Florida,2026-07-17,848,1.3,,41.6,50.0,-8.4,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
+FL-SEN,b7344ec9-d1d2-459e-a5ad-16965b6345e8,University of North Florida,2026-07-17,848,1.3,,40.2,49.9,-9.7,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,49.0,43.0,6.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Burt Jones
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,46.0,44.0,2.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Brad Raffensperger
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,49.0,43.0,6.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
@@ -295,6 +298,7 @@ ME-02,ac03c1df-2f0d-4fca-b638-ba251f92c128,co/efficient,2026-04-28,918,1.0,R,40.
 ME-02,ac03c1df-2f0d-4fca-b638-ba251f92c128,co/efficient,2026-04-28,918,1.0,R,40.0,50.0,-10.0,0.0,,,0.0,0.0,Matt Dunlap,Paul R. LePage
 ME-02,ac03c1df-2f0d-4fca-b638-ba251f92c128,co/efficient,2026-04-28,918,1.0,R,41.0,48.0,-7.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 ME-02,09a21c73-2dcf-4c37-8c14-fa62361b2c7e,Pan Atlantic SMS Group,2026-05-18,418,1.3,D,49.0,41.0,8.0,0.0,,,0.0,0.0,Joe Baldacci,Paul R. LePage
+ME-02,323bf26d-5b35-4615-bfab-ae10a8f170a1,Tulchin Research,2026-07-16,600,1.3,D,49.0,48.0,1.0,0.0,,,0.0,0.0,Matt Dunlap,Paul R. LePage
 ME-GOV,67b56c94-89a5-47e0-ace0-551879438390,The New York Times/Siena University,2026-06-26,608,3.0,,55.4,39.6,15.8,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-GOV,ae1179f5-1fe6-4bf7-8b9c-77cc2c2407a1,Beacon Research/Shaw & Company Research,2026-06-27,1003,2.5,,53.0,42.0,11.0,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-SEN,5aee4b52-8287-4385-ae50-de34900fb9ac,Upswing Research,2025-03-25,600,1.3,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Jordan Wood,Susan M. Collins

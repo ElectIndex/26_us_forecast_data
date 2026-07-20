@@ -53,7 +53,7 @@ MD-GOV,governor,MD,GOV,C-0103,Wes Moore,DEM,C-0104,Dan Cox,REP,,,,,,,False,False
 ME-GOV,governor,ME,GOV,C-0105,Hannah Pingree,DEM,C-0106,Robert Charles,REP,C-1036,Rick Bennett,IND,IND,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,confirmed
 MI-GOV,governor,MI,GOV,C-0107,Jocelyn Benson,DEM,C-0108,John James,REP,,,,,,,False,False,0.0,,,False,,DEM,presumptive,presumptive,
 MN-GOV,governor,MN,GOV,C-0109,Amy Klobuchar,DEM,C-1020,Mike Lindell,REP,,,,,,,False,False,0.0,,,False,,DEM,presumptive,projected,
-NE-GOV,governor,NE,GOV,C-0111,Lynne Walz,DEM,C-0112,Jim Pillen,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,
+NE-GOV,governor,NE,GOV,C-0111,Lynne Walz,DEM,C-0112,Jim Pillen,REP,C-1044,Brett Lindstrom,IND,REP,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,presumptive
 NH-GOV,governor,NH,GOV,C-0113,Cinde Warmington,DEM,C-0114,Kelly Ayotte,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,presumptive,
 NM-GOV,governor,NM,GOV,C-0115,Deb Haaland,DEM,C-0116,Gregg Hull,REP,,,,,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,
 NV-GOV,governor,NV,GOV,C-0117,Aaron Ford,DEM,C-0118,Joe Lombardo,REP,,,,,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,
