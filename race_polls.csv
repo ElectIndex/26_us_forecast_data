@@ -68,6 +68,7 @@ AZ-GOV,b12e716c-8ade-4de5-bcdb-51d77e1aa07c,Noble Predictive Insights,2026-05-07
 CA-03,7538894c-e0a4-4f00-ae7a-7596508ebd31,Tulchin Research,2025-07-10,400,1.3,D,45.0,47.0,-2.0,0.0,,,0.0,0.0,Heidi Hall,Kevin Kiley
 CA-22,4b470bba-9ec2-488b-b4e0-6af05b9ee162,Public Policy Polling,2025-08-08,547,1.8,D,42.0,42.0,0.0,0.0,,,0.0,0.0,Jasmeet Bains,David G. Valadao
 CA-22,4b470bba-9ec2-488b-b4e0-6af05b9ee162,Public Policy Polling,2025-08-08,547,1.8,D,44.0,42.0,2.0,0.0,,,0.0,0.0,Generic Democrat,David G. Valadao
+CA-22,373346ea-30c4-4943-b4f9-eabdced655fc,Tulchin Research,2026-06-21,800,1.3,D,48.0,44.0,4.0,0.0,,,0.0,0.0,Randy Villegas,David G. Valadao
 CA-40,43bcce59-3f82-4738-874d-6928c996d13e,Tulchin Research,2026-01-19,800,1.3,D,44.0,44.0,0.0,0.0,,,0.0,0.0,Esther Kim-Varet,Ken Calvert
 CA-40,43bcce59-3f82-4738-874d-6928c996d13e,Tulchin Research,2026-01-19,800,1.3,D,43.0,44.0,-1.0,0.0,,,0.0,0.0,Esther Kim-Varet,Young Kim
 CA-48,7646a549-0add-41ca-8f97-eb9999119af6,Blueprint Polling,2025-10-26,517,1.3,D,43.0,40.0,3.0,0.0,,,0.0,0.0,Ammar Campa-Najjar,Darrell Issa
@@ -301,6 +302,7 @@ ME-02,09a21c73-2dcf-4c37-8c14-fa62361b2c7e,Pan Atlantic SMS Group,2026-05-18,418
 ME-02,323bf26d-5b35-4615-bfab-ae10a8f170a1,Tulchin Research,2026-07-16,600,1.3,D,49.0,48.0,1.0,0.0,,,0.0,0.0,Matt Dunlap,Paul R. LePage
 ME-GOV,67b56c94-89a5-47e0-ace0-551879438390,The New York Times/Siena University,2026-06-26,608,3.0,,55.4,39.6,15.8,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-GOV,ae1179f5-1fe6-4bf7-8b9c-77cc2c2407a1,Beacon Research/Shaw & Company Research,2026-06-27,1003,2.5,,53.0,42.0,11.0,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
+ME-GOV,f1a66eab-67e9-4c28-bb4b-7bc27b8c131d,University of New Hampshire,2026-07-20,1150,1.3,,49.0,35.0,14.0,6.0,IND,Rick Bennett,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-SEN,5aee4b52-8287-4385-ae50-de34900fb9ac,Upswing Research,2025-03-25,600,1.3,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Jordan Wood,Susan M. Collins
 ME-SEN,44968742-8516-466f-906e-85dfe3e195a9,Public Policy Polling,2025-09-09,642,1.8,D,44.0,35.0,9.0,0.0,,,0.0,0.0,Dan Kleban,Susan M. Collins
 ME-SEN,b5100979-2740-4faa-bf28-7177a120bbce,Zenith Research,2025-10-10,501,1.3,,38.0,38.0,0.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
@@ -350,6 +352,7 @@ ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785
 ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,37.0,48.0,-11.0,0.0,,,0.0,0.0,Janet T. Mills,Susan M. Collins
 ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,38.0,47.0,-9.0,0.0,,,0.0,0.0,Jordan Wood,Susan M. Collins
 ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shenna Bellows,Susan M. Collins
+ME-SEN,f1a66eab-67e9-4c28-bb4b-7bc27b8c131d,University of New Hampshire,2026-07-20,1178,1.3,,49.0,46.0,3.0,0.0,,,0.0,0.0,Troy Jackson,Susan M. Collins
 MI-04,f33c3514-2271-4179-93da-6545ef164594,Public Policy Polling,2025-11-21,559,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,48.0,-6.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
@@ -488,6 +491,7 @@ MT-01,6f4f65a0-437e-4ea3-b0c0-06ebc4e20386,Impact Research,2026-06-25,500,1.3,D,
 MT-SEN,a4cdceed-7a8c-4b70-9ad1-d62e948b6530,yes. every kid. foundation.,2026-01-26,500,1.3,,19.0,43.0,-24.0,15.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
 MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,,44.0,56.0,-12.0,0.0,,,0.0,0.0,Generic Democrat,Kurt Alme
 MT-SEN,bf714d68-2d8d-416f-909e-af5f1c6bf6b1,Public Opinion Strategies,2026-06-11,500,1.9,R,25.0,44.0,-19.0,20.0,IND,Seth Bodnar,0.0,0.0,Alani Bankhead,Kurt Alme
+MT-SEN,19633ac9-910b-4625-a33a-4febf87202dc,Hart Research Associates,2026-06-24,800,1.8,D,43.0,49.0,-6.0,0.0,,,0.0,0.0,Alani Bankhead,Kurt Alme
 MT-SEN,bb82054e-a9e9-44d5-8fdd-ccdb1e0a7995,GrayHouse,2026-06-24,500,1.3,,25.0,41.0,-16.0,17.0,IND,Seth Bodnar,0.0,0.0,Alani Bankhead,Kurt Alme
 NC-01,3440fa4a-0c67-43d6-a61b-504c00357db0,GQR,2026-02-02,500,1.3,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NC-01,3440fa4a-0c67-43d6-a61b-504c00357db0,GQR,2026-02-02,500,1.3,D,42.0,39.0,3.0,9.0,LIB,Thomas Aaron Bailey,0.0,0.0,Don Davis,Laurie Buckhout
@@ -828,8 +832,12 @@ VA-01,e654526e-74e0-4231-9e4d-f6db1751ccae,Ragnar Research Partners,2026-03-12,4
 VA-SEN,524cc84e-bfb8-5cb0-9f30-3e84b6ffc541,Responsive Management,2025-01-15,806,1.3,,45.0,38.0,7.0,0.0,,,0.0,0.0,Mark R. Warner,Glenn Youngkin
 VT-01,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-23,871,1.3,,57.0,26.0,31.0,1.0,IND,Adam Ortiz,0.0,0.0,Becca Balint,Mark Coester
 VT-01,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-23,872,1.3,,57.0,26.0,31.0,1.0,IND,Adam Ortiz,0.0,0.0,Becca Balint,Gerald Malloy
+VT-01,6390a575-055a-4ac5-a568-71517869d2b6,University of New Hampshire,2026-07-20,949,1.3,,63.0,25.0,38.0,2.0,IND,Adam Ortiz,0.0,0.0,Becca Balint,Gerald Malloy
+VT-01,6390a575-055a-4ac5-a568-71517869d2b6,University of New Hampshire,2026-07-20,948,1.3,,64.0,25.0,39.0,2.0,IND,Adam Ortiz,0.0,0.0,Becca Balint,Mark Coester
 VT-GOV,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-23,867,1.3,,25.0,41.0,-16.0,6.0,OTH,June Goodband,0.0,0.0,Aly Richards,Phil Scott
 VT-GOV,a2347bc3-cbf9-483a-9af1-cdb901440ffe,University of New Hampshire,2026-06-23,867,1.3,,27.0,42.0,-15.0,3.0,OTH,Dean Roy,0.0,0.0,Amanda Janoo,Phil Scott
+VT-GOV,6390a575-055a-4ac5-a568-71517869d2b6,University of New Hampshire,2026-07-20,925,1.3,,35.0,43.0,-8.0,2.0,OTH,June Goodband,0.0,0.0,Aly Richards,Phil Scott
+VT-GOV,6390a575-055a-4ac5-a568-71517869d2b6,University of New Hampshire,2026-07-20,925,1.3,,33.0,44.0,-11.0,2.0,OTH,June Goodband,0.0,0.0,Amanda Janoo,Phil Scott
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,34.0,41.0,-7.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,45.0,44.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 WA-03,6e479a7e-3f3a-41aa-b7dd-611ae4aa5215,Emerson College,2026-07-10,500,2.5,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun

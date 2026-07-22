@@ -282,7 +282,7 @@ MI-11,house,MI,11,C-0559,Jeremy Moss,DEM,C-0560,Mike Steger,REP,,,,,,,False,Fals
 MI-12,house,MI,12,C-0561,Rashida Tlaib,DEM,C-0562,Republican candidate (MI-12),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MI-13,house,MI,13,C-0563,Shri Thanedar,DEM,C-0564,Andrew Lorenz,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MN-01,house,MN,01,C-0565,Jake Johnson,DEM,C-0566,Brad Finstad,REP,,,,,,,False,False,0.0,,,False,REP,REP,presumptive,presumptive,
-MN-02,house,MN,02,C-0567,Matt Little,DEM,C-0568,Tyler Kistner,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,projected,
+MN-02,house,MN,02,C-0567,Matt Little,DEM,C-1045,Eric Pratt,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,confirmed,
 MN-03,house,MN,03,C-0569,Kelly Morrison,DEM,C-0570,Tyler Bass,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MN-04,house,MN,04,C-0571,Betty McCollum,DEM,C-0572,Paul Wikstrom,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MN-05,house,MN,05,C-0573,Ilhan Omar,DEM,C-0574,Dalia Al-Aqidi,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
