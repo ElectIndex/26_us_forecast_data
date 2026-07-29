@@ -1,5 +1,5 @@
 date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control,coalition_desc,proj_dem_mean,proj_dem_median,proj_dem_favored,structural_dem,dem_seats_p05,dem_seats_p95,dem_control_prob,proj_control,flip
-2026-07-29,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,16.9,17,17,0,12.0,21.0,0.0707,Coalition,False
+2026-07-29,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,16.9,17,17,0,12.0,21.0,0.0701,Coalition,False
 2026-07-29,AK,Senate,20,11,10,9,11,0,Coalition,9D + 8R bipartisan coalition,8.9,9,9,5,8.0,10.0,0.0282,Coalition,False
 2026-07-29,AL,House,105,53,105,29,76,0,R,,30.2,29,29,0,24.0,40.0,0.012,R,False
 2026-07-29,AL,Senate,35,18,35,8,27,0,R,,9.0,9,9,0,7.0,12.0,0.0053,R,False
@@ -44,13 +44,13 @@ date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control
 2026-07-29,MN,Senate,67,34,67,34,33,0,D,,38.3,38,36,0,28.0,49.0,0.7904,D,False
 2026-07-29,MO,House,163,82,163,52,111,0,R,,59.3,58,55,0,43.0,79.0,0.0379,R,False
 2026-07-29,MO,Senate,34,18,17,10,24,0,R,,11.4,11,11,7,10.0,14.0,0.0003,R,False
-2026-07-29,MT,House,100,51,100,42,58,0,R,,41.0,42,42,0,27.0,54.0,0.0929,R,False
-2026-07-29,MT,Senate,50,26,25,18,32,0,R,,19.3,19,19,9,15.0,23.0,0.0108,R,False
+2026-07-29,MT,House,100,51,100,42,58,0,R,,41.0,42,42,0,27.0,54.0,0.0935,R,False
+2026-07-29,MT,Senate,50,26,25,18,32,0,R,,19.3,19,19,9,15.0,23.0,0.0109,R,False
 2026-07-29,NC,House,120,61,120,49,70,1,R,,57.0,55,51,0,42.0,79.0,0.318,R,False
 2026-07-29,NC,Senate,50,26,50,20,30,0,R,,22.9,22,20,0,17.0,31.0,0.2204,R,False
 2026-07-29,ND,House,101,51,48,11,83,7,R,,10.1,9,7,1,6.0,16.0,0.0,R,False
 2026-07-29,ND,Senate,47,24,24,5,42,0,R,,6.0,5,5,2,4.0,10.0,0.0001,R,False
-2026-07-29,NE,Legislature,49,25,24,16,33,0,R,,18.2,18,18,9,15.0,22.0,0.0041,R,False
+2026-07-29,NE,Legislature,49,25,24,16,33,0,R,,18.2,18,18,9,15.0,22.0,0.004,R,False
 2026-07-29,NH,House,400,201,397,178,220,2,R,,209.6,206,200,6,146.0,283.0,0.5623,D,True
 2026-07-29,NH,Senate,24,13,24,8,16,0,R,,10.9,10,8,0,6.0,19.0,0.3014,R,False
 2026-07-29,NM,House,70,36,70,44,26,0,D,,46.0,46,46,0,37.0,54.0,0.9613,D,False
