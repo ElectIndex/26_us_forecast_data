@@ -498,7 +498,7 @@ C-0495,Matthew Gromlich,Matthew,Gromlich,DEM,LA,0,,0.0
 C-0496,Mike Johnson,Mike,Johnson,REP,LA,1,,-9.12
 C-0497,Dan McKay,Dan,McKay,DEM,LA,0,,0.0
 C-0498,Blake Miguez,Blake,Miguez,REP,LA,0,,0.0
-C-0499,Cleo Fields,Cleo,Fields,DEM,LA,1,,9.5
+C-0499,Cleo Fields,Cleo,Fields,DEM,LA,0,,9.5
 C-0500,Peter Williams,Peter,Williams,REP,LA,0,,0.0
 C-0501,Richard Neal,Richard,Neal,DEM,MA,1,,0.0
 C-0502,Republican candidate (MA-01),Republican,candidate (MA-01),REP,MA,0,,0.0
@@ -751,7 +751,7 @@ C-0748,Bob Latta,Bob,Latta,REP,OH,1,,-5.35
 C-0749,Malcolm Ritchie,Malcolm,Ritchie,DEM,OH,0,,0.0
 C-0750,Michael Rulli,Michael,Rulli,REP,OH,1,,0.66
 C-0751,Brian Poindexter,Brian,Poindexter,DEM,OH,0,,0.0
-C-0752,Max Miller,Max,Miller,REP,OH,1,,-4.37
+C-0752,Max Miller,Max,Miller,REP,OH,1,,-0.5
 C-0753,Vanessa Enoch,Vanessa,Enoch,DEM,OH,0,,1.83
 C-0754,Warren Davidson,Warren,Davidson,REP,OH,1,,-1.17
 C-0755,Marcy Kaptur,Marcy,Kaptur,DEM,OH,1,,9.71
@@ -1039,3 +1039,4 @@ C-1040,Brian Bengs,Brian,Bengs,IND,SD,0,,0.0
 C-1044,Brett Lindstrom,Brett,Lindstrom,IND,NE,0,,0.0
 C-1045,Eric Pratt,Eric,Pratt,REP,MN,0,H6MN02263,0.0
 C-1046,Dan Barrios,Dan,Barrios,DEM,TX,0,,0.0
+C-1047,Democratic candidate (LA-06),Democratic,candidate (LA-06),DEM,LA,0,,0.0

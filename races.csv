@@ -248,7 +248,7 @@ LA-02,house,LA,02,C-0491,Troy Carter,DEM,C-0492,Republican candidate (LA-02),REP
 LA-03,house,LA,03,C-0493,Tia Lebrun,DEM,C-0494,Clay Higgins,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 LA-04,house,LA,04,C-0495,Matthew Gromlich,DEM,C-0496,Mike Johnson,REP,,,,,,,False,False,0.0,,,False,REP,REP,projected,projected,
 LA-05,house,LA,05,C-0497,Dan McKay,DEM,C-0498,Blake Miguez,REP,,,,,,,False,False,0.0,,,False,,REP,projected,projected,
-LA-06,house,LA,06,C-0499,Cleo Fields,DEM,C-0500,Peter Williams,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
+LA-06,house,LA,06,C-1047,Democratic candidate (LA-06),DEM,C-0500,Peter Williams,REP,,,,,,,False,False,0.0,,,False,,DEM,projected,projected,
 MA-01,house,MA,01,C-0501,Richard Neal,DEM,C-0502,Republican candidate (MA-01),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MA-02,house,MA,02,C-0503,Jim McGovern,DEM,C-0504,Republican candidate (MA-02),REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
 MA-03,house,MA,03,C-0505,Lori Trahan,DEM,C-0506,Gary Grossi,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,projected,projected,
