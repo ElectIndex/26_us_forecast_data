@@ -7,7 +7,7 @@ DE-SEN,senate,DE,SEN,C-0009,Chris Coons,DEM,C-0010,Michael Katz,REP,,,,,,,False,
 FL-SEN,senate,FL,SEN,C-0011,Alexander Vindman,DEM,C-0012,Ashley Moody,REP,,,,,,,False,False,0.0,,,False,REP,REP,presumptive,presumptive,
 GA-SEN,senate,GA,SEN,C-0013,Jon Ossoff,DEM,C-0014,Mike Collins,REP,,,,,,,False,False,0.0,,,False,DEM,DEM,confirmed,confirmed,
 IA-SEN,senate,IA,SEN,C-0015,Josh Turek,DEM,C-0016,Ashley Hinson,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
-ID-SEN,senate,ID,SEN,C-0017,David Roth,DEM,C-0018,Jim Risch,REP,C-1038,Todd Achilles,IND,IND,,,False,False,0.0,,,False,REP,REP,confirmed,confirmed,confirmed
+ID-SEN,senate,ID,SEN,C-1048,(No Democrat),DEM,C-0018,Jim Risch,REP,C-1038,Todd Achilles,IND,IND,,,False,True,0.85,,,False,REP,REP,,confirmed,confirmed
 IL-SEN,senate,IL,SEN,C-0019,Juliana Stratton,DEM,C-0020,Don Tracy,REP,,,,,,,False,False,0.0,,,False,,DEM,confirmed,confirmed,
 KS-SEN,senate,KS,SEN,C-0021,Adam Hamilton,DEM,C-0022,Roger Marshall,REP,,,,,,,False,False,0.0,,,False,REP,REP,presumptive,presumptive,
 KY-SEN,senate,KY,SEN,C-0023,Charles Booker,DEM,C-0024,Andy Barr,REP,,,,,,,False,False,0.0,,,False,,REP,confirmed,confirmed,
