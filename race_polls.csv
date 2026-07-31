@@ -84,6 +84,7 @@ CA-GOV,b2d69b28-af24-46e1-948f-3c5768cd0e60,Public Policy Institute of Californi
 CO-03,edf8bf05-3a02-4b59-b8ba-154c23aca139,Expedition Strategies,2026-01-12,400,1.3,D,39.0,48.0,-9.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,37.0,47.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 CO-03,bc1c815a-0646-4533-93c6-c0a8d0561b23,Ragnar Research Partners,2026-03-12,400,1.3,R,41.0,46.0,-5.0,0.0,,,0.0,0.0,Alex Kelloff,Jeff Hurd
+CO-03,984d2838-96aa-429d-a8c2-4c68f08c4041,"Keating Research, Inc.",2026-07-23,500,1.3,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Dwayne Romero,Jeff Hurd
 CO-05,f54b098e-2666-4e2c-acc7-adb7f2312cce,Global Strategy Group,2025-11-03,450,1.8,D,40.0,43.0,-3.0,5.0,IND,Matt Cavanaugh,0.0,0.0,Jessica Killin,Jeff Crank
 CO-05,2a67eaeb-fb8c-4087-ad7a-761f4165e2d3,Global Strategy Group,2026-07-21,450,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Jessica Killin,Jeff Crank
 CO-GOV,8c916fa9-4a12-4e70-95fd-2fdd56b7e545,Magellan Strategies,2025-08-12,1136,1.3,,50.1,37.8,12.3,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -826,6 +827,7 @@ TX-GOV,b06f9f02-67f3-4c3c-8af6-993ed3085bc5,YouGov,2026-06-12,1200,2.3,,40.0,47.
 TX-GOV,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,R,42.2,53.9,-11.7,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,2026-06-27,656,3.0,,44.2,50.6,-6.4,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,42.0,45.0,-3.0,1.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,81ef94e3-6198-4512-80ad-9b5d0dcbe729,Beacon Research/Shaw & Company Research,2026-07-27,1006,2.5,,49.0,50.0,-1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,47.0,-3.0,0.0,,,0.0,0.0,Joaquin Castro,Ken Paxton
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Beto O’Rourke,Wesley Hunt
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,48.0,-4.0,0.0,,,0.0,0.0,Colin Allred,John Cornyn
@@ -952,3 +954,7 @@ WI-GOV,a7880449-eea7-4f11-a8da-8bd65b506835,Marquette Law School,2026-07-16,695,
 WI-GOV,a7880449-eea7-4f11-a8da-8bd65b506835,Marquette Law School,2026-07-16,838,2.9,,39.0,42.0,-3.0,0.0,,,0.0,0.0,Joel Brennan,Tom Tiffany
 WI-GOV,a7880449-eea7-4f11-a8da-8bd65b506835,Marquette Law School,2026-07-16,695,2.9,,47.0,42.0,5.0,0.0,,,0.0,0.0,Mandela Barnes,Tom Tiffany
 WI-GOV,a7880449-eea7-4f11-a8da-8bd65b506835,Marquette Law School,2026-07-16,695,2.9,,44.0,44.0,0.0,0.0,,,0.0,0.0,Francesca Hong,Tom Tiffany
+WI-GOV,e2832a7e-2b3e-43f0-ac53-be088d5c75d0,RMG Research,2026-07-24,800,1.3,R,46.0,43.0,3.0,0.0,,,0.0,0.0,David Crowley,Tom Tiffany
+WI-GOV,e2832a7e-2b3e-43f0-ac53-be088d5c75d0,RMG Research,2026-07-24,800,1.3,R,51.0,45.0,6.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+WI-GOV,e2832a7e-2b3e-43f0-ac53-be088d5c75d0,RMG Research,2026-07-24,800,1.3,R,47.0,42.0,5.0,0.0,,,0.0,0.0,Mandela Barnes,Tom Tiffany
+WI-GOV,e2832a7e-2b3e-43f0-ac53-be088d5c75d0,RMG Research,2026-07-24,800,1.3,R,44.0,43.0,1.0,0.0,,,0.0,0.0,Francesca Hong,Tom Tiffany
