@@ -7,7 +7,7 @@ AK-01,9cb6e02e-12c1-4147-b7a0-1f4dbd94529e,Public Policy Polling,2026-02-12,600,
 AK-01,edef3b32-7941-4cf6-9094-3096d38ad838,Change Research,2026-03-20,624,1.7,D,17.4,44.8,-27.4,13.0,IND,Bill Hill,3.8,0.0,Matt Schultz,Nick Begich
 AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,,45.0,55.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Nick Begich
 AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,,45.0,55.0,-10.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
-AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,,48.0,52.0,-4.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
+AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,D,48.0,52.0,-4.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
 AK-01,8e054071-9b5e-46d0-a921-ecc4f3c1737e,The New York Times/Siena University,2026-06-29,593,3.0,,39.2,51.1,-12.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,def7f487-2bd9-410b-b135-c0d6a7de191a,The Bullfinch Group,2026-07-16,546,1.5,,32.0,46.0,-14.0,20.0,IND,Bill Hill,0.0,0.0,Matt Schultz,Nick Begich
 AK-GOV,1cb7cec3-d3fa-4974-9c0d-32629c10d681,Data for Progress,2025-03-07,1008,1.9,D,44.0,34.0,10.0,0.0,,,0.0,0.0,Mary S. Peltola,Nancy A. Dahlstrom
@@ -95,6 +95,8 @@ FL-08,21e952f7-3e33-46e3-b6e3-d897ba6d1959,Public Policy Polling,2026-07-18,633,
 FL-13,86570a3c-00fa-42da-9bfa-1ae9113e94ec,Public Policy Polling,2026-05-20,616,1.8,D,39.0,41.0,-2.0,0.0,,,0.0,0.0,Leela Gray,Anna Paulina Luna
 FL-14,8625996e-08c9-473c-8330-f5afadd9dd6e,St. Pete Polls,2026-07-15,469,1.3,,46.2,38.5,7.7,0.0,,,0.0,0.0,Kathy Castor,Kevin Steele
 FL-14,8625996e-08c9-473c-8330-f5afadd9dd6e,St. Pete Polls,2026-07-15,469,1.3,,46.2,37.5,8.7,0.0,,,0.0,0.0,Kathy Castor,Mike Beltran
+FL-22,bd0ac633-f121-4128-9600-b5eedcdf0cae,GQR,2026-06-25,400,1.3,D,43.0,45.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+FL-22,bd0ac633-f121-4128-9600-b5eedcdf0cae,GQR,2026-06-25,400,1.3,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Pia Dandiya,Belinda Keiser
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,42.9,32.7,10.2,0.0,,,0.0,0.0,Jared Moskowitz,Scott Singer
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,40.1,38.5,1.6,0.0,,,0.0,0.0,Jared Moskowitz,George Moraitis
 FL-25,87c42ce2-22e9-43b2-9cac-325c035f136c,Middle Seat,2026-05-06,576,1.3,D,51.0,39.0,12.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -473,7 +475,7 @@ MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1456,1.5,R,
 MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1163,1.5,R,43.4,42.1,1.3,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1163,1.5,R,45.2,41.6,3.6,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MI-SEN,4edb8181-1463-4c6b-b48d-17951e1158d0,TIPP Insights,2026-05-23,1456,1.5,R,45.0,38.4,6.6,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
-MI-SEN,171c2baa-929a-4545-9980-55d6685168c3,Tulchin Research,2026-06-04,500,1.3,,46.0,41.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,171c2baa-929a-4545-9980-55d6685168c3,Tulchin Research,2026-06-04,500,1.3,D,46.0,41.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,65ba6cdf-2251-4329-92db-d3957baf9616,Mitchell Research & Communications,2026-06-13,827,1.3,,41.0,47.0,-6.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MI-SEN,65ba6cdf-2251-4329-92db-d3957baf9616,Mitchell Research & Communications,2026-06-13,827,1.3,,41.0,45.0,-4.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,65ba6cdf-2251-4329-92db-d3957baf9616,Mitchell Research & Communications,2026-06-13,827,1.3,,47.0,42.0,5.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
@@ -490,6 +492,8 @@ MI-SEN,edf376a8-2e75-4c89-bb0d-665392aae970,Quantus Insights,2026-06-30,947,1.0,
 MI-SEN,edf376a8-2e75-4c89-bb0d-665392aae970,Quantus Insights,2026-06-30,947,1.0,R,44.4,45.3,-0.9,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,38.7,49.0,-10.3,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,45.5,44.7,0.8,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,1.3,R,44.0,40.0,4.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,1.3,R,41.0,42.0,-1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -520,7 +524,7 @@ MN-SEN,b8ceed2d-4813-4108-a300-24a6dc39d81b,"Mason-Dixon Polling & Research, Inc
 MO-02,8bbed3f3-5cce-4c2f-8715-207b7d0ff53b,FM3 Research,2026-05-31,600,1.3,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MO-02,8bbed3f3-5cce-4c2f-8715-207b7d0ff53b,FM3 Research,2026-05-31,600,1.3,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
 MS-SEN,bb2c7efc-df3d-4cee-aef5-0db1bb547945,Impact Research,2026-04-12,500,1.8,D,39.0,42.0,-3.0,6.0,IND,Ty Pinkins,0.0,0.0,Scott Colom,Cindy Hyde-Smith
-MT-01,e51e7d84-b30f-4186-a1f1-07c0800edcfb,Tulchin Research,2025-11-25,424,1.3,,47.0,43.0,4.0,0.0,,,0.0,0.0,Ryan Busse,Ryan K. Zinke
+MT-01,e51e7d84-b30f-4186-a1f1-07c0800edcfb,Tulchin Research,2025-11-25,424,1.3,D,47.0,43.0,4.0,0.0,,,0.0,0.0,Ryan Busse,Ryan K. Zinke
 MT-01,0245de88-747f-4893-9c92-fd35eb70f977,Peak Insights,2026-01-15,400,1.3,R,38.0,48.0,-10.0,0.0,,,0.0,0.0,Sam Forstag,Ryan K. Zinke
 MT-01,0245de88-747f-4893-9c92-fd35eb70f977,Peak Insights,2026-01-15,400,1.3,R,41.0,47.0,-6.0,0.0,,,0.0,0.0,Ryan Busse,Ryan K. Zinke
 MT-01,f55d29d1-a799-4b26-8406-120005160eee,Upswing Research,2026-05-05,401,1.3,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Matt Rains,Aaron Flint
@@ -699,6 +703,8 @@ OH-07,1e7dc593-8095-4a9e-9cd7-fcdd03fa26b8,GBAO,2026-06-20,500,1.7,D,43.0,44.0,-
 OH-09,fd68275a-5c7e-4660-9427-3c284559935b,McLaughlin & Associates,2026-04-20,400,1.0,R,43.0,47.0,-4.0,3.0,LIB,David Gedert,0.0,0.0,Marcy Kaptur,Derek Merrin
 OH-10,864c4938-85b1-4556-bc43-bccb3e4e21e5,FM3 Research,2026-07-12,0,1.3,D,41.0,48.0,-7.0,0.0,,,0.0,0.0,Kristina Knickerbocker,Mike Turner
 OH-10,864c4938-85b1-4556-bc43-bccb3e4e21e5,FM3 Research,2026-07-12,0,1.3,D,48.0,47.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+OH-10,92ea1dfe-337d-466b-817e-a89129a5f06d,Global Strategy Group,2026-07-23,700,1.8,D,40.0,45.0,-5.0,4.0,LIB,Thomas McMasters,0.0,0.0,Kristina Knickerbocker,Mike Turner
+OH-10,92ea1dfe-337d-466b-817e-a89129a5f06d,Global Strategy Group,2026-07-23,700,1.8,D,42.0,49.0,-7.0,0.0,,,0.0,0.0,Kristina Knickerbocker,Mike Turner
 OH-GOV,f48c4408-c612-4ed8-a111-17380a5a03ce,Public Policy Polling,2025-02-20,642,1.8,D,45.0,44.0,1.0,0.0,,,0.0,0.0,Amy Acton,Vivek G. Ramaswamy
 OH-GOV,f48c4408-c612-4ed8-a111-17380a5a03ce,Public Policy Polling,2025-02-20,642,1.8,D,42.0,48.0,-6.0,0.0,,,0.0,0.0,Tim Ryan,Vivek G. Ramaswamy
 OH-GOV,36ad1b65-797e-4b91-b5cb-1efc70a55299,Bowling Green State University Democracy and Public Policy Research Network/YouGov,2025-04-24,800,1.3,,45.0,50.0,-5.0,0.0,,,0.0,0.0,Amy Acton,Vivek G. Ramaswamy
@@ -777,13 +783,20 @@ RI-GOV,c901814f-4167-4e6e-b790-116ed4fe4878,University of New Hampshire,2026-06-
 RI-GOV,c901814f-4167-4e6e-b790-116ed4fe4878,University of New Hampshire,2026-06-23,630,1.3,,27.0,23.0,4.0,27.0,IND,Ken Block,0.0,0.0,Daniel McKee,Generic Republican
 RI-SEN,c901814f-4167-4e6e-b790-116ed4fe4878,University of New Hampshire,2026-06-23,627,1.3,,52.0,35.0,17.0,0.0,,,0.0,0.0,Jack Reed,Raymond McKay
 SC-01,7e3caa82-e87f-46b0-a319-bf64684a896d,Public Policy Polling,2025-12-06,645,1.8,D,36.0,39.0,-3.0,0.0,,,0.0,0.0,Mac Deford,Mark Smith
+SC-01,b02c3a6e-85d0-4b95-84c3-bd996cd6bf21,GQR,2026-07-22,0,1.3,D,41.0,43.0,-2.0,5.0,LIB,Bill Reeside,0.0,0.0,Nancy Lacore,Jenny Costa Honeycutt
+SC-01,b02c3a6e-85d0-4b95-84c3-bd996cd6bf21,GQR,2026-07-22,0,1.3,D,48.0,50.0,-2.0,0.0,,,0.0,0.0,Nancy Lacore,Jenny Costa Honeycutt
+SC-GOV,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,37.0,45.0,-8.0,0.0,,,0.0,0.0,Jermaine Johnson,Alan Wilson
 SC-SEN,5d4f7a59-62b2-47b4-bda1-7b6588322378,Public Policy Polling,2025-11-22,704,1.8,D,39.0,41.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Lindsey Graham
 SC-SEN,5d4f7a59-62b2-47b4-bda1-7b6588322378,Public Policy Polling,2025-11-22,704,1.8,D,36.0,42.0,-6.0,0.0,,,0.0,0.0,Annie Andrews,Lindsey Graham
 SC-SEN,0fa96ba9-faec-4c39-8015-80b9565e6f66,Impact Research,2026-03-01,700,1.8,D,42.0,47.0,-5.0,0.0,,,0.0,0.0,Annie Andrews,Lindsey Graham
 SC-SEN,5f1537b6-b469-4c39-a43d-6d2f3119fc84,Impact Research,2026-06-22,700,1.8,D,45.0,48.0,-3.0,0.0,,,0.0,0.0,Annie Andrews,Lindsey Graham
+SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,36.0,6.0,0.0,,,0.0,0.0,Annie Andrews,John Warren
+SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Annie Andrews,Trey Gowdy
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,41.0,38.0,3.0,0.0,,,0.0,0.0,Annie Andrews,Mark Lynch
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,39.0,3.0,0.0,,,0.0,0.0,Annie Andrews,Russell Fry
+SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,41.0,1.0,0.0,,,0.0,0.0,Annie Andrews,Pamela Evette
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,41.0,40.0,1.0,0.0,,,0.0,0.0,Annie Andrews,Mark Sanford
+SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,39.0,47.0,-8.0,0.0,,,0.0,0.0,Annie Andrews,Generic Republican
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,39.0,3.0,0.0,,,0.0,0.0,Annie Andrews,Nancy Mace
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Annie Andrews,Ralph W. Norman
 SD-SEN,17580110-cf2c-4c74-91cb-86b18ae9f258,Public Policy Polling,2025-11-14,814,1.8,D,30.0,52.0,-22.0,0.0,,,0.0,0.0,Julian Beaudion,Mike Rounds
