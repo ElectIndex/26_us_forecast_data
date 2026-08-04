@@ -90,6 +90,14 @@ CO-05,2a67eaeb-fb8c-4087-ad7a-761f4165e2d3,Global Strategy Group,2026-07-21,450,
 CO-GOV,8c916fa9-4a12-4e70-95fd-2fdd56b7e545,Magellan Strategies,2025-08-12,1136,1.3,,50.1,37.8,12.3,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 CT-GOV,748f1fff-2f81-4cca-a789-071e7ab88c52,OnMessage Inc.,2025-08-14,600,1.3,R,50.0,42.0,8.0,0.0,,,0.0,0.0,Ned Lamont,Erin Stewart
 CT-GOV,d51bef7e-c180-471e-b007-4b52ed80f222,University of New Hampshire,2026-06-23,821,1.3,,49.0,36.0,13.0,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,1000,1.3,,44.0,29.6,14.4,0.0,,,0.0,0.0,Josh Elliot,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,0,1.3,,48.8,34.3,14.5,0.0,,,0.0,0.0,Josh Elliot,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,1000,1.3,,49.7,29.5,20.2,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,0,1.3,,54.8,32.7,22.1,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
+FL-02,fc8a3289-2ad2-457f-8d77-d2dc51c6d4c2,Patriot Polling,2026-07-26,922,1.3,R,35.1,62.2,-27.1,0.0,,,0.0,0.0,Yen Bailey,Keith Gross
+FL-02,fc8a3289-2ad2-457f-8d77-d2dc51c6d4c2,Patriot Polling,2026-07-26,922,1.3,R,37.1,60.9,-23.8,0.0,,,0.0,0.0,Amanda Green,Keith Gross
+FL-02,fc8a3289-2ad2-457f-8d77-d2dc51c6d4c2,Patriot Polling,2026-07-26,922,1.3,R,39.1,59.9,-20.8,0.0,,,0.0,0.0,Brice Barnes,Keith Gross
+FL-02,fc8a3289-2ad2-457f-8d77-d2dc51c6d4c2,Patriot Polling,2026-07-26,922,1.3,R,39.1,58.5,-19.4,0.0,,,0.0,0.0,Nicholas Zateslo,Keith Gross
 FL-07,0ca4d70b-5fab-4b8f-b3f8-0dfc93bb3d53,Public Policy Polling,2026-05-21,570,1.8,D,41.0,39.0,2.0,0.0,,,0.0,0.0,Bale Dalton,Cory Mills
 FL-08,21e952f7-3e33-46e3-b6e3-d897ba6d1959,Public Policy Polling,2026-07-18,633,1.8,D,35.0,44.0,-9.0,0.0,,,0.0,0.0,Jennifer Jenkins,Mike Haridopolos
 FL-13,86570a3c-00fa-42da-9bfa-1ae9113e94ec,Public Policy Polling,2026-05-20,616,1.8,D,39.0,41.0,-2.0,0.0,,,0.0,0.0,Leela Gray,Anna Paulina Luna
@@ -438,6 +446,10 @@ MI-GOV,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,
 MI-GOV,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,43.5,40.3,3.2,0.0,,,0.0,0.0,Chris Swanson,Perry Johnson
 MI-GOV,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,43.4,39.8,3.6,0.0,,,0.0,0.0,Chris Swanson,John James
 MI-GOV,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,43.7,38.7,5.0,0.0,,,0.0,0.0,Jocelyn Benson,John James
+MI-GOV,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,48.0,43.0,5.0,0.0,,,0.0,0.0,Jocelyn Benson,Perry Johnson
+MI-GOV,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,46.0,44.0,2.0,0.0,,,0.0,0.0,Jocelyn Benson,John James
+MI-GOV,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,47.0,38.0,9.0,0.0,,,0.0,0.0,Jocelyn Benson,John James
+MI-GOV,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,48.0,36.0,12.0,0.0,,,0.0,0.0,Jocelyn Benson,Perry Johnson
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,46.0,44.0,2.0,0.0,,,0.0,0.0,Pete Buttigieg,Mike Rogers
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,35.0,41.0,-6.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,42.0,41.0,1.0,0.0,,,0.0,0.0,Gretchen Whitmer,Mike Rogers
@@ -447,8 +459,8 @@ MI-SEN,4a00a654-caa2-47c4-99ed-f35d446ec88b,"Glengariff Group, Inc.",2025-05-08,
 MI-SEN,4a00a654-caa2-47c4-99ed-f35d446ec88b,"Glengariff Group, Inc.",2025-05-08,600,1.3,,40.5,41.0,-0.5,0.0,,,0.0,0.0,Abdul El-Sayed,Bill Huizenga
 MI-SEN,4a00a654-caa2-47c4-99ed-f35d446ec88b,"Glengariff Group, Inc.",2025-05-08,600,1.3,,40.8,46.9,-6.1,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,4a00a654-caa2-47c4-99ed-f35d446ec88b,"Glengariff Group, Inc.",2025-05-08,600,1.3,,41.4,40.5,0.9,0.0,,,0.0,0.0,Mallory McMorrow,Bill Huizenga
-MI-SEN,056c5919-461b-4fd7-bb50-e04c47588d89,"Normington, Petts & Associates",2025-06-16,700,1.3,,44.0,48.0,-4.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
-MI-SEN,056c5919-461b-4fd7-bb50-e04c47588d89,"Normington, Petts & Associates",2025-06-16,700,1.3,,47.0,45.0,2.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,056c5919-461b-4fd7-bb50-e04c47588d89,"Normington, Petts & Associates",2025-06-16,700,1.3,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
+MI-SEN,056c5919-461b-4fd7-bb50-e04c47588d89,"Normington, Petts & Associates",2025-06-16,700,1.3,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,87756c91-078b-4414-b782-ae65c23e4e14,Rosetta Stone,2025-10-25,637,1.3,,40.0,47.0,-7.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,87756c91-078b-4414-b782-ae65c23e4e14,Rosetta Stone,2025-10-25,637,1.3,,31.0,45.0,-14.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,87756c91-078b-4414-b782-ae65c23e4e14,Rosetta Stone,2025-10-25,637,1.3,,39.0,46.0,-7.0,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
@@ -492,8 +504,12 @@ MI-SEN,edf376a8-2e75-4c89-bb0d-665392aae970,Quantus Insights,2026-06-30,947,1.0,
 MI-SEN,edf376a8-2e75-4c89-bb0d-665392aae970,Quantus Insights,2026-06-30,947,1.0,R,44.4,45.3,-0.9,0.0,,,0.0,0.0,Mallory McMorrow,Mike Rogers
 MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,38.7,49.0,-10.3,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,45.5,44.7,0.8,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,43.0,46.0,-3.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
+MI-SEN,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,45.0,45.0,0.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,1.3,R,44.0,40.0,4.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,1.3,R,41.0,42.0,-1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,43.0,46.0,-3.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,44.0,42.0,2.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -736,7 +752,7 @@ OH-SEN,36ad1b65-797e-4b91-b5cb-1efc70a55299,Bowling Green State University Democ
 OH-SEN,4876645d-d0af-47b2-8e22-02fdee4faf0c,Emerson College,2025-08-19,1000,2.5,,43.7,49.5,-5.8,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,684724e8-ac36-4d8b-8d84-ba6fbd786ca7,Bowling Green State University Democracy and Public Policy Research Network/YouGov,2025-10-14,800,1.3,,49.0,48.0,1.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,ab841ffd-0c5c-4a2a-a036-3949bb4e6d67,Emerson College,2025-12-08,850,2.5,,46.3,48.8,-2.5,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
-OH-SEN,750c2f24-a09b-4b31-bbc0-91918a94afd2,EMC Research,2026-02-22,1343,1.3,,51.0,47.0,4.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
+OH-SEN,750c2f24-a09b-4b31-bbc0-91918a94afd2,EMC Research,2026-02-22,1343,1.3,D,51.0,47.0,4.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,995da4b4-5913-4aa3-bada-3c00887b1851,OnMessage Inc.,2026-03-08,600,1.3,R,47.0,45.0,2.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,fbfa3cb4-0981-4abe-8c3b-68a6e3863684,Quantus Insights,2026-03-14,784,1.0,R,44.4,45.5,-1.1,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,4cd851f7-b47b-4f4a-a424-3670faff482a,Echelon Insights,2026-04-09,413,2.0,R,45.0,51.0,-6.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
@@ -912,6 +928,7 @@ TX-SEN,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,1.3,
 TX-SEN,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,2026-06-27,656,3.0,,46.6,46.7,-0.1,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,e0e5bf96-ed99-404c-ade3-b826c801da06,A2 Insights,2026-06-28,618,1.3,,48.4,46.1,2.3,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,45.0,40.0,5.0,1.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,81ef94e3-6198-4512-80ad-9b5d0dcbe729,Beacon Research/Shaw & Company Research,2026-07-27,1006,2.5,,51.0,48.0,3.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,6795e787-cb10-47c0-9972-cc29eea5d5be,Wedgewood Polls,2026-07-31,800,1.3,,48.0,46.0,2.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Shannon Taylor,Robert J. Wittman
 VA-01,988f8763-1876-4645-9553-f90af842077c,Public Policy Polling,2025-08-09,541,1.8,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
