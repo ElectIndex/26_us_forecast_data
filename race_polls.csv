@@ -523,6 +523,16 @@ MN-GOV,18cabd47-c578-4efa-9785-6ac3f31abeee,SurveyUSA,2025-09-18,568,2.4,,46.0,4
 MN-GOV,18cabd47-c578-4efa-9785-6ac3f31abeee,SurveyUSA,2025-09-18,568,2.4,,50.0,37.0,13.0,0.0,,,0.0,0.0,Tim Walz,Kendall Qualls
 MN-GOV,18cabd47-c578-4efa-9785-6ac3f31abeee,SurveyUSA,2025-09-18,568,2.4,,47.0,40.0,7.0,0.0,,,0.0,0.0,Tim Walz,Kristin Robbins
 MN-GOV,1fc69692-3590-40b0-8421-56167a4b1e6a,RMG Research,2025-12-16,800,1.3,R,40.0,46.0,-6.0,0.0,,,0.0,0.0,Tim Walz,Generic Republican
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,49.0,33.0,16.0,0.0,,,0.0,0.0,Amy Klobuchar,Patrick Knight
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,49.0,32.0,17.0,0.0,,,0.0,0.0,Amy Klobuchar,Brad Kohler
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,49.0,33.0,16.0,0.0,,,0.0,0.0,Amy Klobuchar,Kendall Qualls
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,50.0,32.0,18.0,0.0,,,0.0,0.0,Amy Klobuchar,Phillip Parrish
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,49.0,35.0,14.0,0.0,,,0.0,0.0,Amy Klobuchar,Scott Jensen
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,48.0,33.0,15.0,0.0,,,0.0,0.0,Amy Klobuchar,Kristin Robbins
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,49.0,34.0,15.0,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,52.0,32.0,20.0,0.0,,,0.0,0.0,Amy Klobuchar,Michael James Lindell
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,50.0,30.0,20.0,0.0,,,0.0,0.0,Amy Klobuchar,Peggy Bennett
+MN-GOV,eec53a71-0b41-4918-9b80-4dec1e076b76,SurveyUSA,2026-01-30,575,2.4,,50.0,33.0,17.0,0.0,,,0.0,0.0,Amy Klobuchar,Jeff Johnson
 MN-GOV,bafbd131-89f2-4a74-ac51-2ac4798b40e4,Emerson College,2026-02-08,1000,2.5,,52.8,30.9,21.9,0.0,,,0.0,0.0,Amy Klobuchar,Michael James Lindell
 MN-GOV,bafbd131-89f2-4a74-ac51-2ac4798b40e4,Emerson College,2026-02-08,1000,2.5,,51.1,37.7,13.4,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
 MN-GOV,b8ceed2d-4813-4108-a300-24a6dc39d81b,"Mason-Dixon Polling & Research, Inc.",2026-06-10,800,1.3,,48.0,40.0,8.0,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
@@ -829,6 +839,8 @@ TN-GOV,4dfe7012-62ea-4b36-9493-87337aa9aa46,Targoz Market Research,2026-04-27,11
 TX-15,9c41309c-d9ef-4b24-8421-b17206e116a6,Public Policy Polling,2025-09-11,533,1.8,D,38.0,41.0,-3.0,0.0,,,0.0,0.0,Bobby Pulido,Monica De La Cruz
 TX-15,f31fd054-0b5b-45af-8a80-fe99659f44e8,Applecart,2026-05-25,802,1.3,D,46.0,49.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 TX-15,f31fd054-0b5b-45af-8a80-fe99659f44e8,Applecart,2026-05-25,802,1.3,D,48.0,46.0,2.0,0.0,,,0.0,0.0,Bobby Pulido,Monica De La Cruz
+TX-15,258866ca-bfe9-405b-be1e-c510adc81f75,"Normington, Petts & Associates",2026-07-27,0,1.3,D,48.0,46.0,2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+TX-15,258866ca-bfe9-405b-be1e-c510adc81f75,"Normington, Petts & Associates",2026-07-27,0,1.3,D,51.0,45.0,6.0,0.0,,,0.0,0.0,Bobby Pulido,Monica De La Cruz
 TX-18,8fa4b92d-be3e-46e1-b65e-38c6a2f5d7e6,University of Houston Hobby School of Public Affairs,2025-07-18,400,1.3,,19.0,14.0,5.0,4.0,IND,George Foreman IV,36.0,0.0,Amanda Edwards,Carmen Maria Montiel
 TX-18,5fc9521a-9a61-4bd5-aef8-65c46fe4e547,brilliant corners Research & Strategies,2025-07-23,500,1.3,,18.0,12.0,6.0,6.0,IND,George Foreman IV,24.0,0.0,Amanda Edwards,Carmen Maria Montiel
 TX-18,293b6f05-050e-453a-90ec-6986649d3c56,Lake Research Partners,2025-08-25,400,1.7,D,22.0,15.0,7.0,4.0,IND,George Foreman IV,42.0,0.0,Jolanda Jones,Carmen Maria Montiel
