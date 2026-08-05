@@ -19077,8 +19077,8 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-08-05,RI,House,0.979,62.1,D
 2026-08-05,RI,Senate,0.981,31.9,D
 2026-08-05,SC,House,0.0587,43.0,R
-2026-08-05,SD,House,0.0061,9.3,R
-2026-08-05,SD,Senate,0.007,5.6,R
+2026-08-05,SD,House,0.0064,9.3,R
+2026-08-05,SD,Senate,0.007,5.7,R
 2026-08-05,TN,House,0.0055,25.8,R
 2026-08-05,TN,Senate,0.0007,6.5,R
 2026-08-05,TX,House,0.2762,70.4,R
