@@ -580,7 +580,6 @@ NC-01,f50b80ab-4b2b-4f4e-85a2-893560d1be1e,co/efficient,2026-04-29,842,1.0,R,41.
 NC-01,3c5c743c-3463-46e1-9458-155142adf214,GQR,2026-06-28,500,1.3,D,45.0,41.0,4.0,0.0,,,0.0,0.0,Don Davis,Laurie Buckhout
 NC-10,80390dd0-7a40-4a6b-832a-14be558af9cd,Ragnar Research Partners,2026-03-12,400,1.3,R,37.0,52.0,-15.0,0.0,,,0.0,0.0,Ashley Bell,Pat Harrigan
 NC-10,80390dd0-7a40-4a6b-832a-14be558af9cd,Ragnar Research Partners,2026-03-12,400,1.3,R,38.0,51.0,-13.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
-NC-11,manual-NC-11-2025-12-17,Impact Research,2025-12-17,500,1.8,D,45.0,44.0,1.0,0.0,,,0.0,0.0,Jamie Ager,Chuck Edwards
 NC-14,608e65ee-c82b-443e-9bb7-d652fad9b2d4,Ragnar Research Partners,2026-03-12,400,1.3,R,38.0,47.0,-9.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NC-14,608e65ee-c82b-443e-9bb7-d652fad9b2d4,Ragnar Research Partners,2026-03-12,400,1.3,R,40.0,48.0,-8.0,0.0,,,0.0,0.0,LaKesha Womack,Tim Moore
 NC-SEN,475bec54-489d-4cd6-acc6-1effe6738652,Public Policy Polling,2025-03-05,662,1.8,D,47.0,43.0,4.0,0.0,,,0.0,0.0,Roy A. Cooper,Thom Tillis
@@ -828,8 +827,12 @@ SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,39.0,47.0,-8.0,0.0,,,0.0,0.0,Annie Andrews,Generic Republican
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,39.0,3.0,0.0,,,0.0,0.0,Annie Andrews,Nancy Mace
 SC-SEN,f2d2c9b9-6a6f-41e9-827b-a6a3eb5456c0,Public Policy Polling,2026-07-17,577,1.8,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Annie Andrews,Ralph W. Norman
+SD-SEN,8c598746-c725-4214-9109-1646c37cfff4,Public Policy Polling,2025-07-31,552,1.8,D,28.0,41.0,-13.0,0.0,,,0.0,0.0,Brian L. Bengs,Mike Rounds
+SD-SEN,17580110-cf2c-4c74-91cb-86b18ae9f258,Public Policy Polling,2025-11-14,814,1.8,D,31.0,44.0,-13.0,0.0,,,0.0,0.0,Brian L. Bengs,Mike Rounds
 SD-SEN,17580110-cf2c-4c74-91cb-86b18ae9f258,Public Policy Polling,2025-11-14,814,1.8,D,30.0,52.0,-22.0,0.0,,,0.0,0.0,Julian Beaudion,Mike Rounds
 SD-SEN,b9e1ceba-6758-4b96-b726-3c084e115523,Public Policy Polling,2026-02-18,685,1.8,D,32.0,49.0,-17.0,0.0,,,0.0,0.0,Julian Beaudion,Mike Rounds
+SD-SEN,b9e1ceba-6758-4b96-b726-3c084e115523,Public Policy Polling,2026-02-18,685,1.8,D,35.0,47.0,-12.0,0.0,,,0.0,0.0,Brian L. Bengs,Mike Rounds
+SD-SEN,d67b23f2-1527-46ca-a7a0-952968287fc5,Public Policy Polling,2026-05-30,726,1.8,D,40.0,44.0,-4.0,0.0,,,0.0,0.0,Brian L. Bengs,Mike Rounds
 SD-SEN,d67b23f2-1527-46ca-a7a0-952968287fc5,Public Policy Polling,2026-05-30,726,1.8,D,18.0,43.0,-25.0,23.0,IND,Brian L. Bengs,0.0,0.0,Julian Beaudion,Mike Rounds
 TN-05,3166ee62-19f9-451f-9085-8ce50172d076,Impact Research,2026-05-13,558,1.8,D,41.0,47.0,-6.0,0.0,,,0.0,0.0,Chaz Molder,Andy Ogles
 TN-GOV,bb855818-f27e-4233-a7c8-c07064a7a665,Targoz Market Research,2025-08-01,1167,1.3,,30.0,49.0,-19.0,0.0,,,0.0,0.0,Generic Democrat,John Rose
