@@ -288,6 +288,7 @@ KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,37.0,37.0,0.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,36.0,37.0,-1.0,0.0,,,0.0,0.0,Cherlynn Stevenson,Ryan Dotson
 KY-06,ce844147-e0fc-47cb-bb72-f56747f82bce,GQR,2026-06-28,0,1.3,D,39.0,42.0,-3.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
+KY-06,b3a80974-ad5a-4c98-8928-0160b9eac678,DCCC Targeting Team,2026-07-30,474,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,39.0,46.0,-7.0,0.0,,,0.0,0.0,Charles Booker,Daniel Cameron
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,648,1.8,D,35.0,51.0,-16.0,0.0,,,0.0,0.0,Amy McGrath,Generic Republican
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Charles Booker,Nate Morris
@@ -742,7 +743,8 @@ NY-GOV,a2e9cc79-0b94-46f8-9c63-f2d3dd0431d0,Siena University,2026-06-23,1120,1.3
 NY-GOV,7a9e85af-ad95-47c8-a442-282c44efe238,co/efficient,2026-07-02,1085,1.0,R,47.0,41.0,6.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
 NY-GOV,53d83487-2569-41ff-ac70-00eed74be90e,Red Oak Strategic,2026-07-12,2000,1.3,R,47.0,43.0,4.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
 OH-07,1e7dc593-8095-4a9e-9cd7-fcdd03fa26b8,GBAO,2026-06-20,500,1.7,D,43.0,44.0,-1.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
-OH-07,manual-OH-07-2026-07-30,Unnamed Republican firm (NOTUS),2026-07-30,665,1.3,R,44.0,39.0,5.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
+OH-07,manual-OH-07-2026-07-30,co/efficient,2026-07-30,665,1.0,R,44.0,39.0,5.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
+OH-07,manual-OH-07-2026-08-06,co/efficient,2026-08-06,615,1.0,R,47.0,33.0,14.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
 OH-09,fd68275a-5c7e-4660-9427-3c284559935b,McLaughlin & Associates,2026-04-20,400,1.0,R,43.0,47.0,-4.0,3.0,LIB,David Gedert,0.0,0.0,Marcy Kaptur,Derek Merrin
 OH-10,864c4938-85b1-4556-bc43-bccb3e4e21e5,FM3 Research,2026-07-12,0,1.3,D,41.0,48.0,-7.0,0.0,,,0.0,0.0,Kristina Knickerbocker,Mike Turner
 OH-10,864c4938-85b1-4556-bc43-bccb3e4e21e5,FM3 Research,2026-07-12,0,1.3,D,48.0,47.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -893,6 +895,7 @@ TX-GOV,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,
 TX-GOV,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,42.0,45.0,-3.0,1.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,81ef94e3-6198-4512-80ad-9b5d0dcbe729,Beacon Research/Shaw & Company Research,2026-07-27,1006,2.5,,49.0,50.0,-1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,c94b0e88-0eaa-435d-b5d3-4a3ba1cd3a3d,Barbara Jordan Public Policy Research and Survey Center,2026-07-30,1200,1.3,,43.0,49.0,-6.0,3.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,23e5be32-52cd-4ea7-8159-3f6ffa9c6211,Siena University,2026-07-30,619,1.3,,45.0,46.0,-1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,6795e787-cb10-47c0-9972-cc29eea5d5be,Wedgewood Polls,2026-07-31,800,1.3,,44.0,50.0,-6.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,47.0,-3.0,0.0,,,0.0,0.0,Joaquin Castro,Ken Paxton
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Beto O’Rourke,Wesley Hunt
@@ -965,6 +968,7 @@ TX-SEN,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,
 TX-SEN,e0e5bf96-ed99-404c-ade3-b826c801da06,A2 Insights,2026-06-28,618,1.3,,48.4,46.1,2.3,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,45.0,40.0,5.0,1.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,81ef94e3-6198-4512-80ad-9b5d0dcbe729,Beacon Research/Shaw & Company Research,2026-07-27,1006,2.5,,51.0,48.0,3.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,23e5be32-52cd-4ea7-8159-3f6ffa9c6211,Siena University,2026-07-30,619,1.3,,47.0,43.0,4.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,c94b0e88-0eaa-435d-b5d3-4a3ba1cd3a3d,Barbara Jordan Public Policy Research and Survey Center,2026-07-30,1200,1.3,,47.0,45.0,2.0,2.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,6795e787-cb10-47c0-9972-cc29eea5d5be,Wedgewood Polls,2026-07-31,800,1.3,,48.0,46.0,2.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,e762cbf7-47be-4be3-b167-5043db7d9ce5,YouGov Blue,2026-07-31,1001,1.3,,48.0,45.0,3.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
