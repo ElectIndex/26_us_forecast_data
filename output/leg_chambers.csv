@@ -1,6 +1,6 @@
 date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control,coalition_desc,proj_dem_mean,proj_dem_median,proj_dem_favored,structural_dem,dem_seats_p05,dem_seats_p95,dem_control_prob,proj_control,flip
-2026-08-07,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,16.9,17,17,0,12.0,21.0,0.0712,Coalition,False
-2026-08-07,AK,Senate,20,11,10,9,11,0,Coalition,9D + 8R bipartisan coalition,8.9,9,9,5,8.0,10.0,0.0282,Coalition,False
+2026-08-07,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,16.9,17,17,0,12.0,21.0,0.0701,Coalition,False
+2026-08-07,AK,Senate,20,11,10,9,11,0,Coalition,9D + 8R bipartisan coalition,8.9,9,9,5,8.0,10.0,0.0281,Coalition,False
 2026-08-07,AL,House,105,53,105,29,76,0,R,,30.3,29,29,0,24.0,40.0,0.0124,R,False
 2026-08-07,AL,Senate,35,18,35,8,27,0,R,,9.0,9,9,0,7.0,12.0,0.0054,R,False
 2026-08-07,AR,House,100,51,100,20,80,0,R,,23.8,23,23,0,15.0,37.0,0.009,R,False
@@ -44,7 +44,7 @@ date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control
 2026-08-07,MN,Senate,67,34,67,34,33,0,D,,38.3,38,36,0,29.0,49.0,0.7954,D,False
 2026-08-07,MO,House,163,82,163,52,111,0,R,,59.3,58,55,0,43.0,79.0,0.0379,R,False
 2026-08-07,MO,Senate,34,18,17,10,24,0,R,,11.4,11,11,7,10.0,14.0,0.0003,R,False
-2026-08-07,MT,House,100,51,100,42,58,0,R,,40.8,41,42,0,26.0,53.0,0.0879,R,False
+2026-08-07,MT,House,100,51,100,42,58,0,R,,40.8,41,42,0,26.0,53.0,0.0883,R,False
 2026-08-07,MT,Senate,50,26,25,18,32,0,R,,19.2,19,19,9,15.0,23.0,0.0099,R,False
 2026-08-07,NC,House,120,61,120,49,70,1,R,,57.1,55,51,0,42.0,79.0,0.3201,R,False
 2026-08-07,NC,Senate,50,26,50,20,30,0,R,,22.9,22,20,0,17.0,31.0,0.222,R,False
@@ -69,7 +69,7 @@ date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control
 2026-08-07,RI,House,75,38,75,64,11,0,D,,62.1,64,67,0,43.0,74.0,0.9793,D,False
 2026-08-07,RI,Senate,38,20,38,34,4,0,D,,32.0,33,34,0,23.0,38.0,0.9812,D,False
 2026-08-07,SC,House,124,63,124,36,88,0,R,,43.0,41,37,0,30.0,64.0,0.0589,R,False
-2026-08-07,SD,House,70,36,70,5,65,0,R,,9.2,8,8,-1,2.0,22.0,0.0061,R,False
+2026-08-07,SD,House,70,36,70,5,65,0,R,,9.2,8,8,-1,2.0,22.0,0.0059,R,False
 2026-08-07,SD,Senate,35,18,35,3,32,0,R,,5.6,5,5,1,2.0,11.0,0.007,R,False
 2026-08-07,TN,House,99,50,99,24,75,0,R,,25.9,25,24,0,19.0,35.0,0.0055,R,False
 2026-08-07,TN,Senate,33,17,17,6,27,0,R,,6.5,6,6,2,5.0,9.0,0.0007,R,False
