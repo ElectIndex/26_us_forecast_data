@@ -19447,8 +19447,8 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-08-09,WV,Senate,0.0,2.1,R
 2026-08-09,WY,House,0.0019,7.8,R
 2026-08-09,WY,Senate,0.0,2.5,R
-2026-08-10,AK,House,0.071,16.9,Coalition
-2026-08-10,AK,Senate,0.0282,8.9,Coalition
+2026-08-10,AK,House,0.0699,16.9,Coalition
+2026-08-10,AK,Senate,0.0279,8.9,Coalition
 2026-08-10,AL,House,0.0123,30.3,R
 2026-08-10,AL,Senate,0.0054,9.0,R
 2026-08-10,AR,House,0.009,23.9,R
@@ -19484,16 +19484,16 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-08-10,MA,Senate,0.9953,34.6,D
 2026-08-10,MD,House of Delegates,0.9941,106.8,D
 2026-08-10,MD,Senate,0.9949,35.5,D
-2026-08-10,ME,House,0.7177,84.6,D
-2026-08-10,ME,Senate,0.8741,21.9,D
+2026-08-10,ME,House,0.7165,84.6,D
+2026-08-10,ME,Senate,0.8739,21.9,D
 2026-08-10,MI,House,0.6022,59.4,D
 2026-08-10,MI,Senate,0.7215,22.4,D
 2026-08-10,MN,House,0.7731,75.9,D
 2026-08-10,MN,Senate,0.7962,38.3,D
 2026-08-10,MO,House,0.0377,59.4,R
 2026-08-10,MO,Senate,0.0003,11.4,R
-2026-08-10,MT,House,0.0882,40.8,R
-2026-08-10,MT,Senate,0.0099,19.2,R
+2026-08-10,MT,House,0.0872,40.8,R
+2026-08-10,MT,Senate,0.0097,19.2,R
 2026-08-10,NC,House,0.3191,57.0,R
 2026-08-10,NC,Senate,0.2208,22.9,R
 2026-08-10,ND,House,0.0,10.2,R

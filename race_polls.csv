@@ -5,8 +5,8 @@ AK-01,2abdc064-3a16-4478-a841-23467c99f334,Data for Progress,2025-10-23,823,1.9,
 AK-01,9cb6e02e-12c1-4147-b7a0-1f4dbd94529e,Public Policy Polling,2026-02-12,600,1.8,D,39.0,46.0,-7.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,9cb6e02e-12c1-4147-b7a0-1f4dbd94529e,Public Policy Polling,2026-02-12,600,1.8,D,37.0,41.0,-4.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
 AK-01,edef3b32-7941-4cf6-9094-3096d38ad838,Change Research,2026-03-20,624,1.7,D,17.4,44.8,-27.4,13.0,IND,Bill Hill,3.8,0.0,Matt Schultz,Nick Begich
-AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,,45.0,55.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Nick Begich
-AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,,45.0,55.0,-10.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
+AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,D,45.0,55.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Nick Begich
+AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,D,45.0,55.0,-10.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,D,48.0,52.0,-4.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
 AK-01,8e054071-9b5e-46d0-a921-ecc4f3c1737e,The New York Times/Siena University,2026-06-29,593,3.0,,39.2,51.1,-12.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,def7f487-2bd9-410b-b135-c0d6a7de191a,The Bullfinch Group,2026-07-16,546,1.5,,32.0,46.0,-14.0,20.0,IND,Bill Hill,0.0,0.0,Matt Schultz,Nick Begich
@@ -281,10 +281,10 @@ ID-SEN,c122ad52-5f1f-4e63-adb5-0e3e0218943e,Peak Insights,2026-06-07,500,1.3,R,1
 IL-04,5127e3d1-530b-4a08-932e-a7ad713e8892,The Bullfinch Group,2026-08-03,653,1.5,,34.0,15.0,19.0,9.0,IND,Chris Getty,0.0,0.0,Patty Garcia,Lupe Castillo
 IL-GOV,8fe3ba32-52bc-45e8-b8c2-2fc650cd2e1c,Victory Research,2025-11-24,1200,1.3,,54.3,34.0,20.3,0.0,,,0.0,0.0,J.B. Pritzker,Darren Bailey
 IN-05,ee771e52-ba71-4ebe-9ed3-fd504e79edb7,Impact Research,2026-07-20,0,1.8,D,46.0,48.0,-2.0,0.0,,,0.0,0.0,J.D. Ford,Victoria Spartz
-KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,Patrick Schmidt,Roger Marshall
-KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,,45.0,55.0,-10.0,0.0,,,0.0,0.0,Noah Taylor,Roger Marshall
-KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
-KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,Generic Democrat,Roger Marshall
+KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,D,46.0,54.0,-8.0,0.0,,,0.0,0.0,Patrick Schmidt,Roger Marshall
+KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,D,45.0,55.0,-10.0,0.0,,,0.0,0.0,Noah Taylor,Roger Marshall
+KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,D,46.0,54.0,-8.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
+KS-SEN,1609f740-bfac-4e97-967a-7a4609268938,Tavern Research,2026-01-28,1013,1.3,D,46.0,54.0,-8.0,0.0,,,0.0,0.0,Generic Democrat,Roger Marshall
 KS-SEN,db1fc453-f2fa-46e8-a6cf-dc61581e548b,GQR,2026-04-27,500,1.3,D,45.0,49.0,-4.0,0.0,,,0.0,0.0,Patrick Schmidt,Roger Marshall
 KS-SEN,a5409ebe-3c9f-42c9-8e26-ffba5acadc68,GBAO,2026-07-13,600,1.7,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,36.0,37.0,-1.0,0.0,,,0.0,0.0,Cherlynn Stevenson,Ralph Alvarado
@@ -385,16 +385,16 @@ ME-SEN,7bac6163-a4b1-4378-872d-9e3247a9f447,University of New Hampshire,2026-05-
 ME-SEN,e6d59634-97b2-42cb-8244-7fc90f926784,University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-05-26,650,1.3,,48.0,43.0,5.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,8b7b391c-981b-485f-89fa-35ace0cf3903,Public Policy Polling,2026-06-03,670,1.8,D,49.0,45.0,4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,85d3f37d-3223-465e-8238-2007aa57b45b,"Fabrizio, Lee & Associates",2026-06-03,800,1.3,R,46.0,46.0,0.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
-ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,,52.0,48.0,4.0,0.0,,,0.0,0.0,Janet T. Mills,Susan M. Collins
-ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,,51.0,49.0,2.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
-ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,,55.0,45.0,10.0,0.0,,,0.0,0.0,Generic Democrat,Susan M. Collins
+ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,D,52.0,48.0,4.0,0.0,,,0.0,0.0,Janet T. Mills,Susan M. Collins
+ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,D,51.0,49.0,2.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
+ME-SEN,2e2c0413-91b8-44b6-b805-5e2f8bc934a1,Tavern Research,2026-06-08,1642,1.3,D,55.0,45.0,10.0,0.0,,,0.0,0.0,Generic Democrat,Susan M. Collins
 ME-SEN,1dc1cc06-a65f-46f1-a53b-c11769d634dd,Quantus Insights,2026-06-11,870,1.0,R,46.0,45.0,1.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,6539644e-fc58-4f80-9d89-ed3a81a98bc6,Wick,2026-06-14,1008,1.2,R,47.6,45.4,2.2,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,67b56c94-89a5-47e0-ace0-551879438390,The New York Times/Siena University,2026-06-26,608,3.0,,49.2,47.0,2.2,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,ae1179f5-1fe6-4bf7-8b9c-77cc2c2407a1,Beacon Research/Shaw & Company Research,2026-06-27,1003,2.5,,47.0,50.0,-3.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,47.0,47.0,0.0,0.0,,,0.0,0.0,Janet T. Mills,Susan M. Collins
 ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,48.0,43.0,5.0,0.0,,,0.0,0.0,Troy Jackson,Susan M. Collins
-ME-SEN,4017c7ce-c6f0-479c-b778-dcb8097a7766,Tavern Research,2026-07-06,1074,1.3,,52.0,48.0,4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
+ME-SEN,4017c7ce-c6f0-479c-b778-dcb8097a7766,Tavern Research,2026-07-06,1074,1.3,D,52.0,48.0,4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,f151442b-b6f2-4e67-88fe-f982cd4677c1,Wedgewood Polls,2026-07-06,405,1.3,,46.0,50.0,-4.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,42.0,47.0,-5.0,0.0,,,0.0,0.0,Graham Platner,Susan M. Collins
 ME-SEN,089a174b-74ee-4363-9ca1-60d01ed22eba,Public Policy Polling,2026-07-07,785,1.8,D,45.0,45.0,0.0,0.0,,,0.0,0.0,Nirav Shah,Susan M. Collins
@@ -578,9 +578,9 @@ MT-01,6f4f65a0-437e-4ea3-b0c0-06ebc4e20386,Impact Research,2026-06-25,500,1.8,D,
 MT-SEN,a4cdceed-7a8c-4b70-9ad1-d62e948b6530,yes. every kid. foundation.,2026-01-26,500,1.3,,19.0,43.0,-24.0,15.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
 MT-SEN,1454464f-c38a-44fc-96d8-bb09d7f9ae0c,American Pulse Research & Polling,2026-02-18,607,1.2,R,40.0,53.9,-13.9,0.0,,,0.0,0.0,Seth Bodnar,Steve Daines
 MT-SEN,1454464f-c38a-44fc-96d8-bb09d7f9ae0c,American Pulse Research & Polling,2026-02-18,607,1.2,R,25.1,51.7,-26.6,15.9,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
-MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,,24.0,46.0,-22.0,26.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Kurt Alme
-MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,,44.0,56.0,-12.0,0.0,,,0.0,0.0,Generic Democrat,Kurt Alme
-MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,,42.0,58.0,-16.0,0.0,,,0.0,0.0,Reilly Neill,Kurt Alme
+MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,D,24.0,46.0,-22.0,26.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Kurt Alme
+MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,D,44.0,56.0,-12.0,0.0,,,0.0,0.0,Generic Democrat,Kurt Alme
+MT-SEN,13612ecb-8f27-4a3c-942e-c134fd7cbf66,Tavern Research,2026-05-18,607,1.3,D,42.0,58.0,-16.0,0.0,,,0.0,0.0,Reilly Neill,Kurt Alme
 MT-SEN,bf714d68-2d8d-416f-909e-af5f1c6bf6b1,Public Opinion Strategies,2026-06-11,500,1.9,R,25.0,44.0,-19.0,20.0,IND,Seth Bodnar,0.0,0.0,Alani Bankhead,Kurt Alme
 MT-SEN,19633ac9-910b-4625-a33a-4febf87202dc,Hart Research Associates,2026-06-24,800,1.8,D,43.0,49.0,-6.0,0.0,,,0.0,0.0,Alani Bankhead,Kurt Alme
 MT-SEN,bb82054e-a9e9-44d5-8fdd-ccdb1e0a7995,GrayHouse,2026-06-24,500,1.3,,25.0,41.0,-16.0,17.0,IND,Seth Bodnar,0.0,0.0,Alani Bankhead,Kurt Alme
@@ -633,10 +633,10 @@ NE-02,490a2251-4e5b-42c6-95ab-be674de75ad4,Public Policy Polling,2025-10-23,594,
 NE-GOV,fff26d55-a4f8-4e32-889b-c15d79e8138e,Public Policy Polling,2026-04-07,670,1.8,D,33.0,38.0,-5.0,12.0,LMN,Rick Beard,0.0,0.0,Lynne Walz,Jim Pillen
 NE-SEN,9efb685a-2477-4ec2-8818-14084a35948b,Change Research,2025-04-01,524,1.7,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
 NE-SEN,c4d67e47-34a9-42af-a5b7-65ad7a7ec824,Impact Research,2026-02-05,600,1.8,D,47.0,48.0,-1.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
-NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,,34.0,50.0,-16.0,0.0,,,0.0,0.0,William J. Forbes,Pete Ricketts
-NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,,47.0,42.0,5.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
-NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,,39.0,48.0,-9.0,0.0,,,0.0,0.0,Cindy Burbank,Pete Ricketts
-NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,,42.0,49.0,-7.0,0.0,,,0.0,0.0,Generic Democrat,Pete Ricketts
+NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,D,34.0,50.0,-16.0,0.0,,,0.0,0.0,William J. Forbes,Pete Ricketts
+NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,D,47.0,42.0,5.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
+NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,D,39.0,48.0,-9.0,0.0,,,0.0,0.0,Cindy Burbank,Pete Ricketts
+NE-SEN,cc32f509-8940-4dc1-a883-3b2cb93bda47,Tavern Research,2026-05-11,1165,1.3,D,42.0,49.0,-7.0,0.0,,,0.0,0.0,Generic Democrat,Pete Ricketts
 NH-02,24096bf7-3cb0-468d-8b3a-ffd12207d155,St. Anselm,2025-08-27,881,1.3,,49.0,31.0,18.0,0.0,,,0.0,0.0,Maggie Goodlander,Lily Tang Williams
 NH-02,ee58b3cf-d675-4c2c-be68-38bb27afb90b,University of New Hampshire,2025-09-23,508,1.3,,51.0,39.0,12.0,0.0,,,0.0,0.0,Maggie Goodlander,Lily Tang Williams
 NH-02,0208a971-f1c8-4f04-aae8-2acbc265a583,St. Anselm,2025-11-19,1102,1.3,,40.0,35.0,5.0,0.0,,,0.0,0.0,Maggie Goodlander,Lily Tang Williams
@@ -750,6 +750,7 @@ NY-GOV,7a9e85af-ad95-47c8-a442-282c44efe238,co/efficient,2026-07-02,1085,1.0,R,4
 NY-GOV,53d83487-2569-41ff-ac70-00eed74be90e,Red Oak Strategic,2026-07-12,2000,1.3,R,47.0,43.0,4.0,0.0,,,0.0,0.0,Kathy C. Hochul,Bruce Blakeman
 OH-07,1e7dc593-8095-4a9e-9cd7-fcdd03fa26b8,GBAO,2026-06-20,500,1.7,D,43.0,44.0,-1.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
 OH-07,manual-OH-07-2026-07-30,co/efficient,2026-07-30,665,1.0,R,44.0,39.0,5.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
+OH-07,manual-OH-07-2026-08-05,Tavern Research,2026-08-05,635,1.3,D,54.0,46.0,8.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
 OH-07,manual-OH-07-2026-08-06,co/efficient,2026-08-06,615,1.0,R,47.0,33.0,14.0,0.0,,,0.0,0.0,Brian Poindexter,Max Miller
 OH-09,fd68275a-5c7e-4660-9427-3c284559935b,McLaughlin & Associates,2026-04-20,400,1.0,R,43.0,47.0,-4.0,3.0,LIB,David Gedert,0.0,0.0,Marcy Kaptur,Derek Merrin
 OH-10,864c4938-85b1-4556-bc43-bccb3e4e21e5,FM3 Research,2026-07-12,0,1.3,D,41.0,48.0,-7.0,0.0,,,0.0,0.0,Kristina Knickerbocker,Mike Turner
@@ -995,10 +996,10 @@ VT-GOV,6390a575-055a-4ac5-a568-71517869d2b6,University of New Hampshire,2026-07-
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,34.0,41.0,-7.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun
 WA-03,30ae9257-d4e9-483b-be47-2f2241f25f9f,co/efficient,2026-04-29,982,1.0,R,45.0,44.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 WA-03,6e479a7e-3f3a-41aa-b7dd-611ae4aa5215,Emerson College,2026-07-10,500,2.5,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Marie Gluesenkamp Perez,John Braun
-WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,47.0,53.0,-6.0,0.0,,,0.0,0.0,Carmela Conroy,Michael Baumgartner
-WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,47.0,53.0,-6.0,0.0,,,0.0,0.0,Generic Democrat,Michael Baumgartner
-WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,David Womack,Michael Baumgartner
-WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,,46.0,54.0,-8.0,0.0,,,0.0,0.0,Bajun Mavalwalla,Michael Baumgartner
+WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,D,47.0,53.0,-6.0,0.0,,,0.0,0.0,Carmela Conroy,Michael Baumgartner
+WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,D,47.0,53.0,-6.0,0.0,,,0.0,0.0,Generic Democrat,Michael Baumgartner
+WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,D,46.0,54.0,-8.0,0.0,,,0.0,0.0,David Womack,Michael Baumgartner
+WA-05,b005e604-d823-4b0c-b673-a50ba5d8415d,Tavern Research,2026-05-25,578,1.3,D,46.0,54.0,-8.0,0.0,,,0.0,0.0,Bajun Mavalwalla,Michael Baumgartner
 WI-01,7433659d-603b-43ac-bb37-f6f564962143,Ragnar Research Partners,2026-03-16,400,1.3,R,41.0,50.0,-9.0,0.0,,,0.0,0.0,Mitchell Berman,Bryan Steil
 WI-01,7433659d-603b-43ac-bb37-f6f564962143,Ragnar Research Partners,2026-03-16,400,1.3,R,44.0,42.0,2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 WI-03,3b163a5c-b7cc-4b36-a82c-77aa3f721cd3,Public Policy Polling,2025-10-15,609,1.8,D,44.0,42.0,2.0,0.0,,,0.0,0.0,Rebecca Cooke,Derrick Van Orden
@@ -1006,8 +1007,8 @@ WI-03,bce726e0-e48f-4680-bd8d-e922ebfed748,Impact Research,2026-02-17,500,1.8,D,
 WI-03,647eb819-a3a9-4319-8bfd-2b1593b783c9,Impact Research,2026-05-31,500,1.8,D,50.0,46.0,4.0,0.0,,,0.0,0.0,Rebecca Cooke,Derrick Van Orden
 WI-03,d17e1b79-4fa9-455b-8be5-4fe6cfa9124e,FM3 Research,2026-06-25,535,1.3,D,50.0,46.0,4.0,0.0,,,0.0,0.0,Rebecca Cooke,Derrick Van Orden
 WI-03,016369fb-4a26-42ad-a583-39067289cab2,FM3 Research,2026-06-25,535,1.3,D,50.0,46.0,4.0,0.0,,,0.0,0.0,Rebecca Cooke,Derrick Van Orden
-WI-06,93b5b0d0-5b89-49cd-b6eb-7c9a911ef204,Tavern Research,2026-05-28,437,1.3,,39.0,61.0,-22.0,0.0,,,0.0,0.0,Generic Democrat,Glenn Grothman
-WI-06,93b5b0d0-5b89-49cd-b6eb-7c9a911ef204,Tavern Research,2026-05-28,437,1.3,,39.0,61.0,-22.0,0.0,,,0.0,0.0,Brad Smith,Glenn Grothman
+WI-06,93b5b0d0-5b89-49cd-b6eb-7c9a911ef204,Tavern Research,2026-05-28,437,1.3,D,39.0,61.0,-22.0,0.0,,,0.0,0.0,Generic Democrat,Glenn Grothman
+WI-06,93b5b0d0-5b89-49cd-b6eb-7c9a911ef204,Tavern Research,2026-05-28,437,1.3,D,39.0,61.0,-22.0,0.0,,,0.0,0.0,Brad Smith,Glenn Grothman
 WI-GOV,d83adb65-e820-470a-9a3a-cb0da85ff9d0,Platform Communications,2025-09-30,500,1.3,,40.0,43.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 WI-GOV,4864dd42-02e5-409f-ba82-e027c93fd7e4,Impact Research,2025-10-08,500,1.8,D,51.0,44.0,7.0,0.0,,,0.0,0.0,Mandela Barnes,Tim Michels
 WI-GOV,4864dd42-02e5-409f-ba82-e027c93fd7e4,Impact Research,2025-10-08,500,1.8,D,50.0,44.0,6.0,0.0,,,0.0,0.0,Mandela Barnes,Tom Tiffany
