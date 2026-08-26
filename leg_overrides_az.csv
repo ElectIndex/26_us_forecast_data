@@ -1,10 +1,12 @@
-# 2026 Arizona House per-seat roster (PRESUMPTIVE — primary is Jul 21, 2026).
-# 30 legislative districts x 2 at-large seats, split into paired A/B seats like
-# WA/ID/SD. Sources: Ballotpedia's AZ House 2026 primary table, corroborated by
-# Blog for Arizona, Tucson Sentinel, Gilbert Sun News, AZ Capitol Times/KJZZ
-# (LD-3 Reim appointment), Axios Phoenix (captured 2026-07-14). Where a party
-# primary has >2 candidates, the presumptive top-2 are seated (incumbents +
-# best-reported challenger); unsettled open slots carry the leading name.
+# 2026 Arizona House per-seat roster (CERTIFIED — Jul 21, 2026 primary, statewide
+# canvass completed Aug 6, 2026). 30 legislative districts x 2 at-large seats,
+# split into paired A/B seats like WA/ID/SD. Sources: AZ SOS official canvass as
+# transcribed on Wikipedia (2026_Arizona_House_of_Representatives_election,
+# ?action=raw) cross-checked against Ballotpedia's certified general-election
+# field for all 30 districts (captured 2026-08-26). Notable post-primary facts:
+# incumbents Stahl Hamilton (LD-21) and Lydia Hernandez (LD-24) DEFEATED in the
+# D primaries; Skranak (LD-2) withdrew -> Paul Carver nominated via write-in
+# (A.R.S. 16-645(E)); sub-threshold write-ins dropped (LD-9B/20B/22A/22B R).
 # Incumbency is CURATED here (explicit columns) because AZ has mid-term
 # appointees (Cody Reim) that 2024-winner matching would miss. Pairing keeps
 # incumbents on their own seat and puts challengers against non-incumbents
@@ -13,7 +15,7 @@
 chamber,district,seat,dem_name,rep_name,other_name,incumbent,incumbent_party
 House,1,A,Sandy Zalecki,Selina Bliss,,Selina Bliss,R
 House,1,B,,Quang Nguyen,,Quang Nguyen,R
-House,2,A,Stephanie Simacek,Danielle Skranak,,Stephanie Simacek,D
+House,2,A,Stephanie Simacek,Paul Carver,,Stephanie Simacek,D
 House,2,B,,Justin Wilmeth,,Justin Wilmeth,R
 House,3,A,Julie Gable,George Khalaf,,,
 House,3,B,Richard Spargo,Cody Reim,,Cody Reim,R
@@ -21,15 +23,15 @@ House,4,A,Tammy Caputi,Pamela Carter,,Pamela Carter,R
 House,4,B,Karen Gresham,Matt Gress,,Matt Gress,R
 House,5,A,Sarah Liguori,,,Sarah Liguori,D
 House,5,B,Aaron Marquez,,,Aaron Marquez,D
-House,6,A,Mae Peshlakai,,,Mae Peshlakai,D
-House,6,B,Angela Maloney,,,,
+House,6,A,Mae Peshlakai,,Brendan Trachsel,Mae Peshlakai,D
+House,6,B,Ian Teller,,,,
 House,7,A,Samuel Martin,David Cook,Richard Grayson,,
 House,7,B,,Walter Blackman,,Walter Blackman,R
 House,8,A,Janeen Connolly,Donald Hawker,,Janeen Connolly,D
 House,8,B,Brian Garcia,,,Brian Garcia,D
 House,9,A,Lorena Austin,Bradley Bettencourt,,Lorena Austin,D
-House,9,B,Jacob Martinez,Sage Stroh,,,
-House,10,A,Brian Calaway,Ciara Anderson,David Scott,,
+House,9,B,Jacob Martinez,,,,
+House,10,A,Brian Calaway,James Rogers,David Scott,,
 House,10,B,Helen Hunter,Justin Olson,,Justin Olson,R
 House,11,A,Junelle Cavero,Cesar Aleman,,Junelle Cavero,D
 House,11,B,Oscar De Los Santos,Joseph Dailey,,Oscar De Los Santos,D
@@ -50,14 +52,14 @@ House,18,B,Christopher Mathis,,,Christopher Mathis,D
 House,19,A,Jackie Anderson,David Gowan,,,
 House,19,B,Aiden Swallow,Lupe Diaz,,Lupe Diaz,R
 House,20,A,Betty Villegas,,,Betty Villegas,D
-House,20,B,Sally Ann Gonzales,Katherine Weasel,,,
+House,20,B,Sally Ann Gonzales,,,,
 House,21,A,Consuelo Hernandez,Christopher Kibbey,,Consuelo Hernandez,D
-House,21,B,Stephanie Stahl Hamilton,,,Stephanie Stahl Hamilton,D
-House,22,A,Elda Luna-Nájera,Blaine Griffin Sr.,,Elda Luna-Nájera,D
-House,22,B,Veronica Bejarano-Malone,Diana Jones,,,
+House,21,B,Miranda Lopez,,,,
+House,22,A,Elda Luna-Nájera,,,Elda Luna-Nájera,D
+House,22,B,Betsy Munoz,,,,
 House,23,A,Mariana Sandoval,Gary Garcia Snyder,,Mariana Sandoval,D
 House,23,B,Emilia Cortez,Michele Pena,,Michele Pena,R
-House,24,A,Lydia Hernandez,,,Lydia Hernandez,D
+House,24,A,Alberto Flores,,,,
 House,24,B,Lisbeth Arescurenaga,Delores McLaughlin,,,
 House,25,A,Tiffany Byrne,Michael Carbone,,Michael Carbone,R
 House,25,B,,Nick Kupper,,Nick Kupper,R
@@ -70,4 +72,4 @@ House,28,B,Marc Graham,Beverly Pingerelli,,Beverly Pingerelli,R
 House,29,A,Christine Scianna,Steve Montenegro,,Steve Montenegro,R
 House,29,B,,James Taylor,,James Taylor,R
 House,30,A,Brian McMahan,Mike Gannuscio,,,
-House,30,B,,Grace Hecht,,,
+House,30,B,,David Rose,,,
