@@ -1,13 +1,24 @@
-race_code,round,dem,rep,other,exhausted,eliminated
-AK-GOV,1,41.81,50.19,8.0,0.0,
-AK-GOV,2,45.17,53.23,0.0,1.6,Other
-AK-SEN,1,44.97,47.03,8.0,0.0,
-AK-SEN,2,48.33,50.07,0.0,1.6,Other
-ME-SEN,1,47.48,47.52,5.0,0.0,
-ME-SEN,2,49.58,49.42,0.0,1.0,Other
-AK-01,1,40.9,47.88,11.22,0.0,
-AK-01,2,45.95,51.81,0.0,2.24,Other
-ME-01,1,62.07,32.93,5.0,0.0,
-ME-01,2,64.17,34.83,0.0,1.0,Other
-ME-02,1,45.0,50.0,5.0,0.0,
-ME-02,2,47.1,51.9,0.0,1.0,Other
+race_code,round,cand_id,name,party,slot,pct,votes,status,exhausted_pct
+AK-GOV,1,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,23.63,55870,active,0.0
+AK-GOV,1,C-1060,Tom Begich,DEM,,21.82,51592,eliminated,0.0
+AK-GOV,1,C-0074,Bernadette Wilson,REP,rep,30.24,71502,active,0.0
+AK-GOV,1,C-1061,Dave Bronson,REP,,24.31,57482,active,0.0
+AK-GOV,2,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,38.53,91104,active,5.04
+AK-GOV,2,C-0074,Bernadette Wilson,REP,rep,31.28,73963,active,5.04
+AK-GOV,2,C-1061,Dave Bronson,REP,,25.15,59460,eliminated,5.04
+AK-GOV,3,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,41.47,98065,active,14.62
+AK-GOV,3,C-0074,Bernadette Wilson,REP,rep,43.9,103809,elected,14.62
+AK-SEN,1,C-0001,Mary Peltola,DEM,dem,48.18,113925,active,0.0
+AK-SEN,1,C-0002,Dan S. Sullivan,REP,rep,49.32,116610,active,0.0
+AK-SEN,1,C-1062,Daniel J. Sullivan Jr.,NPA,,2.5,5911,eliminated,0.0
+AK-SEN,2,C-0001,Mary Peltola,DEM,dem,49.18,116290,active,0.5
+AK-SEN,2,C-0002,Dan S. Sullivan,REP,rep,50.32,118974,elected,0.5
+AK-01,1,C-0145,Nick Begich III,REP,rep,48.62,114962,active,0.0
+AK-01,1,C-1013,Bill Hill,IND,ind,44.88,106115,active,0.0
+AK-01,1,C-1063,Eric Hafner,DEM,,3.8,8985,active,0.0
+AK-01,1,C-1064,John B. Williams,DEM,,2.7,6384,eliminated,0.0
+AK-01,2,C-0145,Nick Begich III,REP,rep,48.81,115409,active,0.54
+AK-01,2,C-1013,Bill Hill,IND,ind,45.75,108165,active,0.54
+AK-01,2,C-1063,Eric Hafner,DEM,,4.9,11594,eliminated,0.54
+AK-01,3,C-0145,Nick Begich III,REP,rep,49.51,117071,elected,1.52
+AK-01,3,C-1013,Bill Hill,IND,ind,48.97,115780,active,1.52

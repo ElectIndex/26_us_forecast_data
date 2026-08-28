@@ -1,0 +1,20 @@
+race_code,cand_id,name,party,slot,primary_pct,first_pct,xparty,repel,incumbent,status,note
+AK-SEN,C-0001,Mary Peltola,DEM,dem,49.0,,,,0,confirmed,
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,42.0,,,,1,confirmed,
+AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,2.5,,,,0,confirmed,"Retired Petersburg teacher; no party listed. Ballot-name confusion with the incumbent is the likely source of his share, which would argue for xparty=REP -- but nothing measures it, and a confused voter may equally rank no second choice at all. Left neutral: AFFINITY['NPA'] is symmetric by design because Alaska's undeclared plurality is mixed. Worth 1.4 pts to the margin, so revisit if evidence appears."
+AK-SEN,C-1065,David Leslie,DEM,,1.1,,,,0,pending,4th slot uncertified at 94% counted; led Heikes by ~40 votes. Set status=confirmed once the Division of Elections certifies.
+AK-SEN,C-1066,Gerald L. Heikes,REP,,1.1,,,,0,pending,4th slot uncertified at 94% counted; trailed Leslie by ~40 votes.
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,22.2,,,,0,confirmed,
+AK-GOV,C-1060,Tom Begich,DEM,,20.5,,,,0,confirmed,Second Democrat in the final four; the shape the old Dem/Rep/other model could not express.
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,10.2,,,0.265,0,confirmed,"Mutual same-party feud with Bronson. Both signed a May 2026 pledge to withdraw if they did not take a majority of the Republican primary vote; neither did (Wilson 20.3%, Bronson 15.9%) and both stayed in. Bronson was reported robocalling against her and 'not stepping aside' (2026-08-26). She is also a primary sponsor of the initiative to REPEAL ranked-choice voting, so her campaign will not be teaching anyone to rank a second choice. repel = REPEL_FEUD (0.265), the Aug-2022 Palin-measured value."
+AK-GOV,C-1061,Dave Bronson,REP,,8.2,,,0.265,0,confirmed,Mutual same-party feud with Wilson -- see her row. Set symmetrically so the elimination order does not decide whether the feud is modelled; in practice only the survivor's repel fires. repel = REPEL_FEUD (0.265).
+AK-01,C-0145,Nick Begich III,REP,rep,45.2,,,,1,confirmed,
+AK-01,C-1013,Bill Hill,IND,ind,32.1,,,,0,confirmed,Anchors the field against Begich; caucus DEM for chamber control (races.csv ind_caucus).
+AK-01,C-1063,Eric Hafner,DEM,,3.8,,,,0,confirmed,
+AK-01,C-1064,John B. Williams,DEM,,2.7,,,,0,confirmed,Advanced in 5th place after Matt Schultz (D) withdrew more than 64 days before the general.
+ME-SEN,C-1043,Troy Jackson,DEM,dem,,,,,0,confirmed,
+ME-SEN,C-0030,Susan Collins,REP,rep,,,,,1,confirmed,
+ME-01,C-0535,Chellie Pingree,DEM,dem,,,,,1,confirmed,
+ME-01,C-0536,Ronald Russell,REP,rep,,,,,0,confirmed,
+ME-02,C-0537,Matthew Dunlap,DEM,dem,,,,,0,confirmed,
+ME-02,C-0538,Paul LePage,REP,rep,,,,,0,confirmed,
