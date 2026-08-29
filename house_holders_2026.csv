@@ -1,0 +1,78 @@
+code,incumbent_party,open,note
+AL-01,,1,Barry Moore (R) retiring to run for US Senate; seat open
+AZ-01,,1,"David Schweikert (R) retiring; ran for AZ governor, lost GOP primary to Biggs"
+AZ-05,,1,"Andy Biggs (R) retiring; won the AZ GOP gubernatorial primary (2026-07-21), not seeking House reelection"
+CA-06,REP,0,"Kevin Kiley elected to Congress as a Republican (represented CA-03); running in redrawn CA-06 for 2026 but changed his registration to independent/no-party-preference for this specific race (Ballotpedia, The Hill, NPR, CBS Sacramento, all Mar-Aug 2026) - see report: this is a genuine documented party switch, flagged for review, not a simple correction"
+CA-07,DEM,0,Doris Matsui (D) running for reelection; CA_SAME_PARTY inc1=True in build_candidates.py
+CA-11,,1,Top-two same-party race with no incumbent per CA_SAME_PARTY inc1=False (Scott Wiener is not the sitting member)
+CA-26,,1,Julia Brownley (D) retiring at end of term; seat open
+CA-38,,1,"Linda Sanchez (D) redistricted to CA-41; verified no sitting incumbent runs in the new CA-38 (Hilda Solis is a former 2001-2009 member and LA County Supervisor, not a current House member); Ballotpedia and CalMatters both call it an open seat"
+CA-48,,1,Darrell Issa (R) retiring at end of term; seat open
+CO-01,,1,Diana DeGette (D) lost the 2026-06-30 Democratic primary to Melat Kiros; not on the general ballot
+CT-01,,1,John Larson (D) lost the Democratic primary to Luke Bronin on 2026-08-11; not on the general ballot
+FL-02,,1,Neal Dunn (R) retiring at end of term; seat open
+FL-07,,1,Cory Mills (R) lost the Republican primary to Ryan Elijah (2026-08-18) amid House Ethics/DOJ investigations; not on the general ballot
+FL-11,,1,Daniel Webster (R) retiring; seat open
+FL-16,,1,Vern Buchanan (R) retiring at end of term; seat open
+FL-19,,1,Byron Donalds (R) retiring to run for FL governor; seat open
+FL-22,,1,"Lois Frankel (D) redistricted to FL-23 under the 2026 DeSantis-led mid-decade remap; new FL-22 is a newly drawn seat with no incumbent (FloridaPolitics, localcandidates.org)"
+FL-24,,1,Frederica Wilson (D) retiring at end of term; seat open
+GA-01,,1,Buddy Carter (R) retiring to run for US Senate; seat open
+GA-10,,1,Mike Collins (R) retiring to run for US Senate; seat open
+GA-11,,1,Barry Loudermilk (R) retiring at end of term; seat open
+GA-13,,1,"David Scott (D) died 2026-04-22; Jasmine Clark won the Democratic nomination for the full 2026 term but is a Georgia state legislator, not the sitting member (a separate special election to finish Scott's term was won by Everton Blair); seat open"
+IA-02,,1,Ashley Hinson (R) retiring to run for US Senate; seat open
+IA-04,,1,Randy Feenstra (R) retiring to run for IA governor; seat open
+IL-02,,1,Robin Kelly (D) retiring to run for US Senate; seat open
+IL-04,,1,"Jesus ""Chuy"" Garcia (D) retiring at end of term; seat open"
+IL-07,,1,Danny Davis (D) retiring at end of term; seat open
+IL-08,,1,Raja Krishnamoorthi (D) retiring to run for US Senate; seat open
+IL-09,,1,Jan Schakowsky (D) retiring at end of term; seat open
+KY-04,,1,Thomas Massie (R) lost the Republican primary to Trump-backed Ed Gallrein (2026-05-19); not on the general ballot
+KY-06,,1,Andy Barr (R) retiring to run for US Senate; seat open
+LA-05,,1,Julia Letlow (R) retiring to run for US Senate; seat open
+LA-06,,1,Cleo Fields (D) not seeking reelection after Louisiana v. Callais eliminated his majority-Black district; running for a state Senate seat instead; seat open
+MA-06,,1,Seth Moulton (D) retiring to run for US Senate; seat open
+MD-05,,1,Steny Hoyer (D) announced 2026-01-08 he will not seek reelection; seat open
+ME-02,,1,Jared Golden (D) retiring; verified open seat
+MI-10,,1,John James (R) retiring to run for MI governor; seat open
+MI-11,,1,Haley Stevens (D) retired to run for US Senate (lost primary); seat open
+MI-13,,1,Shri Thanedar (D) lost the Democratic primary to Donavan McKinney on 2026-08-04; not on the general ballot
+MN-02,,1,Angie Craig (D) retiring to run for US Senate; seat open
+MO-06,,1,Sam Graves (R) announced 2026-03-27 he will not seek reelection; seat open
+MT-01,,1,Ryan Zinke (R) retiring at end of term; seat open
+NC-11,,1,Chuck Edwards (R) withdrew from reelection after a House Ethics Committee finding on his conduct; seat open
+NE-02,,1,Don Bacon (R) retiring at end of term; seat open
+NH-01,,1,Chris Pappas (D) retiring to run for US Senate; seat open
+NJ-12,,1,Bonnie Watson Coleman (D) retiring at end of term; seat open
+NV-02,,1,Mark Amodei (R) retiring at end of term; seat open
+NY-07,,1,Nydia Velazquez (D) announced she will not seek reelection; seat open
+NY-10,,1,Dan Goldman (D) lost the Democratic primary to Brad Lander on 2026-06-23; not on the general ballot
+NY-12,,1,Jerry Nadler (D) retiring at end of term; seat open
+NY-13,,1,Adriano Espaillat (D) lost the Democratic primary to Darializa Avila Chevalier on 2026-06-23; not on the general ballot
+NY-21,,1,Elise Stefanik (R) ended her NY governor bid 2025-12-19 and announced she will not seek House reelection; seat open
+OK-01,,1,Kevin Hern (R) retiring to run for US Senate; seat open
+PA-03,,1,Dwight Evans (D) announced he will not seek reelection in 2026; seat open
+SC-01,,1,"Nancy Mace (R) running for SC governor, not on the House ballot; seat open"
+SC-05,,1,"Ralph Norman (R) retiring to run for statewide office (governor, then US Senate); seat open"
+SD-01,,1,Dusty Johnson (R) retiring to run for SD governor; seat open
+TN-05,,1,Andy Ogles (R) lost the Republican primary to Charlie Hatcher on 2026-08-06; not on the general ballot
+TN-06,,1,John Rose (R) retiring to run for TN governor; seat open
+TN-09,,1,Steve Cohen (D) retiring at end of term due to redistricting; seat open
+TX-02,,1,Dan Crenshaw (R) lost the Republican primary to Steve Toth on 2026-03-03; not on the general ballot
+TX-08,,1,Morgan Luttrell (R) retiring at end of term amid the 2025 TX mid-decade redistricting; seat open
+TX-09,DEM,0,Al Green (D) running in the 2026 lines
+TX-10,,1,Michael McCaul (R) retiring at end of term; seat open
+TX-19,,1,Jodey Arrington (R) retiring; seat open
+TX-21,,1,Chip Roy (R) retiring to run for TX Attorney General; seat open
+TX-22,,1,Troy Nehls (R) retiring at end of term; seat open
+TX-23,,1,Tony Gonzales (R) resigned 2026-04-14; seat vacant pending a special election; no verified incumbent on the 2026 general ballot
+TX-30,DEM,0,Jasmine Crockett (D) running
+TX-32,DEM,0,Julie Johnson (D) running
+TX-33,DEM,0,Marc Veasey (D) running
+TX-35,DEM,0,Greg Casar (D) running
+TX-38,,1,Wesley Hunt (R) retiring to run for US Senate; seat open
+UT-01,,1,"Blake Moore (R) redistricted to UT-02; the new (Solid Dem) UT-01 under the court-ordered map has no sitting incumbent - Ben McAdams is a former 2019-2021 member, not current; seat open"
+WA-04,,1,Dan Newhouse (R) retiring at end of term; seat open
+WI-07,,1,Tom Tiffany (R) retiring to run for WI governor; seat open
+WY-01,,1,Harriet Hageman (R) retiring to run for US Senate; seat open
