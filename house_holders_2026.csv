@@ -61,16 +61,16 @@ TN-06,,1,John Rose (R) retiring to run for TN governor; seat open
 TN-09,,1,Steve Cohen (D) retiring at end of term due to redistricting; seat open
 TX-02,,1,Dan Crenshaw (R) lost the Republican primary to Steve Toth on 2026-03-03; not on the general ballot
 TX-08,,1,Morgan Luttrell (R) retiring at end of term amid the 2025 TX mid-decade redistricting; seat open
-TX-09,DEM,0,Al Green (D) running in the 2026 lines
+TX-09,,1,"Al Green (D) was redrawn into TX-18 under the 2025 TX remap and lost the 2026-05-26 Democratic runoff there to Christian Menefee (30.6%-69.4%); not on any November 2026 ballot. New TX-09 Dem nominee is Leticia Gutierrez, not a sitting member. (Corrects fix-round-1 report; verified via CNN, Houston Public Media, Texas Tribune, CBS News, NBC News.)"
 TX-10,,1,Michael McCaul (R) retiring at end of term; seat open
 TX-19,,1,Jodey Arrington (R) retiring; seat open
 TX-21,,1,Chip Roy (R) retiring to run for TX Attorney General; seat open
 TX-22,,1,Troy Nehls (R) retiring at end of term; seat open
 TX-23,,1,Tony Gonzales (R) resigned 2026-04-14; seat vacant pending a special election; no verified incumbent on the 2026 general ballot
-TX-30,DEM,0,Jasmine Crockett (D) running
-TX-32,DEM,0,Julie Johnson (D) running
-TX-33,DEM,0,Marc Veasey (D) running
-TX-35,DEM,0,Greg Casar (D) running
+TX-30,,1,"Jasmine Crockett (D) ran for US Senate instead of re-election, losing the 2026-03-03 Democratic Senate primary to James Talarico; not on the TX-30 ballot. Rev. Frederick Haynes III won the TX-30 Democratic primary outright (72.6%) to succeed her; not a sitting member. (Corrects fix-round-1 report; verified via KERA News, Fox4, CBS Texas, The Intercept.)"
+TX-32,,1,"Julie Johnson (D), redrawn out of a competitive TX-32, ran instead in neighboring TX-33 and lost the 2026-05-26 Democratic runoff to Colin Allred; not on any November 2026 ballot for TX-32. New TX-32 Dem nominee is Dan Barrios, not a sitting member. (Corrects fix-round-1 report; verified via Ballotpedia News, Texas Tribune, KERA News, Spectrum News.)"
+TX-33,,1,"Marc Veasey (D), whose TX-33 was redrawn away from Fort Worth/Tarrant County toward Dallas, is not seeking re-election here (briefly filed for Tarrant County judge in Dec 2025, withdrew that too, and is simply serving out his current term); the new TX-33 nomination instead went to Colin Allred (D), who left the House after the 2024 cycle to run for Senate and is not a current sitting member. (Corrects fix-round-1 report; verified via WFAA, Texas Tribune, Ballotpedia News, Dallas News, The Hill.)"
+TX-35,,1,"Greg Casar (D) was redrawn out of TX-35 (over 90% of his constituents moved) and is running instead in the new TX-37, where he already appears as the resolved DEM incumbent in races_summary.csv; TX-35's new Dem nominee (from its own runoff) is not a sitting member. (Corrects fix-round-1 report; verified via The Texan, KUT, The Hill, San Antonio Report, thenationaldesk.com.)"
 TX-38,,1,Wesley Hunt (R) retiring to run for US Senate; seat open
 UT-01,,1,"Blake Moore (R) redistricted to UT-02; the new (Solid Dem) UT-01 under the court-ordered map has no sitting incumbent - Ben McAdams is a former 2019-2021 member, not current; seat open"
 WA-04,,1,Dan Newhouse (R) retiring at end of term; seat open
