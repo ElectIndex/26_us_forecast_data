@@ -2,7 +2,7 @@ code,incumbent_party,open,note
 AL-01,,1,Barry Moore (R) retiring to run for US Senate; seat open
 AZ-01,,1,"David Schweikert (R) retiring; ran for AZ governor, lost GOP primary to Biggs"
 AZ-05,,1,"Andy Biggs (R) retiring; won the AZ GOP gubernatorial primary (2026-07-21), not seeking House reelection"
-CA-06,REP,0,"Kevin Kiley elected to Congress as a Republican (represented CA-03); running in redrawn CA-06 for 2026 but changed his registration to independent/no-party-preference for this specific race (Ballotpedia, The Hill, NPR, CBS Sacramento, all Mar-Aug 2026) - see report: this is a genuine documented party switch, flagged for review, not a simple correction"
+CA-06,IND,0,"Kevin Kiley re-registered independent/NPP to run in the redrawn CA-06 after California's Prop 50 remap pushed him out of CA-03; the model files him in the rep slot with rep_party=IND (eifc-core.js documents this shape by name). Verified 2026-08-28 against multiple 2026 sources (Ballotpedia, The Hill, NPR, CBS Sacramento) - published IND is CORRECT, not an error; the brief's claim that it was wrong was itself the mistake."
 CA-07,DEM,0,Doris Matsui (D) running for reelection; CA_SAME_PARTY inc1=True in build_candidates.py
 CA-11,,1,Top-two same-party race with no incumbent per CA_SAME_PARTY inc1=False (Scott Wiener is not the sitting member)
 CA-26,,1,Julia Brownley (D) retiring at end of term; seat open
