@@ -1,0 +1,2 @@
+state,county_fips,cd_code,votes_dem,votes_rep,votes_total,pres16_dem,pres16_rep,pres20_dem,pres20_rep,pop_tot,vap_tot,vap_white,vap_black,vap_hisp,vap_asian,vap_native,vap_pacific
+DC,11001,DC-00,294185,21076,325869,282830,12723,317323,18586,689545,575161,234767,223540,60375,30795,1063,305
