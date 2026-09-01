@@ -1,0 +1,10 @@
+race_code,pollster,end_date,poll_id,rounds,n_from,n_to,eliminated,parties,pile,exhausted,cumulative_rate,per_elimination_rate,reports_exhaustion
+AK-GOV,Data for Progress,7/27/25,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,1->7,584,491,Adam Crum; Bernadette Wilson; Click Bishop; Edna DeVries; Tom Begich; Treg Taylor,DEM/REP,233.6,93.0,0.3981,0.0811,True
+AK-01,Alaska Survey Research,8/5/26,25f3873e-a991-4492-a3a3-aa1c6b9c0d71,1->2,1371,1371,Clay Strickland,REP,57.6,0.0,0.0,0.0,False
+AK-GOV,Data for Progress,10/23/25,2abdc064-3a16-4478-a841-23467c99f334,1->8,710,582,Adam Crum; Bernadette Wilson; Click Bishop; Edna DeVries; Nancy A. Dahlstrom; Shelley Hughes; Treg Taylor,REP,276.9,128.0,0.4623,0.0848,True
+ME-GOV,Schoen Cooperman Research,5/4/26,2eb834b1-719c-4053-aae7-f5c3cd003f82,1->4,522,522,Angus King III; Hannah Pingree; Troy Jackson,DEM,276.7,0.0,0.0,0.0,False
+AK-SEN,Data for Progress,8/4/26,7ec6f01b-349f-4e8a-b058-78704ccaaace,1->3,578,567,Dan J. Sullivan; Gerald Heikes,REP,46.2,11.0,0.2379,0.127,True
+ME-GOV,SurveyUSA,6/4/26,802de4de-1410-4399-a912-2c29561512df,1->4,466,466,Angus King III; David Jones; Garrett Mason; Jim Libby; Owen McCarthy; Robert Wessels; Shenna Bellows; Troy Jackson,DEM/REP,307.6,0.0,0.0,0.0,False
+AK-GOV,Alaska Survey Research,10/14/25,b55efd06-30f8-4790-a594-5610c44fc1fb,1->3,1748,1748,Bernadette Wilson; Click Bishop,REP,687.0,0.0,0.0,0.0,False
+AK-SEN,Alaska Survey Research,4/19/26,b613d76c-3e02-43de-aa2a-d6323fbd68fe,1->2,1946,1946,Sidney Hill,IND,62.3,0.0,0.0,0.0,False
+AK-SEN,Alaska Survey Research,3/22/26,e8d83b3b-cf66-4eb1-a16d-49e053bc3698,1->3,1340,1340,Ann Diener; Christopher Miklos,DEM/REP,101.8,0.0,0.0,0.0,False

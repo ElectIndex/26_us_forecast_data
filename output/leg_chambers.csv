@@ -1,6 +1,6 @@
 date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control,coalition_desc,proj_dem_mean,proj_dem_median,proj_dem_favored,structural_dem,dem_seats_p05,dem_seats_p95,dem_control_prob,proj_control,flip
-2026-08-31,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,17.2,17,17,0,13.0,21.0,0.0784,Coalition,False
-2026-08-31,AK,Senate,20,11,10,9,11,0,Coalition,9D + 5R bipartisan coalition; 6-member Republican minority,9.0,9,9,5,8.0,10.0,0.0286,Coalition,False
+2026-08-31,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,16.8,17,17,0,12.0,21.0,0.0682,Coalition,False
+2026-08-31,AK,Senate,20,11,10,9,11,0,Coalition,9D + 5R bipartisan coalition; 6-member Republican minority,8.9,9,9,5,8.0,10.0,0.0255,Coalition,False
 2026-08-31,AL,House,105,53,105,29,76,0,R,,30.3,29,29,0,24.0,40.0,0.0115,R,False
 2026-08-31,AL,Senate,35,18,35,8,27,0,R,,9.0,9,9,0,7.0,12.0,0.0044,R,False
 2026-08-31,AR,House,100,51,100,20,80,0,R,,24.5,23,23,0,16.0,38.0,0.0094,R,False
@@ -44,7 +44,7 @@ date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control
 2026-08-31,MN,Senate,67,34,67,34,33,0,D,,38.3,38,36,0,28.0,49.0,0.7878,D,False
 2026-08-31,MO,House,163,82,163,52,111,0,R,,59.2,58,55,0,42.0,79.0,0.0359,R,False
 2026-08-31,MO,Senate,34,18,17,10,24,0,R,,11.4,11,11,7,10.0,14.0,0.0011,R,False
-2026-08-31,MT,House,100,51,100,42,58,0,R,,40.2,41,42,0,26.0,52.0,0.0727,R,False
+2026-08-31,MT,House,100,51,100,42,58,0,R,,40.1,41,42,0,26.0,52.0,0.0725,R,False
 2026-08-31,MT,Senate,50,26,25,18,32,0,R,,19.1,19,19,9,15.0,23.0,0.006,R,False
 2026-08-31,NC,House,120,61,120,47,71,2,R,,56.7,55,51,0,42.0,77.0,0.3056,R,False
 2026-08-31,NC,Senate,50,26,50,20,30,0,R,,23.0,22,20,0,17.0,31.0,0.2242,R,False

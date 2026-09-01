@@ -14,7 +14,8 @@ AK-01,C-0145,Nick Begich III,REP,rep,44.6,,,,,1,confirmed,
 AK-01,C-1013,Bill Hill,IND,ind,32.5,,,,,0,confirmed,Anchors the field against Begich; caucus DEM for chamber control (races.csv ind_caucus).
 AK-01,C-1063,Eric Hafner,DEM,,3.8,,,,,0,confirmed,
 AK-01,C-1064,John B. Williams,DEM,,2.7,,,,,0,withdrawn,"Certified 5th at 4,404 votes (2.7%) and had advanced in Matt Schultz's place -- then withdrew himself after the primary, before the 2026-08-31 deadline. The slot cascaded past Clay Strickland (R, 2.3%), who also withdrew, to Reynoso."
-AK-01,C-1070,Yaquelin Reynoso,DEM,,1.8,,,,,0,confirmed,"Certified 7th at 2,916 votes (1.8%); holds the 4th slot after Schultz (pre-primary), John B. Williams and Clay Strickland all withdrew."
+AK-01,C-1070,Yaquelin Reynoso,DEM,,1.8,,,,,0,withdrawn,"Certified 7th at 2,916 votes (1.8%) and briefly next in line for the 4th slot; withdrew before the 2026-08-31 deadline, so the cascade continued to McDermott."
+AK-01,C-1071,"James C. ""Jim"" McDermott",LIB,,1.2,,,,,0,confirmed,"Certified 8th at 1,948 votes (1.2%) and ON THE BALLOT: AK-01's 4th slot cascaded through four withdrawals -- Schultz (D, 8.1%, pre-primary), John B. Williams (D, 2.7%), Clay Strickland (R, 2.3%) and Yaquelin Reynoso (D, 1.8%) -- to the Libertarian. Business professor, third run for this seat. The only non-DEM/REP/IND candidate in any 2026 ranked field, so he is also the only one priced off AFFINITY['LIB']."
 ME-SEN,C-1043,Troy Jackson,DEM,dem,,,,,,0,confirmed,
 ME-SEN,C-0030,Susan Collins,REP,rep,,,,,,1,confirmed,
 ME-01,C-0535,Chellie Pingree,DEM,dem,,,,,,1,confirmed,
