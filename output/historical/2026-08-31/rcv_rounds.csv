@@ -1,20 +1,24 @@
 race_code,round,cand_id,name,party,slot,pct,votes,status,exhausted_pct
 AK-GOV,1,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,45.45,107474,active,0.0
-AK-GOV,1,C-0074,Bernadette Wilson,REP,rep,30.14,71255,active,0.0
-AK-GOV,1,C-1061,Dave Bronson,REP,,24.41,57717,eliminated,0.0
-AK-GOV,2,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,48.31,114231,elected,9.3
-AK-GOV,2,C-0074,Bernadette Wilson,REP,rep,42.39,100226,active,9.3
-AK-SEN,1,C-0001,Mary Peltola,DEM,dem,49.02,115897,active,0.0
-AK-SEN,1,C-0002,Dan S. Sullivan,REP,rep,47.34,111934,active,0.0
+AK-GOV,1,C-0074,Bernadette Wilson,REP,rep,21.47,50776,active,0.0
+AK-GOV,1,C-1061,Dave Bronson,REP,,17.39,41129,active,0.0
+AK-GOV,1,C-1068,Candice English,REP,,15.68,37067,eliminated,0.0
+AK-GOV,2,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,47.29,111813,elected,5.97
+AK-GOV,2,C-0074,Bernadette Wilson,REP,rep,25.82,61056,active,5.97
+AK-GOV,2,C-1061,Dave Bronson,REP,,20.92,49455,active,5.97
+AK-SEN,1,C-0001,Mary Peltola,DEM,dem,49.83,117809,active,0.0
+AK-SEN,1,C-0002,Dan S. Sullivan,REP,rep,46.55,110067,active,0.0
 AK-SEN,1,C-1062,Daniel J. Sullivan Jr.,NPA,,2.5,5911,active,0.0
-AK-SEN,1,C-1066,Gerald L. Heikes,REP,,1.14,2704,eliminated,0.0
-AK-SEN,2,C-0001,Mary Peltola,DEM,dem,49.11,116129,active,0.23
-AK-SEN,2,C-0002,Dan S. Sullivan,REP,rep,47.91,113286,active,0.23
-AK-SEN,2,C-1062,Daniel J. Sullivan Jr.,NPA,,2.75,6491,eliminated,0.23
-AK-SEN,3,C-0001,Mary Peltola,DEM,dem,50.21,118725,elected,0.78
-AK-SEN,3,C-0002,Dan S. Sullivan,REP,rep,49.01,115882,active,0.78
-AK-01,1,C-0145,Nick Begich III,REP,rep,49.16,116247,active,0.0
-AK-01,1,C-1013,Bill Hill,IND,ind,47.04,111214,active,0.0
-AK-01,1,C-1063,Eric Hafner,DEM,,3.8,8985,eliminated,0.0
-AK-01,2,C-0145,Nick Begich III,REP,rep,49.71,117534,elected,0.76
-AK-01,2,C-1013,Bill Hill,IND,ind,49.53,117115,active,0.76
+AK-SEN,1,C-1066,Gerald L. Heikes,REP,,1.12,2659,eliminated,0.0
+AK-SEN,2,C-0001,Mary Peltola,DEM,dem,49.92,118037,elected,0.22
+AK-SEN,2,C-0002,Dan S. Sullivan,REP,rep,47.11,111396,active,0.22
+AK-SEN,2,C-1062,Daniel J. Sullivan Jr.,NPA,,2.74,6481,active,0.22
+AK-01,1,C-0145,Nick Begich III,REP,rep,47.48,112259,active,0.0
+AK-01,1,C-1013,Bill Hill,IND,ind,46.92,110946,active,0.0
+AK-01,1,C-1063,Eric Hafner,DEM,,3.8,8985,active,0.0
+AK-01,1,C-1070,Yaquelin Reynoso,DEM,,1.8,4256,eliminated,0.0
+AK-01,2,C-0145,Nick Begich III,REP,rep,47.6,112557,active,0.36
+AK-01,2,C-1013,Bill Hill,IND,ind,47.5,112313,active,0.36
+AK-01,2,C-1063,Eric Hafner,DEM,,4.54,10725,eliminated,0.36
+AK-01,3,C-0145,Nick Begich III,REP,rep,48.25,114094,active,1.27
+AK-01,3,C-1013,Bill Hill,IND,ind,50.48,119356,elected,1.27
