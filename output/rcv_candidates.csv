@@ -1,19 +1,19 @@
 race_code,cand_id,name,party,slot,incumbent,first_pct,final_pct,win_prob,won
-AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,45.45,50.29,92.6,1
-AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,21.47,27.46,5.0,0
-AK-GOV,C-1061,Dave Bronson,REP,,0,17.39,22.24,0.8,0
-AK-GOV,C-1068,Candice English,REP,,0,15.68,0.0,1.6,0
-AK-SEN,C-0001,Mary Peltola,DEM,dem,0,49.83,50.03,62.0,1
-AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,46.55,47.22,38.0,0
-AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,2.75,0.0,0
-AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.12,0.0,0.0,0
-ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.11,50.11,51.1,1
-ME-SEN,C-0030,Susan Collins,REP,rep,1,49.89,49.89,48.9,0
-AK-01,C-0145,Nick Begich III,REP,rep,1,47.48,48.87,41.0,0
-AK-01,C-1013,Bill Hill,IND,ind,0,46.92,51.13,59.0,1
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,45.45,55.85,86.9,1
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,21.47,44.15,9.8,0
+AK-GOV,C-1061,Dave Bronson,REP,,0,17.39,0.0,1.8,0
+AK-GOV,C-1068,Candice English,REP,,0,15.68,0.0,1.5,0
+AK-SEN,C-0001,Mary Peltola,DEM,dem,0,49.48,51.07,59.0,1
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,46.89,48.93,41.0,0
+AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,0.0,0.0,0
+AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.13,0.0,0.0,0
+ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.11,50.11,51.2,1
+ME-SEN,C-0030,Susan Collins,REP,rep,1,49.89,49.89,48.8,0
+AK-01,C-0145,Nick Begich III,REP,rep,1,47.81,49.21,43.2,0
+AK-01,C-1013,Bill Hill,IND,ind,0,46.59,50.79,56.8,1
 AK-01,C-1063,Eric Hafner,DEM,,0,3.8,0.0,0.0,0
 AK-01,C-1070,Yaquelin Reynoso,DEM,,0,1.8,0.0,0.0,0
 ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.39,65.39,99.9,1
 ME-01,C-0536,Ronald Russell,REP,rep,0,34.61,34.61,0.1,0
-ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.4,47.4,30.8,0
-ME-02,C-0538,Paul LePage,REP,rep,0,52.6,52.6,69.2,1
+ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.4,47.4,30.7,0
+ME-02,C-0538,Paul LePage,REP,rep,0,52.6,52.6,69.3,1

@@ -1,5 +1,5 @@
 as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_holder,margin,dem_prob,rep_prob,rating,lean,gcb,fundamentals,fundraising,candidates,pres_2024,poll_dem,poll_rep,poll_count,polling_avg,dem_funds,rep_funds,ind_name,ind_pct,ind_prob,dem_pct,rep_pct,oth_pct
-2026-08-31,AK-GOV,governor,AK,GOV,Jonathan Kreiss-Tomkins,Bernadette Wilson,,REP,22.83,99.2,0.8,Safe D,-13.27,5.24,-9.09,0.0,0.0,-13.8,,,0,,0,0,,0.0,0.0,45.45,54.55,0.0
+2026-08-31,AK-GOV,governor,AK,GOV,Jonathan Kreiss-Tomkins,Bernadette Wilson,,REP,11.7,98.7,1.3,Safe D,-13.27,5.24,-9.09,0.0,0.0,-13.8,,,0,,0,0,,0.0,0.0,45.45,54.55,0.0
 2026-08-31,AL-GOV,governor,AL,GOV,Doug Jones,Tommy Tuberville,,REP,-18.23,0.3,99.7,Safe R,-29.66,5.24,-21.53,0.0,3.37,-30.88,40.99,49.01,2,-8.01,0,13792994,,0.0,0.0,40.88,59.12,0.0
 2026-08-31,AR-GOV,governor,AR,GOV,Fredrick Love,Sarah Huckabee Sanders,REP,REP,-17.14,0.4,99.6,Safe R,-30.62,5.24,-26.01,0.0,-0.13,-31.57,40.0,45.0,1,-5.0,0,0,,0.0,0.0,41.43,58.57,0.0
 2026-08-31,AZ-GOV,governor,AZ,GOV,Katie Hobbs,Andy Biggs,DEM,DEM,8.9,93.0,7.0,Likely D,-4.25,5.24,8.3,0.94,6.01,-5.59,46.33,37.27,19,9.36,9827820,2787170,,0.0,0.0,54.45,45.55,0.0
@@ -35,7 +35,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-08-31,VT-GOV,governor,VT,GOV,Amanda Janoo,Phil Scott,REP,REP,-20.96,0.2,99.8,Safe R,33.44,5.24,-24.85,0.0,-62.58,32.77,30.95,43.32,2,-12.37,0,0,,0.0,0.0,39.52,60.48,0.0
 2026-08-31,WI-GOV,governor,WI,GOV,David Crowley,Tom Tiffany,,DEM,2.72,72.4,27.6,Lean D,-0.43,5.24,2.67,-1.76,0.28,-0.87,46.33,43.81,6,2.75,1426778,15315779,,0.0,0.0,51.36,48.64,0.0
 2026-08-31,WY-GOV,governor,WY,GOV,Kenneth Casner,Eric Barlow,,REP,-42.17,0.0,100.0,Safe R,-46.77,5.24,-42.17,0.0,0.0,-46.96,,,0,,0,1673103,,0.0,0.0,28.92,71.08,0.0
-2026-08-31,AK-01,house,AK,01,(No Democrat),Nick Begich III,REP,REP,-1.19,33.5,66.5,Lean R,1.86,5.24,3.34,-1.03,-1.67,-13.8,36.81,48.68,5,-13.29,0,5470446,Bill Hill,45.22,33.5,5.6,49.18,0.0
+2026-08-31,AK-01,house,AK,01,(No Democrat),Nick Begich III,REP,REP,-1.65,31.5,68.5,Lean R,0.98,5.24,2.46,-1.03,-1.67,-13.8,36.81,48.68,5,-13.29,0,5470446,Bill Hill,44.99,31.5,5.6,49.41,0.0
 2026-08-31,AL-01,house,AL,01,Clyde Jones,Jerry Carl,,REP,-27.53,0.0,100.0,Safe R,-30.46,5.24,-27.53,-1.75,0.0,-36.34,,,0,,85968,1162583,,0.0,0.0,36.24,63.76,0.0
 2026-08-31,AL-02,house,AL,02,Shomari Figures,Rhett Marques,DEM,DEM,-2.28,29.3,70.7,Lean R,-8.68,5.24,-1.68,-0.45,2.48,-14.46,45.09,45.55,2,-3.45,1355789,1318574,,0.0,0.0,48.86,51.14,0.0
 2026-08-31,AL-03,house,AL,03,Lee McInnis,Mike Rogers,REP,REP,-40.49,0.0,100.0,Safe R,-41.23,5.24,-40.49,-2.23,-1.67,-47.04,,,0,,60787,2133554,,0.0,0.0,29.75,70.25,0.0
@@ -470,7 +470,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-08-31,WV-01,house,WV,01,Vince George,Carol Miller,REP,REP,-41.57,0.0,100.0,Safe R,-44.31,5.24,-41.57,-1.33,-0.22,-45.2,,,0,,258330,1746898,,0.0,0.0,29.21,70.79,0.0
 2026-08-31,WV-02,house,WV,02,Ace Parsi,Riley Moore,REP,REP,-41.08,0.0,100.0,Safe R,-39.87,5.24,-41.08,-1.51,-4.03,-40.38,,,0,,134245,1325162,,0.0,0.0,29.46,70.54,0.0
 2026-08-31,WY-01,house,WY,01,Lisa Kinney,Chuck Gray,,REP,-41.83,0.0,100.0,Safe R,-45.16,5.24,-41.83,-1.27,0.0,-46.96,,,0,,17946,1621197,,0.0,0.0,29.08,70.92,0.0
-2026-08-31,AK-SEN,senate,AK,SEN,Mary Peltola,Dan Sullivan,REP,REP,2.47,72.1,27.9,Lean D,-5.92,5.24,2.77,0.4,4.11,-13.8,48.47,47.4,13,0.67,18545132,9136967,,0.0,0.0,49.64,47.86,2.5
+2026-08-31,AK-SEN,senate,AK,SEN,Mary Peltola,Dan Sullivan,REP,REP,1.94,70.7,29.3,Lean D,-6.9,5.24,1.79,0.4,4.11,-13.8,48.47,47.4,13,0.67,18545132,9136967,,0.0,0.0,49.38,48.12,2.5
 2026-08-31,AL-SEN,senate,AL,SEN,Everett Wess,Barry Moore,,REP,-21.72,0.1,99.9,Safe R,-26.5,5.24,-24.01,-3.2,0.93,-30.88,32.0,47.0,1,-15.0,83341,3787330,,0.0,0.0,39.14,60.86,0.0
 2026-08-31,AR-SEN,senate,AR,SEN,Hallie Shoffner,Tom Cotton,REP,REP,-17.21,0.4,99.6,Safe R,-27.01,5.24,-24.81,-0.87,-1.67,-31.57,39.64,48.37,4,-8.89,2269114,6233117,,0.0,0.0,41.39,58.61,0.0
 2026-08-31,CO-SEN,senate,CO,SEN,John Hickenlooper,Mark Baisley,DEM,DEM,24.72,99.9,0.1,Safe D,13.09,5.24,24.72,2.84,3.55,11.29,,,0,,8119380,138147,,0.0,0.0,62.36,37.64,0.0
@@ -484,11 +484,11 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-08-31,KY-SEN,senate,KY,SEN,Charles Booker,Andy Barr,,REP,-28.7,0.0,100.0,Safe R,-30.07,5.24,-31.3,-0.86,-4.86,-31.03,38.0,49.0,1,-14.0,1099509,9981055,,0.0,0.0,35.65,64.35,0.0
 2026-08-31,LA-SEN,senate,LA,SEN,Jamie Davis,Julia Letlow,,REP,-24.02,0.1,99.9,Safe R,-21.43,5.24,-24.02,-0.45,-7.1,-22.36,,,0,,1983548,6210122,,0.0,0.0,37.99,62.01,0.0
 2026-08-31,MA-SEN,senate,MA,SEN,Ed Markey,John Deaton,DEM,DEM,28.62,100.0,0.0,Safe D,28.35,5.24,35.43,0.52,1.67,25.91,50.61,30.23,9,20.39,5352148,1561360,,0.0,0.0,64.31,35.69,0.0
-2026-08-31,ME-SEN,senate,ME,SEN,Troy Jackson,Susan Collins,REP,REP,1.16,66.2,33.8,Lean D,8.51,5.24,-0.77,0.0,-13.55,7.09,47.26,44.4,6,2.56,0,16169827,,0.0,0.0,50.58,49.42,0.0
+2026-08-31,ME-SEN,senate,ME,SEN,Troy Jackson,Susan Collins,REP,REP,1.16,66.4,33.6,Lean D,8.51,5.24,-0.77,0.0,-13.55,7.09,47.26,44.4,6,2.56,0,16169827,,0.0,0.0,50.58,49.42,0.0
 2026-08-31,MI-SEN,senate,MI,SEN,Abdul El-Sayed,Mike Rogers,,DEM,3.14,74.0,26.0,Lean D,2.55,5.24,7.25,-0.34,0.44,-1.44,45.88,45.84,24,0.21,14514336,10898177,,0.0,0.0,51.57,48.43,0.0
 2026-08-31,MN-SEN,senate,MN,SEN,Peggy Flanagan,Michele Tafoya,,DEM,9.01,93.3,6.7,Likely D,6.87,5.24,11.3,-0.09,0.0,4.34,46.18,41.09,5,4.99,6517348,5337942,,0.0,0.0,54.51,45.49,0.0
 2026-08-31,MS-SEN,senate,MS,SEN,Scott Colom,Cindy Hyde-Smith,REP,REP,-12.23,1.1,98.9,Safe R,-21.48,5.24,-14.15,-0.16,2.62,-23.15,39.49,45.44,2,-8.95,2384921,3825455,Ty Pinkins,3.54,0.0,42.33,54.13,0.0
-2026-08-31,MT-SEN,senate,MT,SEN,Alani Bankhead,Kurt Alme,,REP,-27.69,0.0,99.9,Safe R,-13.86,5.24,-9.27,0.36,0.0,-20.58,29.54,44.7,6,-16.15,58829,1984861,Seth Bodnar,22.29,0.0,23.18,50.87,3.66
+2026-08-31,MT-SEN,senate,MT,SEN,Alani Bankhead,Kurt Alme,,REP,-27.7,0.0,99.9,Safe R,-13.86,5.24,-9.27,0.36,0.0,-20.58,29.54,44.7,6,-16.15,58829,1984861,Seth Bodnar,22.27,0.0,23.19,50.88,3.66
 2026-08-31,NC-SEN,senate,NC,SEN,Roy Cooper,Michael Whatley,,REP,6.72,86.6,13.4,Likely D,-2.8,5.24,4.58,0.54,1.9,-3.27,50.06,40.36,27,9.49,34975789,11272504,,0.0,0.0,52.36,45.77,1.87
 2026-08-31,NE-SEN,senate,NE,SEN,(No Democrat),Pete Ricketts,REP,REP,-5.65,16.9,83.1,Likely R,-20.13,5.24,-7.23,-0.5,8.63,-20.84,47.0,46.63,4,-2.63,0,11233507,Dan Osborn,47.17,16.9,0.0,52.83,0.0
 2026-08-31,NH-SEN,senate,NH,SEN,Chris Pappas,John E. Sununu,,DEM,6.15,84.8,15.2,Likely D,0.08,5.24,9.39,0.73,4.2,2.82,45.58,43.09,18,2.55,15384657,4124582,,0.0,0.0,53.07,46.93,0.0
