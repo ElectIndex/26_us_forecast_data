@@ -1,0 +1,19 @@
+race_code,cand_id,name,party,slot,incumbent,first_pct,final_pct,win_prob,won
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,45.43,55.83,87.0,1
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,21.48,44.17,9.9,0
+AK-GOV,C-1061,Dave Bronson,REP,,0,17.4,0.0,1.6,0
+AK-GOV,C-1068,Candice English,REP,,0,15.68,0.0,1.6,0
+AK-SEN,C-0001,Mary Peltola,DEM,dem,0,47.63,49.29,45.5,0
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,48.69,50.71,54.5,1
+AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,0.0,0.0,0
+AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.18,0.0,0.0,0
+ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.09,50.09,51.9,1
+ME-SEN,C-0030,Susan Collins,REP,rep,1,49.91,49.91,48.1,0
+AK-01,C-0145,Nick Begich III,REP,rep,1,49.95,51.5,62.1,1
+AK-01,C-1013,Bill Hill,IND,ind,0,45.05,48.5,37.9,0
+AK-01,C-1063,Eric Hafner,DEM,,0,3.8,0.0,0.0,0
+AK-01,C-1071,"James C. ""Jim"" McDermott",LIB,,0,1.2,0.0,0.0,0
+ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.36,65.36,99.8,1
+ME-01,C-0536,Ronald Russell,REP,rep,0,34.64,34.64,0.2,0
+ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.38,47.38,29.6,0
+ME-02,C-0538,Paul LePage,REP,rep,0,52.62,52.62,70.4,1
