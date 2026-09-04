@@ -1,19 +1,19 @@
 race_code,cand_id,name,party,slot,incumbent,first_pct,final_pct,win_prob,won
-AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,45.47,55.87,87.2,1
-AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,21.47,44.13,9.6,0
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,45.47,55.87,87.4,1
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,21.47,44.13,9.5,0
 AK-GOV,C-1061,Dave Bronson,REP,,0,17.39,0.0,1.6,0
 AK-GOV,C-1068,Candice English,REP,,0,15.67,0.0,1.6,0
-AK-SEN,C-0001,Mary Peltola,DEM,dem,0,47.66,49.32,45.9,0
-AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,48.66,50.68,54.1,1
+AK-SEN,C-0001,Mary Peltola,DEM,dem,0,47.66,49.32,46.2,0
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,48.66,50.68,53.8,1
 AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,0.0,0.0,0
 AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.18,0.0,0.0,0
-ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.13,50.13,51.2,1
-ME-SEN,C-0030,Susan Collins,REP,rep,1,49.87,49.87,48.8,0
-AK-01,C-0145,Nick Begich III,REP,rep,1,49.91,51.47,62.3,1
-AK-01,C-1013,Bill Hill,IND,ind,0,45.09,48.53,37.7,0
+ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.13,50.13,51.3,1
+ME-SEN,C-0030,Susan Collins,REP,rep,1,49.87,49.87,48.7,0
+AK-01,C-0145,Nick Begich III,REP,rep,1,49.91,51.47,61.8,1
+AK-01,C-1013,Bill Hill,IND,ind,0,45.09,48.53,38.2,0
 AK-01,C-1063,Eric Hafner,DEM,,0,3.8,0.0,0.0,0
 AK-01,C-1071,"James C. ""Jim"" McDermott",LIB,,0,1.2,0.0,0.0,0
 ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.41,65.41,99.9,1
 ME-01,C-0536,Ronald Russell,REP,rep,0,34.59,34.59,0.1,0
-ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.44,47.44,30.9,0
-ME-02,C-0538,Paul LePage,REP,rep,0,52.56,52.56,69.1,1
+ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.44,47.44,30.8,0
+ME-02,C-0538,Paul LePage,REP,rep,0,52.56,52.56,69.2,1
