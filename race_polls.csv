@@ -38,6 +38,7 @@ AK-SEN,25f3873e-a991-4492-a3a3-aa1c6b9c0d71,Alaska Survey Research,2026-08-05,13
 AK-SEN,5644eb93-7595-4afd-bacf-2fd24589ef3b,Alaska Survey Research,2026-08-23,1495,1.3,,50.6,49.4,1.2,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AL-02,c51b7de5-0b90-464c-8778-459c24d25b3b,Impact Research,2026-06-25,400,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,ea557308-74fd-4024-b845-b5fd1baa6132,DCCC Targeting Team,2026-07-30,421,1.3,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
+AL-02,1ecb97e5-f461-4791-b993-d7ec2454c20c,Tulchin Research,2026-08-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-GOV,4d581320-daef-4dfa-b5f4-150ed5aa8d9a,Cygnal Political,2025-11-13,605,1.4,R,34.1,52.6,-18.5,0.0,,,0.0,0.0,Doug Jones,Tommy Tuberville
 AL-GOV,b9c13563-2436-4177-852e-cdf4cada9a05,yes. every kid. foundation.,2026-07-11,601,1.3,,41.0,49.0,-8.0,0.0,,,0.0,0.0,Doug Jones,Tommy Tuberville
 AL-SEN,b9c13563-2436-4177-852e-cdf4cada9a05,yes. every kid. foundation.,2026-07-11,601,1.3,,32.0,47.0,-15.0,0.0,,,0.0,0.0,Everett Wess,Barry Moore
@@ -145,6 +146,8 @@ FL-16,09a5223e-3e82-438e-9d6f-cb48d132fb83,SEA Polling,2026-08-29,400,1.3,D,40.0
 FL-22,bd0ac633-f121-4128-9600-b5eedcdf0cae,GQR,2026-06-25,400,1.3,D,43.0,45.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 FL-22,bd0ac633-f121-4128-9600-b5eedcdf0cae,GQR,2026-06-25,400,1.3,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Pia Dandiya,Belinda Keiser
 FL-22,a1706cf9-840c-44ae-8011-bc0b7391776f,Tavern Research,2026-08-12,551,1.3,D,50.0,50.0,0.0,0.0,,,0.0,0.0,Pia Dandiya,Casey Askar
+FL-22,491431af-a6d9-4569-b686-06c50a069cb0,Impact Research,2026-08-31,0,1.8,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+FL-22,491431af-a6d9-4569-b686-06c50a069cb0,Impact Research,2026-08-31,0,1.8,D,46.0,44.0,2.0,0.0,,,0.0,0.0,Pia Dandiya,Casey Askar
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,42.9,32.7,10.2,0.0,,,0.0,0.0,Jared Moskowitz,Scott Singer
 FL-25,833f0191-74b7-458f-9669-a6ec11f8c0bc,Beacon Insights,2026-05-02,461,1.3,D,40.1,38.5,1.6,0.0,,,0.0,0.0,Jared Moskowitz,George Moraitis
 FL-25,87c42ce2-22e9-43b2-9cac-325c035f136c,Middle Seat,2026-05-06,576,1.3,D,51.0,39.0,12.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -317,6 +320,7 @@ IA-SEN,bfa1e330-e1e0-4fb7-9be9-1ee513cb362e,Suffolk University,2026-08-23,500,1.
 IA-SEN,4a8cbf1d-25af-407c-afde-6ed939b8a7b8,Abacus Data,2026-08-28,323,1.3,,48.0,41.0,7.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,4a8cbf1d-25af-407c-afde-6ed939b8a7b8,Abacus Data,2026-08-28,500,1.3,,41.0,36.0,5.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,d2f6780d-b3b3-407a-87bf-11d8e07e30f2,Wedgewood Polls,2026-08-29,600,1.3,,48.0,50.0,-2.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
+IA-SEN,da7271f6-a289-40b8-bd8f-dcf49de9142e,Global Strategy Group,2026-08-31,800,1.8,D,46.0,42.0,4.0,6.0,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,499bff96-0834-41dc-bc89-d2dd01eacac1,Emerson College,2026-09-01,750,2.5,,45.0,49.5,-4.4,0.8,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
 ID-01,43f0dff7-67cb-4ecf-9d29-16dda38a31cf,SurveyUSA,2026-07-14,480,2.4,,35.0,45.0,-10.0,6.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
 ID-01,909a333a-6acb-47ed-9a65-5b475b941da2,Change Research,2026-07-30,0,1.7,D,25.0,46.0,-21.0,4.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
@@ -357,6 +361,7 @@ KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,648
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,40.0,41.0,-1.0,0.0,,,0.0,0.0,Charles Booker,Nate Morris
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,650,1.8,D,38.0,49.0,-11.0,0.0,,,0.0,0.0,Charles Booker,Andy Barr
 KY-SEN,0b7fff34-7e98-4953-92ba-f7035a5f7e8f,Public Policy Polling,2025-12-19,649,1.8,D,36.0,50.0,-14.0,0.0,,,0.0,0.0,Charles Booker,Generic Republican
+KY-SEN,8e8d7685-88cb-4337-ae68-848158d5d113,Global Strategy Group,2026-08-27,600,1.8,D,40.0,49.0,-9.0,0.0,,,0.0,0.0,Charles Booker,Andy Barr
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,44.0,12.0,32.0,0.0,,,0.0,0.0,Maura Healey,Brian Shortsleeve
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,41.0,14.0,27.0,0.0,,,0.0,0.0,Maura Healey,Peter Durant
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,40.0,15.0,25.0,0.0,,,0.0,0.0,Maura Healey,Mike Kennealy
@@ -1048,11 +1053,6 @@ TX-15,f31fd054-0b5b-45af-8a80-fe99659f44e8,Applecart,2026-05-25,802,1.3,D,48.0,4
 TX-15,258866ca-bfe9-405b-be1e-c510adc81f75,"Normington, Petts & Associates",2026-07-27,0,1.3,D,48.0,46.0,2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 TX-15,258866ca-bfe9-405b-be1e-c510adc81f75,"Normington, Petts & Associates",2026-07-27,0,1.3,D,51.0,45.0,6.0,0.0,,,0.0,0.0,Bobby Pulido,Monica De La Cruz
 TX-15,8f898e14-020f-4c71-9b4d-95e6d53a14eb,Barbara Jordan Public Policy Research and Survey Center,2026-08-22,700,1.3,,50.0,45.0,5.0,0.0,,,0.0,0.0,Bobby Pulido,Monica De La Cruz
-TX-18,8fa4b92d-be3e-46e1-b65e-38c6a2f5d7e6,University of Houston Hobby School of Public Affairs,2025-07-18,400,1.3,,19.0,14.0,5.0,4.0,IND,George Foreman IV,36.0,0.0,Amanda Edwards,Carmen María Montiel
-TX-18,5fc9521a-9a61-4bd5-aef8-65c46fe4e547,brilliant corners Research & Strategies,2025-07-23,500,1.3,,18.0,12.0,6.0,6.0,IND,George Foreman IV,24.0,0.0,Amanda Edwards,Carmen María Montiel
-TX-18,293b6f05-050e-453a-90ec-6986649d3c56,Lake Research Partners,2025-08-25,400,1.7,D,22.0,15.0,7.0,4.0,IND,George Foreman IV,42.0,0.0,Jolanda Jones,Carmen María Montiel
-TX-18,865b6555-6369-4587-91d0-1c68e19a5ad8,Blueprint Polling,2025-09-10,454,1.3,D,25.3,18.9,6.4,2.0,IND,George Foreman IV,27.1,0.0,Jolanda Jones,Carmen María Montiel
-TX-18,ea5e75de-7f2a-418f-91e2-ab207ec3f3fe,University of Houston Hobby School of Public Affairs,2025-10-11,1200,1.3,,27.0,6.0,21.0,4.0,IND,George Foreman IV,42.0,6.0,Christian Menefee,Carmen María Montiel
 TX-23,06f1b1a2-e085-4f27-a4f3-c7f346bdc6c3,Public Policy Polling,2026-03-11,521,1.8,D,45.0,47.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 TX-23,06f1b1a2-e085-4f27-a4f3-c7f346bdc6c3,Public Policy Polling,2026-03-11,521,1.8,D,40.0,42.0,-2.0,0.0,,,0.0,0.0,Katy Padilla Stout,Brandon Herrera
 TX-28,85260468-cf88-4a08-926d-b0e7174754f9,Pulse Decision Science,2026-06-23,400,1.3,R,38.0,46.0,-8.0,0.0,,,0.0,0.0,Henry Cuellar,Tano Tijerina
