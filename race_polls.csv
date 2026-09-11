@@ -121,8 +121,8 @@ CO-05,2a67eaeb-fb8c-4087-ad7a-761f4165e2d3,Global Strategy Group,2026-07-21,450,
 CO-GOV,8c916fa9-4a12-4e70-95fd-2fdd56b7e545,Magellan Strategies,2025-08-12,1136,1.3,,50.1,37.8,12.3,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 CT-GOV,748f1fff-2f81-4cca-a789-071e7ab88c52,OnMessage Inc.,2025-08-14,600,1.3,R,50.0,42.0,8.0,0.0,,,0.0,0.0,Ned Lamont,Erin Stewart
 CT-GOV,d51bef7e-c180-471e-b007-4b52ed80f222,University of New Hampshire,2026-06-23,821,1.3,,49.0,36.0,13.0,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
-CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,1000,1.3,,44.0,29.6,14.4,0.0,,,0.0,0.0,Josh Elliot,Ryan Fazio
-CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,0,1.3,,48.8,34.3,14.5,0.0,,,0.0,0.0,Josh Elliot,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,1000,1.3,,44.0,29.6,14.4,0.0,,,0.0,0.0,Josh Elliott,Ryan Fazio
+CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,0,1.3,,48.8,34.3,14.5,0.0,,,0.0,0.0,Josh Elliott,Ryan Fazio
 CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,1000,1.3,,49.7,29.5,20.2,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,e19f0e43-ea26-4328-9f7f-560f0a907d2f,GreatBlue Research,2026-07-26,0,1.3,,54.8,32.7,22.1,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,79198593-335c-4d1f-91d5-480874558622,University of New Hampshire,2026-08-24,803,1.3,,52.0,37.0,15.0,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
@@ -226,6 +226,7 @@ FL-SEN,4d861c8b-85ec-4c48-b202-172e27f1f06d,Change Research,2026-06-14,1015,1.7,
 FL-SEN,b7344ec9-d1d2-459e-a5ad-16965b6345e8,University of North Florida,2026-07-17,848,1.3,,41.6,50.0,-8.4,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 FL-SEN,b7344ec9-d1d2-459e-a5ad-16965b6345e8,University of North Florida,2026-07-17,848,1.3,,40.2,49.9,-9.7,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
 FL-SEN,9d8b464b-d0f1-4fa9-a1c2-f611d332cb71,Change Research,2026-09-09,1107,1.7,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
+FL-SEN,7f4eca68-093c-447a-8a67-3560ea1e48ee,Quantus Insights,2026-09-10,733,1.0,R,43.0,50.4,-7.4,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 GA-07,9b91ef78-703c-4c40-8ae9-47cb323a5d33,20/20 Insight,2026-08-26,445,1.3,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Tony Kozycki,Rich McCormick
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,49.0,43.0,6.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Burt Jones
 GA-GOV,e154d9f8-b73d-4cec-b9db-b5df7f368768,Echelon Insights,2026-04-09,407,2.0,R,46.0,44.0,2.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Brad Raffensperger
@@ -299,6 +300,7 @@ IA-GOV,c04eb984-be14-411e-8c39-84c047d5b0c2,Emerson College,2026-08-04,712,2.5,,
 IA-GOV,bfa1e330-e1e0-4fb7-9be9-1ee513cb362e,Suffolk University,2026-08-23,500,1.3,,47.8,43.6,4.2,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-GOV,d2f6780d-b3b3-407a-87bf-11d8e07e30f2,Wedgewood Polls,2026-08-29,600,1.3,,51.0,46.0,5.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-GOV,499bff96-0834-41dc-bc89-d2dd01eacac1,Emerson College,2026-09-01,750,2.5,,48.6,45.5,3.1,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
+IA-GOV,35aeda0e-b9e6-4fcd-9284-7518c4b38581,YouGov,2026-09-08,2167,2.3,,50.0,39.0,11.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-SEN,39375afc-d9f8-471e-82c0-adf6483528c2,Public Policy Polling,2025-06-03,568,1.8,D,43.0,45.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Joni Ernst
 IA-SEN,721758b1-a6cd-45d9-a764-99959b17c7a2,Public Policy Polling,2025-08-19,572,1.8,D,45.0,43.0,2.0,0.0,,,0.0,0.0,Zach Wahls,Joni Ernst
 IA-SEN,721758b1-a6cd-45d9-a764-99959b17c7a2,Public Policy Polling,2025-08-19,572,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Nathan Sage,Joni Ernst
@@ -324,6 +326,7 @@ IA-SEN,4a8cbf1d-25af-407c-afde-6ed939b8a7b8,Abacus Data,2026-08-28,500,1.3,,41.0
 IA-SEN,d2f6780d-b3b3-407a-87bf-11d8e07e30f2,Wedgewood Polls,2026-08-29,600,1.3,,48.0,50.0,-2.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,da7271f6-a289-40b8-bd8f-dcf49de9142e,Global Strategy Group,2026-08-31,800,1.8,D,46.0,42.0,4.0,6.0,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,499bff96-0834-41dc-bc89-d2dd01eacac1,Emerson College,2026-09-01,750,2.5,,45.0,49.5,-4.4,0.8,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
+IA-SEN,35aeda0e-b9e6-4fcd-9284-7518c4b38581,YouGov,2026-09-08,2166,2.3,,44.0,43.0,1.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 ID-01,43f0dff7-67cb-4ecf-9d29-16dda38a31cf,SurveyUSA,2026-07-14,480,2.4,,35.0,45.0,-10.0,6.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
 ID-01,909a333a-6acb-47ed-9a65-5b475b941da2,Change Research,2026-07-30,0,1.7,D,25.0,46.0,-21.0,4.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
 ID-GOV,909a333a-6acb-47ed-9a65-5b475b941da2,Change Research,2026-07-30,1213,1.7,D,31.0,52.0,-21.0,0.0,,,0.0,0.0,Generic Democrat,Brad Little
@@ -682,6 +685,7 @@ MN-SEN,b8ceed2d-4813-4108-a300-24a6dc39d81b,"Mason-Dixon Polling & Research, Inc
 MN-SEN,e5722003-c9f2-4014-9b05-6062607faa9f,SurveyUSA,2026-08-17,661,2.4,,46.0,41.0,5.0,1.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,eb8ad355-6d1e-479b-b7b1-5b54db88b965,TIPP Insights,2026-09-02,1494,1.5,R,40.0,38.0,2.0,4.1,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,eb8ad355-6d1e-479b-b7b1-5b54db88b965,TIPP Insights,2026-09-02,1192,1.5,R,44.0,41.9,2.1,3.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
+MN-SEN,cbda5f15-c2a1-4102-8b12-76064418a417,Quantus Insights,2026-09-10,720,1.0,R,48.9,45.4,3.5,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MO-02,8bbed3f3-5cce-4c2f-8715-207b7d0ff53b,FM3 Research,2026-05-31,600,1.3,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MO-02,8bbed3f3-5cce-4c2f-8715-207b7d0ff53b,FM3 Research,2026-05-31,600,1.3,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
 MS-SEN,bb2c7efc-df3d-4cee-aef5-0db1bb547945,Impact Research,2026-04-12,500,1.8,D,39.0,42.0,-3.0,6.0,IND,Ty Pinkins,0.0,0.0,Scott Colom,Cindy Hyde-Smith
@@ -1054,6 +1058,7 @@ SD-SEN,d67b23f2-1527-46ca-a7a0-952968287fc5,Public Policy Polling,2026-05-30,726
 SD-SEN,d67b23f2-1527-46ca-a7a0-952968287fc5,Public Policy Polling,2026-05-30,726,1.8,D,18.0,43.0,-25.0,23.0,IND,Brian Bengs,0.0,0.0,Julian Beaudion,Mike Rounds
 SD-SEN,5981cf79-b727-43d2-b1a0-f393d80123b9,Public Opinion Strategies,2026-07-09,500,1.9,R,33.0,56.0,-23.0,0.0,,,0.0,0.0,Brian Bengs,Mike Rounds
 SD-SEN,f0a5041f-3f24-4d32-971c-fc77204d0be6,Impact Research,2026-08-17,500,1.8,D,44.0,44.0,0.0,0.0,,,0.0,0.0,Brian Bengs,Mike Rounds
+SD-SEN,bcc17e73-d95e-4457-ab14-83e4162a8d65,Public Policy Polling,2026-09-09,629,1.8,D,42.0,45.0,-3.0,0.0,,,0.0,0.0,Brian Bengs,Mike Rounds
 TN-05,3166ee62-19f9-451f-9085-8ce50172d076,Impact Research,2026-05-13,558,1.8,D,41.0,47.0,-6.0,0.0,,,0.0,0.0,Chaz Molder,Andy Ogles
 TN-05,4955225f-a380-4e9f-966a-fd2020588f1a,Impact Research,2026-08-24,500,1.8,D,40.0,48.0,-8.0,1.0,IND,James Johnson,0.0,0.0,Chaz Molder,Charlie Hatcher
 TN-09,cc01c5f0-d327-4b00-b7c7-7eebef0fc5e2,Hart Research Associates,2026-09-03,400,1.8,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Justin Pearson,Brent Taylor
