@@ -12,6 +12,7 @@ __pycache__/
 # Large regenerable caches (the derived fundraising.csv IS committed)
 .fec_summary_2026.csv
 .fec_ie_2026.csv
+.fec_thirdparty_raw.csv
 
 # Secrets / credentials — never commit
 .env
