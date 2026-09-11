@@ -1,135 +1,132 @@
-race_code,party,name,fec_id
-AK-01,IND,"Hill, Bill",H6AK01092
-AZ-03,GRN,David Redkey,H6AZ01322
-AZ-06,GRN,Gary Swing,H6AZ06164
-CO-01,Unity,Critter Milton,
-CO-01,IND,Shimon Blau,H6CO01356
-CO-03,IND,Clifton Brown,
-CO-05,CON,Christopher Mitchell,H4CO05071
-CO-06,Unity,Meredith Ryan,
-CO-06,LIB,Patty McMahon,
-CO-07,LIB,"Dan ""Kilo"" Sallis",
-CO-07,CON,Lawrence Kyle Clark,
-CO-07,Unity,Susan Hall,
-CO-SEN,Unity,Adam Withrow,S6CO00564
-CO-SEN,LIB,Blake Huber,
-CO-SEN,Approval Voting,Christopher Baum,
-FL-04,IND,Todd Schaefer,H4FL04068
-FL-06,LIB,Andrew Parrott,
-HI-01,IND,Nathan M. Berning,H6HI01386
-IA-02,LIB,Rick Stewart,
-ID-01,CON,Brendan J. Gomez,H4ID01149
-ID-02,IND,Emre Houser,H6ID02282
-ID-02,LIB,Will Johanson,
-ID-SEN,LIB,Matt Loesby,
-ID-SEN,IND,Natalie M Fleming,S0ID00172
-IL-04,Working Class,Ed Hershey,H2IL04178
-KY-05,IND,Gerardo Serrano,H2KY05185
-KY-06,IND,Jay J Bowman,
-LA-02,IND,"Renada ""Honey"" Collins",
-LA-02,IND,"Walter ""Rocky"" Beach",
-MA-SEN,Party for Socialism and Liberation,Joseph Tache,S6MA00288
-MA-SEN,IND,Morgan Dawicki,S6MA00262
-MA-SEN,American Independent Party,Philip Devincentis,S6MA00247
-MI-01,U.S. Taxpayers,Doc Kovaly,
-MI-01,GRN,LaVeta Davenport,
-MI-01,Working Class,Liz Hakola,
-MI-01,IND,Zebulon Featherly,H6MI01275
-MI-02,Natural Law,Richard Sills,
-MI-05,LIB,Ronald A Muszynski,H6MI05235
-MI-05,U.S. Taxpayers,Sharon Marie Renier,
-MI-06,Working Class,Linda Rayburn,
-MI-06,U.S. Taxpayers,Mike Mickevicius,H6MI06241
-MI-06,LIB,Timothy A. Teagan,
-MI-08,GRN,Jim Casha,
-MI-08,Working Class,Kathy Goodwin,
-MI-09,Working Class,Jim Walkowicz,
-MI-09,U.S. Taxpayers,John Vlahos,
-MI-09,LIB,Kevin Vayko,
-MI-10,Working Class,Andrea L. Kirby,
-MI-10,LIB,Mike Saliba,
-MI-11,LIB,Farid Ishac,
-MI-11,GRN,Ryan Teasdale,
-MI-12,Working Class,Gary Walkowicz,
-MI-12,U.S. Taxpayers,Marc Joseph Sosnowski,
-MI-13,U.S. Taxpayers,Chris Dardzinski,H2MI13337
-MI-13,Working Class,Simone R. Coleman,
-MI-SEN,LIB,Lydia Christensen,S6MI00442
-MI-SEN,U.S. Taxpayers,Tim Long,S6MI00566
-MI-SEN,Natural Law,Walter P. Kristy,
-MN-SEN,IND,Marisa Simonetti,S6MN00481
-MP-01,IND,"Deleon Guerrero, Galvin Sablan",H6MP01027
-MT-02,LIB,Patrick McCracken,H6MT02176
-MT-SEN,LIB,Kyle Austin,S6MT00261
-NC-SEN,LIB,Shannon W. Bray,S0NC00335
-ND-01,IND,Helene Neville,H6ND01056
-NE-01,America First,Dan Hartong,
-NE-03,Legal Marijuana Now,David J. Else,H0NE03217
-NE-03,Nebraska Working People,Macey Budke,H6NE03206
-NE-SEN,America First,Chuck Conboy,
-NE-SEN,Legal Marijuana Now,Mike Marvin,S6NE00152
-NE-SEN,Nebraska Working People,Robin Richards,
-NJ-03,IND,Ryan Michael Kelly,H6NJ03192
-NJ-08,Socialist Workers,Craig Honts,
-NJ-08,IND,Da'Shone Hughey,H6NJ08217
-NJ-12,IND,Winston Jordan,
-NJ-SEN,IND,Veronica Fernandez,S0NJ00258
-NV-01,IND,"Steven ""Chap"" St John",H4NV03134
-NV-04,IND,William Johnson,
-NY-12,For All of Us,Wilneida Negron,H6NY12313
-NY-15,Socialism PSL,Andre Easton,H6NY15167
-NY-15,Conservative,Gonzalo Duran,
-OH-SEN,LIB,William B. Redpath,S6OH00429
-OK-05,IND,Austin Nieves,H4OK04176
-OK-SEN,IND,Curtis Stinnett,
-OK-SEN,LIB,Sevier White,
-OR-SEN,Progressive,Chris Henry,S2OR00234
-SC-SEN,CON,Mark Hackett,
-TN-01,IND,Chris Campbell,
-TN-01,IND,Joshua Ray Ashburn,
-TN-01,IND,Richard G. Baker,H0TN01191
-TN-01,IND,Tyler Brice Mitchell McClain,
-TN-02,IND,Bruce Fine,
-TN-03,IND,Donnie Lynn Ownby,H6TN03210
-TN-03,IND,Edward John Roland,H6TN03244
-TN-03,IND,Jean Howard-Hill,H4TN03165
-TN-03,IND,Rodney Joe King,
-TN-04,IND,Clay Faircloth,H2TN06188
-TN-05,IND,Micheál (Me-Haul) O'Leary,
-TN-06,IND,Christopher B. Monday,H6TN06189
-TN-07,IND,Lowell Reynolds,H6TN05330
-TN-08,IND,Adam D. Austill,H6TN08383
-TN-08,IND,Antonio Futch,H6TN08391
-TN-08,IND,"Henry J. Ward, III",
-TN-08,IND,"Pamela Jeanine ""P."" Moses",
-TN-08,IND,"Wendell ""Wells"" Blankenship",
-TN-09,IND,Michelle Davis Head,
-TN-SEN,IND,Andrew Gerena,
-TN-SEN,IND,"Catherine Barcel ""Barcy"" Whitson",S6TN00414
-TN-SEN,IND,James William Macon III,
-TN-SEN,IND,Jeremy Dean Hearn,
-TN-SEN,IND,Robert Jones,S6TN00372
-TN-SEN,IND,Tharon Chandler,S4TN00583
-TN-SEN,IND,Yoshi D. Matthews,S6TN00364
-TX-34,GRN,Eddie Espinoza,H6TX34106
-UT-01,IND,Elias Henry Montgomery,
-UT-02,Independent American,Carlton E. Bowen,H6UT02549
-UT-02,LIB,Daniel Cottam,H4UT01165
-UT-03,IND,Ayden Scott,H6UT03216
-UT-03,CON,Cassie Easley,H2UT02506
-UT-03,LIB,Michael R. Stoddard,H2UT03355
-UT-04,LIB,Taylor Wright,
-VA-02,IND,J. Matt Baker,H6VA02263
-VA-03,IND,Makiba A. Gaines,H6VA02248
-VA-07,IND,Joshua E. Ertle,H6VA07346
-VA-07,IND,Randall A. Terry,H6VA07312
-VA-07,LIB,Taner E. Demirci Lopez,
-VA-08,LIB,Shelly M. Arnoldi,
-VI-01,IND,"Sarauw, Janelle Karen",H6VI01065
-VT-01,IND,Phoenix K. Altair,
-VT-01,IND,Ryan P. Walton,H6VT01093
-VT-01,IND,"Suzanne ""Suz"" Seymour",H6VT00269
-WI-03,IND,Rustin Provance,H2WI03163
-WI-06,IND,Elizabeth Anne Fitzgibbon,H6WI06241
-WI-06,GRN,Matthew Arndt,H6WI06274
-WY-01,CON,Jeffrey Haggit,H0WY01051
+race_code,party,label,name,fec_id
+AZ-03,GRN,Green,David Redkey,H6AZ01322
+AZ-06,GRN,Green,Gary Swing,H6AZ06164
+CO-01,OTH,Unity,Critter Milton,
+CO-01,IND,Independent,Shimon Blau,H6CO01356
+CO-03,IND,Independent,Clifton Brown,
+CO-05,CON,Constitution,Christopher Mitchell,H4CO05071
+CO-06,OTH,Unity,Meredith Ryan,
+CO-06,LIB,Libertarian,Patty McMahon,
+CO-07,LIB,Libertarian,"Dan ""Kilo"" Sallis",
+CO-07,CON,Constitution,Lawrence Kyle Clark,
+CO-07,OTH,Unity,Susan Hall,
+CO-SEN,OTH,Unity,Adam Withrow,S6CO00564
+CO-SEN,LIB,Libertarian,Blake Huber,
+CO-SEN,OTH,Approval Voting,Christopher Baum,
+FL-04,IND,Independent,Todd Schaefer,H4FL04068
+FL-06,LIB,Libertarian,Andrew Parrott,
+HI-01,IND,Independent,Nathan M. Berning,H6HI01386
+IA-02,LIB,Libertarian,Rick Stewart,
+ID-01,CON,Constitution,Brendan J. Gomez,H4ID01149
+ID-02,IND,Independent,Emre Houser,H6ID02282
+ID-02,LIB,Libertarian,Will Johanson,
+ID-SEN,LIB,Libertarian,Matt Loesby,
+ID-SEN,IND,Independent,Natalie M Fleming,S0ID00172
+IL-04,OTH,Working Class,Ed Hershey,H2IL04178
+KY-05,IND,Independent,Gerardo Serrano,H2KY05185
+KY-06,IND,Independent,Jay J Bowman,
+LA-02,IND,Independent,"Renada ""Honey"" Collins",
+LA-02,IND,Independent,"Walter ""Rocky"" Beach",
+MA-SEN,OTH,Party for Socialism and Liberation,Joseph Tache,S6MA00288
+MA-SEN,IND,Independent,Morgan Dawicki,S6MA00262
+MA-SEN,OTH,American Independent Party,Philip Devincentis,S6MA00247
+MI-01,OTH,U.S. Taxpayers,Doc Kovaly,
+MI-01,GRN,Green,LaVeta Davenport,
+MI-01,OTH,Working Class,Liz Hakola,
+MI-01,IND,Independent,Zebulon Featherly,H6MI01275
+MI-02,OTH,Natural Law,Richard Sills,
+MI-05,LIB,Libertarian,Ronald A Muszynski,H6MI05235
+MI-05,OTH,U.S. Taxpayers,Sharon Marie Renier,
+MI-06,OTH,Working Class,Linda Rayburn,
+MI-06,OTH,U.S. Taxpayers,Mike Mickevicius,H6MI06241
+MI-06,LIB,Libertarian,Timothy A. Teagan,
+MI-08,GRN,Green,Jim Casha,
+MI-08,OTH,Working Class,Kathy Goodwin,
+MI-09,OTH,Working Class,Jim Walkowicz,
+MI-09,OTH,U.S. Taxpayers,John Vlahos,
+MI-09,LIB,Libertarian,Kevin Vayko,
+MI-10,OTH,Working Class,Andrea L. Kirby,
+MI-10,LIB,Libertarian,Mike Saliba,
+MI-11,LIB,Libertarian,Farid Ishac,
+MI-11,GRN,Green,Ryan Teasdale,
+MI-12,OTH,Working Class,Gary Walkowicz,
+MI-12,OTH,U.S. Taxpayers,Marc Joseph Sosnowski,
+MI-13,OTH,U.S. Taxpayers,Chris Dardzinski,H2MI13337
+MI-13,OTH,Working Class,Simone R. Coleman,
+MI-SEN,LIB,Libertarian,Lydia Christensen,S6MI00442
+MI-SEN,OTH,U.S. Taxpayers,Tim Long,S6MI00566
+MI-SEN,OTH,Natural Law,Walter P. Kristy,
+MN-SEN,IND,Independent,Marisa Simonetti,S6MN00481
+MT-02,LIB,Libertarian,Patrick McCracken,H6MT02176
+MT-SEN,LIB,Libertarian,Kyle Austin,S6MT00261
+NC-SEN,LIB,Libertarian,Shannon W. Bray,S0NC00335
+ND-01,IND,Independent,Helene Neville,H6ND01056
+NE-01,OTH,America First,Dan Hartong,
+NE-03,OTH,Legal Marijuana Now,David J. Else,H0NE03217
+NE-03,OTH,Nebraska Working People,Macey Budke,H6NE03206
+NE-SEN,OTH,America First,Chuck Conboy,
+NE-SEN,OTH,Legal Marijuana Now,Mike Marvin,S6NE00152
+NE-SEN,OTH,Nebraska Working People,Robin Richards,
+NJ-03,IND,Independent,Ryan Michael Kelly,H6NJ03192
+NJ-08,OTH,Socialist Workers,Craig Honts,
+NJ-08,IND,Independent,Da'Shone Hughey,H6NJ08217
+NJ-12,IND,Independent,Winston Jordan,
+NJ-SEN,IND,Independent,Veronica Fernandez,S0NJ00258
+NV-01,IND,Independent,"Steven ""Chap"" St John",H4NV03134
+NV-04,IND,Independent,William Johnson,
+NY-12,OTH,For All of Us,Wilneida Negron,H6NY12313
+NY-15,OTH,Socialism PSL,Andre Easton,H6NY15167
+NY-15,OTH,Conservative,Gonzalo Duran,
+OH-SEN,LIB,Libertarian,William B. Redpath,S6OH00429
+OK-05,IND,Independent,Austin Nieves,H4OK04176
+OK-SEN,IND,Independent,Curtis Stinnett,
+OK-SEN,LIB,Libertarian,Sevier White,
+OR-SEN,OTH,Progressive,Chris Henry,S2OR00234
+SC-SEN,CON,Constitution,Mark Hackett,
+TN-01,IND,Independent,Chris Campbell,
+TN-01,IND,Independent,Joshua Ray Ashburn,
+TN-01,IND,Independent,Richard G. Baker,H0TN01191
+TN-01,IND,Independent,Tyler Brice Mitchell McClain,
+TN-02,IND,Independent,Bruce Fine,
+TN-03,IND,Independent,Donnie Lynn Ownby,H6TN03210
+TN-03,IND,Independent,Edward John Roland,H6TN03244
+TN-03,IND,Independent,Jean Howard-Hill,H4TN03165
+TN-03,IND,Independent,Rodney Joe King,
+TN-04,IND,Independent,Clay Faircloth,H2TN06188
+TN-05,IND,Independent,Micheál (Me-Haul) O'Leary,
+TN-06,IND,Independent,Christopher B. Monday,H6TN06189
+TN-07,IND,Independent,Lowell Reynolds,H6TN05330
+TN-08,IND,Independent,Adam D. Austill,H6TN08383
+TN-08,IND,Independent,Antonio Futch,H6TN08391
+TN-08,IND,Independent,"Henry J. Ward, III",
+TN-08,IND,Independent,"Pamela Jeanine ""P."" Moses",
+TN-08,IND,Independent,"Wendell ""Wells"" Blankenship",
+TN-09,IND,Independent,Michelle Davis Head,
+TN-SEN,IND,Independent,Andrew Gerena,
+TN-SEN,IND,Independent,"Catherine Barcel ""Barcy"" Whitson",S6TN00414
+TN-SEN,IND,Independent,James William Macon III,
+TN-SEN,IND,Independent,Jeremy Dean Hearn,
+TN-SEN,IND,Independent,Robert Jones,S6TN00372
+TN-SEN,IND,Independent,Tharon Chandler,S4TN00583
+TN-SEN,IND,Independent,Yoshi D. Matthews,S6TN00364
+TX-34,GRN,Green,Eddie Espinoza,H6TX34106
+UT-01,IND,Independent,Elias Henry Montgomery,
+UT-02,OTH,Independent American,Carlton E. Bowen,H6UT02549
+UT-02,LIB,Libertarian,Daniel Cottam,H4UT01165
+UT-03,IND,Independent,Ayden Scott,H6UT03216
+UT-03,CON,Constitution,Cassie Easley,H2UT02506
+UT-03,LIB,Libertarian,Michael R. Stoddard,H2UT03355
+UT-04,LIB,Libertarian,Taylor Wright,
+VA-02,IND,Independent,J. Matt Baker,H6VA02263
+VA-03,IND,Independent,Makiba A. Gaines,H6VA02248
+VA-07,IND,Independent,Joshua E. Ertle,H6VA07346
+VA-07,IND,Independent,Randall A. Terry,H6VA07312
+VA-07,LIB,Libertarian,Taner E. Demirci Lopez,
+VA-08,LIB,Libertarian,Shelly M. Arnoldi,
+VT-01,IND,Independent,Phoenix K. Altair,
+VT-01,IND,Independent,Ryan P. Walton,H6VT01093
+VT-01,IND,Independent,"Suzanne ""Suz"" Seymour",H6VT00269
+WI-03,IND,Independent,Rustin Provance,H2WI03163
+WI-06,IND,Independent,Elizabeth Anne Fitzgibbon,H6WI06241
+WI-06,GRN,Green,Matthew Arndt,H6WI06274
+WY-01,CON,Constitution,Jeffrey Haggit,H0WY01051
