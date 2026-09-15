@@ -705,6 +705,7 @@ MT-01,0245de88-747f-4893-9c92-fd35eb70f977,Peak Insights,2026-01-15,400,1.3,R,41
 MT-01,f55d29d1-a799-4b26-8406-120005160eee,Upswing Research,2026-05-05,401,1.3,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Matt Rains,Aaron Flint
 MT-01,f55d29d1-a799-4b26-8406-120005160eee,Upswing Research,2026-05-05,401,1.3,D,43.0,48.0,-5.0,0.0,,,0.0,0.0,Sam Forstag,Aaron Flint
 MT-01,6f4f65a0-437e-4ea3-b0c0-06ebc4e20386,Impact Research,2026-06-25,500,1.8,D,44.0,44.0,0.0,0.0,,,0.0,5.0,Sam Forstag,Aaron Flint
+MT-01,b611f1b0-7ca1-49c8-9c2d-29140802d492,Rutgers-Eagleton,2026-09-07,375,1.3,,41.0,42.0,-1.0,5.0,LIB,Nick Sheedy,0.0,0.0,Sam Forstag,Aaron Flint
 MT-SEN,a4cdceed-7a8c-4b70-9ad1-d62e948b6530,yes. every kid. foundation.,2026-01-26,500,1.3,,19.0,43.0,-24.0,15.0,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
 MT-SEN,1454464f-c38a-44fc-96d8-bb09d7f9ae0c,American Pulse Research & Polling,2026-02-18,607,1.2,R,40.0,53.9,-13.9,0.0,,,0.0,0.0,Seth Bodnar,Steve Daines
 MT-SEN,1454464f-c38a-44fc-96d8-bb09d7f9ae0c,American Pulse Research & Polling,2026-02-18,607,1.2,R,25.1,51.7,-26.6,15.9,IND,Seth Bodnar,0.0,0.0,Reilly Neill,Steve Daines
@@ -808,6 +809,7 @@ NH-GOV,efcc0bd7-9216-4651-8c14-726b8f5916bb,University of New Hampshire,2026-06-
 NH-GOV,323ff676-e8d3-44aa-a932-d8cb8fbc0695,St. Anselm,2026-06-25,1614,1.3,,37.0,45.0,-8.0,0.0,,,0.0,0.0,Cinde Warmington,Kelly Ayotte
 NH-GOV,ceea1397-da26-4ef3-8b12-629a82c88d6c,St. Anselm,2026-08-18,1411,1.3,,38.0,49.0,-11.0,0.0,,,0.0,0.0,Cinde Warmington,Kelly Ayotte
 NH-GOV,da531189-726e-4fe8-af41-495962027a60,University of New Hampshire,2026-08-24,1878,1.3,,39.0,49.0,-10.0,0.0,,,0.0,0.0,Cinde Warmington,Kelly Ayotte
+NH-GOV,d07181b1-c252-41b9-9cb7-6714cf8bab4a,co/efficient,2026-09-11,958,1.0,R,34.0,55.0,-21.0,3.0,LIB,Stephen Villee,0.0,0.0,Cinde Warmington,Kelly Ayotte
 NH-SEN,7baaa8e1-ecf8-5806-902f-7ca98b0c7412,Praecones Analytica,2025-03-01,626,1.3,,58.9,41.1,17.8,0.0,,,0.0,0.0,Jeanne Shaheen,Frank Edelblut
 NH-SEN,7baaa8e1-ecf8-5806-902f-7ca98b0c7412,Praecones Analytica,2025-03-01,626,1.3,,45.6,54.4,-8.8,0.0,,,0.0,0.0,Jeanne Shaheen,Chris Sununu
 NH-SEN,7baaa8e1-ecf8-5806-902f-7ca98b0c7412,Praecones Analytica,2025-03-01,626,1.3,,55.1,44.9,10.2,0.0,,,0.0,0.0,Jeanne Shaheen,Scott Brown
@@ -848,6 +850,8 @@ NH-SEN,ceea1397-da26-4ef3-8b12-629a82c88d6c,St. Anselm,2026-08-18,1411,1.3,,48.0
 NH-SEN,da531189-726e-4fe8-af41-495962027a60,University of New Hampshire,2026-08-24,1846,1.3,,45.0,40.0,5.0,0.0,,,0.0,0.0,Chris Pappas,Scott Brown
 NH-SEN,da531189-726e-4fe8-af41-495962027a60,University of New Hampshire,2026-08-24,1846,1.3,,43.0,45.0,-2.0,0.0,,,0.0,0.0,Chris Pappas,John Sununu
 NH-SEN,a7102e62-abb1-46c2-a128-21e53a60375c,"Fabrizio, Lee & Associates",2026-08-30,600,1.3,R,36.0,37.0,-1.0,1.0,IND,Tim Harris,0.0,0.0,Chris Pappas,John Sununu
+NH-SEN,d07181b1-c252-41b9-9cb7-6714cf8bab4a,co/efficient,2026-09-11,958,1.0,R,46.0,46.0,0.0,0.0,,,0.0,0.0,Chris Pappas,John Sununu
+NH-SEN,d07181b1-c252-41b9-9cb7-6714cf8bab4a,co/efficient,2026-09-11,958,1.0,R,46.0,46.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NJ-02,1f1d93d8-d35a-4c69-ac7d-93f2eb120b0a,Public Policy Polling,2025-05-22,505,1.8,D,36.0,46.0,-10.0,0.0,,,0.0,0.0,Generic Democrat,Jeff Van Drew
 NJ-07,7cf4ffbe-1c0e-4672-a077-1f3ca0aed5ba,Z to A Research,2026-05-26,430,1.3,D,47.0,43.0,4.0,0.0,,,0.0,0.0,Rebecca Bennett,Thomas H. Kean Jr.
 NJ-07,7cf4ffbe-1c0e-4672-a077-1f3ca0aed5ba,Z to A Research,2026-05-26,430,1.3,D,46.0,43.0,3.0,0.0,,,0.0,0.0,Tina Shah,Thomas H. Kean Jr.
