@@ -11,18 +11,18 @@ AK-01,4526fc3d-7f56-4e8f-9b98-5981c216ed79,Tavern Research,2026-05-27,452,1.3,D,
 AK-01,8e054071-9b5e-46d0-a921-ecc4f3c1737e,The New York Times/Siena University,2026-06-29,593,3.0,,39.2,51.1,-12.0,0.0,,,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,def7f487-2bd9-410b-b135-c0d6a7de191a,The Bullfinch Group,2026-07-16,546,1.5,,32.0,46.0,-14.0,20.0,IND,Bill Hill,0.0,0.0,Matt Schultz,Nick Begich
 AK-01,7ec6f01b-349f-4e8a-b058-78704ccaaace,Data for Progress,2026-08-04,605,1.9,D,37.0,47.0,-10.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
-AK-01,25f3873e-a991-4492-a3a3-aa1c6b9c0d71,Alaska Survey Research,2026-08-05,1371,1.3,,15.2,50.4,-35.2,34.4,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
 AK-01,2f3e0cb7-97d9-49ab-b495-f74c7cb5f55f,GBAO,2026-08-05,500,1.7,D,42.0,46.0,-4.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
+AK-01,25f3873e-a991-4492-a3a3-aa1c6b9c0d71,Alaska Survey Research,2026-08-05,1371,1.3,,14.7,47.9,-33.2,33.2,IND,Bill Hill,0.0,4.2,Eric Hafner,Nick Begich
 AK-01,5644eb93-7595-4afd-bacf-2fd24589ef3b,Alaska Survey Research,2026-08-23,1872,1.3,,5.7,50.6,-44.9,39.1,IND,Bill Hill,4.6,0.0,John Williams,Nick Begich
-AK-01,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,43.0,57.0,-14.0,0.0,,,0.0,0.0,Bill Hill,Nick Begich
+AK-01,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,9.0,45.0,-36.0,31.0,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
 AK-GOV,1cb7cec3-d3fa-4974-9c0d-32629c10d681,Data for Progress,2025-03-07,1008,1.9,D,44.0,34.0,10.0,0.0,,,0.0,0.0,Mary Peltola,Nancy Dahlstrom
-AK-GOV,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,Data for Progress,2025-07-27,491,1.9,D,65.0,35.0,30.0,0.0,,,0.0,0.0,Mary Peltola,Nancy Dahlstrom
-AK-GOV,b55efd06-30f8-4790-a594-5610c44fc1fb,Alaska Survey Research,2025-10-14,1748,1.3,,50.6,49.4,1.2,0.0,,,0.0,0.0,Tom Begich,Nancy Dahlstrom
-AK-GOV,2abdc064-3a16-4478-a841-23467c99f334,Data for Progress,2025-10-23,582,1.9,D,67.0,33.0,34.0,0.0,,,0.0,0.0,Mary Peltola,Dave Bronson
+AK-GOV,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,Data for Progress,2025-07-27,584,1.9,D,47.0,13.0,34.0,0.0,,,8.0,32.0,Mary Peltola,Bernadette Wilson
+AK-GOV,b55efd06-30f8-4790-a594-5610c44fc1fb,Alaska Survey Research,2025-10-14,1748,1.3,,41.4,20.1,21.3,0.0,,,0.0,38.5,Tom Begich,Click Bishop
+AK-GOV,2abdc064-3a16-4478-a841-23467c99f334,Data for Progress,2025-10-23,823,1.9,D,41.0,10.0,31.0,0.0,,,0.0,33.0,Mary Peltola,Bernadette Wilson
 AK-GOV,399dc078-5577-4de2-8894-d5a534d1bdd3,Lake Research Partners,2026-02-11,600,1.7,D,38.0,16.0,22.0,0.0,,,0.0,21.0,Tom Begich,Bernadette Wilson
-AK-GOV,b613d76c-3e02-43de-aa2a-d6323fbd68fe,Alaska Survey Research,2026-04-19,0,1.3,,53.9,46.1,7.8,0.0,,,0.0,0.0,Tom Begich,Bernadette Wilson
-AK-GOV,20f27607-a8b9-472f-bc31-aca78c152dae,Alaska Survey Research,2026-07-01,0,1.3,,50.9,49.1,1.8,0.0,,,0.0,0.0,Tom Begich,Bernadette Wilson
-AK-GOV,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,55.0,45.0,10.0,0.0,,,0.0,0.0,Jonathan Kreiss-Tomkins,Bernadette Wilson
+AK-GOV,b613d76c-3e02-43de-aa2a-d6323fbd68fe,Alaska Survey Research,2026-04-19,0,1.3,,41.0,21.8,19.2,0.0,,,0.0,37.3,Tom Begich,Bernadette Wilson
+AK-GOV,20f27607-a8b9-472f-bc31-aca78c152dae,Alaska Survey Research,2026-07-01,0,1.3,,22.1,21.8,0.3,10.5,IND,Bill Walker,15.5,30.1,Tom Begich,Bernadette Wilson
+AK-GOV,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,40.0,20.0,20.0,0.0,,,0.0,21.0,Jonathan Kreiss-Tomkins,Bernadette Wilson
 AK-GOV,16224059-2ccc-4343-9243-33991199136c,co/efficient,2026-09-17,799,1.0,R,43.0,20.0,23.0,0.0,,,0.0,23.0,Jonathan Kreiss-Tomkins,Bernadette Wilson
 AK-SEN,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,Data for Progress,2025-07-27,678,1.9,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,155a2fd2-d990-44fd-a147-09a14779f962,Alaska Survey Research,2025-08-01,1613,1.3,,42.5,46.7,-4.2,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
@@ -31,16 +31,16 @@ AK-SEN,2abdc064-3a16-4478-a841-23467c99f334,Data for Progress,2025-10-23,823,1.9
 AK-SEN,4d33f950-ca95-4b26-b961-c02b133cbfcd,The Tyson Group,2025-11-13,600,1.3,,43.0,39.0,4.0,0.0,,,0.0,0.0,Generic Democrat,Dan Sullivan
 AK-SEN,738d7b99-da3b-4c01-8c34-1ad6bd19e307,Alaska Survey Research,2026-01-11,1681,1.3,,48.0,46.4,1.6,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,02747cb8-c9f8-4c09-b283-67fcf0ec90b0,Public Policy Polling,2026-01-17,611,1.8,D,49.0,47.0,2.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
-AK-SEN,e8d83b3b-cf66-4eb1-a16d-49e053bc3698,Alaska Survey Research,2026-03-22,1340,1.3,,52.4,47.6,4.8,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
-AK-SEN,b613d76c-3e02-43de-aa2a-d6323fbd68fe,Alaska Survey Research,2026-04-19,1946,1.3,,50.2,43.6,6.6,0.0,,,0.0,6.2,Mary Peltola,Dan Sullivan
+AK-SEN,e8d83b3b-cf66-4eb1-a16d-49e053bc3698,Alaska Survey Research,2026-03-22,1340,1.3,,48.8,43.5,5.3,0.0,,,2.4,5.2,Mary Peltola,Dan Sullivan
+AK-SEN,b613d76c-3e02-43de-aa2a-d6323fbd68fe,Alaska Survey Research,2026-04-19,1946,1.3,,49.1,42.5,6.6,3.2,IND,Sidney Hill,0.0,5.2,Mary Peltola,Dan Sullivan
 AK-SEN,24511bba-225f-4c6f-91fc-a51dcc039b64,Alaska Survey Research,2026-05-17,1401,1.3,,48.4,43.8,4.6,0.0,,,0.0,7.8,Mary Peltola,Dan Sullivan
 AK-SEN,35cede46-c867-4b0b-ab55-934d055eccb1,Alaska Survey Research,2026-06-07,1393,1.3,,49.4,44.2,5.2,0.0,,,0.0,6.4,Mary Peltola,Dan Sullivan
 AK-SEN,8e054071-9b5e-46d0-a921-ecc4f3c1737e,The New York Times/Siena University,2026-06-29,593,3.0,,45.1,47.5,-2.4,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
-AK-SEN,7ec6f01b-349f-4e8a-b058-78704ccaaace,Data for Progress,2026-08-04,567,1.9,D,53.0,47.0,6.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
+AK-SEN,7ec6f01b-349f-4e8a-b058-78704ccaaace,Data for Progress,2026-08-04,605,1.9,D,47.0,41.0,6.0,4.0,NPA,Dan J. Sullivan,0.0,3.0,Mary Peltola,Dan Sullivan
 AK-SEN,25f3873e-a991-4492-a3a3-aa1c6b9c0d71,Alaska Survey Research,2026-08-05,1371,1.3,,50.8,49.2,1.6,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,5644eb93-7595-4afd-bacf-2fd24589ef3b,Alaska Survey Research,2026-08-23,1495,1.3,,50.6,49.4,1.2,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
-AK-SEN,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,53.0,47.0,6.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
-AK-SEN,16224059-2ccc-4343-9243-33991199136c,co/efficient,2026-09-17,799,1.0,R,44.0,49.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+AK-SEN,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09-11,800,1.3,,46.0,41.0,5.0,4.0,NPA,Dan J. Sullivan,0.0,3.0,Mary Peltola,Dan Sullivan
+AK-SEN,16224059-2ccc-4343-9243-33991199136c,co/efficient,2026-09-17,799,1.0,R,46.0,48.0,-2.0,1.0,NPA,Dan J. Sullivan,0.0,1.0,Mary Peltola,Dan Sullivan
 AL-02,c51b7de5-0b90-464c-8778-459c24d25b3b,Impact Research,2026-06-25,400,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,ea557308-74fd-4024-b845-b5fd1baa6132,DCCC Targeting Team,2026-07-30,421,1.3,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,1ecb97e5-f461-4791-b993-d7ec2454c20c,Tulchin Research,2026-08-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
@@ -164,6 +164,7 @@ FL-27,ad170747-6130-4ec6-ae24-b2f8acfa724d,Kaplan Strategies,2025-07-27,804,1.3,
 FL-27,ef9c9a62-8338-48a1-9a39-3840a96b72ad,Blueprint Polling,2026-03-08,451,1.3,,40.0,47.0,-7.0,0.0,,,0.0,0.0,Robin Peguero,María Elvira Salazar
 FL-27,ef9c9a62-8338-48a1-9a39-3840a96b72ad,Blueprint Polling,2026-03-08,451,1.3,,43.0,46.0,-3.0,0.0,,,0.0,0.0,Eliott Rodriguez,María Elvira Salazar
 FL-27,624b66b5-f71f-49eb-a4b4-8679da4feada,Bendixen & Amandi International,2026-08-30,600,1.3,D,45.0,45.0,0.0,0.0,,,0.0,0.0,Eliott Rodriguez,María Elvira Salazar
+FL-27,dc9e98d0-e4c2-4b30-b29f-ad460ffd4eed,Tulchin Research,2026-09-13,600,1.3,D,46.0,47.0,-1.0,0.0,,,0.0,0.0,Eliott Rodriguez,María Elvira Salazar
 FL-28,c757ecb7-94f9-474d-b3e6-5966f7426513,MDW Communications,2026-03-07,514,1.3,,41.0,45.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 FL-28,c757ecb7-94f9-474d-b3e6-5966f7426513,MDW Communications,2026-03-07,514,1.3,,40.0,46.0,-6.0,0.0,,,0.0,0.0,Hector Mujica,Carlos Gimenez
 FL-GOV,8ba070e8-794b-4e22-b62b-396576ec6d94,Targoz Market Research,2025-05-07,1153,1.3,,34.0,38.0,-4.0,5.0,IND,Jay Pizzo,0.0,0.0,Daniella Levine Cava,Byron Donalds
