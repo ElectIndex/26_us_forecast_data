@@ -1,19 +1,19 @@
 race_code,cand_id,name,party,slot,incumbent,first_pct,final_pct,win_prob,won
-AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,47.43,57.55,95.0,1
-AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,20.7,42.45,5.0,0
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,47.43,57.55,95.2,1
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,20.7,42.45,4.8,0
 AK-GOV,C-1061,Dave Bronson,REP,,0,16.76,0.0,0.0,0
 AK-GOV,C-1068,Treg Taylor,REP,,0,15.11,0.0,0.0,0
-AK-SEN,C-0001,Mary Peltola,DEM,dem,0,48.23,49.89,52.2,0
-AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,48.11,50.11,47.8,1
+AK-SEN,C-0001,Mary Peltola,DEM,dem,0,48.23,49.89,48.6,0
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,48.11,50.11,51.4,1
 AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,0.0,0.0,0
 AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.16,0.0,0.0,0
-ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.56,50.56,55.6,1
-ME-SEN,C-0030,Susan Collins,REP,rep,1,49.44,49.44,44.4,0
+ME-SEN,C-1043,Troy Jackson,DEM,dem,0,50.56,50.56,55.3,1
+ME-SEN,C-0030,Susan Collins,REP,rep,1,49.44,49.44,44.7,0
 AK-01,C-0145,Nick Begich III,REP,rep,1,49.79,51.41,62.9,1
 AK-01,C-1013,Bill Hill,IND,ind,0,45.21,48.59,37.1,0
 AK-01,C-1063,Eric Hafner,DEM,,0,3.8,0.0,0.0,0
 AK-01,C-1071,"James C. ""Jim"" McDermott",LIB,,0,1.2,0.0,0.0,0
 ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.87,65.87,99.9,1
 ME-01,C-0536,Ronald Russell,REP,rep,0,34.13,34.13,0.1,0
-ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.87,47.87,33.0,0
-ME-02,C-0538,Paul LePage,REP,rep,0,52.13,52.13,67.0,1
+ME-02,C-0537,Matthew Dunlap,DEM,dem,0,47.87,47.87,32.6,0
+ME-02,C-0538,Paul LePage,REP,rep,0,52.13,52.13,67.4,1
