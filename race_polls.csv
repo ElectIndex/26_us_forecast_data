@@ -650,6 +650,7 @@ MI-GOV,d122b726-eb15-4792-bea0-ee63d8ec1529,Suffolk University,2026-09-20,500,1.
 MI-GOV,eb8dcba9-321d-4335-b659-9e9a33a55f92,Cygnal/Beacon Research,2026-09-21,600,1.3,,45.0,38.0,7.0,3.0,LIB,Anthony Hudson,0.0,0.0,Jocelyn Benson,John James
 MI-GOV,f2e34c60-07c9-4114-9d10-29c1afaf2305,The New York Times/Siena University,2026-09-22,605,3.0,,48.5,42.8,5.6,0.0,,,0.0,0.0,Jocelyn Benson,John James
 MI-GOV,fdd3fa5f-0d00-4570-8595-206a2c44b1c5,co/efficient,2026-09-23,843,1.0,R,47.0,44.0,3.0,0.0,,,0.0,0.0,Jocelyn Benson,John James
+MI-GOV,25345253-7ec6-454f-a2e7-d87a38e5680e,Marist University,2026-09-27,1235,2.7,,53.0,41.0,12.0,0.0,,,0.0,0.0,Jocelyn Benson,John James
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,46.0,44.0,2.0,0.0,,,0.0,0.0,Pete Buttigieg,Mike Rogers
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,35.0,41.0,-6.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,2ed1c72b-17c8-4799-9a38-7367695df329,Target Insyght,2025-03-06,600,1.3,,42.0,41.0,1.0,0.0,,,0.0,0.0,Gretchen Whitmer,Mike Rogers
@@ -737,6 +738,7 @@ MI-SEN,fdd3fa5f-0d00-4570-8595-206a2c44b1c5,co/efficient,2026-09-23,843,1.0,R,50
 MI-SEN,fdd3fa5f-0d00-4570-8595-206a2c44b1c5,co/efficient,2026-09-23,843,1.0,R,47.0,46.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MI-SEN,e05c43ca-5439-4bac-8148-b5a35785ebbd,Big Data Poll,2026-09-24,725,1.2,R,45.4,41.0,4.4,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,e05c43ca-5439-4bac-8148-b5a35785ebbd,Big Data Poll,2026-09-24,678,1.2,R,46.7,42.1,4.6,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,25345253-7ec6-454f-a2e7-d87a38e5680e,Marist University,2026-09-27,1235,2.7,,51.0,44.0,7.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -786,6 +788,7 @@ MN-SEN,cbda5f15-c2a1-4102-8b12-76064418a417,Quantus Insights,2026-09-10,720,1.0,
 MN-SEN,2618d7e3-4071-4897-85b9-d877fdfbc2c7,SurveyUSA,2026-09-14,654,2.4,,42.0,42.0,0.0,2.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,6dc1e5c8-81c7-4fdc-aaee-f5d0ba3bd532,co/efficient,2026-09-15,833,1.0,R,46.0,47.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MN-SEN,6dc1e5c8-81c7-4fdc-aaee-f5d0ba3bd532,co/efficient,2026-09-15,833,1.0,R,43.0,42.0,1.0,2.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
+MN-SEN,4610aeff-8c61-4b2c-9672-45f7818681d2,InsiderAdvantage,2026-09-29,1200,1.0,R,46.0,45.0,1.0,2.0,LIB,Rebecca Whiting,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,47.0,46.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MS-SEN,bb2c7efc-df3d-4cee-aef5-0db1bb547945,Impact Research,2026-04-12,500,1.8,D,39.0,42.0,-3.0,6.0,IND,Ty Pinkins,0.0,0.0,Scott Colom,Cindy Hyde-Smith
@@ -800,6 +803,7 @@ MT-01,6f4f65a0-437e-4ea3-b0c0-06ebc4e20386,Impact Research,2026-06-25,500,1.8,D,
 MT-01,b611f1b0-7ca1-49c8-9c2d-29140802d492,Rutgers-Eagleton,2026-09-07,375,1.3,,41.0,42.0,-1.0,5.0,LIB,Nick Sheedy,0.0,0.0,Sam Forstag,Aaron Flint
 MT-01,a77ecdd0-89ee-4b0f-acd1-e0968f0a84a4,Public Policy Polling,2026-09-10,536,1.8,D,45.0,43.0,2.0,0.0,,,0.0,0.0,Sam Forstag,Aaron Flint
 MT-01,a77ecdd0-89ee-4b0f-acd1-e0968f0a84a4,Public Policy Polling,2026-09-10,536,1.8,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
+MT-01,e6c11e5c-af3c-4df0-a274-4e1594b1f455,Impact Research,2026-09-23,500,1.8,D,47.0,44.0,3.0,2.0,LIB,Nick Sheedy,0.0,0.0,Sam Forstag,Aaron Flint
 MT-01,08b59de1-c77b-418d-b8ce-f313b38f3880,American Pulse Research & Polling,2026-09-24,314,1.2,R,36.5,45.8,-9.3,9.5,OTH,Generic Candidate,0.0,0.0,Generic Democrat,Generic Republican
 MT-01,08b59de1-c77b-418d-b8ce-f313b38f3880,American Pulse Research & Polling,2026-09-24,314,1.2,R,45.4,45.9,-0.5,5.4,LIB,Nick Sheedy,0.0,0.0,Sam Forstag,Aaron Flint
 MT-02,b611f1b0-7ca1-49c8-9c2d-29140802d492,Rutgers-Eagleton,2026-09-07,0,1.3,,26.0,48.0,-22.0,9.0,IND,Michael Eisenhauer,0.0,0.0,Brian Miller,Troy Downing
@@ -1146,6 +1150,7 @@ OH-SEN,ddee0709-2b5a-400f-966a-9279cddd3a10,Quantus Insights,2026-09-23,695,1.0,
 OH-SEN,79fe6351-f7cd-40a6-a841-dd4b064707a1,Big Data Poll,2026-09-27,735,1.2,R,45.2,41.2,4.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,79fe6351-f7cd-40a6-a841-dd4b064707a1,Big Data Poll,2026-09-27,680,1.2,R,46.3,42.6,3.7,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,8736e40d-10b1-47e8-98dc-3e77af028d79,Marist University,2026-09-27,1298,2.7,,51.0,43.0,8.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
+OH-SEN,3a34730a-dbc1-4dd4-9a8f-32b4d6cfd12f,Suffolk University,2026-09-27,500,1.3,,46.6,44.0,2.6,2.0,LIB,Bill Redpath,0.0,0.0,Sherrod Brown,Jon Husted
 OK-05,f22e036d-4904-43d8-b4b8-9ce93a68ca7b,GBAO,2026-09-20,500,1.7,D,43.0,48.0,-5.0,0.0,,,0.0,0.0,Jena Nelson,Stephanie Bice
 OK-SEN,3363b2d9-eeaf-4b08-952d-6a4d61607837,Cole Hargrave,2026-08-06,500,1.3,,27.0,48.0,-21.0,5.0,IND,Ron Meinhardt,0.0,0.0,Jim Priest,Kevin Hern
 OK-SEN,3363b2d9-eeaf-4b08-952d-6a4d61607837,Cole Hargrave,2026-08-06,500,1.3,,25.0,49.0,-24.0,4.0,IND,Curtis Stinnett,0.0,0.0,N'Kiyla Jasmine Thomas,Kevin Hern
