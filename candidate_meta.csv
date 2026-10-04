@@ -7,7 +7,7 @@ AR-SEN,rep,Tom Cotton,Tom Cotton,American politician and veteran (born 1977),htt
 CO-SEN,dem,John Hickenlooper,John Hickenlooper,American politician (born 1952),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg/330px-John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg,https://en.wikipedia.org/wiki/John_Hickenlooper
 CO-SEN,rep,Mark Baisley,Mark Baisley,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mark_Baisley.JPG/330px-Mark_Baisley.JPG,https://en.wikipedia.org/wiki/Mark_Baisley
 DE-SEN,dem,Chris Coons,Chris Coons,American lawyer and politician (born 1963),https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chris_Coons_2024.jpg/330px-Chris_Coons_2024.jpg,https://en.wikipedia.org/wiki/Chris_Coons
-DE-SEN,rep,Michael Katz,Michael Katz (politician),American politician (born 1962),,https://en.wikipedia.org/wiki/Michael_Katz_(politician)
+DE-SEN,rep,Michael Katz,Michael Katz (politician),American politician (born 1962),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/DE-SEN-rep.jpg,https://en.wikipedia.org/wiki/Michael_Katz_(politician)
 FL-SEN,dem,Angie Nixon,Angie Nixon,American politician (born 1984),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Angie_Nixon_official_portrait.jpg/330px-Angie_Nixon_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Angie_Nixon
 FL-SEN,rep,Ashley Moody,Ashley Moody,American politician and attorney (born 1975),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Senator_Ashley_Moody_Official_Portrait.jpg/330px-Senator_Ashley_Moody_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Ashley_Moody
 GA-SEN,dem,Jon Ossoff,Jon Ossoff,American politician (born 1987),https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Jon_Ossoff_Senate_Portrait_2021.jpg/330px-Jon_Ossoff_Senate_Portrait_2021.jpg,https://en.wikipedia.org/wiki/Jon_Ossoff
@@ -17,7 +17,7 @@ IA-SEN,rep,Ashley Hinson,Ashley Hinson,American politician and journalist (born 
 ID-SEN,rep,Jim Risch,Jim Risch,American lawyer and politician (born 1943),https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bob_Menendez%2C_Jim_Risch_with_Tsihanouskaya_at_Senate_Foreign_%28cropped%29.jpg/330px-Bob_Menendez%2C_Jim_Risch_with_Tsihanouskaya_at_Senate_Foreign_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Jim_Risch
 ID-SEN,ind,Todd Achilles,Todd Achilles,American politician,,https://en.wikipedia.org/wiki/Todd_Achilles
 IL-SEN,dem,Juliana Stratton,Juliana Stratton,American politician (born 1965),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juliana_Stratton_2023_%28cropped%29.jpg/330px-Juliana_Stratton_2023_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Juliana_Stratton
-IL-SEN,rep,Don Tracy,Don Tracy,American lawyer (born 1949 or 1950),,https://en.wikipedia.org/wiki/Don_Tracy
+IL-SEN,rep,Don Tracy,Don Tracy,American lawyer (born 1949 or 1950),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-SEN-rep.jpg,https://en.wikipedia.org/wiki/Don_Tracy
 KS-SEN,dem,Adam Hamilton,Adam Hamilton (pastor),American minister (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rev._Adam_Hamilton_%28cropped%29.jpg/330px-Rev._Adam_Hamilton_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Adam_Hamilton_(pastor)
 KS-SEN,rep,Roger Marshall,Roger Marshall,American politician and physician (born 1960),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roger_Marshall_117th_Congress_portrait.jpg/330px-Roger_Marshall_117th_Congress_portrait.jpg,https://en.wikipedia.org/wiki/Roger_Marshall
 KY-SEN,dem,Charles Booker,Charles Booker (American politician),American politician (born 1984),https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Charles_solar_panels_%28cropped%29.jpg/330px-Charles_solar_panels_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)
@@ -32,7 +32,7 @@ MI-SEN,dem,Abdul El-Sayed,Abdul El-Sayed,American politician and epidemiologist 
 MI-SEN,rep,Mike Rogers,Mike Rogers (Michigan politician),American politician (born 1963),https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg/330px-Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg,https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)
 MN-SEN,dem,Peggy Flanagan,Peggy Flanagan,American politician and Ojibwe activist (born 1979),https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2026PeggyFlanagan_%28newcropped%29.jpg/330px-2026PeggyFlanagan_%28newcropped%29.jpg,https://en.wikipedia.org/wiki/Peggy_Flanagan
 MN-SEN,rep,Michele Tafoya,Michele Tafoya,American sports journalist (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MicheleTafoya2023.jpg/330px-MicheleTafoya2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Michele_Tafoya
-MS-SEN,dem,Scott Colom,Scott Colom,American lawyer (born 1982),,https://en.wikipedia.org/wiki/Scott_Colom
+MS-SEN,dem,Scott Colom,Scott Colom,American lawyer (born 1982),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-SEN-dem.jpg,https://en.wikipedia.org/wiki/Scott_Colom
 MS-SEN,rep,Cindy Hyde-Smith,Cindy Hyde-Smith,American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg/330px-Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg,https://en.wikipedia.org/wiki/Cindy_Hyde-Smith
 MT-SEN,rep,Kurt Alme,Kurt Alme,American lawyer (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kurt_G._Alme_official_photo.jpg/330px-Kurt_G._Alme_official_photo.jpg,https://en.wikipedia.org/wiki/Kurt_Alme
 MT-SEN,ind,Seth Bodnar,Seth Bodnar,American academic administrator (born 1979),https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Seth_Bodnar_-_President_at_University_of_Montana_%28cropped%29.jpg/330px-Seth_Bodnar_-_President_at_University_of_Montana_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Seth_Bodnar
@@ -60,8 +60,8 @@ TX-SEN,rep,Ken Paxton,Ken Paxton,American politician and lawyer (born 1962),http
 VA-SEN,dem,Mark Warner,Mark Warner,American politician (born 1954),https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mark_Warner_2025.jpg/330px-Mark_Warner_2025.jpg,https://en.wikipedia.org/wiki/Mark_Warner
 VA-SEN,rep,Bert Mizusawa,Bert Mizusawa,United States Army Major General (born 1957),https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/110311160930_MG_Mizusawa%2C_Bert.jpg/330px-110311160930_MG_Mizusawa%2C_Bert.jpg,https://en.wikipedia.org/wiki/Bert_Mizusawa
 WV-SEN,rep,Shelley Moore Capito,Shelley Moore Capito,American politician (born 1953),https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Shelley_Moore_Capito_official_Senate_photo.jpg/330px-Shelley_Moore_Capito_official_Senate_photo.jpg,https://en.wikipedia.org/wiki/Shelley_Moore_Capito
-WV-SEN,ind,S. Marshall Wilson,S. Marshall Wilson,American politician,,https://en.wikipedia.org/wiki/S._Marshall_Wilson
-WY-SEN,dem,James Byrd,Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act,American hate crime legislation,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png,https://en.wikipedia.org/wiki/Matthew_Shepard_and_James_Byrd_Jr._Hate_Crimes_Prevention_Act
+WV-SEN,ind,S. Marshall Wilson,S. Marshall Wilson,American politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WV-SEN-ind.jpg,https://en.wikipedia.org/wiki/S._Marshall_Wilson
+WY-SEN,dem,James Byrd,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-SEN-dem.jpg,
 WY-SEN,rep,Harriet Hageman,Harriet Hageman,American politician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Official-harriet-hageman-wy00.jpg/330px-Official-harriet-hageman-wy00.jpg,https://en.wikipedia.org/wiki/Harriet_Hageman
 AK-GOV,dem,Jonathan Kreiss-Tomkins,Jonathan Kreiss-Tomkins,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/JKTphoto_%28cropped%29.jpg/330px-JKTphoto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Jonathan_Kreiss-Tomkins
 AL-GOV,dem,Doug Jones,Doug Jones (politician),American politician and attorney (born 1954),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Senator_Doug_Jones_official_photo_%281%29.jpg/330px-Senator_Doug_Jones_official_photo_%281%29.jpg,https://en.wikipedia.org/wiki/Doug_Jones_(politician)
@@ -87,8 +87,8 @@ IA-GOV,rep,Zach Lahn,Zach Lahn,American politician (born 1985/6),https://thumb.w
 ID-GOV,rep,Brad Little,Brad Little,Governor of Idaho since 2019,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brad_Little_official_photo.jpg/330px-Brad_Little_official_photo.jpg,https://en.wikipedia.org/wiki/Brad_Little
 IL-GOV,dem,JB Pritzker,JB Pritzker,Governor of Illinois since 2019,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Governor_JB_Pritzker_official_portrait_2019_%28crop%29.jpg/330px-Governor_JB_Pritzker_official_portrait_2019_%28crop%29.jpg,https://en.wikipedia.org/wiki/JB_Pritzker
 IL-GOV,rep,Darren Bailey,Darren Bailey,American politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Darren_Bailey_at_a_2022_Campaign_Event.jpg/330px-Darren_Bailey_at_a_2022_Campaign_Event.jpg,https://en.wikipedia.org/wiki/Darren_Bailey
-KS-GOV,dem,Cindy Holscher,Cindy Holscher,American politician (born 1969),,https://en.wikipedia.org/wiki/Cindy_Holscher
-KS-GOV,rep,Ty Masterson,Ty Masterson,American politician (born 1969),,https://en.wikipedia.org/wiki/Ty_Masterson
+KS-GOV,dem,Cindy Holscher,Cindy Holscher,American politician (born 1969),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-GOV-dem.jpg,https://en.wikipedia.org/wiki/Cindy_Holscher
+KS-GOV,rep,Ty Masterson,Ty Masterson,American politician (born 1969),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-GOV-rep.jpg,https://en.wikipedia.org/wiki/Ty_Masterson
 MA-GOV,dem,Maura Healey,Maura Healey,Governor of Massachusetts since 2023,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Maura_Healey%2C_official_portrait%2C_governor.jpg/330px-Maura_Healey%2C_official_portrait%2C_governor.jpg,https://en.wikipedia.org/wiki/Maura_Healey
 MA-GOV,ind,Andrea James,Andrea C. James,American human rights activist,,https://en.wikipedia.org/wiki/Andrea_C._James
 MD-GOV,dem,Wes Moore,Wes Moore,American politician (born 1978),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/330px-Wes_Moore_Official_Governor_Portrait.jpg,https://en.wikipedia.org/wiki/Wes_Moore
@@ -99,13 +99,13 @@ MI-GOV,dem,Jocelyn Benson,Jocelyn Benson,American politician and attorney (born 
 MI-GOV,rep,John James,John James (Michigan politician),American politician and businessman (born 1981),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rep._John_James_official_photo%2C_118th_Congress.jpg/330px-Rep._John_James_official_photo%2C_118th_Congress.jpg,https://en.wikipedia.org/wiki/John_James_(Michigan_politician)
 MN-GOV,dem,Amy Klobuchar,Amy Klobuchar,American politician and lawyer (born 1960),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg/330px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg,https://en.wikipedia.org/wiki/Amy_Klobuchar
 MN-GOV,rep,Lisa Demuth,Lisa Demuth,American politician (born 1967),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lisa_Demuth%2C_2026_%28cropped%29.jpg/330px-Lisa_Demuth%2C_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Lisa_Demuth
-NE-GOV,dem,Lynne Walz,Lynne Walz,American politician (born 1963),,https://en.wikipedia.org/wiki/Lynne_Walz
+NE-GOV,dem,Lynne Walz,Lynne Walz,American politician (born 1963),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-GOV-dem.jpg,https://en.wikipedia.org/wiki/Lynne_Walz
 NE-GOV,rep,Jim Pillen,Jim Pillen,Governor of Nebraska since 2023,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jim_Pillen_SelectUSA_%2855251574792%29.jpg/330px-Jim_Pillen_SelectUSA_%2855251574792%29.jpg,https://en.wikipedia.org/wiki/Jim_Pillen
 NE-GOV,ind,Brett Lindstrom,Brett Lindstrom,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Brett_Lindstrom.jpg/330px-Brett_Lindstrom.jpg,https://en.wikipedia.org/wiki/Brett_Lindstrom
-NH-GOV,dem,Cinde Warmington,Cinde Warmington,American attorney & politician (born 1957),,https://en.wikipedia.org/wiki/Cinde_Warmington
+NH-GOV,dem,Cinde Warmington,Cinde Warmington,American attorney & politician (born 1957),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-GOV-dem.jpg,https://en.wikipedia.org/wiki/Cinde_Warmington
 NH-GOV,rep,Kelly Ayotte,Kelly Ayotte,Governor of New Hampshire since 2025,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Governor_Kelly_Ayotte_receives_a_briefing_from_National_Guard_cyber_operators_%28cropped%29_%28cropped%29.jpg/330px-Governor_Kelly_Ayotte_receives_a_briefing_from_National_Guard_cyber_operators_%28cropped%29_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Kelly_Ayotte
 NM-GOV,dem,Deb Haaland,Deb Haaland,American politician (born 1960),https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg/330px-Secretary_Deb_Haaland%2C_official_headshot.jpg,https://en.wikipedia.org/wiki/Deb_Haaland
-NM-GOV,rep,Gregg Hull,Gregg Hull,American politician and businessman,,https://en.wikipedia.org/wiki/Gregg_Hull
+NM-GOV,rep,Gregg Hull,Gregg Hull,American politician and businessman,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NM-GOV-rep.jpg,https://en.wikipedia.org/wiki/Gregg_Hull
 NV-GOV,dem,Aaron Ford,Aaron Ford (Nevada politician),American attorney and politician (born 1972),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg/330px-Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Aaron_Ford_(Nevada_politician)
 NV-GOV,rep,Joe Lombardo,Joe Lombardo,Governor of Nevada since 2023,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Joe_Lombardo_by_Gage_Skidmore_%283x4_cropped%29.jpg/330px-Joe_Lombardo_by_Gage_Skidmore_%283x4_cropped%29.jpg,https://en.wikipedia.org/wiki/Joe_Lombardo
 NY-GOV,dem,Kathy Hochul,Kathy Hochul,Governor of New York since 2021,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kathy_Hochul_March_2024.jpg/330px-Kathy_Hochul_March_2024.jpg,https://en.wikipedia.org/wiki/Kathy_Hochul
@@ -119,10 +119,10 @@ OR-GOV,rep,Christine Drazan,Christine Drazan,American politician (born 1972),htt
 PA-GOV,dem,Josh Shapiro,Josh Shapiro,Governor of Pennsylvania since 2023,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Josh_Shapiro_December_2025.jpg/330px-Josh_Shapiro_December_2025.jpg,https://en.wikipedia.org/wiki/Josh_Shapiro
 PA-GOV,rep,Stacy Garrity,Stacy Garrity,American politician and businesswoman (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stacy_Garrity%2C_2024.jpg/330px-Stacy_Garrity%2C_2024.jpg,https://en.wikipedia.org/wiki/Stacy_Garrity
 RI-GOV,dem,Helena Foulkes,Helena Buonanno Foulkes,American businesswoman (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HelenaFoulkes_CROP.jpg/330px-HelenaFoulkes_CROP.jpg,https://en.wikipedia.org/wiki/Helena_Buonanno_Foulkes
-RI-GOV,ind,Ken Block,Ken Block (politician),"American businessman, software engineer, and political reformer",,https://en.wikipedia.org/wiki/Ken_Block_(politician)
-SC-GOV,dem,Jermaine Johnson,Jermaine Johnson (politician),American politician and basketball player (born 1985),,https://en.wikipedia.org/wiki/Jermaine_Johnson_(politician)
+RI-GOV,ind,Ken Block,Ken Block (politician),"American businessman, software engineer, and political reformer",https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-GOV-ind.jpg,https://en.wikipedia.org/wiki/Ken_Block_(politician)
+SC-GOV,dem,Jermaine Johnson,Jermaine Johnson (politician),American politician and basketball player (born 1985),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-GOV-dem.jpg,https://en.wikipedia.org/wiki/Jermaine_Johnson_(politician)
 SC-GOV,rep,Alan Wilson,Alan Wilson (politician),American politician (born 1973),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alan_Wilson_in_August_2025.jpg/330px-Alan_Wilson_in_August_2025.jpg,https://en.wikipedia.org/wiki/Alan_Wilson_(politician)
-SD-GOV,dem,Dan Ahlers,Dan Ahlers,American businessman and politician,,https://en.wikipedia.org/wiki/Dan_Ahlers
+SD-GOV,dem,Dan Ahlers,Dan Ahlers,American businessman and politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SD-GOV-dem.jpg,https://en.wikipedia.org/wiki/Dan_Ahlers
 SD-GOV,rep,Larry Rhoden,Larry Rhoden,Governor of South Dakota since 2025,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Larry_Rhoden_2025_%28cropped%29.jpg/330px-Larry_Rhoden_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Larry_Rhoden
 TN-GOV,rep,Marsha Blackburn,Marsha Blackburn,American politician (born 1952),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress.jpg/330px-Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress.jpg,https://en.wikipedia.org/wiki/Marsha_Blackburn
 TX-GOV,dem,Gina Hinojosa,Gina Hinojosa,American lawyer and politician (born 1973),https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gina_Hinojosa_at_LBJ_Library_Forum_%283x4_cropped%29.jpg/330px-Gina_Hinojosa_at_LBJ_Library_Forum_%283x4_cropped%29.jpg,https://en.wikipedia.org/wiki/Gina_Hinojosa
@@ -130,8 +130,8 @@ TX-GOV,rep,Greg Abbott,Greg Abbott,Governor of Texas since 2015,https://upload.w
 VT-GOV,rep,Phil Scott,Phil Scott,Governor of Vermont since 2017,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Phil_Scott_2019.png/330px-Phil_Scott_2019.png,https://en.wikipedia.org/wiki/Phil_Scott
 WI-GOV,dem,David Crowley,David Crowley (Wisconsin politician),American politician (born 1986),https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28%2C_2026.jpg/330px-Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/David_Crowley_(Wisconsin_politician)
 WI-GOV,rep,Tom Tiffany,Tom Tiffany,American politician (born 1957),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tom_Tiffany.jpg/330px-Tom_Tiffany.jpg,https://en.wikipedia.org/wiki/Tom_Tiffany
-WY-GOV,rep,Eric Barlow,Eric Barlow,American politician (born 1966),,https://en.wikipedia.org/wiki/Eric_Barlow
-WY-GOV,ind,Rebecca Bextel,Rebecca Bextel,American political activist,,https://en.wikipedia.org/wiki/Rebecca_Bextel
+WY-GOV,rep,Eric Barlow,Eric Barlow,American politician (born 1966),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-GOV-rep.jpg,https://en.wikipedia.org/wiki/Eric_Barlow
+WY-GOV,ind,Rebecca Bextel,Rebecca Bextel,American political activist,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-GOV-ind.jpg,https://en.wikipedia.org/wiki/Rebecca_Bextel
 AK-01,rep,Nick Begich III,Nick Begich III,American politician and businessman (born 1977),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nick_Begich_III_119th_Congress.jpg/330px-Nick_Begich_III_119th_Congress.jpg,https://en.wikipedia.org/wiki/Nick_Begich_III
 AL-01,rep,Jerry Carl,Jerry Carl,American politician (born 1958),https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rep._Jerry_Carl_official_photo.jpg/330px-Rep._Jerry_Carl_official_photo.jpg,https://en.wikipedia.org/wiki/Jerry_Carl
 AL-02,dem,Shomari Figures,Shomari Figures,American politician (born 1985),https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Figures_Shomari_119th_Congress_2_%284x5_cropped%29.jpg/330px-Figures_Shomari_119th_Congress_2_%284x5_cropped%29.jpg,https://en.wikipedia.org/wiki/Shomari_Figures
@@ -212,13 +212,13 @@ CA-43,dem,Maxine Waters,Maxine Waters,American politician (born 1938),https://up
 CA-44,dem,Nanette Barragan,Nanette Barragán,American attorney & politician (born 1976),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nanette_Barragan_official_portrait.jpg/330px-Nanette_Barragan_official_portrait.jpg,https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n
 CA-45,dem,Derek Tran,Derek Tran,American lawyer and politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rep._Derek_Tran_Official_Portrait.jpg/330px-Rep._Derek_Tran_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Derek_Tran
 CA-46,dem,Lou Correa,Lou Correa,American politician (born 1958),https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lou_Correa_118th_Congress_%28mid-cropped%29.jpg/330px-Lou_Correa_118th_Congress_%28mid-cropped%29.jpg,https://en.wikipedia.org/wiki/Lou_Correa
-CA-46,rep,David Pan,David Tse-Chien Pan,American philosopher (born 1963),,https://en.wikipedia.org/wiki/David_Tse-Chien_Pan
+CA-46,rep,David Pan,David Tse-Chien Pan,American philosopher (born 1963),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-46-rep.jpg,https://en.wikipedia.org/wiki/David_Tse-Chien_Pan
 CA-47,dem,Dave Min,Dave Min,American politician (born 1976),https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rep._Dave_Min_Official_Portrait.jpg/330px-Rep._Dave_Min_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Dave_Min
 CA-48,dem,Marni von Wilpert,Marni von Wilpert,American attorney and politician (born 1982),https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Marni-von-wilpert-sq_%28cropped%29.jpg/330px-Marni-von-wilpert-sq_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Marni_von_Wilpert
 CA-48,rep,Jim Desmond,Jim Desmond,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jim_Desmond_Official_Portrait.jpg/330px-Jim_Desmond_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Jim_Desmond
 CA-49,dem,Mike Levin,Mike Levin,American politician (born 1978),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rep._Mike_Levin_official_photo.jpg/330px-Rep._Mike_Levin_official_photo.jpg,https://en.wikipedia.org/wiki/Mike_Levin
 CA-50,dem,Scott Peters,Scott Peters (politician),American lawyer & politician (born 1958),https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Scott_Peters_official_portrait_116th_Congress.jpg/330px-Scott_Peters_official_portrait_116th_Congress.jpg,https://en.wikipedia.org/wiki/Scott_Peters_(politician)
-CA-50,rep,Steve Cohen,Steve Cohen (politician),American politician (born 1949),https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Steve_Cohen_118th_Congress.jpg/330px-Steve_Cohen_118th_Congress.jpg,https://en.wikipedia.org/wiki/Steve_Cohen_(politician)
+CA-50,rep,Steve Cohen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-50-rep.jpg,
 CA-51,dem,Sara Jacobs,Sara Jacobs,American politician (born 1989),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Representative_Sara_Jacobs_full_portrait.jpg/330px-Representative_Sara_Jacobs_full_portrait.jpg,https://en.wikipedia.org/wiki/Sara_Jacobs
 CA-52,dem,Juan Vargas,Juan Vargas,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Juan_Vargas_official_photo.jpg/330px-Juan_Vargas_official_photo.jpg,https://en.wikipedia.org/wiki/Juan_Vargas
 CO-01,dem,Melat Kiros,Melat Kiros,American political candidate (born 1997),https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Melat_Kiros_Portrait.jpg/330px-Melat_Kiros_Portrait.jpg,https://en.wikipedia.org/wiki/Melat_Kiros
@@ -250,8 +250,8 @@ FL-13,rep,Anna Paulina Luna,Anna Paulina Luna,American politician (born 1989),ht
 FL-14,dem,Kathy Castor,Kathy Castor,American lawyer & politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kathy_Castor.jpg/330px-Kathy_Castor.jpg,https://en.wikipedia.org/wiki/Kathy_Castor
 FL-14,rep,Mike Beltran,Mike Beltran,American politician from Florida,https://upload.wikimedia.org/wikipedia/commons/2/2a/Mike_Beltran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,https://en.wikipedia.org/wiki/Mike_Beltran
 FL-15,rep,Laurel Lee,Laurel Lee,American judge and politician (born 1974),https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Laurel_Lee_118thCong.jpeg/330px-Laurel_Lee_118thCong.jpeg,https://en.wikipedia.org/wiki/Laurel_Lee
-FL-16,rep,Sydney Gruters,Joe Gruters,American politician (born 1977),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Florida_State_Senator_Joe_Gruters_%28cropped%29.png/330px-Florida_State_Senator_Joe_Gruters_%28cropped%29.png,https://en.wikipedia.org/wiki/Joe_Gruters
-FL-16,ind,Mark Davis,Mark Davis (talk show host),American radio host,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mark_Davis_Talk_Show_Host_%285%29_%28cropped%29.jpg/330px-Mark_Davis_Talk_Show_Host_%285%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Mark_Davis_(talk_show_host)
+FL-16,rep,Sydney Gruters,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-16-rep.jpg,
+FL-16,ind,Mark Davis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-16-ind.jpg,
 FL-17,rep,Greg Steube,Greg Steube,American politician (born 1978),https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greg_Steube_117th_Congress.jpeg/330px-Greg_Steube_117th_Congress.jpeg,https://en.wikipedia.org/wiki/Greg_Steube
 FL-18,rep,Scott Franklin,Scott Franklin (politician),American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Scott_Franklin%2C_117th_Congress_portrait.jpg/330px-Scott_Franklin%2C_117th_Congress_portrait.jpg,https://en.wikipedia.org/wiki/Scott_Franklin_(politician)
 FL-20,dem,Debbie Wasserman Schultz,Debbie Wasserman Schultz,American politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Debbie_Wasserman_Schultz_official_photo.jpg/330px-Debbie_Wasserman_Schultz_official_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz
@@ -260,7 +260,7 @@ FL-23,dem,Lois Frankel,Lois Frankel,American politician and lawyer (born 1948),h
 FL-24,dem,Oliver Gilbert,Oliver Gilbert,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/OG3_High_Res_headshot.jpg/330px-OG3_High_Res_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Oliver_Gilbert
 FL-25,dem,Jared Moskowitz,Jared Moskowitz,American politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/JEM_New_Headshot_2.jpg/330px-JEM_New_Headshot_2.jpg,https://en.wikipedia.org/wiki/Jared_Moskowitz
 FL-26,rep,Mario Diaz-Balart,Mario Díaz-Balart,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mario_D%C3%ADaz-Balart_official_photo.jpg/330px-Mario_D%C3%ADaz-Balart_official_photo.jpg,https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart
-FL-27,dem,Eliott Rodriguez,Eliott Rodriguez,American journalist and political candidate,,https://en.wikipedia.org/wiki/Eliott_Rodriguez
+FL-27,dem,Eliott Rodriguez,Eliott Rodriguez,American journalist and political candidate,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-27-dem.jpg,https://en.wikipedia.org/wiki/Eliott_Rodriguez
 FL-27,rep,Maria Salazar,María Elvira Salazar,American journalist & politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/REP.MES_Headshot_%28cropped_2%29.jpg/330px-REP.MES_Headshot_%28cropped_2%29.jpg,https://en.wikipedia.org/wiki/Mar%C3%ADa_Elvira_Salazar
 FL-28,rep,Carlos Gimenez,Carlos A. Giménez,Cuban-American politician (born 1954),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rep._Carlos_Gimenez_official_photo.jpg/330px-Rep._Carlos_Gimenez_official_photo.jpg,https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez
 GA-02,dem,Sanford Bishop,Sanford Bishop,American politician (born 1947),https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Official_photo_of_Sen._Sanford_Bishop.jpg/330px-Official_photo_of_Sen._Sanford_Bishop.jpg,https://en.wikipedia.org/wiki/Sanford_Bishop
@@ -327,9 +327,9 @@ LA-02,dem,Troy Carter,Troy Carter (politician),American politician (born 1963),h
 LA-03,rep,Clay Higgins,Clay Higgins,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clay_Higgins_118th_Congress.jpg/330px-Clay_Higgins_118th_Congress.jpg,https://en.wikipedia.org/wiki/Clay_Higgins
 LA-04,rep,Mike Johnson,Mike Johnson,American lawyer and politician (born 1972),https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Speaker_Mike_Johnson_Official_Portrait_%28cropped%29%28b%29.jpg/330px-Speaker_Mike_Johnson_Official_Portrait_%28cropped%29%28b%29.jpg,https://en.wikipedia.org/wiki/Mike_Johnson
 LA-05,rep,Michael Echols,Michael Echols,American politician,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Michael_Echols.jpg/330px-Michael_Echols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Michael_Echols
-LA-06,rep,Blake Miguez,Blake Miguez,American politician (born 1981),,https://en.wikipedia.org/wiki/Blake_Miguez
+LA-06,rep,Blake Miguez,Blake Miguez,American politician (born 1981),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-06-rep.jpg,https://en.wikipedia.org/wiki/Blake_Miguez
 MA-01,dem,Richard Neal,Richard Neal,American politician (born 1949),https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Richard_Neal_official_photo_%28cropped%29.jpg/330px-Richard_Neal_official_photo_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Richard_Neal
-MA-01,ind,Nadia Milleron,Nadia Milleron,American aviation safety advocate,,https://en.wikipedia.org/wiki/Nadia_Milleron
+MA-01,ind,Nadia Milleron,Nadia Milleron,American aviation safety advocate,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-01-ind.jpg,https://en.wikipedia.org/wiki/Nadia_Milleron
 MA-02,dem,Jim McGovern,Jim McGovern (American politician),American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jim_McGovern%2C_official_portrait%2C_116th_Congress.jpg/330px-Jim_McGovern%2C_official_portrait%2C_116th_Congress.jpg,https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)
 MA-03,dem,Lori Trahan,Lori Trahan,American politician (born 1973),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lori_Trahan%2C_official_portrait%2C_116th_Congress.jpg/330px-Lori_Trahan%2C_official_portrait%2C_116th_Congress.jpg,https://en.wikipedia.org/wiki/Lori_Trahan
 MA-04,dem,Jake Auchincloss,Jake Auchincloss,American politician (born 1988),https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rep._Jake_Auchincloss_218th_Congress_Portrait.jpg/330px-Rep._Jake_Auchincloss_218th_Congress_Portrait.jpg,https://en.wikipedia.org/wiki/Jake_Auchincloss
@@ -342,20 +342,20 @@ MD-01,rep,Andy Harris,Andy Harris (politician),American politician (born 1957),h
 MD-02,dem,Johnny Olszewski,Johnny Olszewski,American politician (born 1982),https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Johnny_Olszewski_119th_congress.jpg/330px-Johnny_Olszewski_119th_congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Johnny_Olszewski
 MD-03,dem,Sarah Elfreth,Sarah Elfreth,American politician (born 1988),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Representative_Sarah_Elfreth_Official_Portrait.jpg/330px-Representative_Sarah_Elfreth_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Sarah_Elfreth
 MD-04,dem,Glenn Ivey,Glenn Ivey,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rep._Glenn_Ivey_official_portrait%2C_118th_Congress.jpg/330px-Rep._Glenn_Ivey_official_portrait%2C_118th_Congress.jpg,https://en.wikipedia.org/wiki/Glenn_Ivey
-MD-04,ind,Sam Husseini,Sam Husseini,Jordanian-Palestinian-American writer and political activist (born 1966),,https://en.wikipedia.org/wiki/Sam_Husseini
+MD-04,ind,Sam Husseini,Sam Husseini,Jordanian-Palestinian-American writer and political activist (born 1966),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-04-ind.jpg,https://en.wikipedia.org/wiki/Sam_Husseini
 MD-05,dem,Adrian Boafo,Adrian Boafo,American politician (born 1994),https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Adrian_Boafo_Feb2023.jpg/330px-Adrian_Boafo_Feb2023.jpg,https://en.wikipedia.org/wiki/Adrian_Boafo
 MD-06,dem,April McClain Delaney,April McClain Delaney,American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rep._April_McClain_Delaney_Official_Portrait.jpg/330px-Rep._April_McClain_Delaney_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/April_McClain_Delaney
 MD-06,rep,Robin Ficker,Robin Ficker,American political activist and candidate (born 1943),https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Robin_Ficker_%2835598540490%29.jpg/330px-Robin_Ficker_%2835598540490%29.jpg,https://en.wikipedia.org/wiki/Robin_Ficker
 MD-07,dem,Kweisi Mfume,Kweisi Mfume,American politician (born 1948),https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg/330px-Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg,https://en.wikipedia.org/wiki/Kweisi_Mfume
 MD-08,dem,Jamie Raskin,Jamie Raskin,American politician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jamie_Raskin_Official_Portrait_2019.jpg/330px-Jamie_Raskin_Official_Portrait_2019.jpg,https://en.wikipedia.org/wiki/Jamie_Raskin
 ME-01,dem,Chellie Pingree,Chellie Pingree,American politician (born 1955),https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CPingree_Portrait_202203_%28cropped%29_%28cropped%29.jpg/330px-CPingree_Portrait_202203_%28cropped%29_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Chellie_Pingree
-ME-01,rep,Ronald Russell,Ronald B. Russell,American politician,,https://en.wikipedia.org/wiki/Ronald_B._Russell
-ME-02,dem,Matthew Dunlap,Matthew Dunlap,American politician from Maine (born 1964),,https://en.wikipedia.org/wiki/Matthew_Dunlap
+ME-01,rep,Ronald Russell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ME-01-rep.jpg,
+ME-02,dem,Matthew Dunlap,Matthew Dunlap,American politician from Maine (born 1964),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ME-02-dem.jpg,https://en.wikipedia.org/wiki/Matthew_Dunlap
 ME-02,rep,Paul LePage,Paul LePage,Governor of Maine from 2011 to 2019,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_LePage_by_Gage_Skidmore.jpg/330px-Paul_LePage_by_Gage_Skidmore.jpg,https://en.wikipedia.org/wiki/Paul_LePage
 MI-01,rep,Jack Bergman,Jack Bergman,American politician (born 1947),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jack_Bergman_%282017%29.jpg/330px-Jack_Bergman_%282017%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Jack_Bergman
 MI-02,rep,John Moolenaar,John Moolenaar,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/John_Moolenaar_portrait_%28118th_Congress%29.jpg/330px-John_Moolenaar_portrait_%28118th_Congress%29.jpg,https://en.wikipedia.org/wiki/John_Moolenaar
 MI-03,dem,Hillary Scholten,Hillary Scholten,American politician (born 1982),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rep._Hillary_Scholten_-_118th_Congress_%281%29.jpg/330px-Rep._Hillary_Scholten_-_118th_Congress_%281%29.jpg,https://en.wikipedia.org/wiki/Hillary_Scholten
-MI-04,dem,Sean McCann,Sean McCann (politician),American politician (born 1971),,https://en.wikipedia.org/wiki/Sean_McCann_(politician)
+MI-04,dem,Sean McCann,Sean McCann (politician),American politician (born 1971),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-04-dem.jpg,https://en.wikipedia.org/wiki/Sean_McCann_(politician)
 MI-04,rep,Bill Huizenga,Bill Huizenga,American politician (born 1969),https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg/330px-Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg,https://en.wikipedia.org/wiki/Bill_Huizenga
 MI-05,rep,Tim Walberg,Tim Walberg,American politician (born 1951),https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TimWalbergHeadshot.jpg/330px-TimWalbergHeadshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Tim_Walberg
 MI-06,dem,Debbie Dingell,Debbie Dingell,American politician (born 1953),https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Debbie_Dingell_Official_Headshot.jpg/330px-Debbie_Dingell_Official_Headshot.jpg,https://en.wikipedia.org/wiki/Debbie_Dingell
@@ -377,9 +377,9 @@ MO-01,dem,Wesley Bell,Wesley Bell,American attorney and politician (born 1974),h
 MO-02,rep,Ann Wagner,Ann Wagner,American politician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ann_Wagner_Headshot_%28002%29_%28cropped%29.jpg/330px-Ann_Wagner_Headshot_%28002%29_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Ann_Wagner
 MO-03,rep,Bob Onder,Bob Onder,American politician and physician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Onder_Bob_119th_Congress.jpg/330px-Onder_Bob_119th_Congress.jpg,https://en.wikipedia.org/wiki/Bob_Onder
 MO-04,rep,Mark Alford,Mark Alford,American politician (born 1963),https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rep._Mark_Alford_official_photo%2C_118th_Congress.jpg/330px-Rep._Mark_Alford_official_photo%2C_118th_Congress.jpg,https://en.wikipedia.org/wiki/Mark_Alford
-MO-04,ind,Thomas Holbrook,Thomas Holbrook,American politician,,https://en.wikipedia.org/wiki/Thomas_Holbrook
+MO-04,ind,Thomas Holbrook,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-04-ind.jpg,
 MO-05,dem,Emanuel Cleaver,Emanuel Cleaver,American pastor and politician (born 1944),https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Emanuel_Cleaver_official_photo.jpg/330px-Emanuel_Cleaver_official_photo.jpg,https://en.wikipedia.org/wiki/Emanuel_Cleaver
-MO-05,rep,Rick Brattin,Rick Brattin,American politician,,https://en.wikipedia.org/wiki/Rick_Brattin
+MO-05,rep,Rick Brattin,Rick Brattin,American politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-05-rep.jpg,https://en.wikipedia.org/wiki/Rick_Brattin
 MO-06,rep,Chris Stigall,Chris Stigall,American radio talk show host (born 1977),https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chris_Stigall_2017_%28cropped%29.jpg/330px-Chris_Stigall_2017_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Chris_Stigall
 MO-07,rep,Eric Burlison,Eric Burlison,American politician (born 1976),https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rep._Eric_Burlison_-_118th_Congress.jpg/330px-Rep._Eric_Burlison_-_118th_Congress.jpg,https://en.wikipedia.org/wiki/Eric_Burlison
 MO-08,rep,Jason Smith,Jason Smith (American politician),American politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rep_Jason_Smith_-_2024.jpeg/330px-Rep_Jason_Smith_-_2024.jpeg,https://en.wikipedia.org/wiki/Jason_Smith_(American_politician)
@@ -389,7 +389,7 @@ MS-03,rep,Michael Guest,Michael Guest (politician),American attorney and politic
 MS-04,dem,Jeffrey Hulum III,Jeffrey Hulum III,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rep._Jeffrey_Hulum_III_%28cropped%29.jpg/330px-Rep._Jeffrey_Hulum_III_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Jeffrey_Hulum_III
 MS-04,rep,Mike Ezell,Mike Ezell,American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rep._Mike_Ezell_official_photo.jpg/330px-Rep._Mike_Ezell_official_photo.jpg,https://en.wikipedia.org/wiki/Mike_Ezell
 MT-01,dem,Sam Forstag,Sam Forstag,American political candidate and smokejumper,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sam_Forstag_Portrait_%28cropped%29.jpg/330px-Sam_Forstag_Portrait_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Sam_Forstag
-MT-01,rep,Aaron Flint,Aaron Flint Jamison,American conceptual artist and educator,,https://en.wikipedia.org/wiki/Aaron_Flint_Jamison
+MT-01,rep,Aaron Flint,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MT-01-rep.jpg,
 MT-02,rep,Troy Downing,Troy Downing,American politician and businessman (born 1967),https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rep._Troy_Downing_official_photo%2C_119th_Congress_%28cropped2%29.jpg/330px-Rep._Troy_Downing_official_photo%2C_119th_Congress_%28cropped2%29.jpg,https://en.wikipedia.org/wiki/Troy_Downing
 NC-01,dem,Don Davis,Don Davis (North Carolina politician),American politician (born 1971),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portrait_of_Congressman_Don_Davis.jpg/330px-Portrait_of_Congressman_Don_Davis.jpg,https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)
 NC-01,rep,Laurie Buckhout,Laurie Buckhout,American politician (born 1961),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Laurie_Buckhout.jpg/330px-Laurie_Buckhout.jpg,https://en.wikipedia.org/wiki/Laurie_Buckhout
@@ -403,11 +403,11 @@ NC-07,rep,David Rouzer,David Rouzer,American politician (born 1972),https://uplo
 NC-08,rep,Mark Harris,Mark Harris (North Carolina politician),American pastor and politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Harris_Mark_119th_Congress_%28crop2%29.jpg/330px-Harris_Mark_119th_Congress_%28crop2%29.jpg,https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)
 NC-09,dem,Richard Ojeda,Richard Ojeda,American politician and military officer (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MAJ_Richard_Ojeda.jpg/330px-MAJ_Richard_Ojeda.jpg,https://en.wikipedia.org/wiki/Richard_Ojeda
 NC-09,rep,Richard Hudson,Richard Hudson (American politician),American politician (born 1971),https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Richard_Hudson%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg/330px-Richard_Hudson%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)
-NC-10,dem,Ashley Bell,Ashley Bell (politician),American lawyer and politician,,https://en.wikipedia.org/wiki/Ashley_Bell_(politician)
+NC-10,dem,Ashley Bell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-10-dem.jpg,
 NC-10,rep,Pat Harrigan,Pat Harrigan,American politician (born 1987),https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CongressmanPatHarriganPortrait.jpg/330px-CongressmanPatHarriganPortrait.jpg,https://en.wikipedia.org/wiki/Pat_Harrigan
 NC-11,rep,Jennifer Balkcom,Jennifer Balkcom,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rep._Jennifer_Balkcom.jpg/330px-Rep._Jennifer_Balkcom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Jennifer_Balkcom
 NC-12,dem,Alma Adams,Alma Adams,American politician (born 1946),https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alma_Adams_official_portrait_%283x4_cropped%29.jpg/330px-Alma_Adams_official_portrait_%283x4_cropped%29.jpg,https://en.wikipedia.org/wiki/Alma_Adams
-NC-13,dem,Paul Barringer,Paul Barringer,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Paul_Barringer.png/330px-Paul_Barringer.png,https://en.wikipedia.org/wiki/Paul_Barringer
+NC-13,dem,Paul Barringer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-13-dem.jpg,
 NC-13,rep,Brad Knott,Brad Knott,American politician (born 1986),https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rep._Brad_Knott_official_photo%2C_119th_Congress.jpg/330px-Rep._Brad_Knott_official_photo%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Brad_Knott
 NC-14,rep,Tim Moore,Tim Moore (North Carolina politician),American politician (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moore_Tim_119th_Congress_%28cropped2%29.jpg/330px-Moore_Tim_119th_Congress_%28cropped2%29.jpg,https://en.wikipedia.org/wiki/Tim_Moore_(North_Carolina_politician)
 ND-01,rep,Julie Fedorchak,Julie Fedorchak,American politician (born 1968),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rep._Julie_Fedorchak_official_photo%2C_119th_Congress.jpg/330px-Rep._Julie_Fedorchak_official_photo%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Julie_Fedorchak
@@ -429,10 +429,10 @@ NJ-11,dem,Analilia Mejia,Analilia Mejia,American activist and politician (born 1
 NJ-12,dem,Adam Hamawy,Adam Hamawy,American political candidate (born 1969/1970),https://upload.wikimedia.org/wikipedia/commons/1/11/Adam_Hamawy_in_2025.jpg,https://en.wikipedia.org/wiki/Adam_Hamawy
 NM-01,dem,Melanie Stansbury,Melanie Stansbury,American politician (born 1979),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Melanie_Stansbury_117th_Congress.jpg/330px-Melanie_Stansbury_117th_Congress.jpg,https://en.wikipedia.org/wiki/Melanie_Stansbury
 NM-03,dem,Teresa Leger Fernandez,Teresa Leger Fernández,American politician and attorney (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Teresa_Leger_Fernandez_117th_Congress_portrait_2.jpg/330px-Teresa_Leger_Fernandez_117th_Congress_portrait_2.jpg,https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez
-NM-03,rep,Martin Zamora,Martin R. Zamora,American politician,,https://en.wikipedia.org/wiki/Martin_R._Zamora
+NM-03,rep,Martin Zamora,Martin R. Zamora,American politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NM-03-rep.jpg,https://en.wikipedia.org/wiki/Martin_R._Zamora
 NV-01,dem,Dina Titus,Dina Titus,American politician (born 1950),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dina_Titus_official_photo.jpg/330px-Dina_Titus_official_photo.jpg,https://en.wikipedia.org/wiki/Dina_Titus
-NV-01,rep,Carrie Buck,Carrie Buck (politician),American educator and politician,,https://en.wikipedia.org/wiki/Carrie_Buck_(politician)
-NV-02,dem,Teresa Benitez-Thompson,Teresa Benitez-Thompson,American politician from Nevada,,https://en.wikipedia.org/wiki/Teresa_Benitez-Thompson
+NV-01,rep,Carrie Buck,Carrie Buck (politician),American educator and politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-01-rep.jpg,https://en.wikipedia.org/wiki/Carrie_Buck_(politician)
+NV-02,dem,Teresa Benitez-Thompson,Teresa Benitez-Thompson,American politician from Nevada,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-02-dem.jpg,https://en.wikipedia.org/wiki/Teresa_Benitez-Thompson
 NV-03,dem,Susie Lee,Susie Lee,American politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rep._Susie_Lee_118th_Portrait.jpg/330px-Rep._Susie_Lee_118th_Portrait.jpg,https://en.wikipedia.org/wiki/Susie_Lee
 NV-04,dem,Steven Horsford,Steven Horsford,American politician (born 1973),https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Steven_Horsford_118th.jpeg/330px-Steven_Horsford_118th.jpeg,https://en.wikipedia.org/wiki/Steven_Horsford
 NY-01,rep,Nick LaLota,Nick LaLota,American politician and businessman (born 1978),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nick_lalota_portrait.jpg/330px-Nick_lalota_portrait.jpg,https://en.wikipedia.org/wiki/Nick_LaLota
@@ -449,7 +449,7 @@ NY-09,dem,Yvette Clarke,Yvette Clarke,American politician (born 1964),https://up
 NY-10,dem,Brad Lander,Brad Lander,American politician (born 1969),https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Brad_Lander.jpg/330px-Brad_Lander.jpg,https://en.wikipedia.org/wiki/Brad_Lander
 NY-11,rep,Nicole Malliotakis,Nicole Malliotakis,American politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Congresswoman_Nicole_Malliotakis.jpg/330px-Congresswoman_Nicole_Malliotakis.jpg,https://en.wikipedia.org/wiki/Nicole_Malliotakis
 NY-12,dem,Micah Lasher,Micah Lasher,American politician (born 1981),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FWNY25%3B_U.S._Marines_and_Sailors_hold_wreath_laying_ceremony_Micah_Lasher_%28cropped%29.jpg/330px-FWNY25%3B_U.S._Marines_and_Sailors_hold_wreath_laying_ceremony_Micah_Lasher_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Micah_Lasher
-NY-12,ind,Karen Ortiz,Karen Ortiz,American lawyer and judge,,https://en.wikipedia.org/wiki/Karen_Ortiz
+NY-12,ind,Karen Ortiz,Karen Ortiz,American lawyer and judge,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-12-ind.jpg,https://en.wikipedia.org/wiki/Karen_Ortiz
 NY-13,dem,Darializa Avila Chevalier,Darializa Avila Chevalier,American political candidate (born 1993 or 1994),https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Darializa_Avila_Chevalier_during_interview_on_Secretos_CEO.jpg/330px-Darializa_Avila_Chevalier_during_interview_on_Secretos_CEO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail,https://en.wikipedia.org/wiki/Darializa_Avila_Chevalier
 NY-14,dem,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,American politician and activist (born 1989),https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg/330px-Alexandria_Ocasio-Cortez_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez
 NY-15,dem,Ritchie Torres,Ritchie Torres,American politician (born 1988),https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ritchie_Torres_117th_U.S_Congress.jpg/330px-Ritchie_Torres_117th_U.S_Congress.jpg,https://en.wikipedia.org/wiki/Ritchie_Torres
@@ -487,7 +487,7 @@ OK-03,rep,Frank Lucas,Frank Lucas (Oklahoma politician),American politician (bor
 OK-04,rep,Tom Cole,Tom Cole,American politician (born 1949),https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rep-Tom-Cole-117thCong.jpeg/330px-Rep-Tom-Cole-117thCong.jpeg,https://en.wikipedia.org/wiki/Tom_Cole
 OK-05,rep,Stephanie Bice,Stephanie Bice,American politician (born 1973),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rep._Stephanie_Bice%2C_117th_Congress_%28cropped%29.jpg/330px-Rep._Stephanie_Bice%2C_117th_Congress_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Stephanie_Bice
 OR-01,dem,Suzanne Bonamici,Suzanne Bonamici,American politician (born 1954),https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Suzanne_Bonamici.jpg/330px-Suzanne_Bonamici.jpg,https://en.wikipedia.org/wiki/Suzanne_Bonamici
-OR-02,dem,Chris Beck,Chris Beck (politician),American politician,,https://en.wikipedia.org/wiki/Chris_Beck_(politician)
+OR-02,dem,Chris Beck,Chris Beck (politician),American politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-02-dem.jpg,https://en.wikipedia.org/wiki/Chris_Beck_(politician)
 OR-02,rep,Cliff Bentz,Cliff Bentz,American politician (born 1952),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cliff_Bentz_117th_U.S_Congress_%28cropped%29_%28centered%29.jpg/330px-Cliff_Bentz_117th_U.S_Congress_%28cropped%29_%28centered%29.jpg,https://en.wikipedia.org/wiki/Cliff_Bentz
 OR-03,dem,Maxine Dexter,Maxine Dexter,American politician (born 1972),https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dexter_Maxine_119th_Congress.jpg/330px-Dexter_Maxine_119th_Congress.jpg,https://en.wikipedia.org/wiki/Maxine_Dexter
 OR-04,dem,Val Hoyle,Val Hoyle,American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rep._Val_Hoyle_portrait%2C_118th_Congress.jpg/330px-Rep._Val_Hoyle_portrait%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Val_Hoyle
@@ -499,12 +499,12 @@ PA-03,dem,Chris Rabb,Chris Rabb,American politician (born 1970),https://upload.w
 PA-04,dem,Madeleine Dean,Madeleine Dean,American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Madeleine_Dean_Official_Portrait_116th_Congress.jpg/330px-Madeleine_Dean_Official_Portrait_116th_Congress.jpg,https://en.wikipedia.org/wiki/Madeleine_Dean
 PA-05,dem,Mary Gay Scanlon,Mary Gay Scanlon,American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mary_Gay_Scanlon%2C_official_portrait%2C_2018_%283x4_cropped%29.jpg/330px-Mary_Gay_Scanlon%2C_official_portrait%2C_2018_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Mary_Gay_Scanlon
 PA-06,dem,Chrissy Houlahan,Chrissy Houlahan,American politician (born 1967),https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Houlahan_Chrissy_119th_Congress.jpg/330px-Houlahan_Chrissy_119th_Congress.jpg,https://en.wikipedia.org/wiki/Chrissy_Houlahan
-PA-07,dem,Bob Brooks,Robert Brooks (Pennsylvania politician),American politician,,https://en.wikipedia.org/wiki/Robert_Brooks_(Pennsylvania_politician)
+PA-07,dem,Bob Brooks,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-07-dem.jpg,
 PA-07,rep,Ryan Mackenzie,Ryan Mackenzie,American politician (born 1982),https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rep._Ryan_Mackenzie_official_photo%2C_119th_Congress.jpg/330px-Rep._Ryan_Mackenzie_official_photo%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Ryan_Mackenzie
 PA-08,dem,Paige Cognetti,Paige Cognetti,American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paige_Cognetti_%2852165104986%29_%283x4a%29.jpg/330px-Paige_Cognetti_%2852165104986%29_%283x4a%29.jpg,https://en.wikipedia.org/wiki/Paige_Cognetti
 PA-08,rep,Rob Bresnahan,Rob Bresnahan,American politician (born 1990),https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rep._Rob_Bresnahan_official_photo%2C_119th_Congress.jpg/330px-Rep._Rob_Bresnahan_official_photo%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Rob_Bresnahan
 PA-09,rep,Dan Meuser,Dan Meuser,American businessman and politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Meuser_Dan_118th_Congress.jpg/330px-Meuser_Dan_118th_Congress.jpg,https://en.wikipedia.org/wiki/Dan_Meuser
-PA-10,dem,Janelle Stelson,Janelle Stelson,American television news anchor,,https://en.wikipedia.org/wiki/Janelle_Stelson
+PA-10,dem,Janelle Stelson,Janelle Stelson,American television news anchor,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-10-dem.jpg,https://en.wikipedia.org/wiki/Janelle_Stelson
 PA-10,rep,Scott Perry,Scott Perry,American politician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rep._Scott_Perry%2C_official_portrait%2C_118th_Congress.jpg/330px-Rep._Scott_Perry%2C_official_portrait%2C_118th_Congress.jpg,https://en.wikipedia.org/wiki/Scott_Perry
 PA-11,rep,Lloyd Smucker,Lloyd Smucker,American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lloyd_Smucker_Official_Congressional_Photo.jpg/330px-Lloyd_Smucker_Official_Congressional_Photo.jpg,https://en.wikipedia.org/wiki/Lloyd_Smucker
 PA-12,dem,Summer Lee,Summer Lee,American politician (born 1987),https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rep._Summer_Lee_-_118th_Congress_%283x4_cropped%29.jpg/330px-Rep._Summer_Lee_-_118th_Congress_%283x4_cropped%29.jpg,https://en.wikipedia.org/wiki/Summer_Lee
@@ -519,7 +519,7 @@ SC-01,dem,Nancy Lacore,Nancy S. Lacore,U.S. Navy vice admiral and political cand
 SC-02,rep,Joe Wilson,Joe Wilson,American politician (born 1947),https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joe_Wilson%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg/330px-Joe_Wilson%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Joe_Wilson
 SC-03,rep,Sheri Biggs,Sheri Biggs,American politician (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rep._Sheri_Biggs_official_photo%2C_119th_Congress_%283x4_full_crop%29_%28cropped%29.jpg/330px-Rep._Sheri_Biggs_official_photo%2C_119th_Congress_%283x4_full_crop%29_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Sheri_Biggs
 SC-04,rep,William Timmons,William Timmons,American politician (born 1984),https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/William_Timmons%2C_official_portrait%2C_116th_Congress.jpg/330px-William_Timmons%2C_official_portrait%2C_116th_Congress.jpg,https://en.wikipedia.org/wiki/William_Timmons
-SC-05,rep,Wes Climer,Wes Climer,American politician (born 1982),,https://en.wikipedia.org/wiki/Wes_Climer
+SC-05,rep,Wes Climer,Wes Climer,American politician (born 1982),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-05-rep.jpg,https://en.wikipedia.org/wiki/Wes_Climer
 SC-06,dem,Jim Clyburn,Jim Clyburn,American politician (born 1940),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jim_Clyburn_official_portrait_116th_Congress.jpg/330px-Jim_Clyburn_official_portrait_116th_Congress.jpg,https://en.wikipedia.org/wiki/Jim_Clyburn
 SC-07,rep,Russell Fry,Russell Fry,American politician (born 1985),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rep_Russell_Fry_Official_Portrait.jpg/330px-Rep_Russell_Fry_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Russell_Fry
 SD-01,rep,Marty Jackley,Marty Jackley,American lawyer (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/US_District_Attorney_Marty_Jackley.png/330px-US_District_Attorney_Marty_Jackley.png,https://en.wikipedia.org/wiki/Marty_Jackley
@@ -527,8 +527,8 @@ TN-01,rep,Diana Harshbarger,Diana Harshbarger,American politician (born 1960),ht
 TN-02,rep,Tim Burchett,Tim Burchett,American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rep_Tim_Burchett%2C_119th_Congress.jpg/330px-Rep_Tim_Burchett%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Tim_Burchett
 TN-03,rep,Chuck Fleischmann,Chuck Fleischmann,American politician (born 1962),https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chuck_Fleischmann_119th_Congress.jpg/330px-Chuck_Fleischmann_119th_Congress.jpg,https://en.wikipedia.org/wiki/Chuck_Fleischmann
 TN-04,rep,Scott DesJarlais,Scott DesJarlais,American politician (born 1964),https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Scott_DesJarlais_118th_Congress.jpg/330px-Scott_DesJarlais_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Scott_DesJarlais
-TN-05,rep,Charlie Hatcher,Charlie Hatcher,American politician (born 1958),,https://en.wikipedia.org/wiki/Charlie_Hatcher
-TN-06,rep,Johnny Garrett,Johnny Garrett (politician),American politician (born 1978),,https://en.wikipedia.org/wiki/Johnny_Garrett_(politician)
+TN-05,rep,Charlie Hatcher,Charlie Hatcher,American politician (born 1958),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-05-rep.jpg,https://en.wikipedia.org/wiki/Charlie_Hatcher
+TN-06,rep,Johnny Garrett,Johnny Garrett (politician),American politician (born 1978),https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-06-rep.jpg,https://en.wikipedia.org/wiki/Johnny_Garrett_(politician)
 TN-07,rep,Matt Van Epps,Matt Van Epps,American politician (born 1983),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rep._Matt_Van_Epps_official_portrait%2C_119th_Congress.jpg/330px-Rep._Matt_Van_Epps_official_portrait%2C_119th_Congress.jpg,https://en.wikipedia.org/wiki/Matt_Van_Epps
 TN-08,rep,David Kustoff,David Kustoff,American politician (born 1966),https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rep._David_Kustoff%2C_official_portrait%2C_2023.jpg/330px-Rep._David_Kustoff%2C_official_portrait%2C_2023.jpg,https://en.wikipedia.org/wiki/David_Kustoff
 TN-09,dem,Justin J. Pearson,Justin J. Pearson,American politician (born 1995),https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Justin_J_Pearson_August_2023.jpg/330px-Justin_J_Pearson_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Justin_J._Pearson
@@ -540,7 +540,7 @@ TX-04,rep,Pat Fallon,Pat Fallon,American businessman and politician (born 1967),
 TX-05,rep,Lance Gooden,Lance Gooden,American politician (born 1982),https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lance_Gooden%2C_official_portrait%2C_116th_Congress.jpg/330px-Lance_Gooden%2C_official_portrait%2C_116th_Congress.jpg,https://en.wikipedia.org/wiki/Lance_Gooden
 TX-06,rep,Jake Ellzey,Jake Ellzey,American politician (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jake_Ellzey_Official_Portrait_-_117th_Congress.jpg/330px-Jake_Ellzey_Official_Portrait_-_117th_Congress.jpg,https://en.wikipedia.org/wiki/Jake_Ellzey
 TX-07,dem,Lizzie Fletcher,Lizzie Fletcher,American politician (born 1975),https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lizzie_Fletcher_117th_Congress_1_%283x4_cropped%29.jpeg/330px-Lizzie_Fletcher_117th_Congress_1_%283x4_cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Lizzie_Fletcher
-TX-09,rep,Alex Mealer,Alex Mealer,American politician,,https://en.wikipedia.org/wiki/Alex_Mealer
+TX-09,rep,Alex Mealer,Alex Mealer,American politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-09-rep.jpg,https://en.wikipedia.org/wiki/Alex_Mealer
 TX-11,rep,August Pfluger,August Pfluger,American military officer and politician (born 1977),https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/August_Pfluger_official_photo.jpg/330px-August_Pfluger_official_photo.jpg,https://en.wikipedia.org/wiki/August_Pfluger
 TX-12,rep,Craig Goldman,Craig Goldman,American politician (born 1968),https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Representative_Craig_Goldman_Official_Portrait.jpg/330px-Representative_Craig_Goldman_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Craig_Goldman
 TX-13,rep,Ronny Jackson,Ronny Jackson,American physician and politician (born 1967),https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ronny_Jackson_117th_U.S_Congress.jpg/330px-Ronny_Jackson_117th_U.S_Congress.jpg,https://en.wikipedia.org/wiki/Ronny_Jackson
@@ -552,7 +552,7 @@ TX-17,rep,Pete Sessions,Pete Sessions,American politician (born 1955),https://up
 TX-18,dem,Christian Menefee,Christian Menefee,American attorney and politician (born 1988),https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Christian_Menefee%2C_official_portrait_%28119th_Congress%29.jpg/330px-Christian_Menefee%2C_official_portrait_%28119th_Congress%29.jpg,https://en.wikipedia.org/wiki/Christian_Menefee
 TX-20,dem,Joaquin Castro,Joaquin Castro,American politician (born 1974),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg/330px-Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg,https://en.wikipedia.org/wiki/Joaquin_Castro
 TX-21,rep,Mark Teixeira,Mark Teixeira,American baseball player and politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mark_Teixeira_basepaths_2011.jpg/330px-Mark_Teixeira_basepaths_2011.jpg,https://en.wikipedia.org/wiki/Mark_Teixeira
-TX-22,rep,Trever Nehls,Troy Nehls,American politician and sheriff (born 1968),https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Troy_Nehls_117th_U.S_Congress.jpg/330px-Troy_Nehls_117th_U.S_Congress.jpg,https://en.wikipedia.org/wiki/Troy_Nehls
+TX-22,rep,Trever Nehls,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-22-rep.jpg,
 TX-23,rep,Brandon Herrera,Brandon Herrera,American YouTuber and political candidate (born 1995),https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brandon_Herrera_2025.png/330px-Brandon_Herrera_2025.png,https://en.wikipedia.org/wiki/Brandon_Herrera
 TX-24,rep,Beth Van Duyne,Beth Van Duyne,American politician (born 1970),https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beth_Van_Duyne.jpg/330px-Beth_Van_Duyne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Beth_Van_Duyne
 TX-25,rep,Roger Williams,Roger Williams (Texas politician),American politician and businessman (born 1949),https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rep_Williams_Official_Portrait.jpg/330px-Rep_Williams_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)
@@ -570,7 +570,7 @@ UT-01,dem,Ben McAdams,Ben McAdams,American politician and attorney (born 1974),h
 UT-02,rep,Blake Moore,Blake Moore,American politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rep._Blake_Moore_official_photo%2C_2022.jpg/330px-Rep._Blake_Moore_official_photo%2C_2022.jpg,https://en.wikipedia.org/wiki/Blake_Moore
 UT-03,rep,Celeste Maloy,Celeste Maloy,American politician (born 1981),https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Celeste_Maloy_118th_Congress.jpeg/330px-Celeste_Maloy_118th_Congress.jpeg,https://en.wikipedia.org/wiki/Celeste_Maloy
 UT-04,rep,Mike Kennedy,Mike Kennedy,American politician (born 1969),https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kennedy_Mike_119th_Congress_2.jpg/330px-Kennedy_Mike_119th_Congress_2.jpg,https://en.wikipedia.org/wiki/Mike_Kennedy
-VA-01,dem,Shannon Taylor,Shannon Taylor (attorney),American attorney and politician,,https://en.wikipedia.org/wiki/Shannon_Taylor_(attorney)
+VA-01,dem,Shannon Taylor,Shannon Taylor (attorney),American attorney and politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-01-dem.jpg,https://en.wikipedia.org/wiki/Shannon_Taylor_(attorney)
 VA-01,rep,Rob Wittman,Rob Wittman,American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rob_Wittman_official_portrait%2C_118th_Congress_%28cropped%29.jpg/330px-Rob_Wittman_official_portrait%2C_118th_Congress_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Rob_Wittman
 VA-02,dem,Elaine Luria,Elaine Luria,American politician (born 1975),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rep._Elaine_Luria_official_photo%2C_117th_Congress.jpg/330px-Rep._Elaine_Luria_official_photo%2C_117th_Congress.jpg,https://en.wikipedia.org/wiki/Elaine_Luria
 VA-02,rep,Jen Kiggans,Jen Kiggans,American politician and nurse (born 1971),https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kiggans_Jen_118th_Congress.jpg/330px-Kiggans_Jen_118th_Congress.jpg,https://en.wikipedia.org/wiki/Jen_Kiggans
@@ -603,11 +603,588 @@ WI-03,dem,Rebecca Cooke,Rebecca Cooke (politician),American political candidate 
 WI-03,rep,Derrick Van Orden,Derrick Van Orden,American politician (born 1969),https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Congressman_dvo_%281%29.jpg/330px-Congressman_dvo_%281%29.jpg,https://en.wikipedia.org/wiki/Derrick_Van_Orden
 WI-04,dem,Gwen Moore,Gwen Moore,American politician (born 1951),https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gwen_Moore%2C_official_portrait%2C_116th_Congress.jpg/330px-Gwen_Moore%2C_official_portrait%2C_116th_Congress.jpg,https://en.wikipedia.org/wiki/Gwen_Moore
 WI-05,rep,Scott Fitzgerald,Scott Fitzgerald (politician),American politician (born 1963),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Scott_Fitzgerald_Official_Portrait.jpg/330px-Scott_Fitzgerald_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Scott_Fitzgerald_(politician)
-WI-06,dem,Brad Smith,Brad Smith (American lawyer),American lawyer (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Brad_Smith_-_Microsoft_-_01.jpg/330px-Brad_Smith_-_Microsoft_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Brad_Smith_(American_lawyer)
+WI-06,dem,Brad Smith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-06-dem.jpg,
 WI-06,rep,Glenn Grothman,Glenn Grothman,American politician and lawyer (born 1955),https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glenn_Grothman_117th_Congress_portrait.jpg/330px-Glenn_Grothman_117th_Congress_portrait.jpg,https://en.wikipedia.org/wiki/Glenn_Grothman
 WI-07,dem,Fred Clark,Fred Clark (politician),American politician (born 1959),https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fred_Clark_in_Bayfield_%28cropped%29.jpg/330px-Fred_Clark_in_Bayfield_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,https://en.wikipedia.org/wiki/Fred_Clark_(politician)
 WI-08,rep,Tony Wied,Tony Wied,American politician (born 1976),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Representative_Tony_Wied_Official_Portrait.jpg/330px-Representative_Tony_Wied_Official_Portrait.jpg,https://en.wikipedia.org/wiki/Tony_Wied
 WV-01,rep,Carol Miller,Carol Miller (politician),American politician (born 1950),https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Carol_Miller%2C_official_portrait_%28118th_Congress%29.jpg/330px-Carol_Miller%2C_official_portrait_%28118th_Congress%29.jpg,https://en.wikipedia.org/wiki/Carol_Miller_(politician)
 WV-02,rep,Riley Moore,Riley Moore,American politician (born 1980),https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Moore_Riley_119th_Congress_%28cropped2%29.jpg/330px-Moore_Riley_119th_Congress_%28cropped2%29.jpg,https://en.wikipedia.org/wiki/Riley_Moore
-WY-01,dem,Lisa Kinney,Lisa F. Kinney,Wyoming politician,,https://en.wikipedia.org/wiki/Lisa_F._Kinney
+WY-01,dem,Lisa Kinney,Lisa F. Kinney,Wyoming politician,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-01-dem.jpg,https://en.wikipedia.org/wiki/Lisa_F._Kinney
 WY-01,rep,Chuck Gray,Chuck Gray (Wyoming politician),American politician,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chuck_Gray_in_2025_%28cropped%29.jpg/330px-Chuck_Gray_in_2025_%28cropped%29.jpg,https://en.wikipedia.org/wiki/Chuck_Gray_(Wyoming_politician)
+AK-01,ind,Bill Hill,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AK-01-ind.jpg,
+AK-GOV,rep,Bernadette Wilson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AK-GOV-rep.jpg,
+AL-01,dem,Clyde Jones,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-01-dem.jpg,
+AL-03,dem,Lee McInnis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-03-dem.jpg,
+AL-04,dem,Amanda Pusczek,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-04-dem.jpg,
+AL-05,dem,Andrew Sneed,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-05-dem.jpg,
+AL-06,dem,Maurice Mercer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-06-dem.jpg,
+AL-07,rep,Ammie Akin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-07-rep.jpg,
+AL-SEN,dem,Everett Wess,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AL-SEN-dem.jpg,
+AR-01,dem,Terri Green,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-01-dem.jpg,
+AR-01,ind,Steve G. Parsons,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-01-ind.jpg,
+AR-03,dem,Robb Ryerse,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-03-dem.jpg,
+AR-03,ind,Bobby Wilson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-03-ind.jpg,
+AR-04,dem,James Russell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-04-dem.jpg,
+AR-GOV,ind,Colt Shelby,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-GOV-ind.jpg,
+AR-SEN,ind,Jeff Wadlin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AR-SEN-ind.jpg,
+AZ-01,ind,Monica Alponte,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-01-ind.jpg,
+AZ-02,ind,Curtis Goodwin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-02-ind.jpg,
+AZ-03,ind,Alan Aversa,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-03-ind.jpg,
+AZ-04,ind,Tisha Benoit,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-04-ind.jpg,
+AZ-05,dem,Elizabeth Lee,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-05-dem.jpg,
+AZ-06,dem,JoAnna Mendoza,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-06-dem.jpg,
+AZ-07,rep,Daniel Butierez,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-07-rep.jpg,
+AZ-08,dem,Bernadette Greene-Placentia,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-08-dem.jpg,
+AZ-09,dem,Danielle Sterbinsky,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/AZ-09-dem.jpg,
+CA-02,rep,Robin Littau,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-02-rep.jpg,
+CA-03,rep,Robb Tucker,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-03-rep.jpg,
+CA-05,dem,Michael Masuda,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-05-dem.jpg,
+CA-08,rep,Rudy Recile,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-08-rep.jpg,
+CA-09,rep,John McBride,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-09-rep.jpg,
+CA-10,rep,Jeff Frese,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-10-rep.jpg,
+CA-15,rep,Charles Hoelter,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-15-rep.jpg,
+CA-16,rep,Peter Sundin Soulé,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-16-rep.jpg,
+CA-17,rep,Ritesh Tandon,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-17-rep.jpg,
+CA-18,rep,Shane Lewis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-18-rep.jpg,
+CA-19,rep,Peter Verbica,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-19-rep.jpg,
+CA-20,dem,Sandra Van Scotter,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-20-dem.jpg,
+CA-21,rep,Kyle Kirkland,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-21-rep.jpg,
+CA-22,dem,Randy Villegas,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-22-dem.jpg,
+CA-23,dem,Tessa Lynn Hodge,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-23-dem.jpg,
+CA-24,rep,Robert Smith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-24-rep.jpg,
+CA-25,rep,Joe Males,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-25-rep.jpg,
+CA-26,rep,Samuel Gallucci,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-26-rep.jpg,
+CA-27,rep,Jason Gibbs,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-27-rep.jpg,
+CA-28,rep,April Verlato,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-28-rep.jpg,
+CA-30,rep,Scott Alan Meyers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-30-rep.jpg,
+CA-31,rep,Eric Ching,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-31-rep.jpg,
+CA-33,rep,Stephanie Vargas,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-33-rep.jpg,
+CA-35,rep,Mike Cargile,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-35-rep.jpg,
+CA-36,rep,Houston Brignano,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-36-rep.jpg,
+CA-38,rep,Pedro Casas,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-38-rep.jpg,
+CA-39,rep,Steve Manos,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-39-rep.jpg,
+CA-41,rep,Mitch Clemmons,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-41-rep.jpg,
+CA-42,rep,Brian Burley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-42-rep.jpg,
+CA-43,rep,Cristian Morales,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-43-rep.jpg,
+CA-44,rep,Genevieve Angel,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-44-rep.jpg,
+CA-45,rep,Chuong Vo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-45-rep.jpg,
+CA-47,rep,Jenny Rae Le Roux,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-47-rep.jpg,
+CA-49,rep,Armen Kurdian,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-49-rep.jpg,
+CA-51,rep,Ricardo Cabrera,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-51-rep.jpg,
+CA-52,rep,Jeff Belle,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CA-52-rep.jpg,
+CO-01,ind,Chad Humphrey,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-01-ind.jpg,
+CO-01,rep,Christy Peterson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-01-rep.jpg,
+CO-02,ind,Gaylon Kent,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-02-ind.jpg,
+CO-02,rep,Kelley Dennison,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-02-rep.jpg,
+CO-03,dem,Dwayne Romero,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-03-dem.jpg,
+CO-04,ind,Douglas Mangeris,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-04-ind.jpg,
+CO-05,dem,Jessica Killin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-05-dem.jpg,
+CO-05,ind,"Mark ""Marky Jr"" Elworth",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-05-ind.jpg,
+CO-06,ind,Samir Ezzeldin Witta,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-06-ind.jpg,
+CO-06,rep,Jason Clark,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-06-rep.jpg,
+CO-07,ind,Joe Krzeczkowski,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-07-ind.jpg,
+CO-07,rep,Tim Bennett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-07-rep.jpg,
+CO-08,ind,Dave Wood,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-08-ind.jpg,
+CO-SEN,ind,Bob Chew,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CO-SEN-ind.jpg,
+CT-01,ind,Mary Sanders,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-01-ind.jpg,
+CT-01,rep,Amy Chai,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-01-rep.jpg,
+CT-02,rep,George Austin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-02-rep.jpg,
+CT-03,rep,Christopher Lancia,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-03-rep.jpg,
+CT-04,ind,"Benjamin ""Ben"" Wesley",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-04-ind.jpg,
+CT-04,rep,Michael Goldstein,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-04-rep.jpg,
+CT-05,rep,Chris Shea,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/CT-05-rep.jpg,
+FL-01,dem,Gay Valimont,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-01-dem.jpg,
+FL-01,ind,Tyler L. Davis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-01-ind.jpg,
+FL-02,dem,Amanda Green,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-02-dem.jpg,
+FL-02,rep,Austin Rogers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-02-rep.jpg,
+FL-03,dem,Seth Harp,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-03-dem.jpg,
+FL-03,ind,Mike Klein,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-03-ind.jpg,
+FL-04,dem,LaShonda Holloway,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-04-dem.jpg,
+FL-04,ind,Mike Sell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-04-ind.jpg,
+FL-05,dem,Rachel Grage,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-05-dem.jpg,
+FL-06,dem,Eric Yonce,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-06-dem.jpg,
+FL-07,dem,Bale Dalton,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-07-dem.jpg,
+FL-07,rep,Ryan Elijah,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-07-rep.jpg,
+FL-08,dem,Jennifer Jenkins,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-08-dem.jpg,
+FL-09,rep,Dan Green,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-09-rep.jpg,
+FL-11,dem,James Pericola,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-11-dem.jpg,
+FL-11,ind,Ralph Groves,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-11-ind.jpg,
+FL-11,rep,Joe Strada,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-11-rep.jpg,
+FL-12,dem,Kimberly Overman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-12-dem.jpg,
+FL-12,ind,Branden Scrivener,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-12-ind.jpg,
+FL-13,dem,Leela Gray,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-13-dem.jpg,
+FL-13,ind,Tony D'Arrigo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-13-ind.jpg,
+FL-14,ind,Brian Lambert,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-14-ind.jpg,
+FL-15,dem,Robert People,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-15-dem.jpg,
+FL-16,dem,Kelly Kirschner,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-16-dem.jpg,
+FL-17,dem,Matthew Montavon,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-17-dem.jpg,
+FL-18,dem,Curtis Gibson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-18-dem.jpg,
+FL-18,ind,Deva Simmons,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-18-ind.jpg,
+FL-19,dem,Victor Arias,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-19-dem.jpg,
+FL-19,ind,Seth Haskin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-19-ind.jpg,
+FL-19,rep,Jim Schwartzel,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-19-rep.jpg,
+FL-20,ind,Kedner Maxime,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-20-ind.jpg,
+FL-20,rep,Brent Andersen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-20-rep.jpg,
+FL-21,dem,James Martin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-21-dem.jpg,
+FL-21,ind,Alexander Cooke,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-21-ind.jpg,
+FL-22,dem,Pia Dandiya,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-22-dem.jpg,
+FL-22,rep,Casey Askar,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-22-rep.jpg,
+FL-23,rep,Deborah Adeimy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-23-rep.jpg,
+FL-24,rep,Mayonna Te Brown,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-24-rep.jpg,
+FL-25,rep,Scott Singer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-25-rep.jpg,
+FL-26,dem,Nicole Locklin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-26-dem.jpg,
+FL-26,ind,Deborah Ann Meidinger Hosey,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-26-ind.jpg,
+FL-28,dem,Phil Ehr,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-28-dem.jpg,
+FL-28,ind,Eddy Rojas,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-28-ind.jpg,
+FL-GOV,ind,Scott Eckhard Jewett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-GOV-ind.jpg,
+FL-SEN,ind,Neil J. Gillespie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/FL-SEN-ind.jpg,
+GA-01,dem,Amanda Hollowell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-01-dem.jpg,
+GA-01,rep,Jim Kingston,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-01-rep.jpg,
+GA-02,rep,Matt Day,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-02-rep.jpg,
+GA-03,dem,Maura Keller,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-03-dem.jpg,
+GA-04,rep,James Duffie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-04-rep.jpg,
+GA-05,rep,John Salvesen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-05-rep.jpg,
+GA-06,rep,Kevin Martin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-06-rep.jpg,
+GA-07,dem,Tony Kozycki,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-07-dem.jpg,
+GA-08,dem,Kelly Esti,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-08-dem.jpg,
+GA-09,dem,Caitlyn Gegen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-09-dem.jpg,
+GA-10,dem,Pamela DeLancy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-10-dem.jpg,
+GA-11,dem,Chris Harden,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-11-dem.jpg,
+GA-11,rep,John Cowan,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-11-rep.jpg,
+GA-12,dem,Ceretta Smith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-12-dem.jpg,
+GA-13,rep,Jonathan Chavez,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-13-rep.jpg,
+GA-14,dem,Shawn Harris,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/GA-14-dem.jpg,
+HI-01,ind,Jordan S. Conley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/HI-01-ind.jpg,
+HI-01,rep,Adriel Lam,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/HI-01-rep.jpg,
+HI-GOV,rep,Gary Cordery,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/HI-GOV-rep.jpg,
+IA-01,ind,Michael Bridgford,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IA-01-ind.jpg,
+IA-02,ind,Dave Bushaw,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IA-02-ind.jpg,
+IA-04,rep,Chris McGowan,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IA-04-rep.jpg,
+IA-SEN,ind,Thomas Laehn,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IA-SEN-ind.jpg,
+ID-01,dem,Kaylee Peterson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-01-dem.jpg,
+ID-01,ind,Sarah Zabel,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-01-ind.jpg,
+ID-02,dem,Elinor Gilbreath,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-02-dem.jpg,
+ID-02,ind,Tripp Charles Hutchinson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-02-ind.jpg,
+ID-GOV,dem,Terri Pickens,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-GOV-dem.jpg,
+ID-GOV,ind,Paul Sand,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ID-GOV-ind.jpg,
+IL-01,rep,Christian Maxwell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-01-rep.jpg,
+IL-02,rep,Michael Noack,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-02-rep.jpg,
+IL-03,rep,Angel Oakley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-03-rep.jpg,
+IL-04,dem,Patty Garcia,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-04-dem.jpg,
+IL-04,ind,Chris Getty,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-04-ind.jpg,
+IL-04,rep,Lupe Castillo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-04-rep.jpg,
+IL-05,rep,Tommy Hanson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-05-rep.jpg,
+IL-06,rep,Niki Conforti,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-06-rep.jpg,
+IL-07,rep,Chad Koppie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-07-rep.jpg,
+IL-08,rep,Jennifer Davis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-08-rep.jpg,
+IL-09,rep,John Elleson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-09-rep.jpg,
+IL-10,rep,Carl Lambrecht,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-10-rep.jpg,
+IL-11,rep,Jeff Walter,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-11-rep.jpg,
+IL-12,dem,Julie Fortier,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-12-dem.jpg,
+IL-13,rep,Jeff Wilson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-13-rep.jpg,
+IL-14,rep,James Marter,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-14-rep.jpg,
+IL-15,dem,Jennifer Todd,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-15-dem.jpg,
+IL-16,dem,Paul Nolley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-16-dem.jpg,
+IL-17,rep,Dillan Vancil,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-17-rep.jpg,
+IL-GOV,ind,Collin Corbett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-GOV-ind.jpg,
+IL-SEN,ind,"Whitfield Harrington, Jr.",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IL-SEN-ind.jpg,
+IN-01,rep,Barb Regnitz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-01-rep.jpg,
+IN-02,dem,Jamee Decio,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-02-dem.jpg,
+IN-02,ind,William Eric Henry,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-02-ind.jpg,
+IN-03,dem,Kelly Thompson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-03-dem.jpg,
+IN-04,dem,Drew Cox,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-04-dem.jpg,
+IN-06,dem,Cynthia Wirth,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-06-dem.jpg,
+IN-07,ind,James M Sceniak,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-07-ind.jpg,
+IN-07,rep,Patrick McAuley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-07-rep.jpg,
+IN-08,dem,Mary Allen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-08-dem.jpg,
+IN-09,dem,Brad Meyer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-09-dem.jpg,
+IN-09,ind,Tonya L. Hudson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/IN-09-ind.jpg,
+KS-01,dem,Lauren Reinhold,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-01-dem.jpg,
+KS-01,ind,Steven Jacob,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-01-ind.jpg,
+KS-02,dem,Don Coover,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-02-dem.jpg,
+KS-02,ind,John Hauer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-02-ind.jpg,
+KS-03,ind,Steven A Hohe,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-03-ind.jpg,
+KS-03,rep,Eric Jenkins,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-03-rep.jpg,
+KS-04,dem,Katy Tyndell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-04-dem.jpg,
+KS-04,ind,Drew Cranmer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-04-ind.jpg,
+KS-SEN,ind,David C Graham,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KS-SEN-ind.jpg,
+KY-01,dem,Drew Williams,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-01-dem.jpg,
+KY-02,dem,Megan Wingfield,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-02-dem.jpg,
+KY-02,ind,Thomas A. Loecken,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-02-ind.jpg,
+KY-03,rep,Maria Rodriguez,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-03-rep.jpg,
+KY-04,dem,Melissa Strange,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-04-dem.jpg,
+KY-04,ind,Jeremy Todd,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-04-ind.jpg,
+KY-05,dem,Ned Pillersdorf,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-05-dem.jpg,
+KY-05,ind,Mikel Wein,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-05-ind.jpg,
+KY-05,rep,Harold Rogers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-05-rep.jpg,
+KY-06,dem,Zach Dembo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-06-dem.jpg,
+KY-06,ind,Pete Lynch,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/KY-06-ind.jpg,
+LA-01,dem,Lauren Jewett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-01-dem.jpg,
+LA-02,ind,Lisa Ballay,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-02-ind.jpg,
+LA-02,rep,Peter Williams,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-02-rep.jpg,
+LA-03,dem,John Day,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-03-dem.jpg,
+LA-03,ind,Tia LeBrun,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-03-ind.jpg,
+LA-04,dem,Matthew Gromlich,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-04-dem.jpg,
+LA-05,dem,Dan McKay,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-05-dem.jpg,
+LA-06,dem,"Lindsay ""Rubia"" Garcia",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-06-dem.jpg,
+LA-06,ind,Rufus Craig,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-06-ind.jpg,
+LA-SEN,dem,Jamie Davis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/LA-SEN-dem.jpg,
+MA-03,rep,Gary Grossi,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-03-rep.jpg,
+MA-04,rep,Thomas Stalcup,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-04-rep.jpg,
+MA-06,rep,Micah Quinney Jones,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-06-rep.jpg,
+MA-08,rep,Robert Gerald Burke,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-08-rep.jpg,
+MA-09,rep,Robert MacAllister,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-09-rep.jpg,
+MA-GOV,rep,Mike Minogue,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MA-GOV-rep.jpg,
+MD-01,dem,Dan Schwartz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-01-dem.jpg,
+MD-02,rep,Dave Wallace,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-02-rep.jpg,
+MD-03,rep,Berney Flowers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-03-rep.jpg,
+MD-04,rep,George McDermott,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-04-rep.jpg,
+MD-05,rep,Chris Chaffee,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-05-rep.jpg,
+MD-06,ind,Moshe Y. Landman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-06-ind.jpg,
+MD-07,rep,Scott Collier,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-07-rep.jpg,
+MD-08,ind,Nancy Wallace,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-08-ind.jpg,
+MD-08,rep,Cheryl Riley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-08-rep.jpg,
+MD-GOV,ind,Andy Ellis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MD-GOV-ind.jpg,
+MI-01,dem,Callie Barr,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-01-dem.jpg,
+MI-01,ind,Arnett Satterla,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-01-ind.jpg,
+MI-02,dem,Benjamin Ambrose,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-02-dem.jpg,
+MI-02,ind,Charlotte Magoon,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-02-ind.jpg,
+MI-03,ind,Joe Jock,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-03-ind.jpg,
+MI-03,rep,Terri DeBoer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-03-rep.jpg,
+MI-04,ind,Shafina Che Barnett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-04-ind.jpg,
+MI-05,dem,Christian Vukasovich,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-05-dem.jpg,
+MI-05,ind,Jim Bronke,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-05-ind.jpg,
+MI-06,ind,Clyde Shabazz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-06-ind.jpg,
+MI-06,rep,Heather Smiley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-06-rep.jpg,
+MI-07,dem,William Lawrence,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-07-dem.jpg,
+MI-07,ind,Shane Dedrick,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-07-ind.jpg,
+MI-08,ind,C. Mia Pettus,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-08-ind.jpg,
+MI-08,rep,Thomas J. Smith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-08-rep.jpg,
+MI-09,dem,Ray Pooley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-09-dem.jpg,
+MI-09,ind,Destiny Clayton,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-09-ind.jpg,
+MI-10,dem,Christina Hines,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-10-dem.jpg,
+MI-10,ind,Kwabena Nkromo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-10-ind.jpg,
+MI-10,rep,Michael Bouchard Jr.,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-10-rep.jpg,
+MI-11,ind,Anil Kumar,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-11-ind.jpg,
+MI-11,rep,Ethan Baker,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-11-rep.jpg,
+MI-12,ind,Brenda K. Sanders,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-12-ind.jpg,
+MI-12,rep,James D. Hooper,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-12-rep.jpg,
+MI-13,rep,T.P. Nykoriak,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-13-rep.jpg,
+MI-GOV,ind,Anthony Hudson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-GOV-ind.jpg,
+MI-SEN,ind,Douglas P. Marsh,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MI-SEN-ind.jpg,
+MN-01,dem,Jake Johnson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-01-dem.jpg,
+MN-03,rep,Tyler Bass,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-03-rep.jpg,
+MN-04,rep,Paul Wikstrom,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-04-rep.jpg,
+MN-05,ind,DeVelle L. Jackson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-05-ind.jpg,
+MN-05,rep,John Nagel,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-05-rep.jpg,
+MN-06,dem,Doug Chapin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-06-dem.jpg,
+MN-07,dem,Erik Osberg,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-07-dem.jpg,
+MN-08,dem,Trina Swanson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-08-dem.jpg,
+MN-GOV,ind,Steven Young and Jane Kirby,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-GOV-ind.jpg,
+MN-SEN,ind,Rebecca Whiting,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MN-SEN-ind.jpg,
+MO-01,ind,Tom Schmitz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-01-ind.jpg,
+MO-01,rep,Paul Berry,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-01-rep.jpg,
+MO-02,dem,Fred Wellman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-02-dem.jpg,
+MO-02,ind,Brandon Coulter Daugherty,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-02-ind.jpg,
+MO-03,dem,Bethany Mann,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-03-dem.jpg,
+MO-03,ind,Jim Higgins,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-03-ind.jpg,
+MO-04,dem,Jordan Herrera,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-04-dem.jpg,
+MO-05,ind,Randall (Randy) Langkraehr,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-05-ind.jpg,
+MO-06,dem,Josh Smead,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-06-dem.jpg,
+MO-06,ind,Andy Maidment,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-06-ind.jpg,
+MO-07,dem,Missi Hesketh,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-07-dem.jpg,
+MO-07,ind,Kevin Craig,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-07-ind.jpg,
+MO-08,dem,Christopher Reichard,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-08-dem.jpg,
+MO-08,ind,Rebecca Sharpe Lombard,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MO-08-ind.jpg,
+MS-01,dem,Cliff Johnson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-01-dem.jpg,
+MS-01,ind,Johnny Baucom,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-01-ind.jpg,
+MS-02,ind,Bennie Foster,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-02-ind.jpg,
+MS-02,rep,Ron Eller,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-02-rep.jpg,
+MS-03,dem,Michael Chiaradio,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-03-dem.jpg,
+MS-03,ind,Erik Kiehle,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-03-ind.jpg,
+MS-04,ind,Carl Boyanton,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-04-ind.jpg,
+MS-SEN,ind,Ty Pinkins,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MS-SEN-ind.jpg,
+MT-01,ind,Nick Sheedy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MT-01-ind.jpg,
+MT-02,dem,Brian Miller,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MT-02-dem.jpg,
+MT-02,ind,Michael D Eisenhauer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MT-02-ind.jpg,
+MT-SEN,dem,Alani Bankhead,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/MT-SEN-dem.jpg,
+NC-01,ind,Tom Bailey,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-01-ind.jpg,
+NC-02,ind,Matthew Laszacs,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-02-ind.jpg,
+NC-02,rep,Eugene Douglass,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-02-rep.jpg,
+NC-03,ind,Daniel Cavender,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-03-ind.jpg,
+NC-04,ind,Guy Meilleur,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-04-ind.jpg,
+NC-04,rep,Max Ganorkar,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-04-rep.jpg,
+NC-05,dem,Chuck Hubbard,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-05-dem.jpg,
+NC-05,ind,Robert B. Luffman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-05-ind.jpg,
+NC-06,dem,Cyril Jefferson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-06-dem.jpg,
+NC-07,dem,Kimberly Hardy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-07-dem.jpg,
+NC-07,ind,Maad Abu-Ghazalah,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-07-ind.jpg,
+NC-08,dem,Colby Watson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-08-dem.jpg,
+NC-08,ind,Bo Whitehead,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-08-ind.jpg,
+NC-10,ind,Steven Feldman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-10-ind.jpg,
+NC-11,dem,Jamie Ager,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-11-dem.jpg,
+NC-11,ind,Travis Groo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-11-ind.jpg,
+NC-12,rep,Jack Codiga,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-12-rep.jpg,
+NC-14,dem,LaKesha Womack,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-14-dem.jpg,
+NC-SEN,ind,Michael Dublin,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NC-SEN-ind.jpg,
+ND-01,dem,Trygve Hammer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ND-01-dem.jpg,
+ND-01,ind,Charles Tuttle,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/ND-01-ind.jpg,
+NE-01,dem,Christopher Backemeyer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-01-dem.jpg,
+NE-01,ind,Nik Sandman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-01-ind.jpg,
+NE-02,dem,Denise Powell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-02-dem.jpg,
+NE-02,ind,Eric Michael Foreman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-02-ind.jpg,
+NE-02,rep,Brinker Harding,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-02-rep.jpg,
+NE-03,dem,Becky Stille,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-03-dem.jpg,
+NE-03,ind,Mark Cohen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NE-03-ind.jpg,
+NH-01,rep,Anthony DiLorenzo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-01-rep.jpg,
+NH-02,ind,Robbie Mahrou,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-02-ind.jpg,
+NH-02,rep,Lily Williams,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-02-rep.jpg,
+NH-GOV,ind,Stephen Villee,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-GOV-ind.jpg,
+NH-SEN,ind,Edmond Laplante,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NH-SEN-ind.jpg,
+NJ-01,rep,Damon Galdo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-01-rep.jpg,
+NJ-02,dem,Zack Mullock,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-02-dem.jpg,
+NJ-02,ind,Ramon Mora Jr.,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-02-ind.jpg,
+NJ-03,ind,Steven Welzer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-03-ind.jpg,
+NJ-03,rep,Michael McGuire,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-03-rep.jpg,
+NJ-04,dem,Rachel Peace,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-04-dem.jpg,
+NJ-05,ind,Adam Rueda,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-05-ind.jpg,
+NJ-05,rep,Sean Kirrane,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-05-rep.jpg,
+NJ-06,rep,Hillary Herzig,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-06-rep.jpg,
+NJ-07,dem,Rebecca Bennett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-07-dem.jpg,
+NJ-08,ind,Aristotle Eliopoulos,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-08-ind.jpg,
+NJ-09,rep,Rosemary Pino,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-09-rep.jpg,
+NJ-10,rep,Carmen Bucco,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-10-rep.jpg,
+NJ-11,ind,Alan B. Bond,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-11-ind.jpg,
+NJ-11,rep,Joe Hathaway,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-11-rep.jpg,
+NJ-12,ind,Andres Jinete,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-12-ind.jpg,
+NJ-12,rep,Gregg Mele,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-12-rep.jpg,
+NJ-SEN,ind,Joanne Kuniansky,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-SEN-ind.jpg,
+NJ-SEN,rep,Justin Murphy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NJ-SEN-rep.jpg,
+NM-01,rep,Ndidiamaka Okpareke,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NM-01-rep.jpg,
+NM-02,rep,Greg Cunningham,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NM-02-rep.jpg,
+NM-SEN,rep,Larry Marker,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NM-SEN-rep.jpg,
+NV-01,ind,"Afzal ""Bobby"" Khan",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-01-ind.jpg,
+NV-02,ind,Lynn Chapman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-02-ind.jpg,
+NV-02,rep,David Flippo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-02-rep.jpg,
+NV-03,ind,Jon Kamerath,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-03-ind.jpg,
+NV-03,rep,Marty O'Donnell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-03-rep.jpg,
+NV-04,ind,Russell Best,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-04-ind.jpg,
+NV-04,rep,Cody Whipple,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-04-rep.jpg,
+NV-GOV,ind,Danielle Ford,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NV-GOV-ind.jpg,
+NY-01,dem,Christopher Gallant,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-01-dem.jpg,
+NY-04,ind,Blay Tarnoff,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-04-ind.jpg,
+NY-04,rep,Jeanine Driscoll,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-04-rep.jpg,
+NY-05,rep,George Marsh,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-05-rep.jpg,
+NY-06,rep,Joseph Chou,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-06-rep.jpg,
+NY-07,ind,Priscilla Ghaznavi,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-07-ind.jpg,
+NY-07,rep,Melvin Rivera,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-07-rep.jpg,
+NY-08,rep,Lewis Mizrahi,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-08-rep.jpg,
+NY-09,rep,Joel Anabilah-Azumah,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-09-rep.jpg,
+NY-10,rep,Jennifer Moore,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-10-rep.jpg,
+NY-11,dem,Michael DeCillis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-11-dem.jpg,
+NY-12,rep,Caroline Shinkle,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-12-rep.jpg,
+NY-13,rep,Jomo Williams,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-13-rep.jpg,
+NY-14,rep,Diamant Hysenaj,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-14-rep.jpg,
+NY-15,ind,Jose Vega,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-15-ind.jpg,
+NY-15,rep,Stylo Sapaskis,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-15-rep.jpg,
+NY-16,rep,Joseph Cinquemani,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-16-rep.jpg,
+NY-18,rep,Jackie Auringer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-18-rep.jpg,
+NY-20,rep,Ralph Ambrosio,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-20-rep.jpg,
+NY-21,dem,Blake Gendebien,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-21-dem.jpg,
+NY-21,rep,Anthony Constantino,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-21-rep.jpg,
+NY-22,rep,Kailee Buller,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-22-rep.jpg,
+NY-23,dem,Aaron Gies,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-23-dem.jpg,
+NY-24,dem,Alissa Ellman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-24-dem.jpg,
+NY-25,rep,Virginia McIntyre,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-25-rep.jpg,
+NY-26,rep,Dennis Hannon,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/NY-26-rep.jpg,
+OH-01,ind,Nathan Weise,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-01-ind.jpg,
+OH-01,rep,Eric Conroy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-01-rep.jpg,
+OH-02,dem,Jennifer Mazzuckelli,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-02-dem.jpg,
+OH-03,rep,Cleophus Dulaney,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-03-rep.jpg,
+OH-04,dem,Joshua Kolasinski,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-04-dem.jpg,
+OH-04,ind,Tracey Tackett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-04-ind.jpg,
+OH-05,dem,Brian Shaver,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-05-dem.jpg,
+OH-05,ind,Michael J. Veloff,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-05-ind.jpg,
+OH-06,dem,Elizabeth Kirtley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-06-dem.jpg,
+OH-07,dem,Brian Poindexter,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-07-dem.jpg,
+OH-08,dem,Vanessa Enoch,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-08-dem.jpg,
+OH-10,dem,Kristina Knickerbocker,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-10-dem.jpg,
+OH-10,ind,Thomas F. McMasters,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-10-ind.jpg,
+OH-11,rep,Mike Kirchner,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-11-rep.jpg,
+OH-12,dem,Jerrad Christian,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-12-dem.jpg,
+OH-13,ind,Sandeep Dixit,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-13-ind.jpg,
+OH-13,rep,Carey Coleman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-13-rep.jpg,
+OH-14,dem,Maria Jukic,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-14-dem.jpg,
+OH-15,dem,Don Leonard,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-15-dem.jpg,
+OH-15,ind,Brennan Barrington,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-15-ind.jpg,
+OH-GOV,ind,Don Kissick,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-GOV-ind.jpg,
+OH-SEN,ind,Greg Levy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OH-SEN-ind.jpg,
+OK-01,dem,John Croisant,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-01-dem.jpg,
+OK-02,dem,Brandon Wade,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-02-dem.jpg,
+OK-02,ind,Ronnie Hopkins,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-02-ind.jpg,
+OK-03,dem,Suzie Byrd,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-03-dem.jpg,
+OK-04,dem,Mitchell Jacob,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-04-dem.jpg,
+OK-05,dem,Jena Nelson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-05-dem.jpg,
+OK-05,ind,Robert P. Henri,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-05-ind.jpg,
+OK-SEN,dem,Jasmine Thomas,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-SEN-dem.jpg,
+OK-SEN,ind,Ron Meinhardt,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OK-SEN-ind.jpg,
+OR-01,rep,Barbara Kahl,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-01-rep.jpg,
+OR-03,rep,Loran Ayles,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-03-rep.jpg,
+OR-04,ind,Justin Filip,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-04-ind.jpg,
+OR-04,rep,Monique DeSpain,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-04-rep.jpg,
+OR-05,ind,Andrea Townsend,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-05-ind.jpg,
+OR-05,rep,Patti Adair,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-05-rep.jpg,
+OR-06,rep,David Russ,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-06-rep.jpg,
+OR-GOV,ind,Brett Smith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-GOV-ind.jpg,
+OR-SEN,ind,Gary Lyndon Dye,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/OR-SEN-ind.jpg,
+PA-01,dem,Bob Harvie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-01-dem.jpg,
+PA-02,rep,Jessica Arriaga,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-02-rep.jpg,
+PA-03,ind,Dennis Joseph Mahoney,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-03-ind.jpg,
+PA-04,rep,Aurora Stuski,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-04-rep.jpg,
+PA-05,rep,Nicholas Manganaro,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-05-rep.jpg,
+PA-06,rep,Marty Young,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-06-rep.jpg,
+PA-09,dem,Rachel Wallace,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-09-dem.jpg,
+PA-11,dem,Nancy Mannion,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-11-dem.jpg,
+PA-12,rep,James Hayes,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-12-rep.jpg,
+PA-13,dem,Beth Farnham,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-13-dem.jpg,
+PA-14,dem,Alan Bradstock,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-14-dem.jpg,
+PA-15,dem,Ray Bilger,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-15-dem.jpg,
+PA-16,dem,Justin Wagner,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-16-dem.jpg,
+PA-17,rep,Tony Guy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-17-rep.jpg,
+PA-GOV,ind,Kenneth V. Krawchuk,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/PA-GOV-ind.jpg,
+RI-01,rep,Kellie Keenan,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-01-rep.jpg,
+RI-02,rep,Victor Mellor,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-02-rep.jpg,
+RI-GOV,rep,Aaron Guckian,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-GOV-rep.jpg,
+RI-SEN,ind,Michael Anthony Bahry,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-SEN-ind.jpg,
+RI-SEN,rep,Raymond McKay,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/RI-SEN-rep.jpg,
+SC-01,ind,Bill Reeside,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-01-ind.jpg,
+SC-01,rep,Jenny Costa Honeycutt,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-01-rep.jpg,
+SC-02,dem,Zyon Khalifa,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-02-dem.jpg,
+SC-03,dem,Eunice Lehmacher,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-03-dem.jpg,
+SC-03,ind,Brian Corriea,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-03-ind.jpg,
+SC-04,dem,Courtney McClain,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-04-dem.jpg,
+SC-04,ind,Jessica Ethridge,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-04-ind.jpg,
+SC-05,dem,Mallory Dittmer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-05-dem.jpg,
+SC-06,rep,John Peterson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-06-rep.jpg,
+SC-07,dem,John Vincent,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-07-dem.jpg,
+SC-GOV,ind,Walid Hakim,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-GOV-ind.jpg,
+SC-SEN,ind,Kasie Whitener,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SC-SEN-ind.jpg,
+SD-01,dem,Nikki Gronli,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SD-01-dem.jpg,
+SD-SEN,ind,Brian Bengs,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/SD-SEN-ind.jpg,
+TN-01,dem,Kristi Burke,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-01-dem.jpg,
+TN-01,ind,Billy Cody,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-01-ind.jpg,
+TN-02,dem,Michaela Barnett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-02-dem.jpg,
+TN-02,ind,Adam Heimerman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-02-ind.jpg,
+TN-03,dem,Anna Golladay,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-03-dem.jpg,
+TN-03,ind,Dean Arnold,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-03-ind.jpg,
+TN-04,dem,Victoria Broderick,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-04-dem.jpg,
+TN-04,ind,Jacob Kristopher Anders,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-04-ind.jpg,
+TN-05,dem,Chaz Molder,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-05-dem.jpg,
+TN-06,dem,Mike Croley,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-06-dem.jpg,
+TN-06,ind,Angus Purdy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-06-ind.jpg,
+TN-07,dem,Darden Copeland,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-07-dem.jpg,
+TN-08,dem,Heidi Kuhn,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-08-dem.jpg,
+TN-08,ind,Horace Taylor,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-08-ind.jpg,
+TN-09,ind,Dennis Clark,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-09-ind.jpg,
+TN-GOV,dem,Jerri Green,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-GOV-dem.jpg,
+TN-GOV,ind,Lauren Pinkston,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-GOV-ind.jpg,
+TN-SEN,ind,"David Sutman, Jr.",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TN-SEN-ind.jpg,
+TX-01,dem,Yolanda Prince,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-01-dem.jpg,
+TX-02,dem,Shaun Finnie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-02-dem.jpg,
+TX-03,dem,Evan Hunt,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-03-dem.jpg,
+TX-04,dem,Jason Pearce,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-04-dem.jpg,
+TX-05,dem,Chelsey Hockett,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-05-dem.jpg,
+TX-06,dem,Danny Minton,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-06-dem.jpg,
+TX-07,ind,Espoir Ngabo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-07-ind.jpg,
+TX-07,rep,Alexander Hale,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-07-rep.jpg,
+TX-08,dem,Laura Jones,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-08-dem.jpg,
+TX-08,rep,Jessica Steinmann,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-08-rep.jpg,
+TX-09,dem,Leticia Gutierrez,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-09-dem.jpg,
+TX-10,dem,Caitlin Rourk,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-10-dem.jpg,
+TX-10,rep,Chris Gober,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-10-rep.jpg,
+TX-11,dem,Claire Reynolds,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-11-dem.jpg,
+TX-12,dem,Heli Rodriguez Prilliman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-12-dem.jpg,
+TX-13,dem,Mark Nair,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-13-dem.jpg,
+TX-14,dem,Thurman Bartie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-14-dem.jpg,
+TX-16,rep,Adam Bauman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-16-rep.jpg,
+TX-17,dem,Casey Shepard,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-17-dem.jpg,
+TX-18,rep,Ronald Whitfield,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-18-rep.jpg,
+TX-19,dem,Kyle Rable,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-19-dem.jpg,
+TX-19,rep,Tom Sell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-19-rep.jpg,
+TX-20,rep,Edgardo Baez,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-20-rep.jpg,
+TX-21,dem,Kristin Hook,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-21-dem.jpg,
+TX-22,dem,Marquette Greene-Scott,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-22-dem.jpg,
+TX-23,dem,Katy Padilla Stout,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-23-dem.jpg,
+TX-23,ind,Ben Mendoza,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-23-ind.jpg,
+TX-24,dem,Kevin Burge,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-24-dem.jpg,
+TX-25,dem,Dione Sims,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-25-dem.jpg,
+TX-26,dem,Steven Shook,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-26-dem.jpg,
+TX-26,ind,Phil Gray,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-26-ind.jpg,
+TX-27,dem,Tanya Lloyd,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-27-dem.jpg,
+TX-28,ind,Marlón Durán,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-28-ind.jpg,
+TX-28,rep,Tano Tijerina,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-28-rep.jpg,
+TX-29,rep,Martha Fierro,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-29-rep.jpg,
+TX-30,rep,Everett Jackson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-30-rep.jpg,
+TX-31,dem,Justin Early,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-31-dem.jpg,
+TX-31,ind,Greg Stoker,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-31-ind.jpg,
+TX-32,dem,Dan Barrios,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-32-dem.jpg,
+TX-32,rep,Jace Yarbrough,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-32-rep.jpg,
+TX-33,rep,Patrick Gillespie,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-33-rep.jpg,
+TX-34,ind,Chris Royal,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-34-ind.jpg,
+TX-35,dem,Johnny Garcia,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-35-dem.jpg,
+TX-35,rep,Carlos De La Cruz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-35-rep.jpg,
+TX-36,dem,Rhonda Hart,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-36-dem.jpg,
+TX-37,rep,Lauren Peña,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-37-rep.jpg,
+TX-38,dem,Melissa McDonough,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-38-dem.jpg,
+TX-38,ind,Alex McMenemy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-38-ind.jpg,
+TX-38,rep,Jon Bonck,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-38-rep.jpg,
+TX-GOV,ind,Pat Dixon,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-GOV-ind.jpg,
+TX-SEN,ind,Ted Brown,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/TX-SEN-ind.jpg,
+UT-01,ind,Jesse West,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-01-ind.jpg,
+UT-01,rep,Riley Owen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-01-rep.jpg,
+UT-02,dem,Peter Crosby,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-02-dem.jpg,
+UT-02,ind,Robert M. Moesinger,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-02-ind.jpg,
+UT-03,dem,Kent Udell,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-03-dem.jpg,
+UT-03,ind,Adonis Hooslyn,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-03-ind.jpg,
+UT-04,dem,Jonny Larsen,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-04-dem.jpg,
+UT-04,ind,Steven Burt,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/UT-04-ind.jpg,
+VA-02,ind,"Geral D. ""Bishop"" Staten",,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-02-ind.jpg,
+VA-03,ind,Stephen C. Woll,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-03-ind.jpg,
+VA-03,rep,Edwin Rivera,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-03-rep.jpg,
+VA-05,ind,Cooke C. Harvey,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-05-ind.jpg,
+VA-07,ind,Alaha Ahrar,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-07-ind.jpg,
+VA-07,rep,Doug Ollivant,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-07-rep.jpg,
+VA-08,ind,Tim S. Sharman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-08-ind.jpg,
+VA-08,rep,Tony Sabio,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-08-rep.jpg,
+VA-09,dem,Joy Powers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-09-dem.jpg,
+VA-10,ind,Ahsen Mujeeb Malik,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-10-ind.jpg,
+VA-10,rep,Dave Beckwith,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-10-rep.jpg,
+VA-11,ind,Dianne L. Blais,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-11-ind.jpg,
+VA-11,rep,Arthur Purves,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VA-11-rep.jpg,
+VT-01,ind,Adam Ortiz,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VT-01-ind.jpg,
+VT-01,rep,Gerald Malloy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VT-01-rep.jpg,
+VT-GOV,dem,Amanda Janoo,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VT-GOV-dem.jpg,
+VT-GOV,ind,Dean Roy,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/VT-GOV-ind.jpg,
+WA-01,rep,Mary Silva,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-01-rep.jpg,
+WA-02,rep,Edwin H. Feller,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-02-rep.jpg,
+WA-04,dem,John Duresky,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-04-dem.jpg,
+WA-04,rep,Amanda McKinney,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-04-rep.jpg,
+WA-06,rep,Teresa Fox,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-06-rep.jpg,
+WA-07,rep,Nirav Sheth,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-07-rep.jpg,
+WA-08,rep,Spencer Meline,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-08-rep.jpg,
+WA-09,rep,Doug Basler,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-09-rep.jpg,
+WA-10,rep,Chris D. Chung,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WA-10-rep.jpg,
+WI-01,dem,Mitchell Berman,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-01-dem.jpg,
+WI-03,ind,Alexander Valiensi Kent,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-03-ind.jpg,
+WI-04,ind,Arthur Burks,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-04-ind.jpg,
+WI-04,rep,Tim Rogers,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-04-rep.jpg,
+WI-05,dem,Andrew Beck,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-05-dem.jpg,
+WI-06,ind,Mike Thurow,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-06-ind.jpg,
+WI-07,rep,Michael Alfonso,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-07-rep.jpg,
+WI-08,dem,Rick Crosson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WI-08-dem.jpg,
+WV-01,dem,Vince George,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WV-01-dem.jpg,
+WV-01,ind,Belinda Fox-Spencer,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WV-01-ind.jpg,
+WV-02,dem,Ace Parsi,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WV-02-dem.jpg,
+WV-SEN,dem,Rachel Fetty Anderson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WV-SEN-dem.jpg,
+WY-01,ind,Shawn Johnson,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-01-ind.jpg,
+WY-GOV,dem,Kenneth Casner,,,https://raw.githubusercontent.com/ElectIndex/26_us_forecast_data/main/photos/WY-GOV-dem.jpg,
