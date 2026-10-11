@@ -51,6 +51,7 @@ AK-SEN,8f88b222-ce7a-4aec-a92f-420ec47e24aa,Trafalgar Group,2026-09-24,1079,1.2,
 AK-SEN,74dcee91-0001-4995-8872-9b54884e9f9e,Quantus Insights,2026-09-30,758,1.0,R,46.5,46.8,-0.3,1.6,NPA,Dan J. Sullivan,0.0,1.5,Mary Peltola,Dan Sullivan
 AK-SEN,c115983e-1ed7-42e1-bd8c-92692471a053,The New York Times/Siena University,2026-10-01,504,3.0,,50.1,43.1,7.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,e5216fed-b2a6-4670-9dae-7707e2912184,Alaska Survey Research,2026-10-03,1512,1.3,,47.0,45.0,2.0,5.0,NPA,Dan J. Sullivan,0.0,3.0,Mary Peltola,Dan Sullivan
+AK-SEN,807a27fa-a7e2-46cb-a2b0-3c8a8bb5022e,InsiderAdvantage,2026-10-10,1200,1.0,R,50.0,48.0,2.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AL-02,c51b7de5-0b90-464c-8778-459c24d25b3b,Impact Research,2026-06-25,400,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,ea557308-74fd-4024-b845-b5fd1baa6132,DCCC Targeting Team,2026-07-30,421,1.3,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,1ecb97e5-f461-4791-b993-d7ec2454c20c,Tulchin Research,2026-08-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
@@ -466,6 +467,7 @@ KS-SEN,b53ee011-b0ec-4d53-b00c-4c9309bc24d6,Trafalgar Group,2026-10-01,1095,1.2,
 KS-SEN,d25ef4d2-1ed1-441e-9934-82e258d3931e,YouGov,2026-10-04,2253,2.3,,48.0,45.0,3.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
 KS-SEN,83a74e52-1bb7-4aa4-8d8c-6c58999faa29,GBAO,2026-10-04,600,1.7,D,46.0,41.0,5.0,7.0,LIB,David Graham,0.0,0.0,Adam Hamilton,Roger Marshall
 KS-SEN,83a74e52-1bb7-4aa4-8d8c-6c58999faa29,GBAO,2026-10-04,600,1.7,D,49.0,44.0,5.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
+KS-SEN,5dde9606-4591-429b-9843-a121714b0a10,InsiderAdvantage,2026-10-10,1200,1.0,R,48.0,47.0,1.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,36.0,37.0,-1.0,0.0,,,0.0,0.0,Cherlynn Stevenson,Ralph Alvarado
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,38.0,33.0,5.0,0.0,,,0.0,0.0,Zach Dembo,Ryan Dotson
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,37.0,37.0,0.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
@@ -835,6 +837,7 @@ MI-SEN,ab83cf47-b0a2-422e-a221-5c9e87c8ef63,Z to A Research,2026-10-01,483,1.3,D
 MI-SEN,56a26c06-7fb0-4b33-90dc-7f8ea906e654,YouGov,2026-10-04,3947,2.3,,49.0,48.0,1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,ee904e5a-0b44-496a-85ab-d8c215a658d6,Quantus Insights,2026-10-06,744,1.0,R,48.4,47.2,1.2,0.8,LIB,Lydia Christensen,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,d9ee6c99-192a-4426-98c9-e940dfc09afc,Wedgewood Polls,2026-10-09,607,1.3,,53.0,47.0,6.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,e4682f6c-ef99-473c-a540-54dbcf9d775f,InsiderAdvantage,2026-10-10,1200,1.0,R,48.0,46.0,2.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
