@@ -116,6 +116,7 @@ AZ-GOV,f01a4332-904d-42e0-b55f-3afddcfc1dca,Kreate Strategies,2026-08-16,900,1.3
 AZ-GOV,deb79ed4-2867-4160-9fc4-77cc603c7e7c,Quantus Insights,2026-08-17,780,1.0,R,49.1,43.2,5.9,0.0,,,0.0,0.0,Katie Hobbs,Andy Biggs
 AZ-GOV,6011f7bb-095a-47aa-8d32-1ba4ba452d58,HighGround,2026-08-18,400,1.3,,49.5,34.3,15.2,2.2,NLP,Teri Hourihan,0.0,0.0,Katie Hobbs,Andy Biggs
 AZ-GOV,e986092c-0518-46da-811c-5dc6931a4c82,NextGenP,2026-08-19,1378,1.3,,39.0,37.5,1.5,0.7,GRE,Risa Lombardo,0.0,0.0,Katie Hobbs,Andy Biggs
+AZ-GOV,96cc7cd0-8d3f-40f3-b57f-94e3fa8d3649,GrayHouse,2026-10-08,550,1.3,R,50.0,44.0,6.0,1.0,GRE,Risa Lombardo,0.0,0.0,Katie Hobbs,Andy Biggs
 CA-22,373346ea-30c4-4943-b4f9-eabdced655fc,Tulchin Research,2026-06-21,800,1.3,D,48.0,44.0,4.0,0.0,,,0.0,0.0,Randy Villegas,David G. Valadao
 CA-40,43bcce59-3f82-4738-874d-6928c996d13e,Tulchin Research,2026-01-19,800,1.3,D,44.0,44.0,0.0,0.0,,,0.0,0.0,Esther Kim-Varet,Ken Calvert
 CA-40,43bcce59-3f82-4738-874d-6928c996d13e,Tulchin Research,2026-01-19,800,1.3,D,43.0,44.0,-1.0,0.0,,,0.0,0.0,Esther Kim-Varet,Young Kim
@@ -340,6 +341,7 @@ GA-SEN,f4db5d4b-8e34-4a28-a050-eda62383b2f8,InsiderAdvantage,2026-09-23,1200,1.0
 GA-SEN,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,712,1.2,R,55.4,44.6,10.8,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 GA-SEN,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,678,1.2,R,55.4,44.6,10.8,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 GA-SEN,90d020e5-63f7-42dd-8712-f84be7e1c9e4,Wedgewood Polls,2026-10-03,600,1.3,,55.0,45.0,10.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
+GA-SEN,7e60bd8f-c327-4ae6-822f-706061debcf6,Trafalgar Group,2026-10-09,1101,1.2,R,51.0,43.0,8.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,43.0,39.0,4.0,0.0,,,0.0,0.0,Christina Bohannan,Mariannette Miller-Meeks
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,42.0,45.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 IA-01,7f935fce-4454-4a06-aecc-31ec44eb24fe,The Bullfinch Group,2026-07-16,705,1.5,,40.0,35.0,5.0,11.0,IND,Michael Bridgford,0.0,0.0,Christina Bohannan,Mariannette Miller-Meeks
@@ -1115,6 +1117,7 @@ NM-GOV,d11fa49c-711a-4060-8c06-28b2e34ea073,McLaughlin & Associates,2026-07-15,4
 NM-GOV,eabf58e9-987a-4f10-9c0d-e119988eed6b,BSP Research,2026-08-07,800,1.3,,41.0,24.0,17.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
 NM-GOV,361a1729-e7e4-48e0-b0d8-5ef49ee4f5eb,Research & Polling Inc.,2026-08-28,516,1.3,,49.0,43.0,6.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
 NM-GOV,6374ca46-47a8-4e37-b131-bb3a2d48d8a8,SurveyUSA,2026-09-30,567,2.4,,47.0,41.0,6.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
+NM-GOV,ec82f919-7670-441e-90f0-e9a83b39b77d,Research & Polling Inc.,2026-10-09,1125,1.3,,49.0,42.0,7.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
 NM-SEN,361a1729-e7e4-48e0-b0d8-5ef49ee4f5eb,Research & Polling Inc.,2026-08-28,516,1.3,,53.0,38.0,15.0,0.0,,,0.0,0.0,Ben Ray Luján,Larry Marker
 NM-SEN,6374ca46-47a8-4e37-b131-bb3a2d48d8a8,SurveyUSA,2026-09-30,567,2.4,,54.0,36.0,18.0,0.0,,,0.0,0.0,Ben Ray Luján,Larry Marker
 NV-02,4cad4c84-d015-49ef-b046-404cbc081d2a,Wedgewood Polls,2026-07-12,350,1.3,,48.0,46.0,2.0,0.0,,,0.0,0.0,Teresa Benitez-Thompson,David Flippo
@@ -1581,6 +1584,7 @@ TX-SEN,2cf199b9-e51d-4811-8e7a-140673f681e0,Guidant Polling and Strategy,2026-09
 TX-SEN,fe0bf257-4c98-497f-98cd-ce544f415fe6,University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-09-28,850,1.3,,45.0,45.0,0.0,2.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,54fd4696-1366-495e-9fa3-5d1726ee0027,The New York Times/Siena University,2026-09-30,615,3.0,,50.8,45.1,5.7,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,52783584-7c3f-4898-9411-240ec7350ef9,YouGov,2026-10-05,3623,2.3,,50.0,44.0,6.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,28fbc2b6-3a76-4299-b11f-fc0bbc3edcdd,Trafalgar Group,2026-10-08,1086,1.2,R,47.1,43.6,3.5,1.8,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 UT-01,67f4e0df-46f6-445f-abda-0f225231836d,Lighthouse Research,2026-09-10,515,1.3,,62.7,21.2,41.5,4.7,LIB,Jesse West,0.0,0.0,Ben McAdams,Riley Owen
 UT-02,manual-UT-02-2026-09-10,Crosby for Congress,2026-09-10,762,1.3,D,30.7,32.4,-1.7,0.0,,,0.0,0.0,Peter Crosby,Blake Moore
 UT-02,manual-UT-02-2026-09-23,Crosby for Congress,2026-09-23,657,1.3,D,34.9,32.0,2.9,0.0,,,0.0,0.0,Peter Crosby,Blake Moore
