@@ -51,7 +51,7 @@ AK-SEN,8f88b222-ce7a-4aec-a92f-420ec47e24aa,Trafalgar Group,2026-09-24,1079,1.2,
 AK-SEN,74dcee91-0001-4995-8872-9b54884e9f9e,Quantus Insights,2026-09-30,758,1.0,R,46.5,46.8,-0.3,1.6,NPA,Dan J. Sullivan,0.0,1.5,Mary Peltola,Dan Sullivan
 AK-SEN,c115983e-1ed7-42e1-bd8c-92692471a053,The New York Times/Siena University,2026-10-01,504,3.0,,50.1,43.1,7.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,e5216fed-b2a6-4670-9dae-7707e2912184,Alaska Survey Research,2026-10-03,1512,1.3,,47.0,45.0,2.0,5.0,NPA,Dan J. Sullivan,0.0,3.0,Mary Peltola,Dan Sullivan
-AK-SEN,807a27fa-a7e2-46cb-a2b0-3c8a8bb5022e,InsiderAdvantage,2026-10-10,1200,1.0,R,50.0,48.0,2.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
+AK-SEN,807a27fa-a7e2-46cb-a2b0-3c8a8bb5022e,InsiderAdvantage,2026-10-10,1200,1.0,R,48.2,42.6,5.6,1.7,NPA,Dan J. Sullivan,0.0,2.2,Mary Peltola,Dan Sullivan
 AL-02,c51b7de5-0b90-464c-8778-459c24d25b3b,Impact Research,2026-06-25,400,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,ea557308-74fd-4024-b845-b5fd1baa6132,DCCC Targeting Team,2026-07-30,421,1.3,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,1ecb97e5-f461-4791-b993-d7ec2454c20c,Tulchin Research,2026-08-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
@@ -467,7 +467,7 @@ KS-SEN,b53ee011-b0ec-4d53-b00c-4c9309bc24d6,Trafalgar Group,2026-10-01,1095,1.2,
 KS-SEN,d25ef4d2-1ed1-441e-9934-82e258d3931e,YouGov,2026-10-04,2253,2.3,,48.0,45.0,3.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
 KS-SEN,83a74e52-1bb7-4aa4-8d8c-6c58999faa29,GBAO,2026-10-04,600,1.7,D,46.0,41.0,5.0,7.0,LIB,David Graham,0.0,0.0,Adam Hamilton,Roger Marshall
 KS-SEN,83a74e52-1bb7-4aa4-8d8c-6c58999faa29,GBAO,2026-10-04,600,1.7,D,49.0,44.0,5.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
-KS-SEN,5dde9606-4591-429b-9843-a121714b0a10,InsiderAdvantage,2026-10-10,1200,1.0,R,48.0,47.0,1.0,0.0,,,0.0,0.0,Adam Hamilton,Roger Marshall
+KS-SEN,5dde9606-4591-429b-9843-a121714b0a10,InsiderAdvantage,2026-10-10,1200,1.0,R,47.5,46.7,0.8,3.4,LIB,David Graham,0.0,0.0,Adam Hamilton,Roger Marshall
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,36.0,37.0,-1.0,0.0,,,0.0,0.0,Cherlynn Stevenson,Ralph Alvarado
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,38.0,33.0,5.0,0.0,,,0.0,0.0,Zach Dembo,Ryan Dotson
 KY-06,06ea0f7c-6312-40e6-becc-56fc917c0a38,Public Policy Polling,2026-04-25,675,1.8,D,37.0,37.0,0.0,0.0,,,0.0,0.0,Zach Dembo,Ralph Alvarado
@@ -837,7 +837,7 @@ MI-SEN,ab83cf47-b0a2-422e-a221-5c9e87c8ef63,Z to A Research,2026-10-01,483,1.3,D
 MI-SEN,56a26c06-7fb0-4b33-90dc-7f8ea906e654,YouGov,2026-10-04,3947,2.3,,49.0,48.0,1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,ee904e5a-0b44-496a-85ab-d8c215a658d6,Quantus Insights,2026-10-06,744,1.0,R,48.4,47.2,1.2,0.8,LIB,Lydia Christensen,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,d9ee6c99-192a-4426-98c9-e940dfc09afc,Wedgewood Polls,2026-10-09,607,1.3,,53.0,47.0,6.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
-MI-SEN,e4682f6c-ef99-473c-a540-54dbcf9d775f,InsiderAdvantage,2026-10-10,1200,1.0,R,48.0,46.0,2.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
+MI-SEN,e4682f6c-ef99-473c-a540-54dbcf9d775f,InsiderAdvantage,2026-10-10,1200,1.0,R,47.8,45.5,2.3,0.7,LIB,Lydia Christensen,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,1.8,D,41.0,44.0,-3.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -892,6 +892,7 @@ MN-SEN,4610aeff-8c61-4b2c-9672-45f7818681d2,InsiderAdvantage,2026-09-29,1200,1.0
 MN-SEN,52eaab2c-6b66-41b8-baca-8041921f9c98,Big Data Poll,2026-09-30,622,1.2,R,45.8,43.6,2.2,5.4,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,9d918f3b-4659-4879-b001-4d30b9d71d0b,GQR,2026-10-04,800,1.3,D,50.0,42.0,8.0,4.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,9d918f3b-4659-4879-b001-4d30b9d71d0b,GQR,2026-10-04,800,1.3,D,53.0,44.0,9.0,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
+MN-SEN,7f43f466-6f44-43e0-bae3-4037b13ae3e7,"Mason-Dixon Polling & Research, Inc.",2026-10-07,800,1.3,,47.0,43.0,4.0,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,445eb10b-f60a-4983-a7ee-dd66f8614964,Morning Consult,2026-10-07,1000,2.0,,45.0,41.0,4.0,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,47.0,46.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -1006,6 +1007,7 @@ NC-SEN,799d56a1-25fd-4713-a89d-3f1e78a52295,Quantus Insights,2026-09-22,686,1.0,
 NC-SEN,c82950e6-d6b9-41a4-a67e-20076d1dcd58,Big Data Poll,2026-09-29,642,1.2,R,50.8,38.5,12.3,6.5,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,c82950e6-d6b9-41a4-a67e-20076d1dcd58,Big Data Poll,2026-09-29,698,1.2,R,49.3,37.8,11.5,7.1,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,f882e763-b5b3-425a-96ff-125442124076,East Carolina University Center for Survey Research,2026-10-03,810,1.3,,50.0,43.0,7.0,1.0,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
+NC-SEN,c73d5b8e-548c-474a-9468-60b616a9e286,Trafalgar Group,2026-10-10,1091,1.2,R,48.8,40.9,7.9,2.0,GRE,Michael Dublin,0.0,0.0,Roy Cooper,Michael Whatley
 NE-01,4a7696a0-ee2f-40a1-816e-9d3ad6f0d0da,Zenith Research,2026-05-11,401,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,49.0,45.0,4.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
@@ -1116,6 +1118,7 @@ NJ-07,914f7531-147c-48a3-bfd4-d222a420a548,StimSight Research,2026-09-12,498,1.3
 NM-02,06bcf2dd-2622-4984-9d26-992e75d54d69,co/efficient,2026-04-28,879,1.0,R,43.0,41.0,2.0,0.0,,,0.0,0.0,Gabriel Vasquez,Greg Cunningham
 NM-02,06bcf2dd-2622-4984-9d26-992e75d54d69,co/efficient,2026-04-28,879,1.0,R,45.0,45.0,0.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 NM-02,48c66f0a-a776-436f-bbc4-fa1a622c6e1b,SurveyUSA,2026-09-02,554,2.4,,46.0,43.0,3.0,0.0,,,0.0,0.0,Gabriel Vasquez,Greg Cunningham
+NM-02,ec82f919-7670-441e-90f0-e9a83b39b77d,Research & Polling Inc.,2026-10-09,383,1.3,,48.0,44.0,4.0,0.0,,,0.0,0.0,Gabriel Vasquez,Greg Cunningham
 NM-GOV,d11fa49c-711a-4060-8c06-28b2e34ea073,McLaughlin & Associates,2026-07-15,400,1.0,R,46.0,45.0,1.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
 NM-GOV,eabf58e9-987a-4f10-9c0d-e119988eed6b,BSP Research,2026-08-07,800,1.3,,41.0,24.0,17.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
 NM-GOV,361a1729-e7e4-48e0-b0d8-5ef49ee4f5eb,Research & Polling Inc.,2026-08-28,516,1.3,,49.0,43.0,6.0,0.0,,,0.0,0.0,Deb Haaland,Gregg Hull
@@ -1317,6 +1320,7 @@ PA-01,5d96c614-598b-4b8c-8aff-d5f8fdb5edcf,Global Strategy Group,2026-03-22,400,
 PA-01,04cf125a-5732-4911-a512-85a61d32ceeb,Global Strategy Group,2026-08-09,500,1.8,D,43.0,47.0,-4.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
 PA-01,98ff4d86-156e-43d7-b109-bfe74d4d8f63,GQR,2026-08-23,400,1.3,D,48.0,49.0,-1.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
 PA-01,d03febd2-4ab7-49eb-a00a-fadbbcfb2ac3,Public Opinion Strategies,2026-09-14,400,1.9,R,42.0,51.0,-9.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
+PA-01,609cfda0-9d8c-4e5c-a456-c250e5b10c14,Global Strategy Group,2026-10-08,1032,1.8,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Bob Harvie,Brian Fitzpatrick
 PA-07,71d6acce-6fa2-449e-b896-2211ce9a6e22,GBAO,2026-07-02,0,1.7,D,47.0,43.0,4.0,0.0,,,0.0,0.0,Bob Brooks,Ryan E. Mackenzie
 PA-07,5e599c7b-a78e-4ffa-bb85-054499705f2d,Franklin & Marshall College,2026-09-20,350,1.3,,45.0,40.0,5.0,0.0,,,0.0,0.0,Bob Brooks,Ryan E. Mackenzie
 PA-08,8048696d-561b-4a0c-9e5b-9d98927e1a94,Public Policy Polling,2025-08-28,615,1.8,D,45.0,43.0,2.0,0.0,,,0.0,0.0,Paige Cognetti,Rob Bresnahan Jr.
