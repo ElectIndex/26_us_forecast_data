@@ -271,6 +271,7 @@ FL-SEN,d4838e04-358f-42db-a0ce-bb4e52d31c89,Targoz Market Research,2026-10-04,11
 FL-SEN,d4838e04-358f-42db-a0ce-bb4e52d31c89,Targoz Market Research,2026-10-04,847,1.3,,42.0,52.0,-10.0,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 FL-SEN,38af0e14-ef3f-47c6-adc8-f543f24ac35e,YouGov,2026-10-05,3812,2.3,,44.0,49.0,-5.0,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 FL-SEN,e775512f-7d66-4faa-b573-369e0f127624,St. Pete Polls,2026-10-07,836,1.3,,44.9,46.8,-1.9,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
+GA-03,6f0ecf53-d6cb-4056-ac0a-8be47045e0c1,VoteNexus,2026-10-07,301,1.3,D,45.0,50.0,-5.0,0.0,,,0.0,0.0,Maura Keller,Brian Jack
 GA-07,9b91ef78-703c-4c40-8ae9-47cb323a5d33,20/20 Insight,2026-08-26,445,1.3,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Tony Kozycki,Rich McCormick
 GA-07,a0be903c-529d-483d-a76c-0ff238468750,20/20 Insight,2026-10-09,457,1.3,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Tony Kozycki,Rich McCormick
 GA-11,66e2bf40-f24f-4821-9203-b3172fd52c22,Miller Consulting Services,2026-09-11,402,1.3,D,45.0,48.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
@@ -844,6 +845,7 @@ MN-01,20012cfb-ab35-4259-9d47-328c107cf770,Public Policy Polling,2026-02-03,708,
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,52.0,-10.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-01,f9f97bf0-b593-4acb-bfc6-e9203f235552,Ragnar Research Partners,2026-03-14,400,1.3,R,40.0,45.0,-5.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MN-01,c1a43b3d-fc02-4078-8bae-5f874cf3372d,GBAO,2026-09-21,500,1.7,D,47.0,46.0,1.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
+MN-01,020ba7d5-94fe-4ecd-afb3-e73e1dcc28c5,SurveyUSA,2026-10-12,565,2.4,,46.0,44.0,2.0,0.0,,,0.0,0.0,Jake Johnson,Brad Finstad
 MN-02,28e209eb-7962-406d-8159-b94b6d1edee1,Harper Polling,2026-06-21,415,1.3,R,43.0,43.0,0.0,0.0,,,0.0,0.0,Kaela Berg,Eric Pratt
 MN-02,28e209eb-7962-406d-8159-b94b6d1edee1,Harper Polling,2026-06-21,415,1.3,R,43.0,42.0,1.0,0.0,,,0.0,0.0,Matt Klein,Eric Pratt
 MN-02,28e209eb-7962-406d-8159-b94b6d1edee1,Harper Polling,2026-06-21,415,1.3,R,45.0,40.0,5.0,0.0,,,0.0,0.0,Matt Little,Eric Pratt
@@ -873,6 +875,7 @@ MN-GOV,eb8ad355-6d1e-479b-b7b1-5b54db88b965,TIPP Insights,2026-09-02,1494,1.5,R,
 MN-GOV,eb8ad355-6d1e-479b-b7b1-5b54db88b965,TIPP Insights,2026-09-02,1192,1.5,R,49.7,39.8,9.8,3.1,GRE,Steven Young,0.0,0.0,Amy Klobuchar,Lisa Demuth
 MN-GOV,2618d7e3-4071-4897-85b9-d877fdfbc2c7,SurveyUSA,2026-09-14,654,2.4,,47.0,40.0,7.0,3.0,GRE,Steven Young,0.0,0.0,Amy Klobuchar,Lisa Demuth
 MN-GOV,6dc1e5c8-81c7-4fdc-aaee-f5d0ba3bd532,co/efficient,2026-09-15,833,1.0,R,47.0,45.0,2.0,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
+MN-GOV,7f43f466-6f44-43e0-bae3-4037b13ae3e7,"Mason-Dixon Polling & Research, Inc.",2026-10-07,800,1.3,,50.0,41.0,9.0,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
 MN-GOV,445eb10b-f60a-4983-a7ee-dd66f8614964,Morning Consult,2026-10-07,1000,2.0,,48.0,39.0,9.0,0.0,,,0.0,0.0,Amy Klobuchar,Lisa Demuth
 MN-SEN,9c14f96f-6faa-4fb6-8f49-471a1e8b3a47,Impact Research,2025-07-11,604,1.8,D,49.0,45.0,4.0,0.0,,,0.0,0.0,Angie Craig,Michele Tafoya
 MN-SEN,9c14f96f-6faa-4fb6-8f49-471a1e8b3a47,Impact Research,2025-07-11,604,1.8,D,48.0,45.0,3.0,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
@@ -1009,7 +1012,9 @@ NC-SEN,799d56a1-25fd-4713-a89d-3f1e78a52295,Quantus Insights,2026-09-22,686,1.0,
 NC-SEN,c82950e6-d6b9-41a4-a67e-20076d1dcd58,Big Data Poll,2026-09-29,642,1.2,R,50.8,38.5,12.3,6.5,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,c82950e6-d6b9-41a4-a67e-20076d1dcd58,Big Data Poll,2026-09-29,698,1.2,R,49.3,37.8,11.5,7.1,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,f882e763-b5b3-425a-96ff-125442124076,East Carolina University Center for Survey Research,2026-10-03,810,1.3,,50.0,43.0,7.0,1.0,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
+NC-SEN,14dfbcd7-9e7f-4427-acde-296beae6d3bd,Change Research,2026-10-07,829,1.7,D,50.0,40.0,10.0,2.0,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,c73d5b8e-548c-474a-9468-60b616a9e286,Trafalgar Group,2026-10-10,1091,1.2,R,48.8,40.9,7.9,2.0,GRE,Michael Dublin,0.0,0.0,Roy Cooper,Michael Whatley
+NC-SEN,ae31f5c9-9675-4672-a3af-22c60fc5c180,SurveyUSA,2026-10-11,643,2.4,,54.0,40.0,14.0,0.0,,,0.0,0.0,Roy Cooper,Michael Whatley
 NE-01,4a7696a0-ee2f-40a1-816e-9d3ad6f0d0da,Zenith Research,2026-05-11,401,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,49.0,45.0,4.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
@@ -1493,6 +1498,8 @@ TX-GOV,0f689fd7-56bb-475a-b53b-393375bac8de,Beacon Research/Shaw & Company Resea
 TX-GOV,fe0bf257-4c98-497f-98cd-ce544f415fe6,University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-09-28,850,1.3,,44.0,48.0,-4.0,1.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,3ff82616-3e01-4877-adb4-e524bde844aa,The New York Times/Siena University,2026-09-30,615,3.0,,49.0,45.5,3.5,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,52783584-7c3f-4898-9411-240ec7350ef9,YouGov,2026-10-05,3622,2.3,,48.0,47.0,1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,7fc37e1b-87e1-4829-90bb-ffff658cd5c8,GBAO,2026-10-08,800,1.7,D,47.0,45.0,2.0,4.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
+TX-GOV,15206ef2-02d5-4b65-9cd4-7e2e04d4d952,ReconMR/Siena Research Institute,2026-10-08,617,1.3,,47.0,48.0,-1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,47.0,-3.0,0.0,,,0.0,0.0,Joaquin Castro,Ken Paxton
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Beto O’Rourke,Wesley Hunt
 TX-SEN,bf4bb7b9-306f-4620-9b2f-79743d75224a,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200,1.3,,44.0,48.0,-4.0,0.0,,,0.0,0.0,Colin Allred,John Cornyn
@@ -1593,6 +1600,7 @@ TX-SEN,2cf199b9-e51d-4811-8e7a-140673f681e0,Guidant Polling and Strategy,2026-09
 TX-SEN,fe0bf257-4c98-497f-98cd-ce544f415fe6,University of Massachusetts Lowell Center for Public Opinion/YouGov,2026-09-28,850,1.3,,45.0,45.0,0.0,2.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,54fd4696-1366-495e-9fa3-5d1726ee0027,The New York Times/Siena University,2026-09-30,615,3.0,,50.8,45.1,5.7,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,52783584-7c3f-4898-9411-240ec7350ef9,YouGov,2026-10-05,3623,2.3,,50.0,44.0,6.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
+TX-SEN,15206ef2-02d5-4b65-9cd4-7e2e04d4d952,ReconMR/Siena Research Institute,2026-10-08,617,1.3,,48.0,44.0,4.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,28fbc2b6-3a76-4299-b11f-fc0bbc3edcdd,Trafalgar Group,2026-10-08,1086,1.2,R,47.1,43.6,3.5,1.8,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 UT-01,67f4e0df-46f6-445f-abda-0f225231836d,Lighthouse Research,2026-09-10,515,1.3,,62.7,21.2,41.5,4.7,LIB,Jesse West,0.0,0.0,Ben McAdams,Riley Owen
 UT-02,manual-UT-02-2026-09-10,Crosby for Congress,2026-09-10,762,1.3,D,30.7,32.4,-1.7,0.0,,,0.0,0.0,Peter Crosby,Blake Moore
