@@ -1,2 +1,2 @@
 date,days_out,n_polls,gcb_naive_margin,gcb_quality_margin,gcb_correction,approve,disapprove,net_approval,approval_pred_margin,econ_pred_margin,fundamentals_blend,time_weight,gcb_margin,econ_Jobs,econ_Income,econ_Consumption,econ_Production,econ_Inflation,econ_GDP,econ_Stocks,house_pv_dem,house_pv_rep,house_pv_oth,house_pv_margin
-2026-10-12,22,640,6.99,7.18,0.19,37.52,59.67,-22.15,6.53,1.3,5.89,0.877,7.02,0.31,4.27,6.08,1.42,3.71,6.31,15.66,58667670,48224471,1522158,9.77
+2026-10-12,22,641,6.98,7.16,0.18,37.52,59.67,-22.15,6.53,1.3,5.89,0.877,7.0,0.31,4.27,6.08,1.42,3.71,6.31,15.66,58659373,48232809,1522129,9.75
