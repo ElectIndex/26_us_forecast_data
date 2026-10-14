@@ -62,7 +62,7 @@ OH-GOV,governor,OH,GOV,C-0121,Amy Acton,DEM,C-0122,Vivek Ramaswamy,REP,C-1223,Do
 OK-GOV,governor,OK,GOV,C-0123,Cyndi Munson,DEM,C-0124,Mike Mazzei,REP,C-1231,Jerry Griffin,IND,IND,Independent,,,False,,False,0.0,,,False,,REP,confirmed,confirmed,confirmed
 OR-GOV,governor,OR,GOV,C-0125,Tina Kotek,DEM,C-0126,Christine Drazan,REP,C-1236,Brett Smith,GRN,GRN,Green,,,False,,False,0.0,,,False,DEM,DEM,confirmed,confirmed,confirmed
 PA-GOV,governor,PA,GOV,C-0127,Josh Shapiro,DEM,C-0128,Stacy Garrity,REP,C-1239,Kenneth V. Krawchuk,LIB,LIB,Libertarian,,,False,,False,0.0,,,False,DEM,DEM,confirmed,confirmed,confirmed
-RI-GOV,governor,RI,GOV,C-1024,Helena Foulkes,DEM,C-0130,Aaron Guckian,REP,C-1067,Ken Block,IND,IND,Independent,,,False,,False,0.0,,,False,DEM,DEM,confirmed,presumptive,presumptive
+RI-GOV,governor,RI,GOV,C-1024,Helena Foulkes,DEM,C-0130,Aaron Guckian,REP,C-1067,Ken Block,IND,IND,Independent,,,False,,True,0.7,,,False,DEM,DEM,confirmed,presumptive,presumptive
 SC-GOV,governor,SC,GOV,C-0131,Jermaine Johnson,DEM,C-0132,Alan Wilson,REP,C-1244,Walid Hakim,GRN,GRN,Green,,,False,,False,0.0,,,False,,REP,confirmed,confirmed,confirmed
 SD-GOV,governor,SD,GOV,C-0133,Dan Ahlers,DEM,C-0134,Larry Rhoden,REP,,,,,,,,False,,False,0.0,,,False,REP,REP,confirmed,confirmed,
 TN-GOV,governor,TN,GOV,C-1027,Jerri Green,DEM,C-0136,Marsha Blackburn,REP,C-1056,Lauren Pinkston,IND,REP,Independent,,,False,,False,0.0,,,False,,REP,confirmed,confirmed,confirmed
