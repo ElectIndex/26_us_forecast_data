@@ -27,7 +27,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,OK-GOV,governor,OK,GOV,Cyndi Munson,Mike Mazzei,,REP,-14.63,0.7,99.3,Safe R,-34.86,7.15,-28.41,0.0,0.0,-34.95,36.0,39.0,1,-2.99,0,0,Jerry Griffin,Independent,7.0,0.0,39.7,53.3,0.0
 2026-10-16,OR-GOV,governor,OR,GOV,Tina Kotek,Christine Drazan,DEM,DEM,3.58,74.9,25.1,Lean D,15.18,7.15,8.58,0.0,-13.29,14.89,45.44,44.79,7,0.54,0,0,Brett Smith,Green,3.72,0.0,49.86,46.42,0.0
 2026-10-16,PA-GOV,governor,PA,GOV,Josh Shapiro,Stacy Garrity,DEM,DEM,20.75,99.8,0.2,Safe D,-0.99,7.15,19.2,1.95,11.61,-1.75,56.63,35.51,19,21.82,34960533,2545436,Kenneth V. Krawchuk,Libertarian,0.61,0.0,60.0,39.39,0.0
-2026-10-16,RI-GOV,governor,RI,GOV,Helena Foulkes,Aaron Guckian,,DEM,14.37,99.2,0.0,Safe D,15.75,7.15,22.7,0.0,0.0,14.16,45.86,13.56,5,-0.769999999999996,0,0,Ken Block,Independent,35.45,0.8,49.82,14.73,0.0
+2026-10-16,RI-GOV,governor,RI,GOV,Helena Foulkes,Aaron Guckian,,DEM,14.3,99.2,0.0,Safe D,15.75,7.15,22.7,0.0,0.0,14.16,45.86,13.56,5,-0.769999999999996,0,0,Ken Block,Independent,35.52,0.8,49.81,14.67,0.0
 2026-10-16,SC-GOV,governor,SC,GOV,Jermaine Johnson,Alan Wilson,,REP,-8.77,7.3,92.7,Likely R,-16.61,7.15,-8.3,1.47,0.07,-18.12,39.66,47.0,2,-8.3,753609,62585,Walid Hakim,Green,1.87,0.0,44.76,53.37,0.0
 2026-10-16,SD-GOV,governor,SD,GOV,Dan Ahlers,Larry Rhoden,REP,REP,-19.67,0.2,99.8,Safe R,-29.41,7.15,-23.92,0.0,-0.64,-29.98,44.0,51.0,1,-8.13,0,0,,,0.0,0.0,40.16,59.84,0.0
 2026-10-16,TN-GOV,governor,TN,GOV,Jerri Green,Marsha Blackburn,,REP,-14.25,0.8,99.2,Safe R,-28.6,7.15,-18.26,0.0,3.73,-30.12,33.69,48.98,4,-14.13,0,0,Lauren Pinkston,Independent,7.78,0.0,39.54,52.68,0.0
@@ -35,7 +35,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,VT-GOV,governor,VT,GOV,Amanda Janoo,Phil Scott,REP,REP,-13.54,0.9,99.1,Safe R,33.44,7.15,-22.94,0.0,-62.58,32.77,39.31,43.78,5,-3.93,0,0,Dean Roy,Freedom and Unity,1.34,0.0,42.65,56.01,0.0
 2026-10-16,WI-GOV,governor,WI,GOV,David Crowley,Tom Tiffany,,DEM,3.91,76.9,23.1,Likely D,-0.43,7.15,4.58,-1.76,0.28,-0.87,47.07,44.84,8,3.17,1426778,15315779,,,0.0,0.0,51.95,48.05,0.0
 2026-10-16,WY-GOV,governor,WY,GOV,Kenneth Casner,Eric Barlow,,REP,-38.99,0.0,100.0,Safe R,-46.77,7.15,-40.26,0.0,0.0,-46.96,,,0,,0,1673103,Rebecca Bextel,Constitution,3.91,0.0,29.31,66.78,0.0
-2026-10-16,AK-01,house,AK,01,(No Democrat),Nick Begich III,REP,REP,-2.9,28.9,71.1,Lean R,-2.52,7.15,1.36,-0.54,-1.67,-13.8,35.9,47.09,9,-10.72,0,5470446,Bill Hill,Independent,45.24,28.9,3.8,49.76,1.2
+2026-10-16,AK-01,house,AK,01,(No Democrat),Nick Begich III,REP,REP,-2.9,28.4,71.6,Lean R,-2.52,7.15,1.36,-0.54,-1.67,-13.8,35.9,47.09,9,-10.72,0,5470446,Bill Hill,Independent,45.24,28.4,3.8,49.76,1.2
 2026-10-16,AL-01,house,AL,01,Clyde Jones,Jerry Carl,,REP,-24.45,0.1,99.9,Safe R,-29.57,7.15,-24.45,-1.48,0.0,-36.34,,,0,,183504,1440105,,,0.0,0.0,37.77,62.23,0.0
 2026-10-16,AL-02,house,AL,02,Shomari Figures,Rhett Marques,DEM,DEM,0.64,54.5,45.5,Toss-up,-7.78,7.15,1.56,-0.0,2.48,-14.46,45.19,45.62,3,-1.41,2408245,1318574,,,0.0,0.0,50.32,49.68,0.0
 2026-10-16,AL-03,house,AL,03,Lee McInnis,Mike Rogers,REP,REP,-37.69,0.0,100.0,Safe R,-40.34,7.15,-37.69,-2.23,-1.67,-47.04,,,0,,60787,2133554,,,0.0,0.0,31.15,68.85,0.0
@@ -232,7 +232,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,MD-07,house,MD,07,Kweisi Mfume,Scott Collier,DEM,DEM,74.13,100.0,0.0,Safe D,62.96,7.15,74.13,0.0,3.9,60.49,,,0,,474218,0,,,0.0,0.0,87.06,12.94,0.0
 2026-10-16,MD-08,house,MD,08,Jamie Raskin,Cheryl Riley,DEM,DEM,70.82,100.0,0.0,Safe D,60.81,7.15,71.77,3.69,-0.02,58.06,,,0,,9054242,16590,Nancy Wallace,Green,3.78,0.0,82.18,14.04,0.0
 2026-10-16,ME-01,house,ME,01,Chellie Pingree,Ronald Russell,DEM,DEM,29.04,100.0,0.0,Safe D,22.4,7.15,33.03,0.66,3.77,22.33,57.0,35.0,1,22.54,531050,191881,,,0.0,0.0,64.52,35.48,0.0
-2026-10-16,ME-02,house,ME,02,Matthew Dunlap,Paul LePage,,DEM,-0.13,48.5,51.5,Toss-up,-8.75,7.15,-2.37,0.23,0.0,-9.72,50.02,46.88,7,2.42,2671904,3233257,,,0.0,0.0,49.93,50.07,0.0
+2026-10-16,ME-02,house,ME,02,Matthew Dunlap,Paul LePage,,DEM,-0.13,49.1,50.9,Toss-up,-8.75,7.15,-2.37,0.23,0.0,-9.72,50.02,46.88,7,2.42,2671904,3233257,,,0.0,0.0,49.93,50.07,0.0
 2026-10-16,MI-01,house,MI,01,Callie Barr,Jack Bergman,REP,REP,-10.42,3.2,96.8,Safe R,-17.19,7.15,-10.31,-0.24,1.0,-21.52,,,0,,1549712,2313414,Arnett Satterla,Libertarian,2.07,0.0,42.94,52.92,2.07
 2026-10-16,MI-02,house,MI,02,Benjamin Ambrose,John Moolenaar,REP,REP,-26.44,0.0,100.0,Safe R,-25.86,7.15,-25.78,-2.05,-4.17,-30.54,,,0,,85094,2034283,Charlotte Magoon,Green,2.23,0.0,35.14,60.4,2.23
 2026-10-16,MI-03,house,MI,03,Hillary Scholten,Terri DeBoer,DEM,DEM,22.87,99.9,0.1,Safe D,11.8,7.15,23.48,0.68,4.28,7.95,,,0,,2939674,857410,Joe Jock,Green,2.44,0.0,59.94,37.62,0.0
@@ -266,8 +266,8 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,MS-02,house,MS,02,Bennie Thompson,Ron Eller,DEM,DEM,38.36,100.0,0.0,Safe D,25.65,7.15,38.43,1.61,4.05,20.59,,,0,,928045,64125,Bennie Foster,Independent,1.5,0.0,68.14,30.36,0.0
 2026-10-16,MS-03,house,MS,03,Michael Chiaradio,Michael Guest,REP,REP,-20.68,0.2,99.8,Safe R,-24.93,7.15,-20.98,-1.06,-1.67,-29.5,,,0,,208183,1016013,Erik Kiehle,Libertarian,1.5,0.0,39.07,59.43,0.0
 2026-10-16,MS-04,house,MS,04,Jeffrey Hulum III,Mike Ezell,REP,REP,-38.5,0.0,100.0,Safe R,-38.56,7.15,-38.42,-1.75,-4.75,-43.01,,,0,,60173,1092653,Carl Boyanton,Independent,1.5,0.0,30.29,68.21,0.0
-2026-10-16,MT-01,house,MT,01,Sam Forstag,Aaron Flint,,REP,-1.88,36.7,63.3,Lean R,-10.96,7.15,-5.2,-0.41,0.0,-11.92,44.5,43.43,6,0.64,1383098,2640894,Nick Sheedy,Libertarian,2.66,0.0,47.75,49.59,0.0
-2026-10-16,MT-02,house,MT,02,Brian Miller,Troy Downing,REP,REP,-27.33,0.0,100.0,Safe R,-29.92,7.15,-30.74,-2.65,-4.27,-30.51,26.0,48.0,1,-20.4,30654,2697257,Michael D Eisenhauer,Independent,9.0,0.0,31.74,55.62,3.64
+2026-10-16,MT-01,house,MT,01,Sam Forstag,Aaron Flint,,REP,0.7,55.0,45.0,Toss-up,-6.03,7.15,-0.27,-0.41,0.0,-11.92,44.5,43.43,6,0.64,1383098,2640894,Nick Sheedy,Libertarian,2.66,0.0,49.01,48.33,0.0
+2026-10-16,MT-02,house,MT,02,Brian Miller,Troy Downing,REP,REP,-23.89,0.1,99.9,Safe R,-24.99,7.15,-25.8,-2.65,-4.27,-30.51,26.0,48.0,1,-20.4,30654,2697257,Michael D Eisenhauer,Independent,9.0,0.0,33.25,54.11,3.64
 2026-10-16,NC-01,house,NC,01,Don Davis,Laurie Buckhout,DEM,DEM,6.83,87.0,13.0,Likely D,-6.87,7.15,6.52,0.24,6.36,-11.71,48.61,41.28,7,6.91,4287386,4726318,Tom Bailey,Libertarian,0.5,0.0,53.15,46.35,0.0
 2026-10-16,NC-02,house,NC,02,Deborah Ross,Eugene Douglass,DEM,DEM,48.76,100.0,0.0,Safe D,37.9,7.15,48.25,0.0,3.34,34.41,,,0,,1969791,0,Matthew Laszacs,Libertarian,2.53,0.0,72.5,24.97,0.0
 2026-10-16,NC-03,house,NC,03,Raymond Smith Jr.,Greg Murphy,REP,REP,-4.55,20.8,79.2,Likely R,-8.92,7.15,-5.05,-1.53,-1.67,-13.76,41.0,44.0,1,-3.99,223119,2819076,Daniel Cavender,Libertarian,1.5,0.0,47.01,51.49,0.0
@@ -470,7 +470,7 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,WV-01,house,WV,01,Vince George,Carol Miller,REP,REP,-38.29,0.0,100.0,Safe R,-43.56,7.15,-38.99,-1.41,-0.22,-45.2,,,0,,258330,1957943,Belinda Fox-Spencer,Constitution,2.16,0.0,30.19,67.65,0.0
 2026-10-16,WV-02,house,WV,02,Ace Parsi,Riley Moore,REP,REP,-38.16,0.0,100.0,Safe R,-39.12,7.15,-38.16,-1.26,-4.03,-40.38,,,0,,250041,1562472,,,0.0,0.0,30.92,69.08,0.0
 2026-10-16,WY-01,house,WY,01,Lisa Kinney,Chuck Gray,,REP,-38.19,0.0,100.0,Safe R,-44.0,7.15,-38.78,-1.29,0.0,-46.96,,,0,,83714,1984104,Shawn Johnson,Libertarian,3.91,0.0,28.49,63.69,3.91
-2026-10-16,AK-SEN,senate,AK,SEN,Mary Peltola,Dan Sullivan,REP,REP,2.74,69.9,30.1,Lean D,-11.25,7.15,-0.62,0.43,4.11,-13.8,48.63,45.61,22,3.96,32623722,11161124,,,0.0,0.0,49.69,47.81,2.5
+2026-10-16,AK-SEN,senate,AK,SEN,Mary Peltola,Dan Sullivan,REP,REP,2.74,69.1,30.9,Lean D,-11.25,7.15,-0.62,0.43,4.11,-13.8,48.63,45.61,22,3.96,32623722,11161124,,,0.0,0.0,49.69,47.81,2.5
 2026-10-16,AL-SEN,senate,AL,SEN,Everett Wess,Barry Moore,,REP,-19.6,0.2,99.8,Safe R,-25.91,7.15,-21.44,-3.12,0.93,-30.88,32.7,51.9,2,-16.14,116887,4492066,,,0.0,0.0,40.2,59.8,0.0
 2026-10-16,AR-SEN,senate,AR,SEN,Hallie Shoffner,Tom Cotton,REP,REP,-14.8,0.7,99.3,Safe R,-27.29,7.15,-22.96,-0.64,-1.67,-31.57,40.19,49.31,6,-8.03,3682226,6989606,Jeff Wadlin,Libertarian,3.99,0.0,40.9,55.11,0.0
 2026-10-16,CO-SEN,senate,CO,SEN,John Hickenlooper,Mark Baisley,DEM,DEM,27.65,100.0,0.0,Safe D,13.68,7.15,27.31,2.94,3.55,11.29,,,0,,9325922,138210,Bob Chew,Forward,7.6,0.0,56.68,32.12,3.6
@@ -484,11 +484,11 @@ as_of,race_code,race_type,state,district,dem_name,rep_name,incumbent_party,seat_
 2026-10-16,KY-SEN,senate,KY,SEN,Charles Booker,Andy Barr,,REP,-24.01,0.1,99.9,Safe R,-30.07,7.15,-29.4,-0.87,-4.86,-31.03,39.99,49.0,2,-10.24,1714261,12046429,Christopher Campbell,Kentucky Party,2.09,0.0,37.2,60.71,0.0
 2026-10-16,LA-SEN,senate,LA,SEN,Jamie Davis,Julia Letlow,,REP,-16.71,0.5,99.5,Safe R,-21.43,7.15,-22.13,-0.47,-7.1,-22.36,42.55,46.55,2,-5.93,1983548,6210122,,,0.0,0.0,41.65,58.35,0.0
 2026-10-16,MA-SEN,senate,MA,SEN,Ed Markey,John Deaton,DEM,DEM,31.0,100.0,0.0,Safe D,28.66,7.15,37.61,0.47,1.67,25.91,52.02,29.59,11,23.65,5352148,1648104,Shiva Ayyadurai,Independent,3.73,0.0,60.89,32.08,3.3
-2026-10-16,ME-SEN,senate,ME,SEN,Troy Jackson,Susan Collins,REP,REP,2.37,66.7,33.3,Lean D,8.8,7.15,1.25,-0.18,-13.55,7.09,48.73,46.63,23,2.9,20431280,21371160,,,0.0,0.0,51.19,48.81,0.0
+2026-10-16,ME-SEN,senate,ME,SEN,Troy Jackson,Susan Collins,REP,REP,2.37,66.3,33.7,Lean D,8.8,7.15,1.25,-0.18,-13.55,7.09,48.73,46.63,23,2.9,20431280,21371160,,,0.0,0.0,51.19,48.81,0.0
 2026-10-16,MI-SEN,senate,MI,SEN,Abdul El-Sayed,Mike Rogers,,DEM,6.04,84.4,15.6,Likely D,2.87,7.15,9.31,-0.52,0.44,-1.44,48.7,45.73,50,3.72,14514336,20565706,Douglas P. Marsh,Green,0.5,0.0,51.53,45.66,2.31
 2026-10-16,MN-SEN,senate,MN,SEN,Peggy Flanagan,Michele Tafoya,,DEM,7.4,88.7,11.3,Likely D,6.25,7.15,12.59,-0.08,0.0,4.34,45.06,41.82,13,3.79,10301879,9661154,Rebecca Whiting,Libertarian,1.34,0.0,52.98,45.68,0.0
 2026-10-16,MS-SEN,senate,MS,SEN,Scott Colom,Cindy Hyde-Smith,REP,REP,-9.37,5.7,94.3,Likely R,-21.48,7.15,-12.09,-0.01,2.62,-23.15,45.03,49.71,3,-5.06,2384921,4512941,Ty Pinkins,Independent,1.24,0.0,44.75,54.01,0.0
-2026-10-16,MT-SEN,senate,MT,SEN,Alani Bankhead,Kurt Alme,,REP,-18.61,0.0,99.7,Safe R,-13.86,7.15,-7.24,0.48,0.0,-20.58,20.22,41.5,12,-20.01,172509,1984861,Seth Bodnar,Independent,29.96,0.3,17.81,48.57,3.66
+2026-10-16,MT-SEN,senate,MT,SEN,Alani Bankhead,Kurt Alme,,REP,-18.57,0.0,99.7,Safe R,-13.86,7.15,-7.24,0.48,0.0,-20.58,20.22,41.5,12,-20.01,172509,1984861,Seth Bodnar,Independent,30.02,0.3,17.73,48.59,3.66
 2026-10-16,NC-SEN,senate,NC,SEN,Roy Cooper,Michael Whatley,,REP,9.96,95.8,4.2,Safe D,-2.8,7.15,6.43,0.48,1.9,-3.27,51.0,39.94,42,12.09,47190466,13415721,Michael Dublin,Green,0.52,0.0,53.67,43.94,1.87
 2026-10-16,NE-SEN,senate,NE,SEN,(No Democrat),Pete Ricketts,REP,REP,-0.53,46.2,53.8,Toss-up,-18.01,7.15,-2.86,-0.15,8.63,-20.84,47.15,46.14,11,1.51,0,11233507,Dan Osborn,Independent,48.65,46.2,0.0,49.17,2.18
 2026-10-16,NH-SEN,senate,NH,SEN,Chris Pappas,John E. Sununu,,DEM,8.97,93.2,6.8,Likely D,0.46,7.15,11.1,0.15,4.2,2.82,49.57,43.4,23,6.86,15384657,5334886,Edmond Laplante,Constitution,0.5,0.0,54.21,45.29,0.0
