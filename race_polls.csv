@@ -167,6 +167,7 @@ CT-GOV,099cf4fa-eeaa-45a8-ba8a-30fc6535eca2,University of New Hampshire,2026-09-
 CT-GOV,b52829fc-a8a8-44bd-930f-981755132f0b,YouGov,2026-10-07,1000,2.3,,52.6,31.7,20.9,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,b52829fc-a8a8-44bd-930f-981755132f0b,YouGov,2026-10-07,0,2.3,,57.2,34.1,23.1,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,8732195e-9ed8-4ff7-ba00-e60bde4e33b6,Quinnipiac University,2026-10-12,1225,2.7,,58.0,38.0,20.0,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
+CT-GOV,1a8f3044-4c6b-48d3-a5ac-d5f731291455,GreatBlue Research,2026-10-12,0,1.3,,61.5,34.3,27.2,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,1a8f3044-4c6b-48d3-a5ac-d5f731291455,GreatBlue Research,2026-10-12,1000,1.3,,56.3,33.1,23.2,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 CT-GOV,9563cb79-ba87-4f2f-b5f1-804b098ae88b,Emerson College,2026-10-12,800,2.5,,51.4,37.8,13.6,0.0,,,0.0,0.0,Ned Lamont,Ryan Fazio
 FL-02,fc8a3289-2ad2-457f-8d77-d2dc51c6d4c2,Patriot Polling,2026-07-26,922,1.3,R,35.1,62.2,-27.1,0.0,,,0.0,0.0,Yen Bailey,Keith Gross
@@ -254,6 +255,7 @@ FL-GOV,78502352-75f9-4ca4-9e47-88799143c059,MDW Communications,2026-10-10,2351,1
 FL-GOV,3aac0855-adba-4a4d-9607-6fd5383e516f,Change Research,2026-10-10,920,1.7,D,47.0,47.0,0.0,0.0,,,0.0,0.0,David Jolly,Byron Donalds
 FL-GOV,5966fea8-dedf-4a7e-8077-7076f387327e,"Fabrizio, Lee & Associates",2026-10-11,1200,1.3,R,39.0,46.0,-7.0,0.0,,,0.0,0.0,David Jolly,Byron Donalds
 FL-GOV,5966fea8-dedf-4a7e-8077-7076f387327e,"Fabrizio, Lee & Associates",2026-10-11,1200,1.3,R,43.0,49.0,-6.0,0.0,,,0.0,0.0,David Jolly,Byron Donalds
+FL-GOV,9d12cd34-fa83-4c73-a199-6ddf0a513808,YouGov,2026-10-15,825,2.3,,42.0,50.0,-8.0,0.0,,,0.0,0.0,David Jolly,Byron Donalds
 FL-SEN,20d8d9f1-7024-43b0-8013-fb723d409219,The Tyson Group,2025-10-03,800,1.3,,37.0,44.0,-7.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,85470c38-3966-469e-b79c-0d6aa57b08b8,University of North Florida,2025-10-25,728,1.3,D,38.0,49.0,-11.0,0.0,,,0.0,0.0,Jennifer Jenkins,Ashley Moody
 FL-SEN,72690b9b-5fcd-43cc-9f2e-8b5dd041b889,University of North Florida,2026-03-02,772,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Alexander Vindman,Ashley Moody
@@ -288,6 +290,7 @@ FL-SEN,e775512f-7d66-4faa-b573-369e0f127624,St. Pete Polls,2026-10-07,836,1.3,,4
 FL-SEN,87803ecd-1309-4c1d-9a0e-731f609ae48e,Stetson University Center for Public Opinion Research,2026-10-09,716,1.3,,41.0,52.0,-11.0,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 FL-SEN,78502352-75f9-4ca4-9e47-88799143c059,MDW Communications,2026-10-10,2351,1.3,,42.4,47.6,-5.2,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
 FL-SEN,02c34c80-bfc6-418f-a68f-d501759d8925,ActiVote,2026-10-15,400,1.2,,46.9,53.1,-6.2,0.0,,,0.0,0.0,Angie Nixon,Ashley Moody
+FL-SEN,9d12cd34-fa83-4c73-a199-6ddf0a513808,YouGov,2026-10-15,825,2.3,,42.0,51.0,-9.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 GA-03,6f0ecf53-d6cb-4056-ac0a-8be47045e0c1,VoteNexus,2026-10-07,301,1.3,D,45.0,50.0,-5.0,0.0,,,0.0,0.0,Maura Keller,Brian Jack
 GA-07,9b91ef78-703c-4c40-8ae9-47cb323a5d33,20/20 Insight,2026-08-26,445,1.3,D,43.0,46.0,-3.0,0.0,,,0.0,0.0,Tony Kozycki,Rich McCormick
 GA-07,a0be903c-529d-483d-a76c-0ff238468750,20/20 Insight,2026-10-09,457,1.3,D,47.0,45.0,2.0,0.0,,,0.0,0.0,Tony Kozycki,Rich McCormick
@@ -312,6 +315,7 @@ GA-GOV,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,712,1.2,R,4
 GA-GOV,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,678,1.2,R,49.5,50.5,-1.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
 GA-GOV,90d020e5-63f7-42dd-8712-f84be7e1c9e4,Wedgewood Polls,2026-10-03,600,1.3,,49.0,51.0,-2.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
 GA-GOV,50059893-b573-4d5e-a109-1d42b580bef6,InsiderAdvantage,2026-10-13,800,1.0,R,47.0,49.0,-2.0,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
+GA-GOV,ce18d5b0-de43-40b7-ac02-1fcba168d5d0,Quantus Insights,2026-10-17,755,1.0,R,47.5,49.0,-1.5,0.0,,,0.0,0.0,Keisha Lance Bottoms,Rick Jackson
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,44.0,33.0,11.0,0.0,,,0.0,0.0,Jon Ossoff,Rich McCormick
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,45.0,32.0,13.0,0.0,,,0.0,0.0,Jon Ossoff,Buddy Carter
 GA-SEN,3d0cc21f-86f0-5d6b-97a9-a9ed929600b5,WPA Intelligence,2025-01-15,500,1.3,R,46.0,32.0,14.0,0.0,,,0.0,0.0,Jon Ossoff,Brad Raffensperger
@@ -364,6 +368,7 @@ GA-SEN,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,712,1.2,R,5
 GA-SEN,6aae867f-1a44-4fe5-8a66-b45166896358,Big Data Poll,2026-09-23,678,1.2,R,55.4,44.6,10.8,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 GA-SEN,90d020e5-63f7-42dd-8712-f84be7e1c9e4,Wedgewood Polls,2026-10-03,600,1.3,,55.0,45.0,10.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 GA-SEN,7e60bd8f-c327-4ae6-822f-706061debcf6,Trafalgar Group,2026-10-09,1101,1.2,R,51.0,43.0,8.0,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
+GA-SEN,ce18d5b0-de43-40b7-ac02-1fcba168d5d0,Quantus Insights,2026-10-17,755,1.0,R,52.7,45.4,7.3,0.0,,,0.0,0.0,Jon Ossoff,Mike Collins
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,43.0,39.0,4.0,0.0,,,0.0,0.0,Christina Bohannan,Mariannette Miller-Meeks
 IA-01,0dfde340-4dea-40c1-8e1c-eba2fefde7ce,Public Policy Polling,2025-06-19,555,1.8,D,42.0,45.0,-3.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 IA-01,7f935fce-4454-4a06-aecc-31ec44eb24fe,The Bullfinch Group,2026-07-16,705,1.5,,40.0,35.0,5.0,11.0,IND,Michael Bridgford,0.0,0.0,Christina Bohannan,Mariannette Miller-Meeks
@@ -398,6 +403,7 @@ IA-GOV,f4565aea-a1df-4f89-9dfa-75c19a146e7c,Emerson College,2026-10-06,650,2.5,,
 IA-GOV,c74bf5bc-f7c1-4c70-8c51-d954ded837fc,Marist University,2026-10-11,1100,2.7,,52.0,45.0,7.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-GOV,c74bf5bc-f7c1-4c70-8c51-d954ded837fc,Marist University,2026-10-11,1100,2.7,,54.0,43.0,11.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-GOV,ed54f7fc-9dc3-4a6b-b04c-4653389d7c9b,YouGov,2026-10-12,2244,2.3,,50.0,44.0,6.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
+IA-GOV,714e6be6-64cd-419c-a163-9bd660f5c5f7,co/efficient,2026-10-19,863,1.0,R,49.0,45.0,4.0,0.0,,,0.0,0.0,Rob Sand,Zach Lahn
 IA-SEN,39375afc-d9f8-471e-82c0-adf6483528c2,Public Policy Polling,2025-06-03,568,1.8,D,43.0,45.0,-2.0,0.0,,,0.0,0.0,Generic Democrat,Joni Ernst
 IA-SEN,721758b1-a6cd-45d9-a764-99959b17c7a2,Public Policy Polling,2025-08-19,572,1.8,D,45.0,43.0,2.0,0.0,,,0.0,0.0,Zach Wahls,Joni Ernst
 IA-SEN,721758b1-a6cd-45d9-a764-99959b17c7a2,Public Policy Polling,2025-08-19,572,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Nathan Sage,Joni Ernst
@@ -444,6 +450,7 @@ IA-SEN,c74bf5bc-f7c1-4c70-8c51-d954ded837fc,Marist University,2026-10-11,1100,2.
 IA-SEN,c74bf5bc-f7c1-4c70-8c51-d954ded837fc,Marist University,2026-10-11,1100,2.7,,48.0,45.0,3.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,ed54f7fc-9dc3-4a6b-b04c-4653389d7c9b,YouGov,2026-10-12,2245,2.3,,47.0,46.0,1.0,0.0,,,0.0,0.0,Josh Turek,Ashley Hinson
 IA-SEN,b47129f8-00ec-4579-a7f4-09b3d64dd41b,Trafalgar Group,2026-10-15,1094,1.2,R,44.2,45.9,-1.7,3.5,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
+IA-SEN,714e6be6-64cd-419c-a163-9bd660f5c5f7,co/efficient,2026-10-19,863,1.0,R,45.0,48.0,-3.0,2.0,LIB,Thomas Laehn,0.0,0.0,Josh Turek,Ashley Hinson
 ID-01,43f0dff7-67cb-4ecf-9d29-16dda38a31cf,SurveyUSA,2026-07-14,480,2.4,,35.0,45.0,-10.0,6.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
 ID-01,909a333a-6acb-47ed-9a65-5b475b941da2,Change Research,2026-07-30,0,1.7,D,27.0,48.0,-21.0,5.0,IND,Sarah Zabel,0.0,0.0,Kaylee Peterson,Russ Fulcher
 ID-GOV,909a333a-6acb-47ed-9a65-5b475b941da2,Change Research,2026-07-30,1213,1.7,D,32.0,53.0,-21.0,0.0,,,0.0,0.0,Generic Democrat,Brad Little
@@ -545,6 +552,7 @@ MA-GOV,c3730e7e-803e-4ba0-bc0f-f7ada8bd3fc2,University of New Hampshire,2026-08-
 MA-GOV,c3730e7e-803e-4ba0-bc0f-f7ada8bd3fc2,University of New Hampshire,2026-08-24,884,1.3,,54.0,30.0,24.0,0.0,,,0.0,0.0,Maura Healey,Mike Minogue
 MA-GOV,ef224dbe-a915-4b35-be63-da218ace4540,University of New Hampshire,2026-09-21,557,1.3,,54.0,38.0,16.0,0.0,,,0.0,0.0,Maura Healey,Mike Minogue
 MA-GOV,377b9e38-e1a9-484b-9bd4-ce02fcc2890b,MassINC Polling Group,2026-09-22,800,1.3,,54.0,32.0,22.0,4.0,IND,Andrea James,0.0,0.0,Maura Healey,Mike Minogue
+MA-GOV,c5000c5b-f88e-460a-9b37-9c068f09cd9c,YouGov,2026-10-12,800,2.3,,57.0,32.0,25.0,6.0,IND,Andrea James,0.0,0.0,Maura Healey,Mike Minogue
 MA-SEN,29d3584e-4df8-5947-9540-b9433f7bb0a1,YouGov,2025-02-20,700,2.3,,35.0,33.0,2.0,0.0,,,0.0,0.0,Ed Markey,Charles D. Baker
 MA-SEN,ca567a7a-3461-4a1f-b293-0446e1b77369,SurveyUSA,2025-03-04,775,2.4,,45.0,26.0,19.0,0.0,,,0.0,0.0,Ed Markey,John Deaton
 MA-SEN,2c6268e3-dccd-438f-9b60-9f9ecdb3f9ae,Suffolk University,2025-11-23,500,1.3,,52.0,29.0,23.0,0.0,,,0.0,0.0,Seth Moulton,John Deaton
@@ -564,6 +572,7 @@ MA-SEN,c3730e7e-803e-4ba0-bc0f-f7ada8bd3fc2,University of New Hampshire,2026-08-
 MA-SEN,c3730e7e-803e-4ba0-bc0f-f7ada8bd3fc2,University of New Hampshire,2026-08-24,906,1.3,,49.0,30.0,19.0,7.0,PSL,Joe Tache,0.0,0.0,Ed Markey,John Deaton
 MA-SEN,ef224dbe-a915-4b35-be63-da218ace4540,University of New Hampshire,2026-09-21,556,1.3,,53.0,30.0,23.0,9.0,PSL,Joe Tache,0.0,0.0,Ed Markey,John Deaton
 MA-SEN,377b9e38-e1a9-484b-9bd4-ce02fcc2890b,MassINC Polling Group,2026-09-22,800,1.3,,54.0,28.0,26.0,3.0,IND,Shiva Ayyadurai,0.0,0.0,Ed Markey,John Deaton
+MA-SEN,c5000c5b-f88e-460a-9b37-9c068f09cd9c,YouGov,2026-10-12,800,2.3,,56.0,29.0,27.0,6.0,IND,Shiva Ayyadurai,0.0,0.0,Ed Markey,John Deaton
 MD-01,93b0e606-78d3-4b38-8b50-7e97b9e613f5,Z to A Research,2026-07-27,482,1.3,D,39.0,52.0,-13.0,0.0,,,0.0,0.0,Dan Schwartz,Andy Harris
 MD-GOV,81b666da-7da3-4591-8c9c-592406ae6544,OpinionWorks,2025-10-10,928,1.3,,45.0,37.0,8.0,0.0,,,0.0,0.0,Wes Moore,Larry Hogan
 MD-GOV,ec83baa8-0c41-4f2d-b588-2c65965eeacd,University of Maryland Baltimore County,2025-10-25,757,1.3,,49.0,29.0,20.0,12.0,OTH,Generic Candidate,0.0,0.0,Wes Moore,Generic Republican
