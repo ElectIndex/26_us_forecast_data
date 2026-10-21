@@ -25793,7 +25793,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-10-21,AZ,Senate,0.5999,16.4,D
 2026-10-21,CA,Assembly,0.998,63.8,D
 2026-10-21,CA,Senate,0.9999,31.7,D
-2026-10-21,CO,House,0.9869,47.7,D
+2026-10-21,CO,House,0.9868,47.7,D
 2026-10-21,CO,Senate,0.9997,27.8,D
 2026-10-21,CT,House,0.9905,117.8,D
 2026-10-21,CT,Senate,0.9803,29.1,D
@@ -25809,7 +25809,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-10-21,IA,Senate,0.0216,19.4,R
 2026-10-21,ID,House,0.0025,13.6,R
 2026-10-21,ID,Senate,0.0019,7.3,R
-2026-10-21,IL,House,0.9889,82.8,D
+2026-10-21,IL,House,0.989,82.9,D
 2026-10-21,IL,Senate,0.9984,43.1,D
 2026-10-21,IN,House,0.0324,33.9,R
 2026-10-21,IN,Senate,0.0025,12.3,R
