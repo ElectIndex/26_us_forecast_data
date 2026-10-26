@@ -893,8 +893,6 @@ MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,
 MI-SEN,d0deaf86-1535-4335-ada2-900774ec77ff,"Glengariff Group, Inc.",2026-07-24,600,1.3,,45.5,44.7,0.8,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,43.0,46.0,-3.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,5f5e2ec2-6e7a-4e71-96ac-92c616d4e483,Mitchell Research & Communications,2026-07-29,672,1.3,,45.0,45.0,0.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
-MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,0.0,R,44.0,40.0,4.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
-MI-SEN,9ec2f9a9-0863-406a-a902-74ee03bb6eb1,SoCal Strategies,2026-07-30,640,0.0,R,41.0,42.0,-1.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,43.0,46.0,-3.0,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
 MI-SEN,3afa5b29-7ae9-4aed-af2d-e167993c6e14,EPIC-MRA,2026-07-31,600,1.3,,44.0,42.0,2.0,0.0,,,0.0,0.0,Haley Stevens,Mike Rogers
 MI-SEN,14255922-dac9-4587-b040-83dc51519dbb,TIPP Insights,2026-08-10,1215,1.5,R,45.4,42.3,3.2,0.0,,,0.0,0.0,Abdul El-Sayed,Mike Rogers
@@ -1683,7 +1681,6 @@ TX-GOV,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670
 TX-GOV,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,ReconMR/Siena Research Institute,2026-06-04,807,1.3,,43.0,49.0,-6.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,41.0,49.0,-8.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,b06f9f02-67f3-4c3c-8af6-993ed3085bc5,YouGov,2026-06-12,1200,2.3,,40.0,47.0,-7.0,1.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
-TX-GOV,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,0.0,R,42.2,53.9,-11.7,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,2026-06-27,656,3.0,,44.2,50.6,-6.4,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,42.0,45.0,-3.0,1.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,81ef94e3-6198-4512-80ad-9b5d0dcbe729,Beacon Research/Shaw & Company Research,2026-07-27,1006,2.5,,49.0,50.0,-1.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
@@ -1698,7 +1695,6 @@ TX-GOV,14e0e85c-3aa1-40fb-8c39-241c3590230a,Fabrizio Ward/Impact Research,2026-0
 TX-GOV,df1a17b8-a353-44d4-aa55-1ad16461c603,YouGov,2026-09-04,1000,2.3,,47.0,47.0,0.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,97830f95-88e5-4d39-817a-3345558ed38b,"Mason-Dixon Polling & Research, Inc.",2026-09-10,625,1.3,,41.0,48.0,-7.0,2.0,IND,Jenn Mack Raphoon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,a85e71a9-9e02-4087-bc15-c2d23c303ec1,ReconMR/Siena Research Institute,2026-09-11,614,1.3,,49.0,45.0,4.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
-TX-GOV,a5670b0c-5134-48fc-a1e6-a6a6a23aa520,SoCal Strategies,2026-09-13,649,0.0,,44.0,52.0,-8.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,7ec5edfc-97ad-42b9-ac2f-275f6a91ea96,Emerson College,2026-09-14,1000,2.5,,45.5,48.7,-3.2,1.7,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,338180c3-6c81-43cc-838a-bb565adc0d9e,Barbara Jordan Public Policy Research and Survey Center,2026-09-19,1800,1.3,,45.0,49.0,-4.0,2.0,LIB,Pat Dixon,0.0,0.0,Gina Hinojosa,Greg Abbott
 TX-GOV,05e63b49-71e2-463d-8bcf-7a3336bbc033,Marist University,2026-09-20,1139,2.7,,49.0,46.0,3.0,0.0,,,0.0,0.0,Gina Hinojosa,Greg Abbott
@@ -1794,7 +1790,6 @@ TX-SEN,48331063-1d9a-4a55-a585-6981c1b38e81,Slingshot Strategies,2026-05-28,1670
 TX-SEN,476ff6b9-434a-4db8-aca3-58fd8bc21cf2,ReconMR/Siena Research Institute,2026-06-04,807,1.3,,46.0,46.0,0.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,060a5011-a4a0-4fb8-a2ec-a1d9e573ba7c,Quantus Insights,2026-06-04,800,1.0,R,43.0,45.0,-2.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,b06f9f02-67f3-4c3c-8af6-993ed3085bc5,YouGov,2026-06-12,1200,2.3,,42.0,43.0,-1.0,3.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
-TX-SEN,bed33bca-5153-4b86-9bd7-fdc0ccc4232d,SoCal Strategies,2026-06-21,800,0.0,R,47.0,48.5,-1.5,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,851dac34-603d-4d28-b7d1-a611785efb38,The New York Times/Siena University,2026-06-27,656,3.0,,46.6,46.7,-0.1,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,e0e5bf96-ed99-404c-ade3-b826c801da06,A2 Insights,2026-06-28,618,1.3,,48.4,46.1,2.3,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,a1b9838a-d3b0-4c7e-b894-696ed9093c66,Slingshot Strategies,2026-07-17,1048,1.3,,45.0,40.0,5.0,1.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
@@ -1811,7 +1806,6 @@ TX-SEN,df1a17b8-a353-44d4-aa55-1ad16461c603,YouGov,2026-09-04,1000,2.3,,48.0,43.
 TX-SEN,ecd22fdf-f847-4f56-bb4a-40e120ba4a81,InsiderAdvantage,2026-09-09,1200,1.0,R,47.1,45.6,1.5,2.2,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,97830f95-88e5-4d39-817a-3345558ed38b,"Mason-Dixon Polling & Research, Inc.",2026-09-10,625,1.3,,46.0,43.0,3.0,3.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,a85e71a9-9e02-4087-bc15-c2d23c303ec1,ReconMR/Siena Research Institute,2026-09-11,614,1.3,,49.0,43.0,6.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
-TX-SEN,a5670b0c-5134-48fc-a1e6-a6a6a23aa520,SoCal Strategies,2026-09-13,649,0.0,,50.0,45.0,5.0,0.0,,,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,7ec5edfc-97ad-42b9-ac2f-275f6a91ea96,Emerson College,2026-09-14,1000,2.5,,47.4,46.4,1.0,1.9,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,49057317-ed54-4c97-bf30-e3834fb30b8c,Trafalgar Group,2026-09-17,1079,1.2,R,46.4,45.2,1.2,2.5,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
 TX-SEN,338180c3-6c81-43cc-838a-bb565adc0d9e,Barbara Jordan Public Policy Research and Survey Center,2026-09-19,1800,1.3,,47.0,46.0,1.0,3.0,LIB,Ted Brown,0.0,0.0,James Talarico,Ken Paxton
