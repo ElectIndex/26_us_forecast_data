@@ -1,19 +1,19 @@
 race_code,cand_id,name,party,slot,incumbent,first_pct,final_pct,win_prob,won
-AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,47.91,56.74,98.7,1
-AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,20.51,43.26,1.3,0
+AK-GOV,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,0,47.9,56.74,98.9,1
+AK-GOV,C-0074,Bernadette Wilson,REP,rep,0,20.51,43.26,1.1,0
 AK-GOV,C-1061,Dave Bronson,REP,,0,16.61,0.0,0.0,0
 AK-GOV,C-1068,Treg Taylor,REP,,0,14.97,0.0,0.0,0
-AK-SEN,C-0001,Mary Peltola,DEM,dem,0,49.8,51.41,69.2,1
-AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,46.58,48.59,30.8,0
+AK-SEN,C-0001,Mary Peltola,DEM,dem,0,49.8,51.41,71.0,1
+AK-SEN,C-0002,Dan S. Sullivan,REP,rep,1,46.57,48.59,29.0,0
 AK-SEN,C-1062,Daniel J. Sullivan Jr.,NPA,,0,2.5,0.0,0.0,0
-AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.13,0.0,0.0,0
-ME-SEN,C-1043,Troy Jackson,DEM,dem,0,51.39,51.39,68.5,1
-ME-SEN,C-0030,Susan Collins,REP,rep,1,48.61,48.61,31.5,0
-AK-01,C-0145,Nick Begich III,REP,rep,1,49.17,50.88,62.5,1
-AK-01,C-1013,Bill Hill,IND,ind,0,45.83,49.12,37.5,0
+AK-SEN,C-1066,Gerald L. Heikes,REP,,0,1.12,0.0,0.0,0
+ME-SEN,C-1043,Troy Jackson,DEM,dem,0,51.42,51.42,69.1,1
+ME-SEN,C-0030,Susan Collins,REP,rep,1,48.58,48.58,30.9,0
+AK-01,C-0145,Nick Begich III,REP,rep,1,49.18,50.89,64.2,1
+AK-01,C-1013,Bill Hill,IND,ind,0,45.82,49.11,35.8,0
 AK-01,C-1063,Eric Hafner,DEM,,0,3.8,0.0,0.0,0
 AK-01,C-1071,"James C. ""Jim"" McDermott",LIB,,0,1.2,0.0,0.0,0
-ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.11,65.11,100.0,1
-ME-01,C-0536,Ronald Russell,REP,rep,0,34.89,34.89,0.0,0
-ME-02,C-0537,Matthew Dunlap,DEM,dem,0,49.97,49.97,50.4,0
-ME-02,C-0538,Paul LePage,REP,rep,0,50.03,50.03,49.6,1
+ME-01,C-0535,Chellie Pingree,DEM,dem,1,65.13,65.13,100.0,1
+ME-01,C-0536,Ronald Russell,REP,rep,0,34.87,34.87,0.0,0
+ME-02,C-0537,Matthew Dunlap,DEM,dem,0,50.0,50.0,49.7,0
+ME-02,C-0538,Paul LePage,REP,rep,0,50.0,50.0,50.3,1

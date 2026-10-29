@@ -1,0 +1,28 @@
+race_code,round,cand_id,name,party,slot,pct,votes,status,exhausted_pct
+AK-GOV,1,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,47.9,113256,active,0.0
+AK-GOV,1,C-0074,Bernadette Wilson,REP,rep,20.51,48500,active,0.0
+AK-GOV,1,C-1061,Dave Bronson,REP,,16.61,39285,active,0.0
+AK-GOV,1,C-1068,Treg Taylor,REP,,14.97,35405,eliminated,0.0
+AK-GOV,2,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,49.73,117575,active,4.16
+AK-GOV,2,C-0074,Bernadette Wilson,REP,rep,29.5,69743,active,4.16
+AK-GOV,2,C-1061,Dave Bronson,REP,,16.61,39285,eliminated,4.16
+AK-GOV,3,C-0073,Jonathan Kreiss-Tomkins,DEM,dem,51.75,122368,elected,8.78
+AK-GOV,3,C-0074,Bernadette Wilson,REP,rep,39.47,93314,active,8.78
+AK-SEN,1,C-0001,Mary Peltola,DEM,dem,49.8,117756,active,0.0
+AK-SEN,1,C-0002,Dan S. Sullivan,REP,rep,46.57,110119,active,0.0
+AK-SEN,1,C-1062,Daniel J. Sullivan Jr.,NPA,,2.5,5911,active,0.0
+AK-SEN,1,C-1066,Gerald L. Heikes,REP,,1.12,2660,eliminated,0.0
+AK-SEN,2,C-0001,Mary Peltola,DEM,dem,49.89,117967,active,0.29
+AK-SEN,2,C-0002,Dan S. Sullivan,REP,rep,47.09,111347,active,0.29
+AK-SEN,2,C-1062,Daniel J. Sullivan Jr.,NPA,,2.72,6438,eliminated,0.29
+AK-SEN,3,C-0001,Mary Peltola,DEM,dem,50.9,120346,elected,1.0
+AK-SEN,3,C-0002,Dan S. Sullivan,REP,rep,48.1,113726,active,1.0
+AK-01,1,C-0145,Nick Begich III,REP,rep,49.18,116279,active,0.0
+AK-01,1,C-1013,Bill Hill,IND,ind,45.82,108345,active,0.0
+AK-01,1,C-1063,Eric Hafner,DEM,,3.8,8985,active,0.0
+AK-01,1,C-1071,"James C. ""Jim"" McDermott",LIB,,1.2,2837,eliminated,0.0
+AK-01,2,C-0145,Nick Begich III,REP,rep,49.57,117218,active,0.39
+AK-01,2,C-1013,Bill Hill,IND,ind,46.15,109113,active,0.39
+AK-01,2,C-1063,Eric Hafner,DEM,,3.89,9190,eliminated,0.39
+AK-01,3,C-0145,Nick Begich III,REP,rep,50.04,118327,elected,1.66
+AK-01,3,C-1013,Bill Hill,IND,ind,48.3,114198,active,1.66
