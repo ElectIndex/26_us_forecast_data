@@ -26605,7 +26605,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-10-30,IL,Senate,0.9984,43.1,D
 2026-10-30,IN,House,0.0326,33.9,R
 2026-10-30,IN,Senate,0.0026,12.4,R
-2026-10-30,KS,House,0.1426,51.1,R
+2026-10-30,KS,House,0.1421,51.1,R
 2026-10-30,KY,House,0.0099,22.9,R
 2026-10-30,KY,Senate,0.0007,7.0,R
 2026-10-30,MA,House,0.9952,139.4,D
