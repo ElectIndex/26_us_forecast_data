@@ -26714,7 +26714,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-10-31,NC,Senate,0.3204,24.2,R
 2026-10-31,ND,House,0.0,12.6,R
 2026-10-31,ND,Senate,0.0,6.3,R
-2026-10-31,NE,Legislature,0.0052,18.9,R
+2026-10-31,NE,Legislature,0.0046,18.8,R
 2026-10-31,NH,House,0.6874,229.9,D
 2026-10-31,NH,Senate,0.4074,12.2,R
 2026-10-31,NM,House,0.9716,46.5,D
@@ -26737,7 +26737,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-10-31,SD,Senate,0.0092,6.3,R
 2026-10-31,TN,House,0.0088,27.4,R
 2026-10-31,TN,Senate,0.0008,6.7,R
-2026-10-31,TX,House,0.377,73.6,R
+2026-10-31,TX,House,0.3772,73.6,R
 2026-10-31,TX,Senate,0.0781,12.8,R
 2026-10-31,UT,House,0.0129,19.1,R
 2026-10-31,UT,Senate,0.0002,6.9,R
