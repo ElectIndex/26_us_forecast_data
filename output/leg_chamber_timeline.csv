@@ -26781,17 +26781,17 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-11-01,IL,Senate,0.9984,43.2,D
 2026-11-01,IN,House,0.0326,33.9,R
 2026-11-01,IN,Senate,0.0026,12.4,R
-2026-11-01,KS,House,0.142,51.1,R
+2026-11-01,KS,House,0.1435,51.2,R
 2026-11-01,KY,House,0.0099,22.9,R
 2026-11-01,KY,Senate,0.0007,7.0,R
 2026-11-01,MA,House,0.9952,139.4,D
 2026-11-01,MA,Senate,0.9952,34.7,D
 2026-11-01,MD,House of Delegates,0.995,109.1,D
 2026-11-01,MD,Senate,0.9951,35.9,D
-2026-11-01,ME,House,0.7965,87.6,D
-2026-11-01,ME,Senate,0.9085,22.8,D
-2026-11-01,MI,House,0.681,61.7,D
-2026-11-01,MI,Senate,0.7966,23.6,D
+2026-11-01,ME,House,0.7964,87.5,D
+2026-11-01,ME,Senate,0.9081,22.8,D
+2026-11-01,MI,House,0.6789,61.6,D
+2026-11-01,MI,Senate,0.7948,23.6,D
 2026-11-01,MN,House,0.841,78.4,D
 2026-11-01,MN,Senate,0.8479,39.7,D
 2026-11-01,MO,House,0.0493,61.4,R
@@ -26799,10 +26799,10 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-11-01,MT,House,0.1944,44.9,R
 2026-11-01,MT,Senate,0.0289,20.5,R
 2026-11-01,NC,House,0.4122,59.7,R
-2026-11-01,NC,Senate,0.3208,24.2,R
+2026-11-01,NC,Senate,0.3202,24.2,R
 2026-11-01,ND,House,0.0,12.6,R
 2026-11-01,ND,Senate,0.0,6.3,R
-2026-11-01,NE,Legislature,0.0046,18.8,R
+2026-11-01,NE,Legislature,0.0046,18.9,R
 2026-11-01,NH,House,0.6879,229.9,D
 2026-11-01,NH,Senate,0.4076,12.2,R
 2026-11-01,NM,House,0.9716,46.5,D
@@ -26810,8 +26810,8 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-11-01,NV,Senate,0.9714,13.2,D
 2026-11-01,NY,Assembly,0.9883,109.6,D
 2026-11-01,NY,Senate,0.9821,45.8,D
-2026-11-01,OH,House,0.2508,44.2,R
-2026-11-01,OH,Senate,0.0321,12.0,R
+2026-11-01,OH,House,0.2513,44.2,R
+2026-11-01,OH,Senate,0.0322,12.0,R
 2026-11-01,OK,House,0.0077,23.7,R
 2026-11-01,OK,Senate,0.0,8.7,R
 2026-11-01,OR,House,0.9752,39.7,D
@@ -26825,7 +26825,7 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-11-01,SD,Senate,0.0092,6.3,R
 2026-11-01,TN,House,0.0088,27.4,R
 2026-11-01,TN,Senate,0.0008,6.7,R
-2026-11-01,TX,House,0.3773,73.6,R
+2026-11-01,TX,House,0.3777,73.6,R
 2026-11-01,TX,Senate,0.0781,12.8,R
 2026-11-01,UT,House,0.013,19.1,R
 2026-11-01,UT,Senate,0.0002,6.9,R
