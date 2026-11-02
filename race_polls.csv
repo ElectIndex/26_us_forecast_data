@@ -640,6 +640,7 @@ KY-SEN,8e8d7685-88cb-4337-ae68-848158d5d113,Global Strategy Group,2026-08-27,600
 LA-SEN,1be76207-bfa8-40f6-aa1f-b0a835f069ea,Public Policy Polling,2026-07-22,518,1.8,D,37.0,41.0,-4.0,0.0,,,0.0,0.0,Jamie Davis,Julia Letlow
 LA-SEN,fd9a2472-db8c-46ca-87c5-5459d7092293,Hart Research Associates,2026-09-19,500,1.8,D,44.0,48.0,-4.0,0.0,,,0.0,0.0,Jamie Davis,Julia Letlow
 LA-SEN,8336d95c-e120-482d-ba1c-42b88a343483,Hart Research Associates,2026-10-29,502,1.8,D,45.0,45.0,0.0,0.0,,,0.0,0.0,Jamie Davis,Julia Letlow
+LA-SEN,38f19daa-ba64-473d-9baf-d72b0fae2520,Lincoln Park Strategies,2026-10-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Jamie Davis,Julia Letlow
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,44.0,12.0,32.0,0.0,,,0.0,0.0,Maura Healey,Brian Shortsleeve
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,41.0,14.0,27.0,0.0,,,0.0,0.0,Maura Healey,Peter Durant
 MA-GOV,732db927-e4bc-43f7-abcb-17a12248964a,YouGov,2025-02-20,700,2.3,,40.0,15.0,25.0,0.0,,,0.0,0.0,Maura Healey,Mike Kennealy
@@ -1104,6 +1105,7 @@ MN-SEN,d5f8e9c0-d6c5-42f6-9c7b-66f77ea5e40c,Trafalgar Group,2026-10-15,1079,1.2,
 MN-SEN,d547a305-d76b-4006-9d51-c268fb8ecf02,Victory Insights,2026-10-22,1194,1.3,R,47.8,44.4,3.4,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,c2682803-f4b1-44e9-be94-40f7ceb34de3,The New York Times/Siena University,2026-10-26,752,3.0,,54.2,40.3,13.9,0.0,,,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MN-SEN,913c201c-a821-4a56-b3c5-91e86b15af5f,SurveyUSA,2026-10-28,714,2.4,,48.0,41.0,7.0,2.0,IND,Marisa Simonetti,0.0,0.0,Peggy Flanagan,Michele Tafoya
+MN-SEN,d4400760-72bc-49ff-9842-f8cb3e3e38bf,InsiderAdvantage,2026-10-30,1200,1.0,R,49.3,46.4,2.9,2.7,LIB,Rebecca Whiting,0.0,0.0,Peggy Flanagan,Michele Tafoya
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
 MO-02,cea07761-3ae5-401c-8ccc-2b061d4d6785,Remington,2026-09-15,565,1.2,R,47.0,46.0,1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MO-02,0bacc719-ee5f-45ac-9472-7dba621fd972,Emerson College,2026-10-14,401,2.5,,51.0,46.0,5.0,0.0,,,0.0,0.0,Fred Wellman,Ann Wagner
@@ -1244,6 +1246,7 @@ NC-SEN,41c3566b-9863-48a7-ae10-148260fd80a0,High Point University,2026-10-20,620
 NC-SEN,e8fc52e0-346a-4e42-9092-b1a5bd07dfe4,Quantus Insights,2026-10-25,722,1.0,R,51.7,42.9,8.8,0.0,,,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,e8fc52e0-346a-4e42-9092-b1a5bd07dfe4,Quantus Insights,2026-10-25,722,1.0,R,52.4,43.4,9.0,1.2,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NC-SEN,affe090f-1582-4758-9ad6-3d3a3e136282,YouGov,2026-10-29,2130,2.3,,55.0,44.0,11.0,0.0,,,0.0,0.0,Roy Cooper,Michael Whatley
+NC-SEN,52d83e1b-b2b1-4d0f-bb53-8adc59029127,East Carolina University Center for Survey Research,2026-10-29,1041,1.3,,54.0,44.9,9.1,0.8,LIB,Shannon Bray,0.0,0.0,Roy Cooper,Michael Whatley
 NE-01,4a7696a0-ee2f-40a1-816e-9d3ad6f0d0da,Zenith Research,2026-05-11,401,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,49.0,45.0,4.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
 NE-01,795c1d32-e1b2-4f6c-a05f-d829ab881ad8,Global Strategy Group,2026-09-03,600,1.8,D,43.0,42.0,1.0,0.0,,,0.0,0.0,Chris Backemeyer,Mike Flood
@@ -1292,8 +1295,10 @@ NE-SEN,7eceef25-8055-4ff6-966d-1b3bf5508d9c,Impact Research,2026-10-20,600,1.8,D
 NE-SEN,7eceef25-8055-4ff6-966d-1b3bf5508d9c,Impact Research,2026-10-20,600,1.8,D,48.0,50.0,-2.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
 NE-SEN,f79f220c-b0e7-41a2-b25d-a3ed6c29705a,GBAO,2026-10-22,800,1.7,D,46.0,45.0,1.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
 NE-SEN,fb010920-9374-48f4-8c80-c2ca49ce24d7,Echelon Insights,2026-10-23,407,2.0,R,46.0,47.0,-1.0,2.0,NEBRASKA WORKING PEOPLE PARTY,Robin Richards,0.0,0.0,Dan Osborn,Pete Ricketts
+NE-SEN,4413d374-c87c-4b80-861f-b5716eee7311,National Public Affairs,2026-10-29,800,1.3,R,45.0,48.0,-3.0,2.0,LMN,Mike Marvin,0.0,0.0,Dan Osborn,Pete Ricketts
 NE-SEN,261adc4a-cfbe-4fe7-9455-24765fbcea0c,YouGov,2026-10-29,1979,2.3,,49.0,49.0,0.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
 NE-SEN,96d6e3cb-710e-4140-86b4-4f4f2545b2bd,The New York Times/Siena University,2026-10-29,809,3.0,,43.0,48.7,-5.7,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
+NE-SEN,4413d374-c87c-4b80-861f-b5716eee7311,National Public Affairs,2026-10-29,800,1.3,R,48.0,49.0,-1.0,0.0,,,0.0,0.0,Dan Osborn,Pete Ricketts
 NH-01,b43da69c-6c45-48c7-9257-45e13bb3984b,University of New Hampshire,2026-09-21,707,1.3,,46.0,42.0,4.0,0.0,,,0.0,0.0,Stefany Shaheen,Anthony DiLorenzo
 NH-01,2e6c66e4-f4aa-418e-9126-6e237ed7459f,St. Anselm,2026-10-20,861,1.3,,46.0,42.0,4.0,0.0,,,0.0,0.0,Stefany Shaheen,Anthony DiLorenzo
 NH-02,24096bf7-3cb0-468d-8b3a-ffd12207d155,St. Anselm,2025-08-27,881,1.3,,49.0,31.0,18.0,0.0,,,0.0,0.0,Maggie Goodlander,Lily Tang Williams
@@ -1559,8 +1564,10 @@ OH-GOV,29b6e1bc-1623-40b7-8265-f33d81d974e3,ActiVote,2026-10-19,400,0.0,,48.6,51
 OH-GOV,a1c11dbe-2c91-49d2-b8c6-47bc2ba09d8c,Verasight,2026-10-20,535,1.8,,44.4,45.9,-1.5,2.1,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-GOV,a1c11dbe-2c91-49d2-b8c6-47bc2ba09d8c,Verasight,2026-10-20,531,1.8,,46.2,45.4,0.8,2.0,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-GOV,0c92af41-2b09-484c-bb4c-a0232bdc729f,Echelon Insights,2026-10-23,508,2.0,R,45.0,47.0,-2.0,4.0,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
+OH-GOV,a516eb44-5932-41e4-8d9c-00b5db2cd325,Concord Public Opinion Partners,2026-10-24,469,1.3,D,49.0,39.0,10.0,5.0,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-GOV,ef2061ce-8aa7-4866-8db0-835e849dd546,Suffolk University,2026-10-26,500,1.3,,48.0,44.0,4.0,3.6,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-GOV,178f4a20-3a0b-4f63-9a03-19811b8277aa,YouGov,2026-10-29,2090,2.3,,52.0,46.0,6.0,0.0,,,0.0,0.0,Amy Acton,Vivek Ramaswamy
+OH-GOV,a6c01fbe-a7ca-4d4b-ab7a-00a70463db67,InsiderAdvantage,2026-10-30,1200,1.0,R,49.2,46.3,2.9,3.0,LIB,Donald Kissick,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-GOV,6632016f-0bd4-44b1-b029-5743f474f457,ActiVote,2026-10-31,400,0.0,,50.8,49.2,1.6,0.0,,,0.0,0.0,Amy Acton,Vivek Ramaswamy
 OH-SEN,af7801de-ff24-4caa-b87b-bb753ab9d473,Bowling Green State University Democracy and Public Policy Research Network/YouGov,2025-02-21,800,1.3,,41.0,47.0,-6.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,af7801de-ff24-4caa-b87b-bb753ab9d473,Bowling Green State University Democracy and Public Policy Research Network/YouGov,2025-02-21,800,1.3,,38.0,45.0,-7.0,0.0,,,0.0,0.0,Tim Ryan,Jon Husted
@@ -1610,8 +1617,10 @@ OH-SEN,a1c11dbe-2c91-49d2-b8c6-47bc2ba09d8c,Verasight,2026-10-20,531,1.8,,47.5,4
 OH-SEN,a1c11dbe-2c91-49d2-b8c6-47bc2ba09d8c,Verasight,2026-10-20,535,1.8,,45.7,43.8,1.9,1.2,LIB,Bill Redpath,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,9d36718e-c579-4afb-8a4e-3f1c33a9b253,InsiderAdvantage,2026-10-22,1200,1.0,R,46.7,44.4,2.3,1.7,IND,Gregory Levy,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,0c92af41-2b09-484c-bb4c-a0232bdc729f,Echelon Insights,2026-10-23,508,2.0,R,47.0,47.0,0.0,2.0,IND,Gregory Levy,0.0,0.0,Sherrod Brown,Jon Husted
+OH-SEN,a516eb44-5932-41e4-8d9c-00b5db2cd325,Concord Public Opinion Partners,2026-10-24,469,1.3,D,46.0,42.0,4.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,ef2061ce-8aa7-4866-8db0-835e849dd546,Suffolk University,2026-10-26,500,1.3,,46.6,43.8,2.8,1.6,IND,Gregory Levy,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,178f4a20-3a0b-4f63-9a03-19811b8277aa,YouGov,2026-10-29,2090,2.3,,50.0,48.0,2.0,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
+OH-SEN,a6c01fbe-a7ca-4d4b-ab7a-00a70463db67,InsiderAdvantage,2026-10-30,1200,1.0,R,48.8,47.0,1.8,1.7,LIB,Bill Redpath,0.0,0.0,Sherrod Brown,Jon Husted
 OH-SEN,dbd1593d-daad-413f-93bf-083273ec85f9,ActiVote,2026-10-31,400,0.0,,50.2,49.8,0.4,0.0,,,0.0,0.0,Sherrod Brown,Jon Husted
 OK-05,f22e036d-4904-43d8-b4b8-9ce93a68ca7b,GBAO,2026-09-20,500,1.7,D,43.0,48.0,-5.0,0.0,,,0.0,0.0,Jena Nelson,Stephanie Bice
 OK-GOV,manual-OK-GOV-CTP-2026-10-12,Cross Timbers Poll,2026-10-12,91,1.3,,36.0,39.0,-3.0,7.0,IND,Jerry Griffin,0.0,0.0,Cyndi Munson,Mike Mazzei
