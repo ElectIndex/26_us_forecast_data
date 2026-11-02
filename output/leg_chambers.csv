@@ -1,6 +1,6 @@
 date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control,coalition_desc,proj_dem_mean,proj_dem_median,proj_dem_favored,structural_dem,dem_seats_p05,dem_seats_p95,dem_control_prob,proj_control,flip
-2026-11-01,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,17.4,17,17,0,13.0,21.0,0.0837,Coalition,False
-2026-11-01,AK,Senate,20,11,10,9,11,0,Coalition,9D + 5R bipartisan coalition; 6-member Republican minority,9.0,9,9,5,8.0,10.0,0.0303,Coalition,False
+2026-11-01,AK,House,40,21,40,14,21,5,Coalition,14D + 5I + 2R bipartisan coalition,17.5,18,17,0,13.0,21.0,0.0845,Coalition,False
+2026-11-01,AK,Senate,20,11,10,9,11,0,Coalition,9D + 5R bipartisan coalition; 6-member Republican minority,9.0,9,9,5,8.0,10.0,0.0307,Coalition,False
 2026-11-01,AL,House,105,53,105,29,76,0,R,,31.2,30,29,0,25.0,42.0,0.0141,R,False
 2026-11-01,AL,Senate,35,18,35,8,27,0,R,,9.3,9,9,0,7.0,12.0,0.0073,R,False
 2026-11-01,AR,House,100,51,100,20,80,0,R,,25.9,25,23,0,17.0,39.0,0.0106,R,False
@@ -36,8 +36,8 @@ date,state,chamber,total,majority,seats_up,cur_dem,cur_gop,cur_other,cur_control
 2026-11-01,MA,Senate,40,21,40,35,5,0,D,,34.7,35,35,0,30.0,37.0,0.9952,D,False
 2026-11-01,MD,House of Delegates,141,71,141,102,39,0,D,,109.1,109,108,0,94.0,124.0,0.995,D,False
 2026-11-01,MD,Senate,47,24,47,34,13,0,D,,35.9,36,35,0,31.0,41.0,0.9951,D,False
-2026-11-01,ME,House,151,76,151,78,73,0,D,,87.5,87,83,0,63.0,114.0,0.7964,D,False
-2026-11-01,ME,Senate,35,18,35,20,14,1,D,,22.8,23,21,0,16.0,30.0,0.9081,D,False
+2026-11-01,ME,House,151,76,151,78,73,0,D,,87.7,87,84,0,63.0,114.0,0.7981,D,False
+2026-11-01,ME,Senate,35,18,35,20,14,1,D,,22.8,23,21,0,16.0,30.0,0.9091,D,False
 2026-11-01,MI,House,110,56,110,52,58,0,R,,61.6,60,58,0,45.0,83.0,0.6789,D,True
 2026-11-01,MI,Senate,38,20,38,20,18,0,D,,23.6,23,22,0,16.0,32.0,0.7948,D,False
 2026-11-01,MN,House,134,68,134,67,67,0,Power_Sharing,,78.4,78,75,0,61.0,99.0,0.8407,D,True

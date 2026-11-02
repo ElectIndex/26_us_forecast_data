@@ -19,6 +19,7 @@ AK-01,a1d3551f-cc1f-40ee-8d08-c7fdc1872796,Fabrizio Ward/Impact Research,2026-09
 AK-01,c115983e-1ed7-42e1-bd8c-92692471a053,The New York Times/Siena University,2026-10-01,504,3.0,,8.2,46.6,-38.4,35.1,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
 AK-01,e5216fed-b2a6-4670-9dae-7707e2912184,Alaska Survey Research,2026-10-03,1512,1.3,,6.9,49.8,-42.9,39.9,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
 AK-01,fa49898d-55a4-4393-962f-1cd6cfe135c3,Data for Progress,2026-10-16,694,1.9,D,5.0,48.0,-43.0,42.0,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
+AK-01,a0d99ae7-a6c2-430d-ad8f-92e91d659b66,The New York Times/Siena University,2026-10-30,610,3.0,,5.6,44.0,-38.4,37.2,IND,Bill Hill,0.0,0.0,Eric Hafner,Nick Begich
 AK-GOV,1cb7cec3-d3fa-4974-9c0d-32629c10d681,Data for Progress,2025-03-07,1008,1.9,D,44.0,34.0,10.0,0.0,,,0.0,0.0,Mary Peltola,Nancy Dahlstrom
 AK-GOV,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,Data for Progress,2025-07-27,584,1.9,D,47.0,13.0,34.0,0.0,,,8.0,32.0,Mary Peltola,Bernadette Wilson
 AK-GOV,b55efd06-30f8-4790-a594-5610c44fc1fb,Alaska Survey Research,2025-10-14,1748,1.3,,41.4,20.1,21.3,0.0,,,0.0,38.5,Tom Begich,Click Bishop
@@ -33,6 +34,7 @@ AK-GOV,e5216fed-b2a6-4670-9dae-7707e2912184,Alaska Survey Research,2026-10-03,15
 AK-GOV,fa49898d-55a4-4393-962f-1cd6cfe135c3,Data for Progress,2026-10-16,694,1.9,D,46.0,28.0,18.0,0.0,,,0.0,21.0,Jonathan Kreiss-Tomkins,Bernadette Wilson
 AK-GOV,97fd4cb1-f5c4-4c95-9f99-2a9725201a28,Alaska Survey Research,2026-10-18,1568,1.3,,50.0,30.0,20.0,0.0,,,0.0,20.0,Jonathan Kreiss-Tomkins,Bernadette Wilson
 AK-GOV,5b664e2d-2950-4d85-b3ee-de8103af093b,Alaska Survey Research,2026-10-25,1068,1.3,,50.7,30.6,20.1,0.0,,,0.0,18.7,Jonathan Kreiss-Tomkins,Bernadette Wilson
+AK-GOV,a0d99ae7-a6c2-430d-ad8f-92e91d659b66,The New York Times/Siena University,2026-10-30,610,3.0,,41.7,25.0,16.7,0.0,,,0.0,15.3,Jonathan Kreiss-Tomkins,Bernadette Wilson
 AK-SEN,20ef28e6-5dec-48e3-8573-f26aaf7b91c1,Data for Progress,2025-07-27,678,1.9,D,45.0,46.0,-1.0,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,155a2fd2-d990-44fd-a147-09a14779f962,Alaska Survey Research,2025-08-01,1613,1.3,,42.5,46.7,-4.2,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AK-SEN,6db448bf-8b33-4a4d-ad4d-d758aa373626,Alaska Survey Research,2025-10-15,1708,1.3,,47.7,45.9,1.8,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
@@ -58,6 +60,7 @@ AK-SEN,e5216fed-b2a6-4670-9dae-7707e2912184,Alaska Survey Research,2026-10-03,15
 AK-SEN,807a27fa-a7e2-46cb-a2b0-3c8a8bb5022e,InsiderAdvantage,2026-10-10,1200,1.0,R,48.2,42.6,5.6,1.7,NPA,Dan J. Sullivan,0.0,2.2,Mary Peltola,Dan Sullivan
 AK-SEN,fa49898d-55a4-4393-962f-1cd6cfe135c3,Data for Progress,2026-10-16,694,1.9,D,47.0,44.0,3.0,4.0,NPA,Dan J. Sullivan,0.0,1.0,Mary Peltola,Dan Sullivan
 AK-SEN,0c4baea9-f768-41f4-8f0b-49246ff20b7f,Alaska Survey Research,2026-10-29,1326,1.3,,47.7,45.9,1.8,3.4,NPA,Dan J. Sullivan,0.0,3.0,Mary Peltola,Dan Sullivan
+AK-SEN,a0d99ae7-a6c2-430d-ad8f-92e91d659b66,The New York Times/Siena University,2026-10-30,610,3.0,,47.6,46.2,1.4,0.0,,,0.0,0.0,Mary Peltola,Dan Sullivan
 AL-02,c51b7de5-0b90-464c-8778-459c24d25b3b,Impact Research,2026-06-25,400,1.8,D,44.0,45.0,-1.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,ea557308-74fd-4024-b845-b5fd1baa6132,DCCC Targeting Team,2026-07-30,421,1.3,D,46.0,46.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
 AL-02,1ecb97e5-f461-4791-b993-d7ec2454c20c,Tulchin Research,2026-08-31,0,1.3,D,47.0,47.0,0.0,0.0,,,0.0,0.0,Shomari Figures,Rhett Marques
@@ -747,6 +750,8 @@ ME-GOV,0102d73f-4f7c-473f-9e04-309aa37c777b,Marist University,2026-10-25,1449,2.
 ME-GOV,d65e372a-89eb-4af1-9f7b-88ee5d8975a4,CNN/SSRS,2026-10-26,783,2.6,,53.0,39.0,14.0,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-GOV,ace5053f-e892-4ca2-a2d9-b96249dc8c27,Data for Progress,2026-10-27,652,1.9,D,49.0,37.0,12.0,7.0,IND,Rick Bennett,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-GOV,29bc618a-daa1-4fb2-9acf-5bee75f2bbbf,YouGov,2026-10-29,1503,2.3,,53.0,45.0,8.0,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
+ME-GOV,38454df3-a47e-4923-b5eb-d570b5b30f3a,The New York Times/Siena University,2026-11-01,714,3.0,,54.8,39.8,15.0,0.0,,,0.0,0.0,Hannah Pingree,Bobby Charles
+ME-GOV,38454df3-a47e-4923-b5eb-d570b5b30f3a,The New York Times/Siena University,2026-11-01,714,3.0,,49.4,36.6,12.8,8.2,IND,Rick Bennett,0.0,0.0,Hannah Pingree,Bobby Charles
 ME-SEN,5aee4b52-8287-4385-ae50-de34900fb9ac,Upswing Research,2025-03-25,600,1.3,D,42.0,43.0,-1.0,0.0,,,0.0,0.0,Jordan Wood,Susan Collins
 ME-SEN,44968742-8516-466f-906e-85dfe3e195a9,Public Policy Polling,2025-09-09,642,1.8,D,44.0,35.0,9.0,0.0,,,0.0,0.0,Dan Kleban,Susan Collins
 ME-SEN,b5100979-2740-4faa-bf28-7177a120bbce,Zenith Research,2025-10-10,501,1.3,,38.0,38.0,0.0,0.0,,,0.0,0.0,Graham Platner,Susan Collins
@@ -825,6 +830,7 @@ ME-SEN,0102d73f-4f7c-473f-9e04-309aa37c777b,Marist University,2026-10-25,1449,2.
 ME-SEN,d65e372a-89eb-4af1-9f7b-88ee5d8975a4,CNN/SSRS,2026-10-26,783,2.6,,49.0,45.0,4.0,0.0,,,0.0,0.0,Troy Jackson,Susan Collins
 ME-SEN,ace5053f-e892-4ca2-a2d9-b96249dc8c27,Data for Progress,2026-10-27,652,1.9,D,50.0,45.0,5.0,0.0,,,0.0,0.0,Troy Jackson,Susan Collins
 ME-SEN,29bc618a-daa1-4fb2-9acf-5bee75f2bbbf,YouGov,2026-10-29,1503,2.3,,52.0,47.0,5.0,0.0,,,0.0,0.0,Troy Jackson,Susan Collins
+ME-SEN,38454df3-a47e-4923-b5eb-d570b5b30f3a,The New York Times/Siena University,2026-11-01,714,3.0,,50.9,45.0,5.9,0.0,,,0.0,0.0,Troy Jackson,Susan Collins
 MI-04,f33c3514-2271-4179-93da-6545ef164594,Public Policy Polling,2025-11-21,559,1.8,D,42.0,44.0,-2.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,43.0,-1.0,0.0,,,0.0,0.0,Generic Democrat,Generic Republican
 MI-04,4bb2d1b7-92d7-483f-a42f-600217a627e3,Ragnar Research Partners,2026-03-14,400,1.3,R,42.0,48.0,-6.0,0.0,,,0.0,0.0,Sean McCann,Bill Huizenga
