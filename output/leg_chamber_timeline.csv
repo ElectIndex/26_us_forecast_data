@@ -26839,8 +26839,8 @@ date,state,chamber,dem_control_prob,proj_dem_mean,proj_control
 2026-11-01,WV,Senate,0.0,2.4,R
 2026-11-01,WY,House,0.0024,8.4,R
 2026-11-01,WY,Senate,0.0001,2.6,R
-2026-11-02,AK,House,0.0857,17.5,Coalition
-2026-11-02,AK,Senate,0.0308,9.0,Coalition
+2026-11-02,AK,House,0.0859,17.5,Coalition
+2026-11-02,AK,Senate,0.031,9.0,Coalition
 2026-11-02,AL,House,0.0144,31.3,R
 2026-11-02,AL,Senate,0.0074,9.3,R
 2026-11-02,AR,House,0.0107,26.0,R
